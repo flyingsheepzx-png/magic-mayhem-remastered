@@ -1,0 +1,1822 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 0,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 40
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 80
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 40
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 0,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 80
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 20
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 40
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 20
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2432,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 40
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 0,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 40
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 1,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 0,
+      "multiplicity": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 1,
+      "wait": 0
+    },
+    {
+      "kind": "local_wait",
+      "cost": 10,
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "unit_type": 24,
+      "powers": 2,
+      "multiplicity": 2,
+      "wait": 40
+    },
+    {
+      "kind": "reserved_mana_record",
+      "record_type": 19,
+      "active": 1,
+      "amount": 10,
+      "wait": 0
+    },
+    {
+      "kind": "reserved_mana_record",
+      "record_type": 19,
+      "active": 0,
+      "amount": 10,
+      "wait": 2147483647
+    },
+    {
+      "kind": "reserved_mana_record",
+      "record_type": 18,
+      "active": 1,
+      "amount": 10,
+      "wait": 2147483647
+    },
+    {
+      "kind": "reserved_mana_record",
+      "record_type": 19,
+      "active": 1,
+      "amount": 9,
+      "wait": 2147483647
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 0,
+      "capacity": 9,
+      "powers": 0,
+      "wait": 2147483647
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 0,
+      "capacity": 9,
+      "powers": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 0,
+      "capacity": 100,
+      "powers": 0,
+      "wait": 2147483647
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 0,
+      "capacity": 100,
+      "powers": 2,
+      "wait": 40
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 2559,
+      "capacity": 9,
+      "powers": 0,
+      "wait": 2147483647
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 2559,
+      "capacity": 9,
+      "powers": 2,
+      "wait": 2147483647
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 2559,
+      "capacity": 100,
+      "powers": 0,
+      "wait": 2147483647
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 2559,
+      "capacity": 100,
+      "powers": 2,
+      "wait": 20
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "powers": 0,
+      "wait": 0
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 2560,
+      "capacity": 9,
+      "powers": 2,
+      "wait": 0
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "powers": 0,
+      "wait": 0
+    },
+    {
+      "kind": "other_owner_wait",
+      "mana_fixed": 2560,
+      "capacity": 100,
+      "powers": 2,
+      "wait": 0
+    },
+    {
+      "kind": "availability",
+      "wizard": false,
+      "leaf": false,
+      "known": false,
+      "available": 0,
+      "wait": 2147483647
+    },
+    {
+      "kind": "availability",
+      "wizard": false,
+      "leaf": false,
+      "known": true,
+      "available": 0,
+      "wait": 2147483647
+    },
+    {
+      "kind": "availability",
+      "wizard": false,
+      "leaf": true,
+      "known": false,
+      "available": 0,
+      "wait": 2147483647
+    },
+    {
+      "kind": "availability",
+      "wizard": false,
+      "leaf": true,
+      "known": true,
+      "available": 0,
+      "wait": 2147483647
+    },
+    {
+      "kind": "availability",
+      "wizard": true,
+      "leaf": false,
+      "known": false,
+      "available": 0,
+      "wait": 2147483647
+    },
+    {
+      "kind": "availability",
+      "wizard": true,
+      "leaf": false,
+      "known": true,
+      "available": 0,
+      "wait": 2147483647
+    },
+    {
+      "kind": "availability",
+      "wizard": true,
+      "leaf": true,
+      "known": false,
+      "available": 0,
+      "wait": 2147483647
+    },
+    {
+      "kind": "availability",
+      "wizard": true,
+      "leaf": true,
+      "known": true,
+      "available": 1,
+      "wait": 0
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 2,
+      "delta": -10000,
+      "initial": 0,
+      "value": 3072
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 2,
+      "delta": -10000,
+      "initial": 3840,
+      "value": 3072
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 2,
+      "delta": 0,
+      "initial": 0,
+      "value": 3072
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 2,
+      "delta": 0,
+      "initial": 3840,
+      "value": 3072
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 2,
+      "delta": 10000,
+      "initial": 0,
+      "value": 3072
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 2,
+      "delta": 10000,
+      "initial": 3840,
+      "value": 3072
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 3,
+      "delta": -10000,
+      "initial": 0,
+      "value": 0
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 3,
+      "delta": -10000,
+      "initial": 3840,
+      "value": 0
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 3,
+      "delta": 0,
+      "initial": 0,
+      "value": 0
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 3,
+      "delta": 0,
+      "initial": 3840,
+      "value": 2560
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 3,
+      "delta": 10000,
+      "initial": 0,
+      "value": 2560
+    },
+    {
+      "kind": "projected_mana_update",
+      "owner": 3,
+      "delta": 10000,
+      "initial": 3840,
+      "value": 2560
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 0,
+      "count": 0,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 0,
+      "count": 29,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 0,
+      "count": 30,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 24,
+      "count": 0,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 24,
+      "count": 29,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 24,
+      "count": 30,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 25,
+      "count": 0,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 25,
+      "count": 29,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 25,
+      "count": 30,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 26,
+      "count": 0,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 26,
+      "count": 29,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 26,
+      "count": 30,
+      "registered": false
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 41,
+      "count": 0,
+      "registered": true
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 41,
+      "count": 29,
+      "registered": true
+    },
+    {
+      "kind": "innate_spell_registration",
+      "spell": 41,
+      "count": 30,
+      "registered": false
+    },
+    {
+      "kind": "native_observation_loop_slice",
+      "visibility_mask": 0,
+      "ui_notification_suffix_skipped": true
+    },
+    {
+      "kind": "native_observation_loop_slice",
+      "visibility_mask": 1,
+      "ui_notification_suffix_skipped": true
+    },
+    {
+      "kind": "native_observation_loop_slice",
+      "visibility_mask": 4,
+      "ui_notification_suffix_skipped": true
+    },
+    {
+      "kind": "native_observation_loop_slice",
+      "visibility_mask": 85,
+      "ui_notification_suffix_skipped": true
+    },
+    {
+      "kind": "native_observation_loop_slice",
+      "visibility_mask": 255,
+      "ui_notification_suffix_skipped": true
+    }
+  ],
+  "scope": "Actual40a950,51e6c0,51e530,412aa0,4079f0,507fa0,509b60 with no stubs and synthetic worlds; five57b800..57b8ec observation-loop slices skip only UI notification suffix57b85e..57b8df. Full spell execution and type19 lifecycle pending."
+}

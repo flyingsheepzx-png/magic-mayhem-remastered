@@ -1,0 +1,1604 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "actions": [
+    {
+      "action_id": 5,
+      "initialize": "0x4408e0",
+      "spell_probes": [],
+      "classification": "other heuristic candidate, semantics pending"
+    },
+    {
+      "action_id": 6,
+      "initialize": "0x431be0",
+      "spell_probes": [],
+      "classification": "statistical tactical candidate"
+    },
+    {
+      "action_id": 8,
+      "initialize": "0x4343b0",
+      "spell_probes": [],
+      "classification": "statistical tactical candidate"
+    },
+    {
+      "action_id": 9,
+      "initialize": "0x436900",
+      "spell_probes": [],
+      "classification": "statistical tactical candidate"
+    },
+    {
+      "action_id": 11,
+      "initialize": "0x438b90",
+      "spell_probes": [],
+      "classification": "statistical tactical candidate"
+    },
+    {
+      "action_id": 12,
+      "initialize": "0x439e80",
+      "spell_probes": [],
+      "classification": "statistical tactical candidate"
+    },
+    {
+      "action_id": 13,
+      "initialize": "0x43b3f0",
+      "spell_probes": [],
+      "classification": "statistical tactical candidate"
+    },
+    {
+      "action_id": 14,
+      "initialize": "0x43c610",
+      "spell_probes": [],
+      "classification": "statistical tactical candidate"
+    },
+    {
+      "action_id": 15,
+      "initialize": "0x4420d0",
+      "spell_probes": [],
+      "classification": "dynamic summoning candidate"
+    },
+    {
+      "action_id": 16,
+      "initialize": "0x4534a0",
+      "spell_probes": [
+        {
+          "call_va": "0x4534e3",
+          "spell_id": 22,
+          "spell_name": "Spying Eye",
+          "config": {
+            "Range": "12",
+            "PixelRange": "0",
+            "ManaCost": "9",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "2",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "35",
+            "NoRequired": "1",
+            "TextName": "Spying Eye",
+            "AllowedTargets": "1",
+            "Speed": "20",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "0",
+            "Duration": "0",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "0.9",
+            "Data1": "0",
+            "SpellBoxSound": "9999"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 17,
+      "initialize": "0x443800",
+      "spell_probes": [
+        {
+          "call_va": "0x443851",
+          "spell_id": 33,
+          "spell_name": "Gooey Blob",
+          "config": {
+            "Range": "14",
+            "PixelRange": "0",
+            "ManaCost": "22",
+            "Alignment": "CHAOS",
+            "BalanceAmount": "20",
+            "SpellStrength": "60",
+            "MagicItemsNeeded": "1,32",
+            "NoRequired": "2",
+            "TextName": "Gooey Blob",
+            "AllowedTargets": "14",
+            "Speed": "20",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "4",
+            "Duration": "440",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.2",
+            "Data1": "18",
+            "SpellBoxSound": "702",
+            "AI_Restrictors": "25"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 18,
+      "initialize": "0x4480b0",
+      "spell_probes": [
+        {
+          "call_va": "0x4480f0",
+          "spell_id": 34,
+          "spell_name": "Meteor Shower",
+          "config": {
+            "Range": "22",
+            "PixelRange": "0",
+            "ManaCost": "40",
+            "Alignment": "CHAOS",
+            "BalanceAmount": "30",
+            "SpellStrength": "15",
+            "MagicItemsNeeded": "1,10",
+            "NoRequired": "2",
+            "TextName": "Meteor Shower",
+            "AllowedTargets": "1",
+            "Speed": "24",
+            "LOFType": "LOF_NONE",
+            "Damage": "80",
+            "Duration": "220",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.1",
+            "Data1": "0",
+            "SpellBoxSound": "720",
+            "AI_Area": "30",
+            "AI_AntiFlying": "5"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 19,
+      "initialize": "0x44e4d0",
+      "spell_probes": [
+        {
+          "call_va": "0x44e51a",
+          "spell_id": 35,
+          "spell_name": "Tangle Vine",
+          "config": {
+            "Range": "12",
+            "PixelRange": "0",
+            "ManaCost": "10",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "5",
+            "MagicItemsNeeded": "4,8,27",
+            "NoRequired": "2",
+            "TextName": "Tangle Vine",
+            "AllowedTargets": "13",
+            "Speed": "20",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "5",
+            "Duration": "2000",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.1",
+            "Data1": "5",
+            "SpellBoxSound": "704",
+            "AI_Restrictors": "10"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 20,
+      "initialize": "0x455790",
+      "spell_probes": [
+        {
+          "call_va": "0x4557ce",
+          "spell_id": 38,
+          "spell_name": "Bury",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "27",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "0",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "0,5,7,13",
+            "NoRequired": "2",
+            "TextName": "Bury",
+            "AllowedTargets": "12",
+            "Speed": "16",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "35",
+            "Duration": "3",
+            "DoMRCheck": "TRUE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.1",
+            "Data1": "0",
+            "SpellBoxSound": "731",
+            "AI_AntiMR": "30",
+            "AI_AntiUndead": "30"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 21,
+      "initialize": "0x446150",
+      "spell_probes": [
+        {
+          "call_va": "0x44618a",
+          "spell_id": 41,
+          "spell_name": "Cure",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "10",
+            "Alignment": "LAW",
+            "BalanceAmount": "30",
+            "SpellStrength": "100",
+            "MagicItemsNeeded": "21",
+            "NoRequired": "1",
+            "TextName": "Cure",
+            "AllowedTargets": "8",
+            "Speed": "16",
+            "LOFType": "LOF_NONE",
+            "Damage": "0",
+            "Duration": "0",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "732",
+            "AI_DefensivePowerUp": "10"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 52,
+      "initialize": "0x45ca80",
+      "spell_probes": [
+        {
+          "call_va": "0x45caba",
+          "spell_id": 42,
+          "spell_name": "Blood Lust",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "20",
+            "Alignment": "CHAOS",
+            "BalanceAmount": "10",
+            "SpellStrength": "10",
+            "MagicItemsNeeded": "14,25",
+            "NoRequired": "2",
+            "TextName": "Blood Lust",
+            "AllowedTargets": "8",
+            "Speed": "24",
+            "LOFType": "LOF_NONE",
+            "Damage": "0",
+            "Duration": "600",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.1",
+            "Data1": "0",
+            "SpellBoxSound": "705",
+            "AI_OffensivePowerUp": "25"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 22,
+      "initialize": "0x4570a0",
+      "spell_probes": [
+        {
+          "call_va": "0x4570de",
+          "spell_id": 43,
+          "spell_name": "Disenchant",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "10",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "11",
+            "MagicItemsNeeded": "11",
+            "NoRequired": "1",
+            "TextName": "Disenchant",
+            "AllowedTargets": "12",
+            "Speed": "16",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "250",
+            "Duration": "25",
+            "DoMRCheck": "TRUE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "733",
+            "AI_Disenchant": "1"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 23,
+      "initialize": "0x44d000",
+      "spell_probes": [
+        {
+          "call_va": "0x44d03e",
+          "spell_id": 44,
+          "spell_name": "Earthbind",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "10",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "20",
+            "SpellStrength": "60",
+            "MagicItemsNeeded": "23",
+            "NoRequired": "1",
+            "TextName": "Earthbind",
+            "AllowedTargets": "6",
+            "Speed": "45",
+            "LOFType": "LOF_STRAIGHTCAST",
+            "Damage": "50",
+            "Duration": "12000",
+            "DoMRCheck": "TRUE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "734",
+            "AI_AntiFlying": "25"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 24,
+      "initialize": "0x4455f0",
+      "spell_probes": [
+        {
+          "call_va": "0x44562e",
+          "spell_id": 46,
+          "spell_name": "Gorgon Stare",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "15",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "50",
+            "MagicItemsNeeded": "7,25",
+            "NoRequired": "2",
+            "TextName": "Gorgon Stare",
+            "AllowedTargets": "6",
+            "Speed": "16",
+            "LOFType": "LOF_STRAIGHTCAST",
+            "Damage": "80",
+            "Duration": "5000",
+            "DoMRCheck": "TRUE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "30",
+            "SpellBoxSound": "735",
+            "AI_DefensivePowerUp": "5",
+            "AI_AntiMR": "5",
+            "AI_AntiFlying": "15",
+            "AI_Restrictors": "5"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 25,
+      "initialize": "0x452aa0",
+      "spell_probes": [
+        {
+          "call_va": "0x452ade",
+          "spell_id": 50,
+          "spell_name": "Lure",
+          "config": {
+            "Range": "12",
+            "PixelRange": "0",
+            "ManaCost": "25",
+            "Alignment": "LAW",
+            "BalanceAmount": "20",
+            "SpellStrength": "8",
+            "MagicItemsNeeded": "7,24",
+            "NoRequired": "2",
+            "TextName": "Lure",
+            "AllowedTargets": "5",
+            "Speed": "20",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "0",
+            "Duration": "150",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "730",
+            "AI_AntiIntelligence": "25"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 26,
+      "initialize": "0x449020",
+      "spell_probes": [
+        {
+          "call_va": "0x449064",
+          "spell_id": 52,
+          "spell_name": "Raise Dead",
+          "config": {
+            "Range": "11",
+            "PixelRange": "0",
+            "ManaCost": "25",
+            "Alignment": "CHAOS",
+            "BalanceAmount": "20",
+            "SpellStrength": "15",
+            "MagicItemsNeeded": "14",
+            "NoRequired": "2",
+            "TextName": "Raise Dead",
+            "AllowedTargets": "5",
+            "Speed": "18",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "0",
+            "Duration": "0",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.2",
+            "Data1": "75",
+            "SpellBoxSound": "736",
+            "AI_AntiUndead": "5"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 27,
+      "initialize": "0x44b080",
+      "spell_probes": [
+        {
+          "call_va": "0x44b0c4",
+          "spell_id": 54,
+          "spell_name": "Subversion",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "30",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "20",
+            "SpellStrength": "8",
+            "MagicItemsNeeded": "11,16",
+            "NoRequired": "2",
+            "TextName": "Subversion",
+            "AllowedTargets": "3",
+            "Speed": "28",
+            "LOFType": "LOF_STRAIGHTCAST",
+            "Damage": "0",
+            "Duration": "0",
+            "DoMRCheck": "TRUE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.2",
+            "Data1": "10",
+            "SpellBoxSound": "737",
+            "AI_AntiMR": "30"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 28,
+      "initialize": "0x451010",
+      "spell_probes": [
+        {
+          "call_va": "0x4510be",
+          "spell_id": 55,
+          "spell_name": "Teleport",
+          "config": {
+            "Range": "20",
+            "PixelRange": "0",
+            "ManaCost": "45",
+            "Alignment": "LAW",
+            "BalanceAmount": "200",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "3,17,26",
+            "NoRequired": "3",
+            "TextName": "Teleport",
+            "AllowedTargets": "13",
+            "Speed": "0",
+            "LOFType": "LOF_NONE",
+            "Damage": "0",
+            "Duration": "0",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "738",
+            "AI_Evaders": "50"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 29,
+      "initialize": "0x4583b0",
+      "spell_probes": [
+        {
+          "call_va": "0x4583ee",
+          "spell_id": 58,
+          "spell_name": "Fire",
+          "config": {
+            "Range": "17",
+            "PixelRange": "0",
+            "ManaCost": "20",
+            "Alignment": "CHAOS",
+            "BalanceAmount": "20",
+            "SpellStrength": "25",
+            "MagicItemsNeeded": "5,7",
+            "NoRequired": "2",
+            "TextName": "Fire",
+            "AllowedTargets": "12",
+            "Speed": "22",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "10",
+            "Duration": "0",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "MEDIUM",
+            "AI_Adjustment": "1",
+            "Data1": "10",
+            "SpellBoxSound": "721",
+            "AI_Area": "25"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 30,
+      "initialize": "0x4524d0",
+      "spell_probes": [
+        {
+          "call_va": "0x452512",
+          "spell_id": 60,
+          "spell_name": "Unsummon",
+          "config": {
+            "Range": "100",
+            "PixelRange": "0",
+            "ManaCost": "2",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "3",
+            "NoRequired": "1",
+            "TextName": "Unsummon",
+            "AllowedTargets": "4",
+            "Speed": "28",
+            "LOFType": "LOF_PARTICLE",
+            "Damage": "0",
+            "Duration": "0",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "0.8",
+            "Data1": "0",
+            "SpellBoxSound": "728"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 31,
+      "initialize": "0x4595f0",
+      "spell_probes": [
+        {
+          "call_va": "0x45962f",
+          "spell_id": 62,
+          "spell_name": "Super Fireball",
+          "config": {
+            "Range": "24",
+            "PixelRange": "0",
+            "ManaCost": "55",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "1,8,11",
+            "NoRequired": "3",
+            "TextName": "Super Fireball",
+            "AllowedTargets": "7",
+            "Speed": "28",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "100",
+            "Duration": "10",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "1026",
+            "AI_Area": "40",
+            "AI_AntiFlying": "10"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 32,
+      "initialize": "0x44d9f0",
+      "spell_probes": [
+        {
+          "call_va": "0x44da2f",
+          "spell_id": 65,
+          "spell_name": "Pestilence",
+          "config": {
+            "Range": "12",
+            "PixelRange": "0",
+            "ManaCost": "25",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "15",
+            "MagicItemsNeeded": "5,25",
+            "NoRequired": "2",
+            "TextName": "Pestilence",
+            "AllowedTargets": "13",
+            "Speed": "22",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "10",
+            "Duration": "6",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "TRUE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.2",
+            "Data1": "10",
+            "SpellBoxSound": "713",
+            "AI_Pestilence": "1"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 33,
+      "initialize": "0x45a9c0",
+      "spell_probes": [
+        {
+          "call_va": "0x45a9fe",
+          "spell_id": 68,
+          "spell_name": "Sloth",
+          "config": {
+            "Range": "15",
+            "PixelRange": "0",
+            "ManaCost": "15",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "300",
+            "MagicItemsNeeded": "5,6,7",
+            "NoRequired": "3",
+            "TextName": "Sloth",
+            "AllowedTargets": "1",
+            "Speed": "28",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "0",
+            "Duration": "500",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "729",
+            "AI_Restrictors": "10"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 34,
+      "initialize": "0x45f160",
+      "spell_probes": [
+        {
+          "call_va": "0x45f19e",
+          "spell_id": 69,
+          "spell_name": "Totem of Life",
+          "config": {
+            "Range": "12",
+            "PixelRange": "0",
+            "ManaCost": "45",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "50",
+            "MagicItemsNeeded": "3",
+            "NoRequired": "1",
+            "TextName": "Totem of Life",
+            "AllowedTargets": "13",
+            "Speed": "28",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "10",
+            "Duration": "7",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.2",
+            "Data1": "10",
+            "SpellBoxSound": "754",
+            "AI_Totemoflife": "1"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 35,
+      "initialize": "0x45e5e0",
+      "spell_probes": [
+        {
+          "call_va": "0x45e61e",
+          "spell_id": 70,
+          "spell_name": "Guardian",
+          "config": {
+            "Range": "12",
+            "PixelRange": "0",
+            "ManaCost": "65",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "100",
+            "MagicItemsNeeded": "6,13",
+            "NoRequired": "1",
+            "TextName": "Guardian",
+            "AllowedTargets": "13",
+            "Speed": "28",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "20",
+            "Duration": "7",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.2",
+            "Data1": "10",
+            "SpellBoxSound": "743",
+            "AI_Guardian": "1"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 36,
+      "initialize": "0x442e90",
+      "spell_probes": [
+        {
+          "call_va": "0x442ece",
+          "spell_id": 71,
+          "spell_name": "Fireball",
+          "config": {
+            "Range": "15",
+            "PixelRange": "0",
+            "ManaCost": "7",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "5",
+            "NoRequired": "1",
+            "TextName": "Fireball",
+            "AllowedTargets": "7",
+            "Speed": "28",
+            "LOFType": "LOF_STRAIGHTCAST",
+            "Damage": "20",
+            "Duration": "0",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "708",
+            "AI_Missile": "10",
+            "AI_AntiFlying": "5"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 37,
+      "initialize": "0x444990",
+      "spell_probes": [
+        {
+          "call_va": "0x4449d0",
+          "spell_id": 72,
+          "spell_name": "Lightning",
+          "config": {
+            "Range": "9",
+            "PixelRange": "0",
+            "ManaCost": "35",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "3",
+            "MagicItemsNeeded": "3,5",
+            "NoRequired": "2",
+            "TextName": "Lightning",
+            "AllowedTargets": "7",
+            "Speed": "28",
+            "LOFType": "LOF_NONE",
+            "Damage": "90",
+            "Duration": "1",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "903",
+            "AI_Missile": "18",
+            "AI_AntiFlying": "5"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 38,
+      "initialize": "0x44a3e0",
+      "spell_probes": [
+        {
+          "call_va": "0x44a41e",
+          "spell_id": 73,
+          "spell_name": "Magic Sphere",
+          "config": {
+            "Range": "15",
+            "PixelRange": "0",
+            "ManaCost": "8",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "4",
+            "NoRequired": "1",
+            "TextName": "Magic Sphere",
+            "AllowedTargets": "7",
+            "Speed": "20",
+            "LOFType": "LOF_STRAIGHTCAST",
+            "Damage": "20",
+            "Duration": "100",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "710",
+            "AI_Missile": "14",
+            "AI_AntiFlying": "5"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 39,
+      "initialize": "0x44f3a0",
+      "spell_probes": [
+        {
+          "call_va": "0x44f3da",
+          "spell_id": 74,
+          "spell_name": "Iron Skin",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "16",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "20",
+            "SpellStrength": "66",
+            "MagicItemsNeeded": "3,9",
+            "NoRequired": "2",
+            "TextName": "Iron Skin",
+            "AllowedTargets": "8",
+            "Speed": "28",
+            "LOFType": "LOF_NONE",
+            "Damage": "0",
+            "Duration": "1000",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "714",
+            "AI_OffensivePowerUp": "20",
+            "AI_DefensivePowerUp": "25"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 40,
+      "initialize": "0x45bc90",
+      "spell_probes": [
+        {
+          "call_va": "0x45bcce",
+          "spell_id": 75,
+          "spell_name": "Tornado",
+          "config": {
+            "Range": "20",
+            "PixelRange": "0",
+            "ManaCost": "40",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "5",
+            "MagicItemsNeeded": "8,11,30",
+            "NoRequired": "3",
+            "TextName": "Tornado",
+            "AllowedTargets": "1",
+            "Speed": "28",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "0",
+            "Duration": "200",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "10",
+            "SpellBoxSound": "729",
+            "AI_Restrictors": "25"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 41,
+      "initialize": "0x454cc0",
+      "spell_probes": [
+        {
+          "call_va": "0x454cfe",
+          "spell_id": 76,
+          "spell_name": "Terror",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "15",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "25",
+            "MagicItemsNeeded": "0",
+            "NoRequired": "1",
+            "TextName": "Terror",
+            "AllowedTargets": "1",
+            "Speed": "28",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "0",
+            "Duration": "12",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "False",
+            "DoBRCheck": "True",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "10",
+            "SpellBoxSound": "724",
+            "AI_AntiBravery": "10"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 42,
+      "initialize": "0x454250",
+      "spell_probes": [
+        {
+          "call_va": "0x45428e",
+          "spell_id": 77,
+          "spell_name": "Magic Mist",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "10",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "3",
+            "MagicItemsNeeded": "33,35",
+            "NoRequired": "1",
+            "TextName": "Magic Mist",
+            "AllowedTargets": "12",
+            "Speed": "28",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "40",
+            "Duration": "800",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "100",
+            "SpellBoxSound": "739",
+            "AI_AntiIntelligence": "10",
+            "AI_Restrictors": "10"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 43,
+      "initialize": "0x4501f0",
+      "spell_probes": [
+        {
+          "call_va": "0x45022a",
+          "spell_id": 78,
+          "spell_name": "Scythian Bow",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "30",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "17,22,27",
+            "NoRequired": "2",
+            "TextName": "Scythian Bow",
+            "AllowedTargets": "8",
+            "Speed": "28",
+            "LOFType": "LOF_PARTICLE",
+            "Damage": "9",
+            "Duration": "0",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.1",
+            "Data1": "0",
+            "SpellBoxSound": "1031",
+            "AI_OffensivePowerUp": "20",
+            "AI_AntiFlying": "5"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 44,
+      "initialize": "0x44bca0",
+      "spell_probes": [
+        {
+          "call_va": "0x44bcd2",
+          "spell_id": 79,
+          "spell_name": "Lucifers Farewell",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "10",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "8",
+            "MagicItemsNeeded": "0,3,28",
+            "NoRequired": "1",
+            "TextName": "Lucifers Farewell",
+            "AllowedTargets": "4",
+            "Speed": "28",
+            "LOFType": "LOF_NONE",
+            "Damage": "50",
+            "Duration": "1",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "2",
+            "SpellBoxSound": "1013",
+            "AI_OffensivePowerUp": "5"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 45,
+      "initialize": "0x44c6a0",
+      "spell_probes": [
+        {
+          "call_va": "0x44c6de",
+          "spell_id": 80,
+          "spell_name": "Levitate",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "15",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "60",
+            "MagicItemsNeeded": "8,30",
+            "NoRequired": "1",
+            "TextName": "Levitate",
+            "AllowedTargets": "6",
+            "Speed": "28",
+            "LOFType": "LOF_NONE",
+            "Damage": "0",
+            "Duration": "700",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "3",
+            "SpellBoxSound": "716",
+            "AI_Restrictors": "5"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 46,
+      "initialize": "0x456750",
+      "spell_probes": [
+        {
+          "call_va": "0x45678e",
+          "spell_id": 81,
+          "spell_name": "Judgement",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "100",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "17,27",
+            "NoRequired": "2",
+            "TextName": "Judgement",
+            "AllowedTargets": "7",
+            "Speed": "28",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "75",
+            "Duration": "10",
+            "DoMRCheck": "TRUE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "715",
+            "AI_AntiMR": "50",
+            "AI_AntiFlying": "20"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 53,
+      "initialize": "0x45d3e0",
+      "spell_probes": [
+        {
+          "call_va": "0x45d48c",
+          "spell_id": 82,
+          "spell_name": "Haste",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "20",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "8,30",
+            "NoRequired": "1",
+            "TextName": "Haste",
+            "AllowedTargets": "8",
+            "Speed": "28",
+            "LOFType": "LOF_NONE",
+            "Damage": "0",
+            "Duration": "550",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "718",
+            "AI_OffensivePowerUp": "5",
+            "AI_DefensivePowerUp": "15",
+            "AI_Evaders": "10"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 54,
+      "initialize": "0x45d980",
+      "spell_probes": [
+        {
+          "call_va": "0x45d9be",
+          "spell_id": 82,
+          "spell_name": "Haste",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "20",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "8,30",
+            "NoRequired": "1",
+            "TextName": "Haste",
+            "AllowedTargets": "8",
+            "Speed": "28",
+            "LOFType": "LOF_NONE",
+            "Damage": "0",
+            "Duration": "550",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "718",
+            "AI_OffensivePowerUp": "5",
+            "AI_DefensivePowerUp": "15",
+            "AI_Evaders": "10"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 47,
+      "initialize": "0x44faf0",
+      "spell_probes": [
+        {
+          "call_va": "0x44fb2a",
+          "spell_id": 83,
+          "spell_name": "Excalibur",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "30",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "0,11,28",
+            "NoRequired": "2",
+            "TextName": "Excalibur",
+            "AllowedTargets": "8",
+            "Speed": "28",
+            "LOFType": "LOF_PARTICLE",
+            "Damage": "15",
+            "Duration": "200",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "748",
+            "AI_OffensivePowerUp": "25"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 48,
+      "initialize": "0x4508b0",
+      "spell_probes": [
+        {
+          "call_va": "0x4508ea",
+          "spell_id": 84,
+          "spell_name": "Ornithopter",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "25",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "23,26,34",
+            "NoRequired": "2",
+            "TextName": "Ornithopter",
+            "AllowedTargets": "8",
+            "Speed": "28",
+            "LOFType": "LOF_PARTICLE",
+            "Damage": "0",
+            "Duration": "900",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "400",
+            "SpellBoxSound": "750",
+            "AI_OffensivePowerUp": "5",
+            "AI_Evaders": "20"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 51,
+      "initialize": "0x45b5d0",
+      "spell_probes": [
+        {
+          "call_va": "0x45b60a",
+          "spell_id": 85,
+          "spell_name": "Invisibility",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "50",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "0",
+            "MagicItemsNeeded": "7,34",
+            "NoRequired": "2",
+            "TextName": "Invisibility",
+            "AllowedTargets": "6",
+            "Speed": "28",
+            "LOFType": "LOF_PARTICLE",
+            "Damage": "0",
+            "Duration": "500",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "712",
+            "AI_OffensivePowerUp": "5",
+            "AI_DefensivePowerUp": "15",
+            "AI_Evaders": "15"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 57,
+      "initialize": "0x4618f0",
+      "spell_probes": [
+        {
+          "call_va": "0x461936",
+          "spell_id": 86,
+          "spell_name": "Illusion",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "12",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "20",
+            "SpellStrength": "70",
+            "MagicItemsNeeded": "7,21",
+            "NoRequired": "2",
+            "TextName": "Illusion",
+            "AllowedTargets": "6",
+            "Speed": "28",
+            "LOFType": "LOF_STRAIGHTCAST",
+            "Damage": "0",
+            "Duration": "0",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "726",
+            "AI_Evaders": "5"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 49,
+      "initialize": "0x4518f0",
+      "spell_probes": [
+        {
+          "call_va": "0x45192e",
+          "spell_id": 87,
+          "spell_name": "Chain Lightning",
+          "config": {
+            "Range": "16",
+            "PixelRange": "0",
+            "ManaCost": "45",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "10",
+            "MagicItemsNeeded": "3,5,16",
+            "NoRequired": "3",
+            "TextName": "Chain Lightning",
+            "AllowedTargets": "5",
+            "Speed": "20",
+            "LOFType": "LOF_STRAIGHTCAST",
+            "Damage": "70",
+            "Duration": "0",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "SMALL",
+            "AI_Adjustment": "1.2",
+            "Data1": "0",
+            "SpellBoxSound": "903",
+            "AI_Area": "35",
+            "AI_AntiFlying": "8"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 50,
+      "initialize": "0x447350",
+      "spell_probes": [
+        {
+          "call_va": "0x447390",
+          "spell_id": 88,
+          "spell_name": "Storm Lightning",
+          "config": {
+            "Range": "24",
+            "PixelRange": "0",
+            "ManaCost": "16",
+            "Alignment": "NEUTRAL",
+            "BalanceAmount": "10",
+            "SpellStrength": "7",
+            "MagicItemsNeeded": "3,5,11",
+            "NoRequired": "3",
+            "TextName": "Storm Lightning",
+            "AllowedTargets": "1",
+            "Speed": "28",
+            "LOFType": "LOF_NONE",
+            "Damage": "90",
+            "Duration": "560",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "FALSE",
+            "DoBRCheck": "FALSE",
+            "Radius": "MEDIUM",
+            "AI_Adjustment": "1",
+            "Data1": "0",
+            "SpellBoxSound": "903",
+            "AI_Area": "25",
+            "AI_AntiFlying": "5"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 55,
+      "initialize": "0x45fe10",
+      "spell_probes": [
+        {
+          "call_va": "0x45fe4e",
+          "spell_id": 91,
+          "spell_name": "Totem of Fear",
+          "config": {
+            "Range": "12",
+            "PixelRange": "0",
+            "ManaCost": "50",
+            "Alignment": "LAW",
+            "BalanceAmount": "200",
+            "SpellStrength": "10",
+            "MagicItemsNeeded": "15,23",
+            "NoRequired": "2",
+            "TextName": "Totem of Fear",
+            "AllowedTargets": "13",
+            "Speed": "22",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "0",
+            "Duration": "7",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "False",
+            "DoBRCheck": "True",
+            "Radius": "MEDIUM",
+            "AI_Adjustment": "1.2",
+            "Data1": "5",
+            "SpellBoxSound": "727",
+            "AI_AntiBravery": "20"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 56,
+      "initialize": "0x460920",
+      "spell_probes": [
+        {
+          "call_va": "0x46095e",
+          "spell_id": 92,
+          "spell_name": "Lorelei",
+          "config": {
+            "Range": "12",
+            "PixelRange": "0",
+            "ManaCost": "40",
+            "Alignment": "LAW",
+            "BalanceAmount": "200",
+            "SpellStrength": "10",
+            "MagicItemsNeeded": "16,24",
+            "NoRequired": "2",
+            "TextName": "Lorelei",
+            "AllowedTargets": "13",
+            "Speed": "22",
+            "LOFType": "LOF_THROWCAST",
+            "Damage": "0",
+            "Duration": "7",
+            "DoMRCheck": "FALSE",
+            "DoITCheck": "TRUE",
+            "DoBRCheck": "FALSE",
+            "Radius": "MEDIUM",
+            "AI_Adjustment": "1.1",
+            "Data1": "5",
+            "SpellBoxSound": "717",
+            "AI_AntiIntelligence": "20"
+          }
+        }
+      ],
+      "classification": "fixed-spell candidate"
+    },
+    {
+      "action_id": 58,
+      "initialize": "0x446820",
+      "spell_probes": [],
+      "classification": "other heuristic candidate, semantics pending"
+    },
+    {
+      "action_id": 59,
+      "initialize": "0x44a0a0",
+      "spell_probes": [],
+      "classification": "other heuristic candidate, semantics pending"
+    }
+  ],
+  "note": "Availability probe proves associated fixed spell, not every targeting/scoring rule or successful cast"
+}

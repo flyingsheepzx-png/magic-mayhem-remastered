@@ -1,0 +1,14 @@
+{
+  "result": "passed",
+  "cases": 28,
+  "max_probability_error": 0.0,
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "brain_sha256": "4295b48edb70c401975d91b25d6ac5410dde6b47d677a71196c6d1fbf24f8d31",
+  "constants": {
+    "exponent_scale": 0.5,
+    "cutoff": 20.0,
+    "epsilon": 0.0,
+    "bin_factor": 10.0
+  },
+  "scope": "lossless Brain roundtrip and native x86 kernel normalization/bin selection/quadratic score/exponent/probability comparison; no game launched"
+}

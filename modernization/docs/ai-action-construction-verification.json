@@ -1,0 +1,2433 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "result": "passed",
+  "cases": [
+    {
+      "action_ids": [
+        5
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        6
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        8
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        9
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        11
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 10,
+      "freed": 8,
+      "remaining_after_base": {
+        "0x2200180": 20,
+        "0x22001a0": 20
+      }
+    },
+    {
+      "action_ids": [
+        13
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        14
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        15
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        16
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        17
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        18
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        19
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        20
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        21
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        52
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        22
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        23
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        24
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        25
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        26
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        27
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        28
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        29
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        30
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        31
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        32
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        33
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        34
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        35
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        36
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        37
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        38
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        39
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        40
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        41
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        42
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        43
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        44
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        45
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        46
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        53
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        54
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        47
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        48
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        51
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        57
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        49
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        50
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        55
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        56
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        58
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        59
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        52,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        53,
+        54,
+        47,
+        48,
+        51,
+        57,
+        49,
+        50,
+        55,
+        56,
+        58,
+        59
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 218,
+      "freed": 216,
+      "remaining_after_base": {
+        "0x2200540": 20,
+        "0x2200560": 20
+      }
+    },
+    {
+      "action_ids": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        52,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        53,
+        54,
+        47,
+        48,
+        51,
+        57,
+        49,
+        50,
+        55,
+        56,
+        58,
+        59
+      ],
+      "reverse_order": true,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 218,
+      "freed": 216,
+      "remaining_after_base": {
+        "0x2200540": 20,
+        "0x2200560": 20
+      }
+    },
+    {
+      "action_ids": [
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 10,
+      "freed": 10,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12
+      ],
+      "reverse_order": true,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 10,
+      "freed": 10,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 15,
+      "freed": 15,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": true,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 15,
+      "freed": 15,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12,
+        12,
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 30,
+      "freed": 30,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12,
+        12,
+        12,
+        12
+      ],
+      "reverse_order": true,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 30,
+      "freed": 30,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        52,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        53,
+        54,
+        47,
+        48,
+        51,
+        57,
+        49,
+        50,
+        55,
+        56,
+        58,
+        59
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 218,
+      "freed": 218,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        52,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        53,
+        54,
+        47,
+        48,
+        51,
+        57,
+        49,
+        50,
+        55,
+        56,
+        58,
+        59
+      ],
+      "reverse_order": true,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 218,
+      "freed": 218,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 12,
+      "freed": 12,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12
+      ],
+      "reverse_order": true,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 12,
+      "freed": 12,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 19,
+      "freed": 19,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": true,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 19,
+      "freed": 19,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12,
+        12,
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 40,
+      "freed": 40,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12,
+        12,
+        12,
+        12
+      ],
+      "reverse_order": true,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 40,
+      "freed": 40,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 1,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 21,
+      "freed": 21,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 1,
+      "synthetic_tree_shape": "left",
+      "allocations": 21,
+      "freed": 21,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 1,
+      "synthetic_tree_shape": "right",
+      "allocations": 21,
+      "freed": 21,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 7,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 33,
+      "freed": 33,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 7,
+      "synthetic_tree_shape": "left",
+      "allocations": 33,
+      "freed": 33,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 7,
+      "synthetic_tree_shape": "right",
+      "allocations": 33,
+      "freed": 33,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 31,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 81,
+      "freed": 81,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 31,
+      "synthetic_tree_shape": "left",
+      "allocations": 81,
+      "freed": 81,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12,
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": true,
+      "all_derived_cleanup": false,
+      "populated_retreat_vectors": true,
+      "synthetic_retreat_tree_nodes": 31,
+      "synthetic_tree_shape": "right",
+      "allocations": 81,
+      "freed": 81,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        5
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        6
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        8
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        9
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        11
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        12
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 10,
+      "freed": 10,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        13
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        14
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        15
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        16
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        17
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        18
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        19
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        20
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        21
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        52
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        22
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        23
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        24
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        25
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        26
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        27
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        28
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        29
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        30
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        31
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        32
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        33
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        34
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        35
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        36
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        37
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        38
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        39
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        40
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        41
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        42
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        43
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        44
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        45
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        46
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        53
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        54
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        47
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        48
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        51
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        57
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        49
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        50
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        55
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        56
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        58
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        59
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 8,
+      "freed": 8,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        52,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        53,
+        54,
+        47,
+        48,
+        51,
+        57,
+        49,
+        50,
+        55,
+        56,
+        58,
+        59
+      ],
+      "reverse_order": false,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 218,
+      "freed": 218,
+      "remaining_after_base": {}
+    },
+    {
+      "action_ids": [
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        52,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        53,
+        54,
+        47,
+        48,
+        51,
+        57,
+        49,
+        50,
+        55,
+        56,
+        58,
+        59
+      ],
+      "reverse_order": true,
+      "retreat_full_cleanup": false,
+      "all_derived_cleanup": true,
+      "populated_retreat_vectors": false,
+      "synthetic_retreat_tree_nodes": 0,
+      "synthetic_tree_shape": "balanced",
+      "allocations": 218,
+      "freed": 218,
+      "remaining_after_base": {}
+    }
+  ],
+  "prototype_cleanup_map": {
+    "5": {
+      "callback": "0x4016e0",
+      "cleanup": "0x401700"
+    },
+    "6": {
+      "callback": "0x401890",
+      "cleanup": "0x4018b0"
+    },
+    "8": {
+      "callback": "0x401c10",
+      "cleanup": "0x401c30"
+    },
+    "9": {
+      "callback": "0x401dd0",
+      "cleanup": "0x401df0"
+    },
+    "11": {
+      "callback": "0x402150",
+      "cleanup": "0x402170"
+    },
+    "12": {
+      "callback": "0x402310",
+      "cleanup": "0x402330"
+    },
+    "13": {
+      "callback": "0x402510",
+      "cleanup": "0x402530"
+    },
+    "14": {
+      "callback": "0x4026d0",
+      "cleanup": "0x4026f0"
+    },
+    "15": {
+      "callback": "0x402890",
+      "cleanup": "0x4028b0"
+    },
+    "16": {
+      "callback": "0x402a40",
+      "cleanup": "0x402a60"
+    },
+    "17": {
+      "callback": "0x402bf0",
+      "cleanup": "0x402c10"
+    },
+    "18": {
+      "callback": "0x402da0",
+      "cleanup": "0x402dc0"
+    },
+    "19": {
+      "callback": "0x402f70",
+      "cleanup": "0x402f90"
+    },
+    "20": {
+      "callback": "0x403120",
+      "cleanup": "0x403140"
+    },
+    "21": {
+      "callback": "0x4032d0",
+      "cleanup": "0x4032f0"
+    },
+    "52": {
+      "callback": "0x403480",
+      "cleanup": "0x4034a0"
+    },
+    "22": {
+      "callback": "0x403630",
+      "cleanup": "0x403650"
+    },
+    "23": {
+      "callback": "0x4037e0",
+      "cleanup": "0x403800"
+    },
+    "24": {
+      "callback": "0x403990",
+      "cleanup": "0x4039b0"
+    },
+    "25": {
+      "callback": "0x403b40",
+      "cleanup": "0x403b60"
+    },
+    "26": {
+      "callback": "0x403cf0",
+      "cleanup": "0x403d10"
+    },
+    "27": {
+      "callback": "0x403ec0",
+      "cleanup": "0x403ee0"
+    },
+    "28": {
+      "callback": "0x404070",
+      "cleanup": "0x404090"
+    },
+    "29": {
+      "callback": "0x404220",
+      "cleanup": "0x404240"
+    },
+    "30": {
+      "callback": "0x4043d0",
+      "cleanup": "0x4043f0"
+    },
+    "31": {
+      "callback": "0x404580",
+      "cleanup": "0x4045a0"
+    },
+    "32": {
+      "callback": "0x404750",
+      "cleanup": "0x404770"
+    },
+    "33": {
+      "callback": "0x404900",
+      "cleanup": "0x404920"
+    },
+    "34": {
+      "callback": "0x404ab0",
+      "cleanup": "0x404ad0"
+    },
+    "35": {
+      "callback": "0x404c60",
+      "cleanup": "0x404c80"
+    },
+    "36": {
+      "callback": "0x404e10",
+      "cleanup": "0x404e30"
+    },
+    "37": {
+      "callback": "0x404fc0",
+      "cleanup": "0x404fe0"
+    },
+    "38": {
+      "callback": "0x405190",
+      "cleanup": "0x4051b0"
+    },
+    "39": {
+      "callback": "0x405340",
+      "cleanup": "0x405360"
+    },
+    "40": {
+      "callback": "0x4054f0",
+      "cleanup": "0x405510"
+    },
+    "41": {
+      "callback": "0x4056a0",
+      "cleanup": "0x4056c0"
+    },
+    "42": {
+      "callback": "0x405850",
+      "cleanup": "0x405870"
+    },
+    "43": {
+      "callback": "0x405a00",
+      "cleanup": "0x405a20"
+    },
+    "44": {
+      "callback": "0x405bb0",
+      "cleanup": "0x405bd0"
+    },
+    "45": {
+      "callback": "0x405d60",
+      "cleanup": "0x405d80"
+    },
+    "46": {
+      "callback": "0x405f10",
+      "cleanup": "0x405f30"
+    },
+    "53": {
+      "callback": "0x4060c0",
+      "cleanup": "0x4060e0"
+    },
+    "54": {
+      "callback": "0x406270",
+      "cleanup": "0x406290"
+    },
+    "47": {
+      "callback": "0x4064d0",
+      "cleanup": "0x4064f0"
+    },
+    "48": {
+      "callback": "0x406680",
+      "cleanup": "0x4066a0"
+    },
+    "51": {
+      "callback": "0x406830",
+      "cleanup": "0x406850"
+    },
+    "57": {
+      "callback": "0x4069e0",
+      "cleanup": "0x406a00"
+    },
+    "49": {
+      "callback": "0x406b90",
+      "cleanup": "0x406bb0"
+    },
+    "50": {
+      "callback": "0x406d40",
+      "cleanup": "0x406d60"
+    },
+    "55": {
+      "callback": "0x406f10",
+      "cleanup": "0x406f30"
+    },
+    "56": {
+      "callback": "0x4070c0",
+      "cleanup": "0x4070e0"
+    },
+    "58": {
+      "callback": "0x407270",
+      "cleanup": "0x407290"
+    },
+    "59": {
+      "callback": "0x407420",
+      "cleanup": "0x407440"
+    }
+  },
+  "scope": "All53 constructors/base teardown,Retreat full teardown including9 synthetic nonempty trees,all53 full prototype-derived cleanup functions individually and two mixed orders. CRT allocation/free sinks only. Empty-derived lifecycles and Retreat full-range tree freeing,not dynamic scheduler dispatch/insertion/balancing/partial erase/allocation failures."
+}

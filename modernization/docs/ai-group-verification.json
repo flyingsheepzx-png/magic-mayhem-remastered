@@ -1,0 +1,112 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "result": "passed",
+  "cases": [
+    {
+      "kind": "units",
+      "rank_cutoff": 0,
+      "returned": [
+        33685504,
+        33685760,
+        33686016
+      ]
+    },
+    {
+      "kind": "units",
+      "rank_cutoff": 1,
+      "returned": [
+        33685760,
+        33686016
+      ]
+    },
+    {
+      "kind": "units",
+      "rank_cutoff": 2,
+      "returned": [
+        33686016
+      ]
+    },
+    {
+      "kind": "units",
+      "rank_cutoff": 3,
+      "returned": []
+    },
+    {
+      "kind": "leaf_groups",
+      "rank_cutoff": 0,
+      "returned": [
+        33622016,
+        33623040,
+        33624064
+      ]
+    },
+    {
+      "kind": "leaf_groups",
+      "rank_cutoff": 1,
+      "returned": [
+        33623040,
+        33624064
+      ]
+    },
+    {
+      "kind": "leaf_groups",
+      "rank_cutoff": 2,
+      "returned": [
+        33624064
+      ]
+    },
+    {
+      "kind": "leaf_groups",
+      "rank_cutoff": 3,
+      "returned": []
+    },
+    {
+      "kind": "cursor_capacity",
+      "allocated": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        0,
+        1,
+        2
+      ],
+      "reuse": "round_robin"
+    },
+    {
+      "kind": "independent_cursors_and_reuse",
+      "cursors": [
+        0,
+        1
+      ]
+    },
+    {
+      "kind": "direct_children",
+      "rank_cutoff": 0,
+      "returned": [
+        33620992,
+        33622016
+      ]
+    },
+    {
+      "kind": "direct_children",
+      "rank_cutoff": 2,
+      "returned": [
+        33620992,
+        33622016
+      ]
+    },
+    {
+      "kind": "direct_children",
+      "rank_cutoff": 3,
+      "returned": [
+        33620992
+      ]
+    }
+  ],
+  "scope": "Real407920/407990/4079f0/407a80, nested synthetic groups, no stubs or game IO. Rank meaning not established by iterator tests."
+}

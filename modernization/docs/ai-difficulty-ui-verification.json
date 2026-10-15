@@ -1,0 +1,1687 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "page": 3,
+      "event": 0,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 0,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 0,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 0,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 1,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 1,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 1,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 2,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 2,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 2,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 3,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 3,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 0,
+      "index": 3,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 0,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 0,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 0,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 1,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 1,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 1,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 2,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 2,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 2,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 3,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 3,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 2,
+      "index": 3,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 0,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 0,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 0,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 1,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 1,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 1,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 2,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 2,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 2,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 3,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 3,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 3,
+      "index": 3,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 0,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 0,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 0,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 1,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 1,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 1,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 2,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 2,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 2,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 3,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 3,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 3,
+      "event": 4,
+      "index": 3,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 0,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 0,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 0,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 0,
+      "difficulty": 3,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 1,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 1,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 1,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 1,
+      "difficulty": 3,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 2,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 2,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 2,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 2,
+      "difficulty": 3,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 3,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 3,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 3,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 3,
+      "event": 5,
+      "index": 3,
+      "difficulty": 3,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 0,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 0,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 0,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 1,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 1,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 1,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 2,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 2,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 2,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 3,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 3,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 0,
+      "index": 3,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 0,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 0,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 0,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 1,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 1,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 1,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 2,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 2,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 2,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 3,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 3,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 2,
+      "index": 3,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 0,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 0,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 0,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 1,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 1,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 1,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 2,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 2,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 2,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 3,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 3,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 3,
+      "index": 3,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 0,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 0,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 0,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 1,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 1,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 1,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 2,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 2,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 2,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 3,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 3,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 4,
+      "event": 4,
+      "index": 3,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 0,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 0,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 0,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 0,
+      "difficulty": 3,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 1,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 1,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 1,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 1,
+      "difficulty": 3,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 2,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 2,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 2,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 2,
+      "difficulty": 3,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 3,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 3,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 3,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 4,
+      "event": 5,
+      "index": 3,
+      "difficulty": 3,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 0,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 0,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 0,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 1,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 1,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 1,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 2,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 2,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 2,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 3,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 3,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 0,
+      "index": 3,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 0,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 0,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 0,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 1,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 1,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 1,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 2,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 2,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 2,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 3,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 3,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 2,
+      "index": 3,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 0,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 0,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 0,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 1,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 1,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 1,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 2,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 2,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 2,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 3,
+      "difficulty": 1,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 3,
+      "difficulty": 2,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 3,
+      "index": 3,
+      "difficulty": 3,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 0,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 0,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 0,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 0,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 1,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 1,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 1,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 1,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 2,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 2,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 2,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 2,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 3,
+      "difficulty": 0,
+      "result": 0
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 3,
+      "difficulty": 1,
+      "result": 1
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 3,
+      "difficulty": 2,
+      "result": 2
+    },
+    {
+      "page": 22,
+      "event": 4,
+      "index": 3,
+      "difficulty": 3,
+      "result": 3
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 0,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 0,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 0,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 0,
+      "difficulty": 3,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 1,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 1,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 1,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 1,
+      "difficulty": 3,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 2,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 2,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 2,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 2,
+      "difficulty": 3,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 3,
+      "difficulty": 0,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 3,
+      "difficulty": 1,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 3,
+      "difficulty": 2,
+      "result": 77
+    },
+    {
+      "page": 22,
+      "event": 5,
+      "index": 3,
+      "difficulty": 3,
+      "result": 77
+    }
+  ],
+  "scope": "Whole4b3420 menu dispatcher with native item lookup/difficulty propagation; five external menu/campaign helpers explicit constant-return doubles. Numeric page/event meanings and menu item labels unresolved; player files untouched."
+}

@@ -1,0 +1,143 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "result": "passed",
+  "cases": [
+    {
+      "kind": "normal_quantile",
+      "p": 1e-05,
+      "value": -4.264890535187653,
+      "error": 2.5873517284225045e-07
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.001,
+      "value": -3.0902043988253243,
+      "error": 2.7907342488919795e-05
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.01,
+      "value": -2.3263414733911243,
+      "error": 6.400649716464812e-06
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.05,
+      "value": -1.6448535846944992,
+      "error": 4.225697347592927e-08
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.1,
+      "value": -1.281551054393554,
+      "error": 5.111510468225333e-07
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.25,
+      "value": -0.6744895151004336,
+      "error": 2.3509564806012406e-07
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.5,
+      "value": 3.759942480636552e-08,
+      "error": 3.759942480636552e-08
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.75,
+      "value": 0.6744895151015222,
+      "error": 2.3509455948644842e-07
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.9,
+      "value": 1.2815509270343326,
+      "error": 6.385102682138211e-07
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.95,
+      "value": 1.6448534763337177,
+      "error": 1.5061775382463338e-07
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.99,
+      "value": 2.326341822787145,
+      "error": 6.051253695904535e-06
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.999,
+      "value": 3.0902082342326413,
+      "error": 2.407193517184325e-05
+    },
+    {
+      "kind": "normal_quantile",
+      "p": 0.99999,
+      "value": 4.264587511138576,
+      "error": 0.00030328278526425834
+    },
+    {
+      "kind": "quantile_clamp",
+      "p": 0.0,
+      "value": -5.0
+    },
+    {
+      "kind": "quantile_clamp",
+      "p": 1.0,
+      "value": 5.0
+    },
+    {
+      "kind": "matrix_inverse",
+      "dimension": 1,
+      "identity_residual": 0.0
+    },
+    {
+      "kind": "matrix_inverse",
+      "dimension": 2,
+      "identity_residual": 1.862645149230957e-08
+    },
+    {
+      "kind": "matrix_inverse",
+      "dimension": 3,
+      "identity_residual": 4.4889748140874985e-08
+    },
+    {
+      "kind": "matrix_inverse",
+      "dimension": 5,
+      "identity_residual": 7.704366000726992e-08
+    },
+    {
+      "kind": "matrix_rejection",
+      "dimension": 0,
+      "status": -2
+    },
+    {
+      "kind": "matrix_rejection",
+      "dimension": 1,
+      "status": -1
+    },
+    {
+      "kind": "matrix_rejection",
+      "dimension": 1,
+      "status": -1
+    },
+    {
+      "kind": "matrix_rejection",
+      "dimension": 2,
+      "status": -1
+    }
+  ],
+  "constants": {
+    "0x5c6008": 0.5,
+    "0x5c5f60": 100,
+    "0x5c5f64": 1000.0,
+    "0x5c6000": -2.0,
+    "0x5c5ff4": 0.009999999776482582,
+    "0x5c6070": 0.01
+  },
+  "scope": "Actual native 479f80 normal quantile and 47a0e0 positive-pivot symmetric matrix inverse, bounded offline emulator; not full training validation"
+}

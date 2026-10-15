@@ -1,0 +1,5648 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "assets": [
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "bytes": 5452,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 122,
+      "index_count": 10,
+      "sprite_name": "Effects0.spr",
+      "opcode_counts": {
+        "0": 100,
+        "1": 5,
+        "2": 1,
+        "3": 1,
+        "4": 4,
+        "5": 2,
+        "6": 9
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 14,
+          "status": "first_nonzero_event",
+          "steps": 14,
+          "event": 1
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 14,
+          "record_end": 27,
+          "status": "first_nonzero_event",
+          "steps": 13,
+          "event": 1
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 27,
+          "record_end": 42,
+          "status": "zero_event_cycle",
+          "steps": 24,
+          "event": 0
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 42,
+          "record_end": 57,
+          "status": "zero_event_cycle",
+          "steps": 24,
+          "event": 0
+        },
+        {
+          "animation_index": 4,
+          "record_begin": 57,
+          "record_end": 71,
+          "status": "zero_event_cycle",
+          "steps": 22,
+          "event": 0
+        },
+        {
+          "animation_index": 5,
+          "record_begin": 71,
+          "record_end": 85,
+          "status": "first_nonzero_event",
+          "steps": 13,
+          "event": 2
+        },
+        {
+          "animation_index": 6,
+          "record_begin": 85,
+          "record_end": 93,
+          "status": "zero_event_cycle",
+          "steps": 10,
+          "event": 0
+        },
+        {
+          "animation_index": 7,
+          "record_begin": 93,
+          "record_end": 116,
+          "status": "first_nonzero_event",
+          "steps": 42,
+          "event": 1
+        },
+        {
+          "animation_index": 8,
+          "record_begin": 116,
+          "record_end": 122,
+          "status": "first_nonzero_event",
+          "steps": 8,
+          "event": 2
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "bytes": 12224,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 275,
+      "index_count": 20,
+      "sprite_name": "Effects1.spr",
+      "opcode_counts": {
+        "0": 249,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 7,
+        "5": 0,
+        "6": 19
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 9,
+          "status": "first_nonzero_event",
+          "steps": 9,
+          "event": 1
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 9,
+          "record_end": 18,
+          "status": "first_nonzero_event",
+          "steps": 9,
+          "event": 1
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 18,
+          "record_end": 26,
+          "status": "first_nonzero_event",
+          "steps": 8,
+          "event": 1
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 26,
+          "record_end": 34,
+          "status": "first_nonzero_event",
+          "steps": 8,
+          "event": 1
+        },
+        {
+          "animation_index": 4,
+          "record_begin": 34,
+          "record_end": 42,
+          "status": "first_nonzero_event",
+          "steps": 8,
+          "event": 1
+        },
+        {
+          "animation_index": 5,
+          "record_begin": 42,
+          "record_end": 50,
+          "status": "first_nonzero_event",
+          "steps": 8,
+          "event": 1
+        },
+        {
+          "animation_index": 6,
+          "record_begin": 50,
+          "record_end": 58,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 7,
+          "record_begin": 58,
+          "record_end": 66,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 8,
+          "record_begin": 66,
+          "record_end": 74,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 9,
+          "record_begin": 74,
+          "record_end": 90,
+          "status": "first_nonzero_event",
+          "steps": 16,
+          "event": 1
+        },
+        {
+          "animation_index": 10,
+          "record_begin": 90,
+          "record_end": 143,
+          "status": "zero_event_cycle",
+          "steps": 52,
+          "event": 0
+        },
+        {
+          "animation_index": 11,
+          "record_begin": 143,
+          "record_end": 151,
+          "status": "first_nonzero_event",
+          "steps": 8,
+          "event": 1
+        },
+        {
+          "animation_index": 12,
+          "record_begin": 151,
+          "record_end": 158,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 1
+        },
+        {
+          "animation_index": 13,
+          "record_begin": 158,
+          "record_end": 171,
+          "status": "first_nonzero_event",
+          "steps": 13,
+          "event": 1
+        },
+        {
+          "animation_index": 14,
+          "record_begin": 171,
+          "record_end": 179,
+          "status": "first_nonzero_event",
+          "steps": 8,
+          "event": 1
+        },
+        {
+          "animation_index": 15,
+          "record_begin": 179,
+          "record_end": 187,
+          "status": "first_nonzero_event",
+          "steps": 8,
+          "event": 1
+        },
+        {
+          "animation_index": 16,
+          "record_begin": 187,
+          "record_end": 190,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 17,
+          "record_begin": 190,
+          "record_end": 233,
+          "status": "zero_event_cycle",
+          "steps": 42,
+          "event": 0
+        },
+        {
+          "animation_index": 18,
+          "record_begin": 233,
+          "record_end": 275,
+          "status": "zero_event_cycle",
+          "steps": 41,
+          "event": 0
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "bytes": 5080,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 114,
+      "index_count": 5,
+      "sprite_name": "Effects10.spr",
+      "opcode_counts": {
+        "0": 104,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 2,
+        "6": 4
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 25,
+          "status": "first_nonzero_event",
+          "steps": 8,
+          "event": 2
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 25,
+          "record_end": 68,
+          "status": "first_nonzero_event",
+          "steps": 20,
+          "event": 2
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 68,
+          "record_end": 91,
+          "status": "zero_event_cycle",
+          "steps": 17,
+          "event": 0
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 91,
+          "record_end": 114,
+          "status": "zero_event_cycle",
+          "steps": 22,
+          "event": 0
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "bytes": 8656,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 195,
+      "index_count": 8,
+      "sprite_name": "Effects11.spr",
+      "opcode_counts": {
+        "0": 181,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 3,
+        "6": 7
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 33,
+          "status": "first_nonzero_event",
+          "steps": 16,
+          "event": 2
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 33,
+          "record_end": 58,
+          "status": "first_nonzero_event",
+          "steps": 30,
+          "event": 1
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 58,
+          "record_end": 110,
+          "status": "first_nonzero_event",
+          "steps": 13,
+          "event": 2
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 110,
+          "record_end": 161,
+          "status": "first_nonzero_event",
+          "steps": 12,
+          "event": 2
+        },
+        {
+          "animation_index": 4,
+          "record_begin": 161,
+          "record_end": 162,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 5,
+          "record_begin": 162,
+          "record_end": 163,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 6,
+          "record_begin": 163,
+          "record_end": 195,
+          "status": "first_nonzero_event",
+          "steps": 32,
+          "event": 1
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "bytes": 1908,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 42,
+      "index_count": 4,
+      "sprite_name": "effects12.spr",
+      "opcode_counts": {
+        "0": 36,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 3
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 14,
+          "status": "first_nonzero_event",
+          "steps": 713,
+          "event": 1
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 14,
+          "record_end": 28,
+          "status": "first_nonzero_event",
+          "steps": 813,
+          "event": 1
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 28,
+          "record_end": 42,
+          "status": "first_nonzero_event",
+          "steps": 813,
+          "event": 1
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "bytes": 63132,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 1414,
+      "index_count": 218,
+      "sprite_name": "Effects2.spr",
+      "opcode_counts": {
+        "0": 922,
+        "1": 57,
+        "2": 0,
+        "3": 0,
+        "4": 201,
+        "5": 17,
+        "6": 217
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 14,
+          "status": "first_nonzero_event",
+          "steps": 31,
+          "event": 2
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 14,
+          "record_end": 28,
+          "status": "first_nonzero_event",
+          "steps": 31,
+          "event": 2
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 28,
+          "record_end": 42,
+          "status": "first_nonzero_event",
+          "steps": 31,
+          "event": 2
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 42,
+          "record_end": 56,
+          "status": "first_nonzero_event",
+          "steps": 31,
+          "event": 2
+        },
+        {
+          "animation_index": 4,
+          "record_begin": 56,
+          "record_end": 70,
+          "status": "first_nonzero_event",
+          "steps": 31,
+          "event": 2
+        },
+        {
+          "animation_index": 5,
+          "record_begin": 70,
+          "record_end": 84,
+          "status": "first_nonzero_event",
+          "steps": 31,
+          "event": 2
+        },
+        {
+          "animation_index": 6,
+          "record_begin": 84,
+          "record_end": 98,
+          "status": "first_nonzero_event",
+          "steps": 31,
+          "event": 2
+        },
+        {
+          "animation_index": 7,
+          "record_begin": 98,
+          "record_end": 112,
+          "status": "first_nonzero_event",
+          "steps": 31,
+          "event": 2
+        },
+        {
+          "animation_index": 8,
+          "record_begin": 112,
+          "record_end": 127,
+          "status": "zero_event_cycle",
+          "steps": 14,
+          "event": 0
+        },
+        {
+          "animation_index": 9,
+          "record_begin": 127,
+          "record_end": 142,
+          "status": "zero_event_cycle",
+          "steps": 14,
+          "event": 0
+        },
+        {
+          "animation_index": 10,
+          "record_begin": 142,
+          "record_end": 157,
+          "status": "zero_event_cycle",
+          "steps": 14,
+          "event": 0
+        },
+        {
+          "animation_index": 11,
+          "record_begin": 157,
+          "record_end": 172,
+          "status": "zero_event_cycle",
+          "steps": 14,
+          "event": 0
+        },
+        {
+          "animation_index": 12,
+          "record_begin": 172,
+          "record_end": 187,
+          "status": "zero_event_cycle",
+          "steps": 14,
+          "event": 0
+        },
+        {
+          "animation_index": 13,
+          "record_begin": 187,
+          "record_end": 202,
+          "status": "zero_event_cycle",
+          "steps": 14,
+          "event": 0
+        },
+        {
+          "animation_index": 14,
+          "record_begin": 202,
+          "record_end": 217,
+          "status": "zero_event_cycle",
+          "steps": 14,
+          "event": 0
+        },
+        {
+          "animation_index": 15,
+          "record_begin": 217,
+          "record_end": 232,
+          "status": "zero_event_cycle",
+          "steps": 14,
+          "event": 0
+        },
+        {
+          "animation_index": 16,
+          "record_begin": 232,
+          "record_end": 243,
+          "status": "zero_event_cycle",
+          "steps": 10,
+          "event": 0
+        },
+        {
+          "animation_index": 17,
+          "record_begin": 243,
+          "record_end": 251,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 18,
+          "record_begin": 251,
+          "record_end": 259,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 19,
+          "record_begin": 259,
+          "record_end": 267,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 20,
+          "record_begin": 267,
+          "record_end": 275,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 21,
+          "record_begin": 275,
+          "record_end": 283,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 22,
+          "record_begin": 283,
+          "record_end": 291,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 23,
+          "record_begin": 291,
+          "record_end": 299,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 24,
+          "record_begin": 299,
+          "record_end": 307,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 25,
+          "record_begin": 307,
+          "record_end": 324,
+          "status": "first_nonzero_event",
+          "steps": 19,
+          "event": 1
+        },
+        {
+          "animation_index": 26,
+          "record_begin": 324,
+          "record_end": 326,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 27,
+          "record_begin": 326,
+          "record_end": 334,
+          "status": "first_nonzero_event",
+          "steps": 8,
+          "event": 1
+        },
+        {
+          "animation_index": 28,
+          "record_begin": 334,
+          "record_end": 340,
+          "status": "first_nonzero_event",
+          "steps": 6,
+          "event": 1
+        },
+        {
+          "animation_index": 29,
+          "record_begin": 340,
+          "record_end": 345,
+          "status": "first_nonzero_event",
+          "steps": 5,
+          "event": 1
+        },
+        {
+          "animation_index": 30,
+          "record_begin": 345,
+          "record_end": 367,
+          "status": "zero_event_cycle",
+          "steps": 21,
+          "event": 0
+        },
+        {
+          "animation_index": 31,
+          "record_begin": 367,
+          "record_end": 370,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 32,
+          "record_begin": 370,
+          "record_end": 403,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 2
+        },
+        {
+          "animation_index": 33,
+          "record_begin": 403,
+          "record_end": 436,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 2
+        },
+        {
+          "animation_index": 34,
+          "record_begin": 436,
+          "record_end": 469,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 2
+        },
+        {
+          "animation_index": 35,
+          "record_begin": 469,
+          "record_end": 502,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 2
+        },
+        {
+          "animation_index": 36,
+          "record_begin": 502,
+          "record_end": 536,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 2
+        },
+        {
+          "animation_index": 37,
+          "record_begin": 536,
+          "record_end": 569,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 2
+        },
+        {
+          "animation_index": 38,
+          "record_begin": 569,
+          "record_end": 603,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 2
+        },
+        {
+          "animation_index": 39,
+          "record_begin": 603,
+          "record_end": 637,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 2
+        },
+        {
+          "animation_index": 40,
+          "record_begin": 637,
+          "record_end": 650,
+          "status": "zero_event_cycle",
+          "steps": 20,
+          "event": 0
+        },
+        {
+          "animation_index": 41,
+          "record_begin": 650,
+          "record_end": 663,
+          "status": "zero_event_cycle",
+          "steps": 20,
+          "event": 0
+        },
+        {
+          "animation_index": 42,
+          "record_begin": 663,
+          "record_end": 676,
+          "status": "zero_event_cycle",
+          "steps": 20,
+          "event": 0
+        },
+        {
+          "animation_index": 43,
+          "record_begin": 676,
+          "record_end": 689,
+          "status": "zero_event_cycle",
+          "steps": 20,
+          "event": 0
+        },
+        {
+          "animation_index": 44,
+          "record_begin": 689,
+          "record_end": 702,
+          "status": "zero_event_cycle",
+          "steps": 20,
+          "event": 0
+        },
+        {
+          "animation_index": 45,
+          "record_begin": 702,
+          "record_end": 715,
+          "status": "zero_event_cycle",
+          "steps": 20,
+          "event": 0
+        },
+        {
+          "animation_index": 46,
+          "record_begin": 715,
+          "record_end": 728,
+          "status": "zero_event_cycle",
+          "steps": 20,
+          "event": 0
+        },
+        {
+          "animation_index": 47,
+          "record_begin": 728,
+          "record_end": 741,
+          "status": "zero_event_cycle",
+          "steps": 20,
+          "event": 0
+        },
+        {
+          "animation_index": 48,
+          "record_begin": 741,
+          "record_end": 751,
+          "status": "first_nonzero_event",
+          "steps": 10,
+          "event": 1
+        },
+        {
+          "animation_index": 49,
+          "record_begin": 751,
+          "record_end": 780,
+          "status": "zero_event_cycle",
+          "steps": 40,
+          "event": 0
+        },
+        {
+          "animation_index": 50,
+          "record_begin": 780,
+          "record_end": 788,
+          "status": "first_nonzero_event",
+          "steps": 12,
+          "event": 1
+        },
+        {
+          "animation_index": 51,
+          "record_begin": 788,
+          "record_end": 795,
+          "status": "zero_event_cycle",
+          "steps": 8,
+          "event": 0
+        },
+        {
+          "animation_index": 52,
+          "record_begin": 795,
+          "record_end": 805,
+          "status": "zero_event_cycle",
+          "steps": 9,
+          "event": 0
+        },
+        {
+          "animation_index": 53,
+          "record_begin": 805,
+          "record_end": 869,
+          "status": "zero_event_cycle",
+          "steps": 122,
+          "event": 0
+        },
+        {
+          "animation_index": 54,
+          "record_begin": 869,
+          "record_end": 879,
+          "status": "zero_event_cycle",
+          "steps": 9,
+          "event": 0
+        },
+        {
+          "animation_index": 55,
+          "record_begin": 879,
+          "record_end": 907,
+          "status": "first_nonzero_event",
+          "steps": 28,
+          "event": 1
+        },
+        {
+          "animation_index": 56,
+          "record_begin": 907,
+          "record_end": 934,
+          "status": "first_nonzero_event",
+          "steps": 6,
+          "event": 2
+        },
+        {
+          "animation_index": 57,
+          "record_begin": 934,
+          "record_end": 937,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 58,
+          "record_begin": 937,
+          "record_end": 940,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 59,
+          "record_begin": 940,
+          "record_end": 943,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 60,
+          "record_begin": 943,
+          "record_end": 946,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 61,
+          "record_begin": 946,
+          "record_end": 949,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 62,
+          "record_begin": 949,
+          "record_end": 952,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 63,
+          "record_begin": 952,
+          "record_end": 955,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 64,
+          "record_begin": 955,
+          "record_end": 958,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 65,
+          "record_begin": 958,
+          "record_end": 961,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 66,
+          "record_begin": 961,
+          "record_end": 964,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 67,
+          "record_begin": 964,
+          "record_end": 967,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 68,
+          "record_begin": 967,
+          "record_end": 970,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 69,
+          "record_begin": 970,
+          "record_end": 973,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 70,
+          "record_begin": 973,
+          "record_end": 976,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 71,
+          "record_begin": 976,
+          "record_end": 979,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 72,
+          "record_begin": 979,
+          "record_end": 982,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 73,
+          "record_begin": 982,
+          "record_end": 985,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 74,
+          "record_begin": 985,
+          "record_end": 988,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 75,
+          "record_begin": 988,
+          "record_end": 991,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 76,
+          "record_begin": 991,
+          "record_end": 994,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 77,
+          "record_begin": 994,
+          "record_end": 997,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 78,
+          "record_begin": 997,
+          "record_end": 1000,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 79,
+          "record_begin": 1000,
+          "record_end": 1003,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 80,
+          "record_begin": 1003,
+          "record_end": 1006,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 81,
+          "record_begin": 1006,
+          "record_end": 1009,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 82,
+          "record_begin": 1009,
+          "record_end": 1012,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 83,
+          "record_begin": 1012,
+          "record_end": 1015,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 84,
+          "record_begin": 1015,
+          "record_end": 1018,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 85,
+          "record_begin": 1018,
+          "record_end": 1021,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 86,
+          "record_begin": 1021,
+          "record_end": 1024,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 87,
+          "record_begin": 1024,
+          "record_end": 1027,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 88,
+          "record_begin": 1027,
+          "record_end": 1030,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 89,
+          "record_begin": 1030,
+          "record_end": 1033,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 90,
+          "record_begin": 1033,
+          "record_end": 1036,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 91,
+          "record_begin": 1036,
+          "record_end": 1039,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 92,
+          "record_begin": 1039,
+          "record_end": 1042,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 93,
+          "record_begin": 1042,
+          "record_end": 1045,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 94,
+          "record_begin": 1045,
+          "record_end": 1048,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 95,
+          "record_begin": 1048,
+          "record_end": 1051,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 96,
+          "record_begin": 1051,
+          "record_end": 1054,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 97,
+          "record_begin": 1054,
+          "record_end": 1057,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 98,
+          "record_begin": 1057,
+          "record_end": 1060,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 99,
+          "record_begin": 1060,
+          "record_end": 1063,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 100,
+          "record_begin": 1063,
+          "record_end": 1066,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 101,
+          "record_begin": 1066,
+          "record_end": 1069,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 102,
+          "record_begin": 1069,
+          "record_end": 1072,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 103,
+          "record_begin": 1072,
+          "record_end": 1075,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 104,
+          "record_begin": 1075,
+          "record_end": 1078,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 105,
+          "record_begin": 1078,
+          "record_end": 1081,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 106,
+          "record_begin": 1081,
+          "record_end": 1084,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 107,
+          "record_begin": 1084,
+          "record_end": 1087,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 108,
+          "record_begin": 1087,
+          "record_end": 1090,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 109,
+          "record_begin": 1090,
+          "record_end": 1093,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 110,
+          "record_begin": 1093,
+          "record_end": 1096,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 111,
+          "record_begin": 1096,
+          "record_end": 1099,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 112,
+          "record_begin": 1099,
+          "record_end": 1102,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 113,
+          "record_begin": 1102,
+          "record_end": 1105,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 114,
+          "record_begin": 1105,
+          "record_end": 1108,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 115,
+          "record_begin": 1108,
+          "record_end": 1111,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 116,
+          "record_begin": 1111,
+          "record_end": 1114,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 117,
+          "record_begin": 1114,
+          "record_end": 1117,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 118,
+          "record_begin": 1117,
+          "record_end": 1120,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 119,
+          "record_begin": 1120,
+          "record_end": 1123,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 120,
+          "record_begin": 1123,
+          "record_end": 1126,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 121,
+          "record_begin": 1126,
+          "record_end": 1129,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 122,
+          "record_begin": 1129,
+          "record_end": 1132,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 123,
+          "record_begin": 1132,
+          "record_end": 1135,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 124,
+          "record_begin": 1135,
+          "record_end": 1138,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 125,
+          "record_begin": 1138,
+          "record_end": 1141,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 126,
+          "record_begin": 1141,
+          "record_end": 1144,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 127,
+          "record_begin": 1144,
+          "record_end": 1147,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 128,
+          "record_begin": 1147,
+          "record_end": 1150,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 129,
+          "record_begin": 1150,
+          "record_end": 1153,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 130,
+          "record_begin": 1153,
+          "record_end": 1156,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 131,
+          "record_begin": 1156,
+          "record_end": 1159,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 132,
+          "record_begin": 1159,
+          "record_end": 1162,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 133,
+          "record_begin": 1162,
+          "record_end": 1165,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 134,
+          "record_begin": 1165,
+          "record_end": 1168,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 135,
+          "record_begin": 1168,
+          "record_end": 1171,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 136,
+          "record_begin": 1171,
+          "record_end": 1174,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 137,
+          "record_begin": 1174,
+          "record_end": 1177,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 138,
+          "record_begin": 1177,
+          "record_end": 1180,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 139,
+          "record_begin": 1180,
+          "record_end": 1183,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 140,
+          "record_begin": 1183,
+          "record_end": 1186,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 141,
+          "record_begin": 1186,
+          "record_end": 1189,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 142,
+          "record_begin": 1189,
+          "record_end": 1192,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 143,
+          "record_begin": 1192,
+          "record_end": 1195,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 144,
+          "record_begin": 1195,
+          "record_end": 1198,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 145,
+          "record_begin": 1198,
+          "record_end": 1201,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 146,
+          "record_begin": 1201,
+          "record_end": 1204,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 147,
+          "record_begin": 1204,
+          "record_end": 1207,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 148,
+          "record_begin": 1207,
+          "record_end": 1210,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 149,
+          "record_begin": 1210,
+          "record_end": 1213,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 150,
+          "record_begin": 1213,
+          "record_end": 1216,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 151,
+          "record_begin": 1216,
+          "record_end": 1219,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 152,
+          "record_begin": 1219,
+          "record_end": 1222,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 153,
+          "record_begin": 1222,
+          "record_end": 1225,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 154,
+          "record_begin": 1225,
+          "record_end": 1228,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 155,
+          "record_begin": 1228,
+          "record_end": 1231,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 156,
+          "record_begin": 1231,
+          "record_end": 1234,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 157,
+          "record_begin": 1234,
+          "record_end": 1237,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 158,
+          "record_begin": 1237,
+          "record_end": 1240,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 159,
+          "record_begin": 1240,
+          "record_end": 1243,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 160,
+          "record_begin": 1243,
+          "record_end": 1246,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 161,
+          "record_begin": 1246,
+          "record_end": 1249,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 162,
+          "record_begin": 1249,
+          "record_end": 1252,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 163,
+          "record_begin": 1252,
+          "record_end": 1255,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 164,
+          "record_begin": 1255,
+          "record_end": 1258,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 165,
+          "record_begin": 1258,
+          "record_end": 1261,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 166,
+          "record_begin": 1261,
+          "record_end": 1264,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 167,
+          "record_begin": 1264,
+          "record_end": 1267,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 168,
+          "record_begin": 1267,
+          "record_end": 1270,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 169,
+          "record_begin": 1270,
+          "record_end": 1273,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 170,
+          "record_begin": 1273,
+          "record_end": 1276,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 171,
+          "record_begin": 1276,
+          "record_end": 1279,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 172,
+          "record_begin": 1279,
+          "record_end": 1282,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 173,
+          "record_begin": 1282,
+          "record_end": 1285,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 174,
+          "record_begin": 1285,
+          "record_end": 1288,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 175,
+          "record_begin": 1288,
+          "record_end": 1291,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 176,
+          "record_begin": 1291,
+          "record_end": 1294,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 177,
+          "record_begin": 1294,
+          "record_end": 1297,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 178,
+          "record_begin": 1297,
+          "record_end": 1300,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 179,
+          "record_begin": 1300,
+          "record_end": 1303,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 180,
+          "record_begin": 1303,
+          "record_end": 1306,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 181,
+          "record_begin": 1306,
+          "record_end": 1309,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 182,
+          "record_begin": 1309,
+          "record_end": 1312,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 183,
+          "record_begin": 1312,
+          "record_end": 1315,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 184,
+          "record_begin": 1315,
+          "record_end": 1318,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 185,
+          "record_begin": 1318,
+          "record_end": 1321,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 186,
+          "record_begin": 1321,
+          "record_end": 1324,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 187,
+          "record_begin": 1324,
+          "record_end": 1327,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 188,
+          "record_begin": 1327,
+          "record_end": 1330,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 189,
+          "record_begin": 1330,
+          "record_end": 1333,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 190,
+          "record_begin": 1333,
+          "record_end": 1336,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 191,
+          "record_begin": 1336,
+          "record_end": 1339,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 192,
+          "record_begin": 1339,
+          "record_end": 1342,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 193,
+          "record_begin": 1342,
+          "record_end": 1345,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 194,
+          "record_begin": 1345,
+          "record_end": 1348,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 195,
+          "record_begin": 1348,
+          "record_end": 1351,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 196,
+          "record_begin": 1351,
+          "record_end": 1354,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 197,
+          "record_begin": 1354,
+          "record_end": 1357,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 198,
+          "record_begin": 1357,
+          "record_end": 1360,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 199,
+          "record_begin": 1360,
+          "record_end": 1363,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 200,
+          "record_begin": 1363,
+          "record_end": 1366,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 201,
+          "record_begin": 1366,
+          "record_end": 1369,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 202,
+          "record_begin": 1369,
+          "record_end": 1372,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 203,
+          "record_begin": 1372,
+          "record_end": 1375,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 204,
+          "record_begin": 1375,
+          "record_end": 1378,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 205,
+          "record_begin": 1378,
+          "record_end": 1381,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 206,
+          "record_begin": 1381,
+          "record_end": 1384,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 207,
+          "record_begin": 1384,
+          "record_end": 1387,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 208,
+          "record_begin": 1387,
+          "record_end": 1390,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 209,
+          "record_begin": 1390,
+          "record_end": 1393,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 210,
+          "record_begin": 1393,
+          "record_end": 1396,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 211,
+          "record_begin": 1396,
+          "record_end": 1399,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 212,
+          "record_begin": 1399,
+          "record_end": 1402,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 213,
+          "record_begin": 1402,
+          "record_end": 1405,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 214,
+          "record_begin": 1405,
+          "record_end": 1408,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 215,
+          "record_begin": 1408,
+          "record_end": 1411,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 216,
+          "record_begin": 1411,
+          "record_end": 1414,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "bytes": 16592,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 370,
+      "index_count": 67,
+      "sprite_name": "Effects3.spr",
+      "opcode_counts": {
+        "0": 290,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 6,
+        "5": 8,
+        "6": 66
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 38,
+          "status": "first_nonzero_event",
+          "steps": 6,
+          "event": 2
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 38,
+          "record_end": 74,
+          "status": "first_nonzero_event",
+          "steps": 6,
+          "event": 2
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 74,
+          "record_end": 111,
+          "status": "first_nonzero_event",
+          "steps": 6,
+          "event": 2
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 111,
+          "record_end": 148,
+          "status": "first_nonzero_event",
+          "steps": 6,
+          "event": 2
+        },
+        {
+          "animation_index": 4,
+          "record_begin": 148,
+          "record_end": 162,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 5,
+          "record_begin": 162,
+          "record_end": 172,
+          "status": "zero_event_cycle",
+          "steps": 9,
+          "event": 0
+        },
+        {
+          "animation_index": 6,
+          "record_begin": 172,
+          "record_end": 186,
+          "status": "first_nonzero_event",
+          "steps": 14,
+          "event": 1
+        },
+        {
+          "animation_index": 7,
+          "record_begin": 186,
+          "record_end": 194,
+          "status": "first_nonzero_event",
+          "steps": 8,
+          "event": 1
+        },
+        {
+          "animation_index": 8,
+          "record_begin": 194,
+          "record_end": 205,
+          "status": "first_nonzero_event",
+          "steps": 11,
+          "event": 1
+        },
+        {
+          "animation_index": 9,
+          "record_begin": 205,
+          "record_end": 214,
+          "status": "first_nonzero_event",
+          "steps": 9,
+          "event": 1
+        },
+        {
+          "animation_index": 10,
+          "record_begin": 214,
+          "record_end": 227,
+          "status": "first_nonzero_event",
+          "steps": 13,
+          "event": 1
+        },
+        {
+          "animation_index": 11,
+          "record_begin": 227,
+          "record_end": 261,
+          "status": "first_nonzero_event",
+          "steps": 34,
+          "event": 1
+        },
+        {
+          "animation_index": 12,
+          "record_begin": 261,
+          "record_end": 279,
+          "status": "first_nonzero_event",
+          "steps": 18,
+          "event": 1
+        },
+        {
+          "animation_index": 13,
+          "record_begin": 279,
+          "record_end": 288,
+          "status": "first_nonzero_event",
+          "steps": 9,
+          "event": 1
+        },
+        {
+          "animation_index": 14,
+          "record_begin": 288,
+          "record_end": 319,
+          "status": "first_nonzero_event",
+          "steps": 31,
+          "event": 1
+        },
+        {
+          "animation_index": 15,
+          "record_begin": 319,
+          "record_end": 320,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 16,
+          "record_begin": 320,
+          "record_end": 321,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 17,
+          "record_begin": 321,
+          "record_end": 322,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 18,
+          "record_begin": 322,
+          "record_end": 323,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 19,
+          "record_begin": 323,
+          "record_end": 324,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 20,
+          "record_begin": 324,
+          "record_end": 325,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 21,
+          "record_begin": 325,
+          "record_end": 326,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 22,
+          "record_begin": 326,
+          "record_end": 327,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 23,
+          "record_begin": 327,
+          "record_end": 328,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 24,
+          "record_begin": 328,
+          "record_end": 329,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 25,
+          "record_begin": 329,
+          "record_end": 330,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 26,
+          "record_begin": 330,
+          "record_end": 331,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 27,
+          "record_begin": 331,
+          "record_end": 332,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 28,
+          "record_begin": 332,
+          "record_end": 333,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 29,
+          "record_begin": 333,
+          "record_end": 334,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 30,
+          "record_begin": 334,
+          "record_end": 335,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 31,
+          "record_begin": 335,
+          "record_end": 336,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 32,
+          "record_begin": 336,
+          "record_end": 337,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 33,
+          "record_begin": 337,
+          "record_end": 338,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 34,
+          "record_begin": 338,
+          "record_end": 339,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 35,
+          "record_begin": 339,
+          "record_end": 340,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 36,
+          "record_begin": 340,
+          "record_end": 341,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 37,
+          "record_begin": 341,
+          "record_end": 342,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 38,
+          "record_begin": 342,
+          "record_end": 343,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 39,
+          "record_begin": 343,
+          "record_end": 344,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 40,
+          "record_begin": 344,
+          "record_end": 345,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 41,
+          "record_begin": 345,
+          "record_end": 346,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 42,
+          "record_begin": 346,
+          "record_end": 347,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 43,
+          "record_begin": 347,
+          "record_end": 348,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 44,
+          "record_begin": 348,
+          "record_end": 349,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 45,
+          "record_begin": 349,
+          "record_end": 350,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 46,
+          "record_begin": 350,
+          "record_end": 351,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 47,
+          "record_begin": 351,
+          "record_end": 352,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 48,
+          "record_begin": 352,
+          "record_end": 353,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 49,
+          "record_begin": 353,
+          "record_end": 354,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 50,
+          "record_begin": 354,
+          "record_end": 355,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 51,
+          "record_begin": 355,
+          "record_end": 356,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 52,
+          "record_begin": 356,
+          "record_end": 357,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 53,
+          "record_begin": 357,
+          "record_end": 358,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 54,
+          "record_begin": 358,
+          "record_end": 359,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 55,
+          "record_begin": 359,
+          "record_end": 360,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 56,
+          "record_begin": 360,
+          "record_end": 361,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 57,
+          "record_begin": 361,
+          "record_end": 362,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 58,
+          "record_begin": 362,
+          "record_end": 363,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 59,
+          "record_begin": 363,
+          "record_end": 364,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 60,
+          "record_begin": 364,
+          "record_end": 365,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 61,
+          "record_begin": 365,
+          "record_end": 366,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 62,
+          "record_begin": 366,
+          "record_end": 367,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 63,
+          "record_begin": 367,
+          "record_end": 368,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 64,
+          "record_begin": 368,
+          "record_end": 369,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 65,
+          "record_begin": 369,
+          "record_end": 370,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "bytes": 9644,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 216,
+      "index_count": 24,
+      "sprite_name": "Effects4.spr",
+      "opcode_counts": {
+        "0": 172,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 21,
+        "5": 0,
+        "6": 23
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 13,
+          "status": "zero_event_cycle",
+          "steps": 12,
+          "event": 0
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 13,
+          "record_end": 26,
+          "status": "zero_event_cycle",
+          "steps": 12,
+          "event": 0
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 26,
+          "record_end": 34,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 34,
+          "record_end": 42,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 4,
+          "record_begin": 42,
+          "record_end": 50,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 5,
+          "record_begin": 50,
+          "record_end": 58,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 6,
+          "record_begin": 58,
+          "record_end": 66,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 7,
+          "record_begin": 66,
+          "record_end": 74,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 8,
+          "record_begin": 74,
+          "record_end": 82,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 9,
+          "record_begin": 82,
+          "record_end": 90,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 10,
+          "record_begin": 90,
+          "record_end": 98,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 11,
+          "record_begin": 98,
+          "record_end": 106,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 12,
+          "record_begin": 106,
+          "record_end": 114,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 13,
+          "record_begin": 114,
+          "record_end": 122,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 14,
+          "record_begin": 122,
+          "record_end": 130,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 15,
+          "record_begin": 130,
+          "record_end": 138,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 16,
+          "record_begin": 138,
+          "record_end": 146,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 17,
+          "record_begin": 146,
+          "record_end": 154,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 18,
+          "record_begin": 154,
+          "record_end": 162,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 19,
+          "record_begin": 162,
+          "record_end": 170,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 20,
+          "record_begin": 170,
+          "record_end": 177,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 1
+        },
+        {
+          "animation_index": 21,
+          "record_begin": 177,
+          "record_end": 215,
+          "status": "zero_event_cycle",
+          "steps": 37,
+          "event": 0
+        },
+        {
+          "animation_index": 22,
+          "record_begin": 215,
+          "record_end": 216,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "bytes": 57944,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 1310,
+      "index_count": 65,
+      "sprite_name": "Effects5.spr",
+      "opcode_counts": {
+        "0": 1238,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 3,
+        "6": 64
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 17,
+          "status": "first_nonzero_event",
+          "steps": 45,
+          "event": 1
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 17,
+          "record_end": 28,
+          "status": "first_nonzero_event",
+          "steps": 18,
+          "event": 1
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 28,
+          "record_end": 35,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 1
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 35,
+          "record_end": 49,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 2
+        },
+        {
+          "animation_index": 4,
+          "record_begin": 49,
+          "record_end": 59,
+          "status": "first_nonzero_event",
+          "steps": 10,
+          "event": 1
+        },
+        {
+          "animation_index": 5,
+          "record_begin": 59,
+          "record_end": 62,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 6,
+          "record_begin": 62,
+          "record_end": 90,
+          "status": "zero_event_cycle",
+          "steps": 22,
+          "event": 0
+        },
+        {
+          "animation_index": 7,
+          "record_begin": 90,
+          "record_end": 108,
+          "status": "first_nonzero_event",
+          "steps": 48,
+          "event": 1
+        },
+        {
+          "animation_index": 8,
+          "record_begin": 108,
+          "record_end": 121,
+          "status": "first_nonzero_event",
+          "steps": 13,
+          "event": 1
+        },
+        {
+          "animation_index": 9,
+          "record_begin": 121,
+          "record_end": 138,
+          "status": "first_nonzero_event",
+          "steps": 17,
+          "event": 1
+        },
+        {
+          "animation_index": 10,
+          "record_begin": 138,
+          "record_end": 156,
+          "status": "first_nonzero_event",
+          "steps": 11,
+          "event": 2
+        },
+        {
+          "animation_index": 11,
+          "record_begin": 156,
+          "record_end": 162,
+          "status": "first_nonzero_event",
+          "steps": 6,
+          "event": 1
+        },
+        {
+          "animation_index": 12,
+          "record_begin": 162,
+          "record_end": 184,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 13,
+          "record_begin": 184,
+          "record_end": 206,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 14,
+          "record_begin": 206,
+          "record_end": 228,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 15,
+          "record_begin": 228,
+          "record_end": 250,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 16,
+          "record_begin": 250,
+          "record_end": 272,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 17,
+          "record_begin": 272,
+          "record_end": 294,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 18,
+          "record_begin": 294,
+          "record_end": 316,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 19,
+          "record_begin": 316,
+          "record_end": 338,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 20,
+          "record_begin": 338,
+          "record_end": 360,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 21,
+          "record_begin": 360,
+          "record_end": 382,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 22,
+          "record_begin": 382,
+          "record_end": 404,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 23,
+          "record_begin": 404,
+          "record_end": 426,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 24,
+          "record_begin": 426,
+          "record_end": 448,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 25,
+          "record_begin": 448,
+          "record_end": 470,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 26,
+          "record_begin": 470,
+          "record_end": 492,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 27,
+          "record_begin": 492,
+          "record_end": 514,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 28,
+          "record_begin": 514,
+          "record_end": 536,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 29,
+          "record_begin": 536,
+          "record_end": 558,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 30,
+          "record_begin": 558,
+          "record_end": 580,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 31,
+          "record_begin": 580,
+          "record_end": 602,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 32,
+          "record_begin": 602,
+          "record_end": 624,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 33,
+          "record_begin": 624,
+          "record_end": 646,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 34,
+          "record_begin": 646,
+          "record_end": 668,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 35,
+          "record_begin": 668,
+          "record_end": 690,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 36,
+          "record_begin": 690,
+          "record_end": 712,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 37,
+          "record_begin": 712,
+          "record_end": 734,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 38,
+          "record_begin": 734,
+          "record_end": 756,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 39,
+          "record_begin": 756,
+          "record_end": 778,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 40,
+          "record_begin": 778,
+          "record_end": 800,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 41,
+          "record_begin": 800,
+          "record_end": 822,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 42,
+          "record_begin": 822,
+          "record_end": 844,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 43,
+          "record_begin": 844,
+          "record_end": 866,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 44,
+          "record_begin": 866,
+          "record_end": 888,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 45,
+          "record_begin": 888,
+          "record_end": 910,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 46,
+          "record_begin": 910,
+          "record_end": 932,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 47,
+          "record_begin": 932,
+          "record_end": 954,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 48,
+          "record_begin": 954,
+          "record_end": 976,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 49,
+          "record_begin": 976,
+          "record_end": 998,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 50,
+          "record_begin": 998,
+          "record_end": 1020,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 51,
+          "record_begin": 1020,
+          "record_end": 1042,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 52,
+          "record_begin": 1042,
+          "record_end": 1064,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 53,
+          "record_begin": 1064,
+          "record_end": 1086,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 54,
+          "record_begin": 1086,
+          "record_end": 1108,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 55,
+          "record_begin": 1108,
+          "record_end": 1130,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 56,
+          "record_begin": 1130,
+          "record_end": 1152,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 57,
+          "record_begin": 1152,
+          "record_end": 1174,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 58,
+          "record_begin": 1174,
+          "record_end": 1196,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 59,
+          "record_begin": 1196,
+          "record_end": 1218,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 60,
+          "record_begin": 1218,
+          "record_end": 1240,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 61,
+          "record_begin": 1240,
+          "record_end": 1262,
+          "status": "first_nonzero_event",
+          "steps": 22,
+          "event": 1
+        },
+        {
+          "animation_index": 62,
+          "record_begin": 1262,
+          "record_end": 1293,
+          "status": "first_nonzero_event",
+          "steps": 12,
+          "event": 2
+        },
+        {
+          "animation_index": 63,
+          "record_begin": 1293,
+          "record_end": 1310,
+          "status": "first_nonzero_event",
+          "steps": 17,
+          "event": 1
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "bytes": 188556,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 4263,
+      "index_count": 235,
+      "sprite_name": "Effects6.spr",
+      "opcode_counts": {
+        "0": 3188,
+        "1": 516,
+        "2": 0,
+        "3": 0,
+        "4": 200,
+        "5": 125,
+        "6": 234
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 3,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 3,
+          "record_end": 6,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 6,
+          "record_end": 9,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 9,
+          "record_end": 12,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 4,
+          "record_begin": 12,
+          "record_end": 15,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 5,
+          "record_begin": 15,
+          "record_end": 17,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 6,
+          "record_begin": 17,
+          "record_end": 20,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 7,
+          "record_begin": 20,
+          "record_end": 23,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 8,
+          "record_begin": 23,
+          "record_end": 26,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 9,
+          "record_begin": 26,
+          "record_end": 29,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 10,
+          "record_begin": 29,
+          "record_end": 32,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 11,
+          "record_begin": 32,
+          "record_end": 35,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 12,
+          "record_begin": 35,
+          "record_end": 38,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 13,
+          "record_begin": 38,
+          "record_end": 41,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 14,
+          "record_begin": 41,
+          "record_end": 44,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 15,
+          "record_begin": 44,
+          "record_end": 47,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 16,
+          "record_begin": 47,
+          "record_end": 50,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 17,
+          "record_begin": 50,
+          "record_end": 53,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 18,
+          "record_begin": 53,
+          "record_end": 56,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 19,
+          "record_begin": 56,
+          "record_end": 57,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 20,
+          "record_begin": 57,
+          "record_end": 60,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 21,
+          "record_begin": 60,
+          "record_end": 63,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 22,
+          "record_begin": 63,
+          "record_end": 66,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 23,
+          "record_begin": 66,
+          "record_end": 69,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 24,
+          "record_begin": 69,
+          "record_end": 72,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 25,
+          "record_begin": 72,
+          "record_end": 75,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 26,
+          "record_begin": 75,
+          "record_end": 78,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 27,
+          "record_begin": 78,
+          "record_end": 81,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 28,
+          "record_begin": 81,
+          "record_end": 84,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 29,
+          "record_begin": 84,
+          "record_end": 87,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 30,
+          "record_begin": 87,
+          "record_end": 90,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 31,
+          "record_begin": 90,
+          "record_end": 93,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 32,
+          "record_begin": 93,
+          "record_end": 96,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 33,
+          "record_begin": 96,
+          "record_end": 99,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 34,
+          "record_begin": 99,
+          "record_end": 102,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 35,
+          "record_begin": 102,
+          "record_end": 105,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 36,
+          "record_begin": 105,
+          "record_end": 108,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 37,
+          "record_begin": 108,
+          "record_end": 111,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 38,
+          "record_begin": 111,
+          "record_end": 114,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 39,
+          "record_begin": 114,
+          "record_end": 117,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 40,
+          "record_begin": 117,
+          "record_end": 120,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 41,
+          "record_begin": 120,
+          "record_end": 123,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 42,
+          "record_begin": 123,
+          "record_end": 126,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 43,
+          "record_begin": 126,
+          "record_end": 129,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 44,
+          "record_begin": 129,
+          "record_end": 132,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 45,
+          "record_begin": 132,
+          "record_end": 135,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 46,
+          "record_begin": 135,
+          "record_end": 138,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 47,
+          "record_begin": 138,
+          "record_end": 139,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 48,
+          "record_begin": 139,
+          "record_end": 142,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 49,
+          "record_begin": 142,
+          "record_end": 145,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 50,
+          "record_begin": 145,
+          "record_end": 146,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 51,
+          "record_begin": 146,
+          "record_end": 149,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 52,
+          "record_begin": 149,
+          "record_end": 152,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 53,
+          "record_begin": 152,
+          "record_end": 155,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 54,
+          "record_begin": 155,
+          "record_end": 158,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 55,
+          "record_begin": 158,
+          "record_end": 161,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 56,
+          "record_begin": 161,
+          "record_end": 164,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 57,
+          "record_begin": 164,
+          "record_end": 166,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 58,
+          "record_begin": 166,
+          "record_end": 168,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 59,
+          "record_begin": 168,
+          "record_end": 170,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 60,
+          "record_begin": 170,
+          "record_end": 173,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 61,
+          "record_begin": 173,
+          "record_end": 175,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 62,
+          "record_begin": 175,
+          "record_end": 178,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 63,
+          "record_begin": 178,
+          "record_end": 181,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 64,
+          "record_begin": 181,
+          "record_end": 184,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 65,
+          "record_begin": 184,
+          "record_end": 187,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 66,
+          "record_begin": 187,
+          "record_end": 190,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 67,
+          "record_begin": 190,
+          "record_end": 193,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 68,
+          "record_begin": 193,
+          "record_end": 196,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 69,
+          "record_begin": 196,
+          "record_end": 199,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 70,
+          "record_begin": 199,
+          "record_end": 202,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 71,
+          "record_begin": 202,
+          "record_end": 205,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 72,
+          "record_begin": 205,
+          "record_end": 208,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 73,
+          "record_begin": 208,
+          "record_end": 211,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 74,
+          "record_begin": 211,
+          "record_end": 214,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 75,
+          "record_begin": 214,
+          "record_end": 217,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 76,
+          "record_begin": 217,
+          "record_end": 220,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 77,
+          "record_begin": 220,
+          "record_end": 223,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 78,
+          "record_begin": 223,
+          "record_end": 226,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 79,
+          "record_begin": 226,
+          "record_end": 229,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 80,
+          "record_begin": 229,
+          "record_end": 232,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 81,
+          "record_begin": 232,
+          "record_end": 234,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 82,
+          "record_begin": 234,
+          "record_end": 237,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 83,
+          "record_begin": 237,
+          "record_end": 239,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 84,
+          "record_begin": 239,
+          "record_end": 241,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 85,
+          "record_begin": 241,
+          "record_end": 280,
+          "status": "first_nonzero_event",
+          "steps": 28,
+          "event": 2
+        },
+        {
+          "animation_index": 86,
+          "record_begin": 280,
+          "record_end": 315,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 87,
+          "record_begin": 315,
+          "record_end": 352,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 88,
+          "record_begin": 352,
+          "record_end": 388,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 89,
+          "record_begin": 388,
+          "record_end": 425,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 90,
+          "record_begin": 425,
+          "record_end": 426,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 91,
+          "record_begin": 426,
+          "record_end": 463,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 92,
+          "record_begin": 463,
+          "record_end": 500,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 93,
+          "record_begin": 500,
+          "record_end": 537,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 94,
+          "record_begin": 537,
+          "record_end": 574,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 95,
+          "record_begin": 574,
+          "record_end": 611,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 96,
+          "record_begin": 611,
+          "record_end": 648,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 97,
+          "record_begin": 648,
+          "record_end": 685,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 98,
+          "record_begin": 685,
+          "record_end": 722,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 99,
+          "record_begin": 722,
+          "record_end": 759,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 100,
+          "record_begin": 759,
+          "record_end": 796,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 101,
+          "record_begin": 796,
+          "record_end": 833,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 102,
+          "record_begin": 833,
+          "record_end": 870,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 103,
+          "record_begin": 870,
+          "record_end": 907,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 104,
+          "record_begin": 907,
+          "record_end": 908,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 105,
+          "record_begin": 908,
+          "record_end": 945,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 106,
+          "record_begin": 945,
+          "record_end": 978,
+          "status": "first_nonzero_event",
+          "steps": 19,
+          "event": 2
+        },
+        {
+          "animation_index": 107,
+          "record_begin": 978,
+          "record_end": 1015,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 108,
+          "record_begin": 1015,
+          "record_end": 1052,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 109,
+          "record_begin": 1052,
+          "record_end": 1089,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 110,
+          "record_begin": 1089,
+          "record_end": 1126,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 111,
+          "record_begin": 1126,
+          "record_end": 1163,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 112,
+          "record_begin": 1163,
+          "record_end": 1200,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 113,
+          "record_begin": 1200,
+          "record_end": 1237,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 114,
+          "record_begin": 1237,
+          "record_end": 1275,
+          "status": "first_nonzero_event",
+          "steps": 31,
+          "event": 2
+        },
+        {
+          "animation_index": 115,
+          "record_begin": 1275,
+          "record_end": 1313,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 116,
+          "record_begin": 1313,
+          "record_end": 1351,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 117,
+          "record_begin": 1351,
+          "record_end": 1389,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 118,
+          "record_begin": 1389,
+          "record_end": 1427,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 119,
+          "record_begin": 1427,
+          "record_end": 1464,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 120,
+          "record_begin": 1464,
+          "record_end": 1501,
+          "status": "first_nonzero_event",
+          "steps": 31,
+          "event": 2
+        },
+        {
+          "animation_index": 121,
+          "record_begin": 1501,
+          "record_end": 1538,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 122,
+          "record_begin": 1538,
+          "record_end": 1575,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 123,
+          "record_begin": 1575,
+          "record_end": 1612,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 124,
+          "record_begin": 1612,
+          "record_end": 1649,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 125,
+          "record_begin": 1649,
+          "record_end": 1686,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 126,
+          "record_begin": 1686,
+          "record_end": 1723,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 127,
+          "record_begin": 1723,
+          "record_end": 1760,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 128,
+          "record_begin": 1760,
+          "record_end": 1797,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 129,
+          "record_begin": 1797,
+          "record_end": 1834,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 130,
+          "record_begin": 1834,
+          "record_end": 1871,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 131,
+          "record_begin": 1871,
+          "record_end": 1908,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 132,
+          "record_begin": 1908,
+          "record_end": 1909,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 133,
+          "record_begin": 1909,
+          "record_end": 1946,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 134,
+          "record_begin": 1946,
+          "record_end": 1983,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 135,
+          "record_begin": 1983,
+          "record_end": 1984,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 136,
+          "record_begin": 1984,
+          "record_end": 2021,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 137,
+          "record_begin": 2021,
+          "record_end": 2058,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 138,
+          "record_begin": 2058,
+          "record_end": 2093,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 139,
+          "record_begin": 2093,
+          "record_end": 2130,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 140,
+          "record_begin": 2130,
+          "record_end": 2167,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 141,
+          "record_begin": 2167,
+          "record_end": 2204,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 142,
+          "record_begin": 2204,
+          "record_end": 2206,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 143,
+          "record_begin": 2206,
+          "record_end": 2208,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 144,
+          "record_begin": 2208,
+          "record_end": 2210,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 145,
+          "record_begin": 2210,
+          "record_end": 2212,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 146,
+          "record_begin": 2212,
+          "record_end": 2249,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 147,
+          "record_begin": 2249,
+          "record_end": 2251,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 148,
+          "record_begin": 2251,
+          "record_end": 2288,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 149,
+          "record_begin": 2288,
+          "record_end": 2325,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 150,
+          "record_begin": 2325,
+          "record_end": 2362,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 151,
+          "record_begin": 2362,
+          "record_end": 2399,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 152,
+          "record_begin": 2399,
+          "record_end": 2436,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 153,
+          "record_begin": 2436,
+          "record_end": 2473,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 154,
+          "record_begin": 2473,
+          "record_end": 2510,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 155,
+          "record_begin": 2510,
+          "record_end": 2547,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 156,
+          "record_begin": 2547,
+          "record_end": 2584,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 157,
+          "record_begin": 2584,
+          "record_end": 2621,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 158,
+          "record_begin": 2621,
+          "record_end": 2658,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 159,
+          "record_begin": 2658,
+          "record_end": 2695,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 160,
+          "record_begin": 2695,
+          "record_end": 2732,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 161,
+          "record_begin": 2732,
+          "record_end": 2769,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 162,
+          "record_begin": 2769,
+          "record_end": 2806,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 163,
+          "record_begin": 2806,
+          "record_end": 2843,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 164,
+          "record_begin": 2843,
+          "record_end": 2880,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 165,
+          "record_begin": 2880,
+          "record_end": 2917,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 166,
+          "record_begin": 2917,
+          "record_end": 2954,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 167,
+          "record_begin": 2954,
+          "record_end": 2956,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 168,
+          "record_begin": 2956,
+          "record_end": 2993,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 169,
+          "record_begin": 2993,
+          "record_end": 2995,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 170,
+          "record_begin": 2995,
+          "record_end": 2997,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 171,
+          "record_begin": 2997,
+          "record_end": 3019,
+          "status": "first_nonzero_event",
+          "steps": 20,
+          "event": 2
+        },
+        {
+          "animation_index": 172,
+          "record_begin": 3019,
+          "record_end": 3040,
+          "status": "first_nonzero_event",
+          "steps": 18,
+          "event": 2
+        },
+        {
+          "animation_index": 173,
+          "record_begin": 3040,
+          "record_end": 3062,
+          "status": "first_nonzero_event",
+          "steps": 17,
+          "event": 2
+        },
+        {
+          "animation_index": 174,
+          "record_begin": 3062,
+          "record_end": 3087,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 175,
+          "record_begin": 3087,
+          "record_end": 3108,
+          "status": "first_nonzero_event",
+          "steps": 18,
+          "event": 2
+        },
+        {
+          "animation_index": 176,
+          "record_begin": 3108,
+          "record_end": 3110,
+          "status": "first_nonzero_event",
+          "steps": 2,
+          "event": 1
+        },
+        {
+          "animation_index": 177,
+          "record_begin": 3110,
+          "record_end": 3131,
+          "status": "first_nonzero_event",
+          "steps": 18,
+          "event": 2
+        },
+        {
+          "animation_index": 178,
+          "record_begin": 3131,
+          "record_end": 3159,
+          "status": "first_nonzero_event",
+          "steps": 28,
+          "event": 1
+        },
+        {
+          "animation_index": 179,
+          "record_begin": 3159,
+          "record_end": 3187,
+          "status": "first_nonzero_event",
+          "steps": 28,
+          "event": 1
+        },
+        {
+          "animation_index": 180,
+          "record_begin": 3187,
+          "record_end": 3216,
+          "status": "first_nonzero_event",
+          "steps": 29,
+          "event": 1
+        },
+        {
+          "animation_index": 181,
+          "record_begin": 3216,
+          "record_end": 3219,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 182,
+          "record_begin": 3219,
+          "record_end": 3222,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 183,
+          "record_begin": 3222,
+          "record_end": 3225,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 184,
+          "record_begin": 3225,
+          "record_end": 3228,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 185,
+          "record_begin": 3228,
+          "record_end": 3231,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 186,
+          "record_begin": 3231,
+          "record_end": 3234,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 187,
+          "record_begin": 3234,
+          "record_end": 3237,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 188,
+          "record_begin": 3237,
+          "record_end": 3240,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 189,
+          "record_begin": 3240,
+          "record_end": 3243,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 190,
+          "record_begin": 3243,
+          "record_end": 3246,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 191,
+          "record_begin": 3246,
+          "record_end": 3249,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 192,
+          "record_begin": 3249,
+          "record_end": 3252,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 193,
+          "record_begin": 3252,
+          "record_end": 3255,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 194,
+          "record_begin": 3255,
+          "record_end": 3258,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 195,
+          "record_begin": 3258,
+          "record_end": 3261,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 196,
+          "record_begin": 3261,
+          "record_end": 3264,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 197,
+          "record_begin": 3264,
+          "record_end": 3267,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 198,
+          "record_begin": 3267,
+          "record_end": 3270,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 199,
+          "record_begin": 3270,
+          "record_end": 3273,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 200,
+          "record_begin": 3273,
+          "record_end": 3276,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 201,
+          "record_begin": 3276,
+          "record_end": 3279,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 202,
+          "record_begin": 3279,
+          "record_end": 3282,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 203,
+          "record_begin": 3282,
+          "record_end": 3285,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 204,
+          "record_begin": 3285,
+          "record_end": 3322,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 205,
+          "record_begin": 3322,
+          "record_end": 3359,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 206,
+          "record_begin": 3359,
+          "record_end": 3396,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 207,
+          "record_begin": 3396,
+          "record_end": 3433,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 208,
+          "record_begin": 3433,
+          "record_end": 3470,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 209,
+          "record_begin": 3470,
+          "record_end": 3507,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 210,
+          "record_begin": 3507,
+          "record_end": 3544,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 211,
+          "record_begin": 3544,
+          "record_end": 3581,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 212,
+          "record_begin": 3581,
+          "record_end": 3618,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 213,
+          "record_begin": 3618,
+          "record_end": 3655,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 214,
+          "record_begin": 3655,
+          "record_end": 3692,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 215,
+          "record_begin": 3692,
+          "record_end": 3729,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 216,
+          "record_begin": 3729,
+          "record_end": 3766,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 217,
+          "record_begin": 3766,
+          "record_end": 3803,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 218,
+          "record_begin": 3803,
+          "record_end": 3840,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 219,
+          "record_begin": 3840,
+          "record_end": 3877,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 220,
+          "record_begin": 3877,
+          "record_end": 3914,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 221,
+          "record_begin": 3914,
+          "record_end": 3951,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 222,
+          "record_begin": 3951,
+          "record_end": 3988,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 223,
+          "record_begin": 3988,
+          "record_end": 4025,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 224,
+          "record_begin": 4025,
+          "record_end": 4062,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 225,
+          "record_begin": 4062,
+          "record_end": 4099,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 226,
+          "record_begin": 4099,
+          "record_end": 4136,
+          "status": "first_nonzero_event",
+          "steps": 27,
+          "event": 2
+        },
+        {
+          "animation_index": 227,
+          "record_begin": 4136,
+          "record_end": 4139,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 228,
+          "record_begin": 4139,
+          "record_end": 4178,
+          "status": "first_nonzero_event",
+          "steps": 28,
+          "event": 2
+        },
+        {
+          "animation_index": 229,
+          "record_begin": 4178,
+          "record_end": 4181,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 230,
+          "record_begin": 4181,
+          "record_end": 4220,
+          "status": "first_nonzero_event",
+          "steps": 28,
+          "event": 2
+        },
+        {
+          "animation_index": 231,
+          "record_begin": 4220,
+          "record_end": 4223,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 232,
+          "record_begin": 4223,
+          "record_end": 4262,
+          "status": "first_nonzero_event",
+          "steps": 28,
+          "event": 2
+        },
+        {
+          "animation_index": 233,
+          "record_begin": 4262,
+          "record_end": 4263,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "bytes": 2004,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 44,
+      "index_count": 6,
+      "sprite_name": "destmarker.spr",
+      "opcode_counts": {
+        "0": 34,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 5,
+        "5": 0,
+        "6": 5
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 15,
+          "status": "zero_event_cycle",
+          "steps": 14,
+          "event": 0
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 15,
+          "record_end": 30,
+          "status": "zero_event_cycle",
+          "steps": 14,
+          "event": 0
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 30,
+          "record_end": 38,
+          "status": "zero_event_cycle",
+          "steps": 7,
+          "event": 0
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 38,
+          "record_end": 41,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 4,
+          "record_begin": 41,
+          "record_end": 44,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "bytes": 14240,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 322,
+      "index_count": 7,
+      "sprite_name": "Effects9.spr",
+      "opcode_counts": {
+        "0": 313,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1,
+        "6": 6
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 47,
+          "status": "first_nonzero_event",
+          "steps": 14,
+          "event": 2
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 47,
+          "record_end": 109,
+          "status": "first_nonzero_event",
+          "steps": 62,
+          "event": 1
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 109,
+          "record_end": 171,
+          "status": "first_nonzero_event",
+          "steps": 62,
+          "event": 1
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 171,
+          "record_end": 233,
+          "status": "first_nonzero_event",
+          "steps": 62,
+          "event": 1
+        },
+        {
+          "animation_index": 4,
+          "record_begin": 233,
+          "record_end": 295,
+          "status": "first_nonzero_event",
+          "steps": 62,
+          "event": 1
+        },
+        {
+          "animation_index": 5,
+          "record_begin": 295,
+          "record_end": 322,
+          "status": "zero_event_cycle",
+          "steps": 26,
+          "event": 0
+        }
+      ]
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "bytes": 9300,
+      "version": 5,
+      "reserved": 0,
+      "record_count": 209,
+      "index_count": 15,
+      "sprite_name": "Effects9.spr",
+      "opcode_counts": {
+        "0": 172,
+        "1": 8,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 14,
+        "6": 14
+      },
+      "animations": [
+        {
+          "animation_index": 0,
+          "record_begin": 0,
+          "record_end": 45,
+          "status": "first_nonzero_event",
+          "steps": 7,
+          "event": 2
+        },
+        {
+          "animation_index": 1,
+          "record_begin": 45,
+          "record_end": 63,
+          "status": "first_nonzero_event",
+          "steps": 20,
+          "event": 2
+        },
+        {
+          "animation_index": 2,
+          "record_begin": 63,
+          "record_end": 81,
+          "status": "first_nonzero_event",
+          "steps": 20,
+          "event": 2
+        },
+        {
+          "animation_index": 3,
+          "record_begin": 81,
+          "record_end": 99,
+          "status": "first_nonzero_event",
+          "steps": 20,
+          "event": 2
+        },
+        {
+          "animation_index": 4,
+          "record_begin": 99,
+          "record_end": 117,
+          "status": "first_nonzero_event",
+          "steps": 20,
+          "event": 2
+        },
+        {
+          "animation_index": 5,
+          "record_begin": 117,
+          "record_end": 135,
+          "status": "first_nonzero_event",
+          "steps": 20,
+          "event": 2
+        },
+        {
+          "animation_index": 6,
+          "record_begin": 135,
+          "record_end": 153,
+          "status": "first_nonzero_event",
+          "steps": 20,
+          "event": 2
+        },
+        {
+          "animation_index": 7,
+          "record_begin": 153,
+          "record_end": 171,
+          "status": "first_nonzero_event",
+          "steps": 20,
+          "event": 2
+        },
+        {
+          "animation_index": 8,
+          "record_begin": 171,
+          "record_end": 189,
+          "status": "first_nonzero_event",
+          "steps": 20,
+          "event": 2
+        },
+        {
+          "animation_index": 9,
+          "record_begin": 189,
+          "record_end": 198,
+          "status": "first_nonzero_event",
+          "steps": 3,
+          "event": 2
+        },
+        {
+          "animation_index": 10,
+          "record_begin": 198,
+          "record_end": 201,
+          "status": "zero_event_cycle",
+          "steps": 2,
+          "event": 0
+        },
+        {
+          "animation_index": 11,
+          "record_begin": 201,
+          "record_end": 207,
+          "status": "first_nonzero_event",
+          "steps": 6,
+          "event": 1
+        },
+        {
+          "animation_index": 12,
+          "record_begin": 207,
+          "record_end": 208,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        },
+        {
+          "animation_index": 13,
+          "record_begin": 208,
+          "record_end": 209,
+          "status": "ended_during_initialization",
+          "steps": 0,
+          "event": 0
+        }
+      ]
+    }
+  ],
+  "scope": "Read-only13 installed Effects ANI files; empirical version5 header/index/44-byte records structurally checked and raw records staged into native VM. Real464c50/464ca0/464cb0/465000/464ec0,no doubles. First-event/zero-event-cycle classification; parser mapping not yet confirmed against native disk loader,animation IDs not yet linked to spell directory. Sources hash checked before/after; no player process or file mutation."
+}

@@ -1,0 +1,362 @@
+{
+  "brain": {
+    "bytes": 508440,
+    "sha256": "4295b48edb70c401975d91b25d6ac5410dde6b47d677a71196c6d1fbf24f8d31",
+    "models": [
+      {
+        "action_id": 6,
+        "dimension": 72,
+        "offset": 0,
+        "coefficient_sum": 0.9999999701976776,
+        "components": [
+          {
+            "coefficient": 0.24881808459758759,
+            "scalar": 2.575829029083252,
+            "dimension": 72,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.5771067142486572,
+            "scalar": 2.575829029083252,
+            "dimension": 72,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.1740751713514328,
+            "scalar": 2.575829029083252,
+            "dimension": 72,
+            "matrix_asymmetry_max": 0.0
+          }
+        ]
+      },
+      {
+        "action_id": 8,
+        "dimension": 73,
+        "offset": 72624,
+        "coefficient_sum": 0.9999999850988388,
+        "components": [
+          {
+            "coefficient": 0.19456346333026886,
+            "scalar": 2.575829029083252,
+            "dimension": 73,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.33847010135650635,
+            "scalar": 2.575829029083252,
+            "dimension": 73,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.4669664204120636,
+            "scalar": 2.575829029083252,
+            "dimension": 73,
+            "matrix_asymmetry_max": 0.0
+          }
+        ]
+      },
+      {
+        "action_id": 9,
+        "dimension": 71,
+        "offset": 147132,
+        "coefficient_sum": 1.0000000447034836,
+        "components": [
+          {
+            "coefficient": 0.246222585439682,
+            "scalar": 2.189349412918091,
+            "dimension": 71,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.2260853797197342,
+            "scalar": 2.2004101276397705,
+            "dimension": 71,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.5276920795440674,
+            "scalar": 2.523239850997925,
+            "dimension": 71,
+            "matrix_asymmetry_max": 0.0
+          }
+        ]
+      },
+      {
+        "action_id": 11,
+        "dimension": 71,
+        "offset": 217896,
+        "coefficient_sum": 0.9999999850988388,
+        "components": [
+          {
+            "coefficient": 0.3562442660331726,
+            "scalar": 2.387787342071533,
+            "dimension": 71,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.4869765043258667,
+            "scalar": 2.5723519325256348,
+            "dimension": 71,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.1567792147397995,
+            "scalar": 2.141197919845581,
+            "dimension": 71,
+            "matrix_asymmetry_max": 0.0
+          }
+        ]
+      },
+      {
+        "action_id": 12,
+        "dimension": 71,
+        "offset": 288660,
+        "coefficient_sum": 1.0000000447034836,
+        "components": [
+          {
+            "coefficient": 0.4036635160446167,
+            "scalar": 2.189349412918091,
+            "dimension": 71,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.4102235436439514,
+            "scalar": 2.1661064624786377,
+            "dimension": 71,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.18611298501491547,
+            "scalar": 1.8627289533615112,
+            "dimension": 71,
+            "matrix_asymmetry_max": 0.0
+          }
+        ]
+      },
+      {
+        "action_id": 13,
+        "dimension": 73,
+        "offset": 359424,
+        "coefficient_sum": 0.9999999552965164,
+        "components": [
+          {
+            "coefficient": 0.15014903247356415,
+            "scalar": 2.100165367126465,
+            "dimension": 73,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.4200401306152344,
+            "scalar": 2.4977054595947266,
+            "dimension": 73,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.4298107922077179,
+            "scalar": 2.575829029083252,
+            "dimension": 73,
+            "matrix_asymmetry_max": 0.0
+          }
+        ]
+      },
+      {
+        "action_id": 14,
+        "dimension": 73,
+        "offset": 433932,
+        "coefficient_sum": 1.0000000596046448,
+        "components": [
+          {
+            "coefficient": 0.27543652057647705,
+            "scalar": 2.1143805980682373,
+            "dimension": 73,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.36263173818588257,
+            "scalar": 2.0698041915893555,
+            "dimension": 73,
+            "matrix_asymmetry_max": 0.0
+          },
+          {
+            "coefficient": 0.36193180084228516,
+            "scalar": 2.153874635696411,
+            "dimension": 73,
+            "matrix_asymmetry_max": 0.0
+          }
+        ]
+      }
+    ],
+    "complete": true
+  },
+  "experience": {
+    "bytes": 764192,
+    "sha256": "8b6e822066fff4af1f70dcd1f1e7dbe7f4938a13fa011954e7fb936e9ffdc46b",
+    "records": 2500,
+    "groups": [
+      {
+        "action_id": 6,
+        "dimension": 72,
+        "records": 592
+      },
+      {
+        "action_id": 8,
+        "dimension": 73,
+        "records": 1138
+      },
+      {
+        "action_id": 9,
+        "dimension": 71,
+        "records": 157
+      },
+      {
+        "action_id": 11,
+        "dimension": 71,
+        "records": 189
+      },
+      {
+        "action_id": 12,
+        "dimension": 71,
+        "records": 84
+      },
+      {
+        "action_id": 13,
+        "dimension": 73,
+        "records": 253
+      },
+      {
+        "action_id": 14,
+        "dimension": 73,
+        "records": 87
+      }
+    ],
+    "labels": [
+      {
+        "action_id": 6,
+        "class_count": 3,
+        "label": 0,
+        "records": 184
+      },
+      {
+        "action_id": 6,
+        "class_count": 3,
+        "label": 1,
+        "records": 270
+      },
+      {
+        "action_id": 6,
+        "class_count": 3,
+        "label": 2,
+        "records": 138
+      },
+      {
+        "action_id": 8,
+        "class_count": 3,
+        "label": 0,
+        "records": 208
+      },
+      {
+        "action_id": 8,
+        "class_count": 3,
+        "label": 1,
+        "records": 372
+      },
+      {
+        "action_id": 8,
+        "class_count": 3,
+        "label": 2,
+        "records": 558
+      },
+      {
+        "action_id": 9,
+        "class_count": 3,
+        "label": 0,
+        "records": 35
+      },
+      {
+        "action_id": 9,
+        "class_count": 3,
+        "label": 1,
+        "records": 36
+      },
+      {
+        "action_id": 9,
+        "class_count": 3,
+        "label": 2,
+        "records": 86
+      },
+      {
+        "action_id": 11,
+        "class_count": 3,
+        "label": 0,
+        "records": 59
+      },
+      {
+        "action_id": 11,
+        "class_count": 3,
+        "label": 1,
+        "records": 99
+      },
+      {
+        "action_id": 11,
+        "class_count": 3,
+        "label": 2,
+        "records": 31
+      },
+      {
+        "action_id": 12,
+        "class_count": 3,
+        "label": 0,
+        "records": 35
+      },
+      {
+        "action_id": 12,
+        "class_count": 3,
+        "label": 1,
+        "records": 33
+      },
+      {
+        "action_id": 12,
+        "class_count": 3,
+        "label": 2,
+        "records": 16
+      },
+      {
+        "action_id": 13,
+        "class_count": 3,
+        "label": 0,
+        "records": 28
+      },
+      {
+        "action_id": 13,
+        "class_count": 3,
+        "label": 1,
+        "records": 80
+      },
+      {
+        "action_id": 13,
+        "class_count": 3,
+        "label": 2,
+        "records": 145
+      },
+      {
+        "action_id": 14,
+        "class_count": 3,
+        "label": 0,
+        "records": 29
+      },
+      {
+        "action_id": 14,
+        "class_count": 3,
+        "label": 1,
+        "records": 26
+      },
+      {
+        "action_id": 14,
+        "class_count": 3,
+        "label": 2,
+        "records": 32
+      }
+    ],
+    "complete": true
+  }
+}

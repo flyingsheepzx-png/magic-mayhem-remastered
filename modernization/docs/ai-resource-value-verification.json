@@ -1,0 +1,1591 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "result": "passed",
+  "cases": [
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1199
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251199
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 150
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250150
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 49
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250049
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1248
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251248
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 49
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250049
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 199
+    },
+    {
+      "unit_type": 0,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250199
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1199
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251199
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 150
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250150
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 12
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250012
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1211
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251211
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 12
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250012
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 162
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250162
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1199
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251199
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 150
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250150
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 49
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250049
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1248
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251248
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 49
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250049
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 199
+    },
+    {
+      "unit_type": 24,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250199
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1199
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251199
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 150
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250150
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 12
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250012
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1211
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251211
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 12
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250012
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 162
+    },
+    {
+      "unit_type": 24,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250162
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1199
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251199
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 150
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250150
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 49
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250049
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1248
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251248
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 49
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250049
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 199
+    },
+    {
+      "unit_type": 25,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250199
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1199
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251199
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 150
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250150
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 12
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250012
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1211
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251211
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 12
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250012
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 162
+    },
+    {
+      "unit_type": 25,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250162
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1199
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251199
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 150
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250150
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 49
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250049
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1248
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251248
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 49
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250049
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 199
+    },
+    {
+      "unit_type": 26,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250199
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1199
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251199
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 150
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250150
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 12
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250012
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1211
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251211
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 12
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250012
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 162
+    },
+    {
+      "unit_type": 26,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250162
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1199
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251199
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 150
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250150
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 224
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250224
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1423
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251423
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 224
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250224
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 374
+    },
+    {
+      "unit_type": 1,
+      "health": 50,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250374
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1199
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251199
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 0
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250000
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 150
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 0,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250150
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 224
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250224
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 1423
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 0.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 251423
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.0,
+      "value": 224
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 0.0,
+      "event": 0.25,
+      "value": 250224
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 374
+    },
+    {
+      "unit_type": 1,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.25,
+      "value": 250374
+    },
+    {
+      "unit_type": 0,
+      "health": 20,
+      "health_delta": -10,
+      "mana": 50.0,
+      "mana_delta": -5.0,
+      "event": -0.25,
+      "value": -250287
+    },
+    {
+      "unit_type": 0,
+      "health": 20,
+      "health_delta": -10,
+      "mana": 50.0,
+      "mana_delta": -5.0,
+      "event": 0.0,
+      "value": -287
+    },
+    {
+      "unit_type": 0,
+      "health": 20,
+      "health_delta": -10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": -0.25,
+      "value": -250004
+    },
+    {
+      "unit_type": 0,
+      "health": 20,
+      "health_delta": -10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": -4
+    },
+    {
+      "unit_type": 0,
+      "health": 20,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": -5.0,
+      "event": -0.25,
+      "value": -249691
+    },
+    {
+      "unit_type": 0,
+      "health": 20,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": -5.0,
+      "event": 0.0,
+      "value": 309
+    },
+    {
+      "unit_type": 0,
+      "health": 20,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": -0.25,
+      "value": -249408
+    },
+    {
+      "unit_type": 0,
+      "health": 20,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 592
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": -10,
+      "mana": 50.0,
+      "mana_delta": -5.0,
+      "event": -0.25,
+      "value": -250140
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": -10,
+      "mana": 50.0,
+      "mana_delta": -5.0,
+      "event": 0.0,
+      "value": -140
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": -10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": -0.25,
+      "value": -249858
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": -10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 142
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": -5.0,
+      "event": -0.25,
+      "value": -250120
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": -5.0,
+      "event": 0.0,
+      "value": -120
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": -0.25,
+      "value": -249838
+    },
+    {
+      "unit_type": 0,
+      "health": 100,
+      "health_delta": 10,
+      "mana": 50.0,
+      "mana_delta": 5.0,
+      "event": 0.0,
+      "value": 162
+    }
+  ],
+  "scope": "Actual416d80,505bf0,505c50 and59bee0; no stubs. Includes wizard negative health/mana/event changes; nonwizard fixtures use nonnegative health changes. x87 extended intermediates reconstructed. Names descriptive; not all training-counter producers."
+}

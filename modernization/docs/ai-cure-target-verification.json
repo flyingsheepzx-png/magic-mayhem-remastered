@@ -1,0 +1,412 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "result": "passed",
+  "cases": [
+    {
+      "kind": "target_gate",
+      "health": 0,
+      "poison_forecast": 0,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": true,
+      "selected": [
+        {
+          "target": 33624064,
+          "heal_feature": 100
+        }
+      ]
+    },
+    {
+      "kind": "target_gate",
+      "health": 0,
+      "poison_forecast": 40,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": true,
+      "selected": [
+        {
+          "target": 33624064,
+          "heal_feature": 140
+        }
+      ]
+    },
+    {
+      "kind": "target_gate",
+      "health": 49,
+      "poison_forecast": 0,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": true,
+      "selected": [
+        {
+          "target": 33624064,
+          "heal_feature": 100
+        }
+      ]
+    },
+    {
+      "kind": "target_gate",
+      "health": 49,
+      "poison_forecast": 40,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": true,
+      "selected": [
+        {
+          "target": 33624064,
+          "heal_feature": 140
+        }
+      ]
+    },
+    {
+      "kind": "target_gate",
+      "health": 99,
+      "poison_forecast": 0,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": true,
+      "selected": [
+        {
+          "target": 33624064,
+          "heal_feature": 100
+        }
+      ]
+    },
+    {
+      "kind": "target_gate",
+      "health": 99,
+      "poison_forecast": 40,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": true,
+      "selected": [
+        {
+          "target": 33624064,
+          "heal_feature": 140
+        }
+      ]
+    },
+    {
+      "kind": "target_gate",
+      "health": 100,
+      "poison_forecast": 0,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": true,
+      "selected": [
+        {
+          "target": 33624064,
+          "heal_feature": 100
+        }
+      ]
+    },
+    {
+      "kind": "target_gate",
+      "health": 100,
+      "poison_forecast": 40,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": true,
+      "selected": [
+        {
+          "target": 33624064,
+          "heal_feature": 140
+        }
+      ]
+    },
+    {
+      "kind": "target_gate",
+      "health": 101,
+      "poison_forecast": 0,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": false,
+      "selected": []
+    },
+    {
+      "kind": "target_gate",
+      "health": 101,
+      "poison_forecast": 40,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": true,
+      "selected": [
+        {
+          "target": 33624064,
+          "heal_feature": 139
+        }
+      ]
+    },
+    {
+      "kind": "target_gate",
+      "health": 150,
+      "poison_forecast": 0,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": false,
+      "selected": []
+    },
+    {
+      "kind": "target_gate",
+      "health": 150,
+      "poison_forecast": 40,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": false,
+      "selected": []
+    },
+    {
+      "kind": "target_gate",
+      "health": 199,
+      "poison_forecast": 0,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": false,
+      "selected": []
+    },
+    {
+      "kind": "target_gate",
+      "health": 199,
+      "poison_forecast": 40,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": false,
+      "selected": []
+    },
+    {
+      "kind": "target_gate",
+      "health": 200,
+      "poison_forecast": 0,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": false,
+      "selected": []
+    },
+    {
+      "kind": "target_gate",
+      "health": 200,
+      "poison_forecast": 40,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": false,
+      "selected": []
+    },
+    {
+      "kind": "target_gate",
+      "health": 49,
+      "poison_forecast": 0,
+      "illusion": 1,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": false,
+      "selected": []
+    },
+    {
+      "kind": "target_gate",
+      "health": 49,
+      "poison_forecast": 0,
+      "illusion": 0,
+      "existing_effect": 1,
+      "blocked": 0,
+      "deadline": 0,
+      "eligible": false,
+      "selected": []
+    },
+    {
+      "kind": "target_gate",
+      "health": 49,
+      "poison_forecast": 0,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 1,
+      "deadline": 0,
+      "eligible": false,
+      "selected": []
+    },
+    {
+      "kind": "target_gate",
+      "health": 49,
+      "poison_forecast": 0,
+      "illusion": 0,
+      "existing_effect": 0,
+      "blocked": 0,
+      "deadline": 101,
+      "eligible": false,
+      "selected": []
+    },
+    {
+      "kind": "execution",
+      "health": 0,
+      "delay": 0,
+      "mana": 20,
+      "already_cast": 0,
+      "blocked": 0,
+      "active": 0,
+      "commands": [],
+      "replenish": false
+    },
+    {
+      "kind": "execution",
+      "health": 49,
+      "delay": 0,
+      "mana": 20,
+      "already_cast": 0,
+      "blocked": 0,
+      "active": 1,
+      "commands": [
+        {
+          "spell": 41,
+          "caster": 77,
+          "target": 123,
+          "multiplicity": 1
+        }
+      ],
+      "replenish": false
+    },
+    {
+      "kind": "execution",
+      "health": 199,
+      "delay": 0,
+      "mana": 20,
+      "already_cast": 0,
+      "blocked": 0,
+      "active": 1,
+      "commands": [
+        {
+          "spell": 41,
+          "caster": 77,
+          "target": 123,
+          "multiplicity": 1
+        }
+      ],
+      "replenish": false
+    },
+    {
+      "kind": "execution",
+      "health": 200,
+      "delay": 0,
+      "mana": 20,
+      "already_cast": 0,
+      "blocked": 0,
+      "active": 0,
+      "commands": [],
+      "replenish": false
+    },
+    {
+      "kind": "execution",
+      "health": 49,
+      "delay": 1,
+      "mana": 20,
+      "already_cast": 0,
+      "blocked": 0,
+      "active": 1,
+      "commands": [],
+      "replenish": false
+    },
+    {
+      "kind": "execution",
+      "health": 49,
+      "delay": 0,
+      "mana": 9,
+      "already_cast": 0,
+      "blocked": 0,
+      "active": 1,
+      "commands": [],
+      "replenish": true
+    },
+    {
+      "kind": "execution",
+      "health": 49,
+      "delay": 0,
+      "mana": 10,
+      "already_cast": 0,
+      "blocked": 0,
+      "active": 1,
+      "commands": [
+        {
+          "spell": 41,
+          "caster": 77,
+          "target": 123,
+          "multiplicity": 1
+        }
+      ],
+      "replenish": false
+    },
+    {
+      "kind": "execution",
+      "health": 49,
+      "delay": 0,
+      "mana": 20,
+      "already_cast": 1,
+      "blocked": 0,
+      "active": 1,
+      "commands": [],
+      "replenish": false
+    },
+    {
+      "kind": "execution",
+      "health": 49,
+      "delay": 0,
+      "mana": 20,
+      "already_cast": 0,
+      "blocked": 1,
+      "active": 1,
+      "commands": [],
+      "replenish": false
+    },
+    {
+      "kind": "critical_wizard_priority",
+      "unit_type": 0,
+      "score_before_health_and_mana_postprocess": 1.0
+    },
+    {
+      "kind": "critical_wizard_priority",
+      "unit_type": 24,
+      "score_before_health_and_mana_postprocess": 1.0
+    },
+    {
+      "kind": "critical_wizard_priority",
+      "unit_type": 25,
+      "score_before_health_and_mana_postprocess": 1.0
+    },
+    {
+      "kind": "critical_wizard_priority",
+      "unit_type": 26,
+      "score_before_health_and_mana_postprocess": 1.0
+    }
+  ],
+  "scope": "Real446210 target gates up to candidate acceptance,4079f0 recursion,5075f0 maxhealth,4466f0 full lifecycle and coordinate constructors. World/path validation40ad00,delay51e530,mana recovery51d570,command submission57c6e0 explicitly stubbed. Target-specific scoring and actual healing not tested."
+}

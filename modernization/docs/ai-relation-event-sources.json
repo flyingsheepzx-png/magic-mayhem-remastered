@@ -1,0 +1,32 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "result": "passed",
+  "config_sha256": "f15cae2e8015cad1a5ea99aede3ad7ced65619492ac6186996333eb20ad73d67",
+  "spell_mappings": [
+    {
+      "spell": 50,
+      "label": "Lure",
+      "dispatch_byte_index": 10,
+      "dispatch_target": "0x48d033",
+      "counter_call": "0x48d11d",
+      "call_bytes": "e89e85fdff",
+      "delta": 100
+    },
+    {
+      "spell": 54,
+      "label": "Subversion",
+      "dispatch_byte_index": 12,
+      "dispatch_target": "0x48be83",
+      "counter_call": "0x48c07e",
+      "call_bytes": "e83d96fdff",
+      "delta": 100
+    }
+  ],
+  "static_exports": "D:/Tools/magic-mayhem-re/projects/ai-review-20261001/functions-relation-events",
+  "function_entries": {
+    "effect_dispatch": "0x48b0f0",
+    "profile28_caller": "0x5606f0",
+    "profile20_caller": "0x56a8d0"
+  },
+  "scope": "Exact48b173..48b18a spellID4c/twoleveljumptable verifieddisassembly;Ghidra containingfunction exports identifycases50Lure/54Subversion andbothdirectdelta100calls,callbytes checkedhere. NativeLureprefix separatelyverified;Subversiongates/probability/ownership effectpending. Ghidra48b0f0 warns unreachable/typepropagation;notcomplete recoveredsource. Profile20/28 callerentries identified,meaning stillpending."
+}

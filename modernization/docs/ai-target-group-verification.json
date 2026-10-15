@@ -1,0 +1,397 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "builder": "0x40f910",
+      "alliance_mask": 0,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33722420,
+        33726079,
+        33729738,
+        33733397
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8,
+        141,
+        16,
+        141,
+        32
+      ],
+      "freed_buffers": 7
+    },
+    {
+      "builder": "0x40f910",
+      "alliance_mask": 1,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33722420,
+        33726079,
+        33729738,
+        33733397
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8,
+        141,
+        16,
+        141,
+        32
+      ],
+      "freed_buffers": 7
+    },
+    {
+      "builder": "0x40f910",
+      "alliance_mask": 2,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33722420,
+        33726079,
+        33729738,
+        33733397
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8,
+        141,
+        16,
+        141,
+        32
+      ],
+      "freed_buffers": 7
+    },
+    {
+      "builder": "0x40f910",
+      "alliance_mask": 3,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33722420,
+        33726079,
+        33729738,
+        33733397
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8,
+        141,
+        16,
+        141,
+        32
+      ],
+      "freed_buffers": 7
+    },
+    {
+      "builder": "0x40f910",
+      "alliance_mask": 4,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33722420,
+        33726079,
+        33729738,
+        33733397
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8,
+        141,
+        16,
+        141,
+        32
+      ],
+      "freed_buffers": 7
+    },
+    {
+      "builder": "0x40f910",
+      "alliance_mask": 5,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33722420,
+        33726079,
+        33729738,
+        33733397
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8,
+        141,
+        16,
+        141,
+        32
+      ],
+      "freed_buffers": 7
+    },
+    {
+      "builder": "0x40f910",
+      "alliance_mask": 6,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33722420,
+        33726079,
+        33729738,
+        33733397
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8,
+        141,
+        16,
+        141,
+        32
+      ],
+      "freed_buffers": 7
+    },
+    {
+      "builder": "0x40f910",
+      "alliance_mask": 7,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33722420,
+        33726079,
+        33729738,
+        33733397
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8,
+        141,
+        16,
+        141,
+        32
+      ],
+      "freed_buffers": 7
+    },
+    {
+      "builder": "0x40f9e0",
+      "alliance_mask": 0,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [],
+      "allocation_sizes": [
+        141,
+        4
+      ],
+      "freed_buffers": 1
+    },
+    {
+      "builder": "0x40f9e0",
+      "alliance_mask": 1,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33671194
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4
+      ],
+      "freed_buffers": 3
+    },
+    {
+      "builder": "0x40f9e0",
+      "alliance_mask": 2,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33729738
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4
+      ],
+      "freed_buffers": 3
+    },
+    {
+      "builder": "0x40f9e0",
+      "alliance_mask": 3,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33671194,
+        33729738
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8
+      ],
+      "freed_buffers": 5
+    },
+    {
+      "builder": "0x40f9e0",
+      "alliance_mask": 4,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33788282
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4
+      ],
+      "freed_buffers": 3
+    },
+    {
+      "builder": "0x40f9e0",
+      "alliance_mask": 5,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33671194,
+        33788282
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8
+      ],
+      "freed_buffers": 5
+    },
+    {
+      "builder": "0x40f9e0",
+      "alliance_mask": 6,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33729738,
+        33788282
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8
+      ],
+      "freed_buffers": 5
+    },
+    {
+      "builder": "0x40f9e0",
+      "alliance_mask": 7,
+      "observer_owner": 2,
+      "input_units": 48,
+      "target_units": [
+        33671194,
+        33729738,
+        33788282
+      ],
+      "allocation_sizes": [
+        141,
+        4,
+        141,
+        8,
+        4,
+        141,
+        16,
+        8,
+        141,
+        16
+      ],
+      "freed_buffers": 6
+    },
+    {
+      "builder": "0x40f9e0",
+      "alliance_mask": 7,
+      "observer_owner": -1,
+      "input_units": 48,
+      "target_units": [],
+      "allocation_sizes": [
+        141,
+        4
+      ],
+      "freed_buffers": 1
+    },
+    {
+      "builder": "0x40f9e0",
+      "alliance_mask": 7,
+      "observer_owner": 8,
+      "input_units": 48,
+      "target_units": [],
+      "allocation_sizes": [
+        141,
+        4
+      ],
+      "freed_buffers": 1
+    }
+  ],
+  "scope": "Full40f910/40f9e0,419990/419a10 constructors,52a710 with real412aa0, vector insertion and4078a0. Only CRT allocation/free doubled.48 synthetic units per fixture prove active/living/owner/visibility/type/alliance filtering, ordering, parents and action ownership. Native alliance/visibility producers and destruction remain pending."
+}

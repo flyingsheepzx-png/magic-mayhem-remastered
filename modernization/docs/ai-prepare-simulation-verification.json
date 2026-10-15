@@ -1,0 +1,1543 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "action_id": 21,
+      "delay": 0,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 8
+    },
+    {
+      "action_id": 21,
+      "delay": 0,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 21,
+      "delay": 0,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 15
+    },
+    {
+      "action_id": 21,
+      "delay": 0,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 21,
+      "delay": 0,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 48
+    },
+    {
+      "action_id": 21,
+      "delay": 0,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    },
+    {
+      "action_id": 21,
+      "delay": 1,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 9
+    },
+    {
+      "action_id": 21,
+      "delay": 1,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 21,
+      "delay": 1,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 16
+    },
+    {
+      "action_id": 21,
+      "delay": 1,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 21,
+      "delay": 1,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 49
+    },
+    {
+      "action_id": 21,
+      "delay": 1,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    },
+    {
+      "action_id": 21,
+      "delay": 5,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 13
+    },
+    {
+      "action_id": 21,
+      "delay": 5,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 21,
+      "delay": 5,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 20
+    },
+    {
+      "action_id": 21,
+      "delay": 5,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 21,
+      "delay": 5,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 53
+    },
+    {
+      "action_id": 21,
+      "delay": 5,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    },
+    {
+      "action_id": 21,
+      "delay": 30,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 38
+    },
+    {
+      "action_id": 21,
+      "delay": 30,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 21,
+      "delay": 30,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 45
+    },
+    {
+      "action_id": 21,
+      "delay": 30,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 21,
+      "delay": 30,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 78
+    },
+    {
+      "action_id": 21,
+      "delay": 30,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    },
+    {
+      "action_id": 52,
+      "delay": 0,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 8
+    },
+    {
+      "action_id": 52,
+      "delay": 0,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 52,
+      "delay": 0,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 15
+    },
+    {
+      "action_id": 52,
+      "delay": 0,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 52,
+      "delay": 0,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 48
+    },
+    {
+      "action_id": 52,
+      "delay": 0,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    },
+    {
+      "action_id": 52,
+      "delay": 1,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 9
+    },
+    {
+      "action_id": 52,
+      "delay": 1,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 52,
+      "delay": 1,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 16
+    },
+    {
+      "action_id": 52,
+      "delay": 1,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 52,
+      "delay": 1,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 49
+    },
+    {
+      "action_id": 52,
+      "delay": 1,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    },
+    {
+      "action_id": 52,
+      "delay": 5,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 13
+    },
+    {
+      "action_id": 52,
+      "delay": 5,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 52,
+      "delay": 5,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 20
+    },
+    {
+      "action_id": 52,
+      "delay": 5,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 52,
+      "delay": 5,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 53
+    },
+    {
+      "action_id": 52,
+      "delay": 5,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    },
+    {
+      "action_id": 52,
+      "delay": 30,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 38
+    },
+    {
+      "action_id": 52,
+      "delay": 30,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 52,
+      "delay": 30,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 45
+    },
+    {
+      "action_id": 52,
+      "delay": 30,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 52,
+      "delay": 30,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 78
+    },
+    {
+      "action_id": 52,
+      "delay": 30,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    },
+    {
+      "action_id": 39,
+      "delay": 0,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 11
+    },
+    {
+      "action_id": 39,
+      "delay": 0,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 10
+    },
+    {
+      "action_id": 39,
+      "delay": 0,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 18
+    },
+    {
+      "action_id": 39,
+      "delay": 0,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 17
+    },
+    {
+      "action_id": 39,
+      "delay": 0,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 51
+    },
+    {
+      "action_id": 39,
+      "delay": 0,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 50
+    },
+    {
+      "action_id": 39,
+      "delay": 1,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 12
+    },
+    {
+      "action_id": 39,
+      "delay": 1,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 10
+    },
+    {
+      "action_id": 39,
+      "delay": 1,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 19
+    },
+    {
+      "action_id": 39,
+      "delay": 1,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 17
+    },
+    {
+      "action_id": 39,
+      "delay": 1,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 52
+    },
+    {
+      "action_id": 39,
+      "delay": 1,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 50
+    },
+    {
+      "action_id": 39,
+      "delay": 5,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 16
+    },
+    {
+      "action_id": 39,
+      "delay": 5,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 10
+    },
+    {
+      "action_id": 39,
+      "delay": 5,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 23
+    },
+    {
+      "action_id": 39,
+      "delay": 5,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 17
+    },
+    {
+      "action_id": 39,
+      "delay": 5,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 56
+    },
+    {
+      "action_id": 39,
+      "delay": 5,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 50
+    },
+    {
+      "action_id": 39,
+      "delay": 30,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 41
+    },
+    {
+      "action_id": 39,
+      "delay": 30,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 10
+    },
+    {
+      "action_id": 39,
+      "delay": 30,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 48
+    },
+    {
+      "action_id": 39,
+      "delay": 30,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 17
+    },
+    {
+      "action_id": 39,
+      "delay": 30,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 81
+    },
+    {
+      "action_id": 39,
+      "delay": 30,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 50
+    },
+    {
+      "action_id": 44,
+      "delay": 0,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 8
+    },
+    {
+      "action_id": 44,
+      "delay": 0,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 44,
+      "delay": 0,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 15
+    },
+    {
+      "action_id": 44,
+      "delay": 0,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 44,
+      "delay": 0,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        1
+      ],
+      "duration": 48
+    },
+    {
+      "action_id": 44,
+      "delay": 0,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    },
+    {
+      "action_id": 44,
+      "delay": 1,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 9
+    },
+    {
+      "action_id": 44,
+      "delay": 1,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 44,
+      "delay": 1,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 16
+    },
+    {
+      "action_id": 44,
+      "delay": 1,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 44,
+      "delay": 1,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 49
+    },
+    {
+      "action_id": 44,
+      "delay": 1,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    },
+    {
+      "action_id": 44,
+      "delay": 5,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 13
+    },
+    {
+      "action_id": 44,
+      "delay": 5,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 44,
+      "delay": 5,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 20
+    },
+    {
+      "action_id": 44,
+      "delay": 5,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 44,
+      "delay": 5,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 53
+    },
+    {
+      "action_id": 44,
+      "delay": 5,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    },
+    {
+      "action_id": 44,
+      "delay": 30,
+      "action_delay": 0,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 38
+    },
+    {
+      "action_id": 44,
+      "delay": 30,
+      "action_delay": 0,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 7
+    },
+    {
+      "action_id": 44,
+      "delay": 30,
+      "action_delay": 7,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 45
+    },
+    {
+      "action_id": 44,
+      "delay": 30,
+      "action_delay": 7,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 14
+    },
+    {
+      "action_id": 44,
+      "delay": 30,
+      "action_delay": 40,
+      "program_kind": 0,
+      "vm_results": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "duration": 78
+    },
+    {
+      "action_id": 44,
+      "delay": 30,
+      "action_delay": 40,
+      "program_kind": 1,
+      "vm_results": [
+        0,
+        2
+      ],
+      "duration": 47
+    }
+  ],
+  "scope": "Four whole prepare mode0 methods with actual464c50/464ca0/464cb0/464ec0 and actual VM step calls,no doubles. Synthetic opcode0/1/5/6 programs; stops first nonzero event,not necessarily animation end. Loop/jump opcodes2/3/4,fast-forward mode,real assets/directory loading and invalid modes pending."
+}

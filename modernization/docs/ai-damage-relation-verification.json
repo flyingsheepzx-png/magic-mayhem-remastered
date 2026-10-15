@@ -1,0 +1,8467 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6568576,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 0
+        }
+      ],
+      "admitted": true
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": -1,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 0,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 1,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 1,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 10,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 10,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 0,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 90,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [
+        {
+          "profile": 6569596,
+          "delta": 49,
+          "target": 3
+        }
+      ],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 0,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 0,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 3,
+      "named": 3,
+      "amount": 49,
+      "old": 99,
+      "status": 1,
+      "frozen": 1,
+      "health": 50,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": -1,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 0,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 0,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 0,
+      "counter_calls": [],
+      "admitted": false
+    },
+    {
+      "source": 3,
+      "victim": 0,
+      "named": 0,
+      "amount": 10,
+      "old": 99,
+      "status": 0,
+      "frozen": 0,
+      "health": 0,
+      "counter_calls": [],
+      "admitted": false
+    }
+  ],
+  "scope": "651 no-double5076f0 integrations. Enablednegative/nonfatalhealth branch entryto507b82 beforeUI suffix;dead/frozen trueearlyreturns. Real514990 nonfataldamage,416d80 value,4656c0 relationcounter execute. Type1/mode689920=0/noactionmemberships/damageattributionptr0/unit660=1;no world/UI/import calls. Independenthealth/profile/countercall checks. Damagepositiveabsoluteamount fed fromnegativehealthchange tosourceprofile againstvictimowner;ifsource!=-1/status7c=0. BothCorneliusdirections/self/missingowner/threshold covered. Fataldamage,otherunittypes/campaignstats/actionattribution/UI/world-save/network remainpending."
+}

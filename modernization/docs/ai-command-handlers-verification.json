@@ -1,0 +1,1034 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "selectors": [
+    {
+      "command": -1,
+      "handler": "0x0"
+    },
+    {
+      "command": 0,
+      "handler": "0x0"
+    },
+    {
+      "command": 1,
+      "handler": "0x50f090"
+    },
+    {
+      "command": 2,
+      "handler": "0x5104b0"
+    },
+    {
+      "command": 3,
+      "handler": "0x50f360"
+    },
+    {
+      "command": 4,
+      "handler": "0x0"
+    },
+    {
+      "command": 5,
+      "handler": "0x0"
+    },
+    {
+      "command": 6,
+      "handler": "0x50f090"
+    },
+    {
+      "command": 7,
+      "handler": "0x0"
+    },
+    {
+      "command": 8,
+      "handler": "0x50e6f0"
+    },
+    {
+      "command": 9,
+      "handler": "0x50e670"
+    },
+    {
+      "command": 10,
+      "handler": "0x50e7a0"
+    },
+    {
+      "command": 11,
+      "handler": "0x0"
+    },
+    {
+      "command": 12,
+      "handler": "0x0"
+    },
+    {
+      "command": 13,
+      "handler": "0x50f3b0"
+    },
+    {
+      "command": 14,
+      "handler": "0x50f590"
+    },
+    {
+      "command": 15,
+      "handler": "0x50f7c0"
+    },
+    {
+      "command": 16,
+      "handler": "0x50f090"
+    },
+    {
+      "command": 17,
+      "handler": "0x50f090"
+    },
+    {
+      "command": 18,
+      "handler": "0x50eba0"
+    },
+    {
+      "command": 19,
+      "handler": "0x50f090"
+    },
+    {
+      "command": 20,
+      "handler": "0x5170e0"
+    },
+    {
+      "command": 21,
+      "handler": "0x521790"
+    },
+    {
+      "command": 22,
+      "handler": "0x50f090"
+    },
+    {
+      "command": 23,
+      "handler": "0x5217e0"
+    },
+    {
+      "command": 24,
+      "handler": "0x521dd0"
+    },
+    {
+      "command": 25,
+      "handler": "0x50f090"
+    },
+    {
+      "command": 26,
+      "handler": "0x0"
+    },
+    {
+      "command": 255,
+      "handler": "0x0"
+    }
+  ],
+  "forwarding_cases": [
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 0,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 1,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 2,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 0,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 1,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 2,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 0,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 1,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 2,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 0,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 1,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 2,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 0,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 1,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 2,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 0,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 1,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 2,
+      "events": [
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 2,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 2,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 2,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 2,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 2,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 15,
+      "command": 23,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 2,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 0,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 1,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "animation",
+          288,
+          0
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 2,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 0,
+      "events": [
+        [
+          "probe"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 1,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 2,
+      "events": [
+        [
+          "probe"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 0,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 1,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "animation",
+          288,
+          0
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 2,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 0,
+      "events": [
+        [
+          "probe"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 1,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 2,
+      "events": [
+        [
+          "probe"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 0,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 1,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "animation",
+          288,
+          0
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 2,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "animation",
+          288,
+          0
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 0,
+      "events": [
+        [
+          "probe"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 1,
+      "events": [
+        [
+          "probe"
+        ],
+        [
+          "attached_effect"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 0,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 2,
+      "events": [
+        [
+          "probe"
+        ]
+      ]
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 0,
+      "effect": 2,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 0,
+      "probe": 1,
+      "effect": 2,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 0,
+      "effect": 2,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 2,
+      "probe": 1,
+      "effect": 2,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 0,
+      "effect": 2,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 0,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 1,
+      "events": []
+    },
+    {
+      "state": 16,
+      "command": 24,
+      "guard": 1,
+      "oldcommand": 15,
+      "probe": 1,
+      "effect": 2,
+      "events": []
+    }
+  ],
+  "scope": "29 whole50da50 no-double selectors,72 whole521770/521780 integrations withreal50db60/50da50 andonly510480 probe,50e3d0 animation,513f50 attachedeffect doubles. Fullunit/ret/handler/callargs-order checked. State15\u2192command23,16\u219224;618guardno-op;old2sets16c/170,old15preserves16c;newcommand/flags/handler installed. Command24probe skipsanimation ifnonzero;23alwaysanimation120,0;effect1 invokes513f50. Callback/commandnames,probe/animation/effectbody/fullcommanddispatcher/save-network pending."
+}

@@ -1,0 +1,855 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "action_id": 5,
+      "factory": "0x422fc0",
+      "object_size": 415,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 5,
+      "factory": "0x422fc0",
+      "object_size": 415,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 6,
+      "factory": "0x426070",
+      "object_size": 436,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 6,
+      "factory": "0x426070",
+      "object_size": 436,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 8,
+      "factory": "0x426850",
+      "object_size": 524,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 8,
+      "factory": "0x426850",
+      "object_size": 524,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 9,
+      "factory": "0x426c80",
+      "object_size": 423,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 9,
+      "factory": "0x426c80",
+      "object_size": 423,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 11,
+      "factory": "0x4274f0",
+      "object_size": 460,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 11,
+      "factory": "0x4274f0",
+      "object_size": 460,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 12,
+      "factory": "0x427990",
+      "object_size": 472,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 11
+    },
+    {
+      "action_id": 12,
+      "factory": "0x427990",
+      "object_size": 472,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 13,
+      "factory": "0x427e00",
+      "object_size": 424,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 13,
+      "factory": "0x427e00",
+      "object_size": 424,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 14,
+      "factory": "0x428210",
+      "object_size": 433,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 14,
+      "factory": "0x428210",
+      "object_size": 433,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 15,
+      "factory": "0x41b100",
+      "object_size": 634,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 15,
+      "factory": "0x41b100",
+      "object_size": 634,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 16,
+      "factory": "0x41f230",
+      "object_size": 532,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 16,
+      "factory": "0x41f230",
+      "object_size": 532,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 17,
+      "factory": "0x41b5c0",
+      "object_size": 448,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 17,
+      "factory": "0x41b5c0",
+      "object_size": 448,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 18,
+      "factory": "0x41c1f0",
+      "object_size": 395,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 18,
+      "factory": "0x41c1f0",
+      "object_size": 395,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 19,
+      "factory": "0x41de10",
+      "object_size": 448,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 19,
+      "factory": "0x41de10",
+      "object_size": 448,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 20,
+      "factory": "0x41fb90",
+      "object_size": 452,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 20,
+      "factory": "0x41fb90",
+      "object_size": 452,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 21,
+      "factory": "0x41bbf0",
+      "object_size": 355,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 21,
+      "factory": "0x41bbf0",
+      "object_size": 355,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 52,
+      "factory": "0x421230",
+      "object_size": 355,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 52,
+      "factory": "0x421230",
+      "object_size": 355,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 22,
+      "factory": "0x41ffb0",
+      "object_size": 452,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 22,
+      "factory": "0x41ffb0",
+      "object_size": 452,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 23,
+      "factory": "0x41dc20",
+      "object_size": 416,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 23,
+      "factory": "0x41dc20",
+      "object_size": 416,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 24,
+      "factory": "0x41b9d0",
+      "object_size": 416,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 24,
+      "factory": "0x41b9d0",
+      "object_size": 416,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 25,
+      "factory": "0x41f020",
+      "object_size": 412,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 25,
+      "factory": "0x41f020",
+      "object_size": 412,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 26,
+      "factory": "0x41c400",
+      "object_size": 468,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 26,
+      "factory": "0x41c400",
+      "object_size": 468,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 27,
+      "factory": "0x41ca50",
+      "object_size": 432,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 27,
+      "factory": "0x41ca50",
+      "object_size": 432,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 28,
+      "factory": "0x41e9f0",
+      "object_size": 359,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 28,
+      "factory": "0x41e9f0",
+      "object_size": 359,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 29,
+      "factory": "0x4201c0",
+      "object_size": 452,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 29,
+      "factory": "0x4201c0",
+      "object_size": 452,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 30,
+      "factory": "0x41ee00",
+      "object_size": 375,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 30,
+      "factory": "0x41ee00",
+      "object_size": 375,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 31,
+      "factory": "0x420650",
+      "object_size": 468,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 31,
+      "factory": "0x420650",
+      "object_size": 468,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 32,
+      "factory": "0x41d080",
+      "object_size": 456,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 32,
+      "factory": "0x41d080",
+      "object_size": 456,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 33,
+      "factory": "0x420880",
+      "object_size": 452,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 33,
+      "factory": "0x420880",
+      "object_size": 452,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 34,
+      "factory": "0x421b50",
+      "object_size": 448,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 34,
+      "factory": "0x421b50",
+      "object_size": 448,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 35,
+      "factory": "0x421940",
+      "object_size": 460,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 35,
+      "factory": "0x421940",
+      "object_size": 460,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 36,
+      "factory": "0x41b3d0",
+      "object_size": 420,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 36,
+      "factory": "0x41b3d0",
+      "object_size": 420,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 37,
+      "factory": "0x41b7e0",
+      "object_size": 387,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 37,
+      "factory": "0x41b7e0",
+      "object_size": 387,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 38,
+      "factory": "0x41c880",
+      "object_size": 420,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 38,
+      "factory": "0x41c880",
+      "object_size": 420,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 39,
+      "factory": "0x41e050",
+      "object_size": 355,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 39,
+      "factory": "0x41e050",
+      "object_size": 355,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 40,
+      "factory": "0x420d00",
+      "object_size": 452,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 40,
+      "factory": "0x420d00",
+      "object_size": 452,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 41,
+      "factory": "0x41f980",
+      "object_size": 448,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 41,
+      "factory": "0x41f980",
+      "object_size": 448,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 42,
+      "factory": "0x41f450",
+      "object_size": 444,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 42,
+      "factory": "0x41f450",
+      "object_size": 444,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 43,
+      "factory": "0x41e530",
+      "object_size": 355,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 43,
+      "factory": "0x41e530",
+      "object_size": 355,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 44,
+      "factory": "0x41cc70",
+      "object_size": 355,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 44,
+      "factory": "0x41cc70",
+      "object_size": 355,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 45,
+      "factory": "0x41ce90",
+      "object_size": 412,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 45,
+      "factory": "0x41ce90",
+      "object_size": 412,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 46,
+      "factory": "0x41fda0",
+      "object_size": 460,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 46,
+      "factory": "0x41fda0",
+      "object_size": 460,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 53,
+      "factory": "0x421480",
+      "object_size": 359,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 53,
+      "factory": "0x421480",
+      "object_size": 359,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 54,
+      "factory": "0x4216e0",
+      "object_size": 415,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 54,
+      "factory": "0x4216e0",
+      "object_size": 415,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 47,
+      "factory": "0x41e2c0",
+      "object_size": 355,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 47,
+      "factory": "0x41e2c0",
+      "object_size": 355,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 48,
+      "factory": "0x41e7a0",
+      "object_size": 355,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 48,
+      "factory": "0x41e7a0",
+      "object_size": 355,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 51,
+      "factory": "0x420ac0",
+      "object_size": 355,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 51,
+      "factory": "0x420ac0",
+      "object_size": 355,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 57,
+      "factory": "0x422b30",
+      "object_size": 433,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 57,
+      "factory": "0x422b30",
+      "object_size": 433,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 49,
+      "factory": "0x41ebe0",
+      "object_size": 420,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 49,
+      "factory": "0x41ebe0",
+      "object_size": 420,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 50,
+      "factory": "0x41c020",
+      "object_size": 395,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 50,
+      "factory": "0x41c020",
+      "object_size": 395,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 55,
+      "factory": "0x421d60",
+      "object_size": 460,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 55,
+      "factory": "0x421d60",
+      "object_size": 460,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 56,
+      "factory": "0x422940",
+      "object_size": 452,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 56,
+      "factory": "0x422940",
+      "object_size": 452,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 58,
+      "factory": "0x41be30",
+      "object_size": 444,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 58,
+      "factory": "0x41be30",
+      "object_size": 444,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    },
+    {
+      "action_id": 59,
+      "factory": "0x41c660",
+      "object_size": 347,
+      "first_allocation_failed": false,
+      "returned_null": false,
+      "allocation_count": 9
+    },
+    {
+      "action_id": 59,
+      "factory": "0x41c660",
+      "object_size": 347,
+      "first_allocation_failed": true,
+      "returned_null": true,
+      "allocation_count": 0
+    }
+  ],
+  "scope": "All53 native clone-slot factories,success and first object-allocation failure. Arbitrary source bytes untouched; fresh ID/vtable/sample/owned-vector initialized. Matching derived cleanup plus explicit storage free matches every allocation. CRT allocation/free sinks only. Nested allocation failure/exception unwinding and all field defaults pending."
+}

@@ -1,0 +1,2119 @@
+diff --git a/.gitignore b/.gitignore
+index a2bc877..4e430cf 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -5,5 +5,12 @@
+ /modernization/baseline/
+ /modernization/build/
+ /modernization/logs/
++/modernization/playtests/
+ /modernization/.venv/
+ **/__pycache__/
++# Generated Remastered release staging and compiler output
++/modernization/releases/remastered-1.0/runtime/
++/modernization/releases/remastered-1.0/incomplete-stage/
++/modernization/releases/remastered-1.0/*.dll
++/modernization/releases/remastered-1.0/*.obj
++/modernization/releases/remastered-1.0/*.res
+diff --git a/AGENTS.md b/AGENTS.md
+index 612ee21..a5f9772 100644
+--- a/AGENTS.md
++++ b/AGENTS.md
+@@ -1,12 +1,36 @@
+ # Project rules
+ 
++- For the ongoing performance optimization program (2026-09-30), implement and
++  install one optimization per iteration, report its result, then wait for the
++  user's gameplay feedback before starting the next. Reassess remaining items
++  by cost, risk and benefit; do not bundle separate optimizations or continue
++  automatically past the user testing checkpoint.
++
++- As of 2026-09-30, after implementing a requested fix, build and install it with hash checks, backup and rollback, then stop. The user performs in-game testing; do not launch automated or manual gameplay/visual acceptance runs unless explicitly requested. This supersedes earlier automatic playtest requirements for this workflow. Report runtime acceptance as pending user testing.
++
+ - Base all patches on the installed community edition. Verify executable hashes before applying address-based patches; refuse unknown versions.
++- As of 2026-09-27, the user requires future development to start from the latest development version unless explicitly instructed otherwise, retaining all existing features. The current latest is `game/Chaos-Wide169-Trial.exe`, merging the latest HD60 QoL implementation with the 1280×720 widescreen experiment. Verify `latest_development` in `modernization/current-baseline.json` and the installed package manifest before address-based changes; retain immutable originals. `game/Chaos-HD60-QoL-Trial.exe`, `game/Chaos-HD60-Trial.exe` and `game/Chaos.exe` remain fallback entries. See `modernization/docs/wide169.md` and `modernization/docs/project-layout.md`. Historical full60 installers must not replace the latest development entry implicitly.
+ - Target 30 logic updates per second and 60 distinct rendered frames per second without changing gameplay time. Preserve existing save formats, Chinese text, OGG music and FMV playback. Multiplayer uses original behavior until separately validated.
++- The user explicitly authorized `MaxFramesPerSec=30` as the installed default on 2026-09-27 despite the provisional movement timing difference. Keep this default across diagnostic sessions; gameplay-time compensation and real 60-frame rendering remain unfinished requirements.
+ - Distinguish wrapper presentation rate from actual game frame updates, and output scaling from native viewport expansion. Never label an unverified feature complete.
++- As clarified on 2026-09-28, the HD UI target is **native 1920×1440 rendering** with corresponding full-size generated UI assets and proportionally larger, readable Chinese and Latin fonts. Downscaling those assets into a 960×720 content region and then enlarging the wrapper output does not satisfy this requirement. See `modernization/docs/native-ui-1920.md`.
++- The same day's final clarification requires a mixed rendering policy: independent UI pages remain native 1920×1440, while battle retains the established **1280×720 scene and HUD rendered at their previous size, scaled 2× to 2560×1440 output**. Do not expand battle to native 2560×1440. Keep UI font enlargement from doubling battle fonts again during output scaling; verify transitions and coordinate transforms in both modes.
+ - Keep backups and provide rollback before modifying game files. Keep experimental features opt-in.
++- During HD development, provide a runnable isolated playtest so the user can correct visual and interaction results while development continues; keep its saves and configuration separate from the installed runtime.
++- The HD acceptance workflow must first capture the hash-verified `Chaos-Wide169-Trial.exe` baseline, then reproduce the same page, save and actions in the isolated HD candidate and compare paired game-surface screenshots at full output resolution. Audit layout, text, sprites, HUD, colour keys and interactions as well as geometry. A resolution/hash smoke test alone is not visual acceptance. Keep per-page issues and fix/retest evidence in the existing HD documents before recommending a candidate.
+ - Image generation/editing must use the user's local Qwen Image 2.1 through the local model service. Never use GPT image generation or substitute another model without permission. Do not store credentials.
+ - Record durable architecture decisions, reverse-engineering evidence and outstanding work in modernization/PLAN.md and modernization/docs/.
++- Prefer scripts, automated pixel checks and read-only memory telemetry over manual image inspection for game testing. Derive click coordinates from the Windows client area; confirm selection before movement. Use manual image inspection only when automated evidence cannot resolve a concrete issue.
++- For game debugging, prioritize Python background control and read-only memory sampling; minimize Computer Use. The user confirmed the reported mouse discrepancy affects unit picking, while UI clicks are accurate, and reproduces in the official original game. Investigate native unit hit regions before altering cursor/UI coordinates.
++
++- Project root is `D:/Games/Magic&Mayham`; `modernization/` holds development materials and `game/` holds runtime assets, configuration and saves. Launch with working directory `game/`. `game/modernization` is a compatibility junction to the outer directory; do not recursively inventory it as game content. Run development commands from the project root.
++- QoL development resumed on 2026-09-27 in `game/Chaos-HD60-QoL-Trial.exe` and is now incorporated in the latest widescreen entry. QoL implements Portmanteau hover binding/transfer/Delete, Portmanteau and battle badges, and bound letters invoking native battle spell buttons. The HD QoL test7 verified left-release casting, right-click cancellation, selection preservation, and cancellation on native box-selection drag; test2 ordinary movement passed. Wider widescreen QoL regressions and unit-picking correction remain open. Read `modernization/docs/qol-input.md` and `modernization/docs/wide169.md` before extending it.
++- Use the global `windows-game-background-debug` skill for Python background input and read-only memory diagnostics. Prefer the private wrapper input protocol; `game_window.py` uses foreground/cursor input and is not the background default.
+ 
+ # Cross-session continuity
+ 
+ Persist durable working rules here, architecture decisions in design documents, planned work in task lists and behavioral requirements in tests. Prefer existing authoritative documents. Never persist secrets or temporary debugging state. Ask before recording information whose long-term scope or destination is ambiguous; briefly report intentional persistence.
++
++# Static reverse engineering
++
++For Ghidra/decompilation work, read `modernization/docs/static-analysis.md` and use the global `magic-mayhem-static-analysis` Skill. Analysis input hashes do not promote baselines. The 2026-09-27 preparation deferred new baseline freezing while another session works; verify current coordination before capturing/promoting a baseline. Keep per-version analysis databases outside Git and separate disk engine code from runtime hooks.
+diff --git a/modernization/PLAN.md b/modernization/PLAN.md
+index c5922b3..7797f76 100644
+--- a/modernization/PLAN.md
++++ b/modernization/PLAN.md
+@@ -1,8 +1,245 @@
+ # Modernization implementation
+ 
++## test14 tutorial layout and UI adapter assessment — 2026-09-30
++
++- Installed v37 fixes fixed spell-tutorial box 4 by anchoring to its sole enabled
++  live spell control. 24 offline hook cases and test14 load/click/targeting pass;
++  saves/settings restored. Existing features retained, rollback available.
++- Evaluated shared UI adapter using countdown/progress, speech, Grimoire and
++  mixed-page tooltip evidence. Recommend incremental semantic anchors/context,
++  beginning with simple widgets; full arbitrary native resolution is separate
++  renderer work. Detailed scope, evidence and cost/risk: `docs/ui-layout-adapter.md`.
++  Broader UI migration is proposed, not installed.
++
++## Occluded unit rendering — 2026-09-30
++
++- User accepted v33 and shifted focus to units obscured by trees/walls.
++- v34 failed user test13; authorized runtime investigation found primary shadow
++  mode 1 followed by body mode 31. Final v36 installed and verified on stationary
++  test13 stone, with command palette restored after intermediate tint detection.
++  30 offline checks pass; saves/settings restored. Stop for broader user QA.
++- Installed v34: 50% reveal of eligible native-submitted opaque bodies,
++  integrated with native/replay frames, retaining floor clipping and native
++  visibility submission. 26 offline compiled/native-rasterizer checks passed.
++  User gameplay/visual acceptance pending; stop after installation.
++  Scope, limitations, hashes and rollback: `docs/unit-occlusion.md`.
++
++## Incremental optimization program — 2026-09-30
++
++User authorized cost-effective optimizations, one installed item per iteration,
++with user testing between items. Stop after each installation/report.
++
++- Item 1: replay command ownership index implemented, equivalence checks passed,
++  installed as v28; user accepted on 2026-09-30. See
++  `docs/path-review-test13.md` for benchmark and rollback.
++- Item 2: native unit reset/deserialization now invalidate redirect and replay
++  caches. Installed v29; build and 8 offline compiled-detour cases passed.
++  User requested next step; no detailed runtime results supplied.
++- Item 3: ordinary single-player request allowance raised from 70/210 to 600,
++  matching existing direct/redirect allowance. Installed v30; build, 29 offline
++  checks and installation integrity passed. User requested continuation; no
++  detailed runtime findings supplied.
++- Item 4: terrain exception tracing made opt-in, installed v31. 80 offline
++  original/candidate terrain comparisons and 4 trace-switch cases passed.
++  User requested continuation; no detailed runtime findings supplied.
++- Item 5: native group allocator already distributes 17 destinations. Extend
++  only exhausted normal-ground-click allocation to 49 candidates within the
++  existing four-cell radius, preserving native validation and the first 17.
++  Installed v32; 165 offline checks passed. User requested continuation;
++  no detailed runtime findings supplied.
++- Item 6: recorded ordinary movement occupancy waits wake early only when the
++  original edge passes native walking validation. Installed v33; 28 compiled
++  offline checks passed. User accepted on 2026-09-30.
++  Evidence, limits and rollback in `docs/path-review-test13.md`.
++- Later candidates, reassess before implementation: bounded search quality,
++  group destination distribution, dynamic congestion handling and broader path
++  smoothing. The latter items carry increasing gameplay risk; authorization is
++  not a requirement to implement every speculative idea.
++
++## Pathfinding review / test13 — 2026-09-30
++
++- Implemented and installed v27 in requested order: redirect sorting/prediction,
++  removal of single-player shared search throttling, review with diagnostic and
++  repeated-cell overhead reductions. Build, offline detour checks and package
++  integrity passed. Runtime acceptance is pending user testing; no game launched.
++- Findings, remaining opportunities, identities and rollback:
++  `docs/path-review-test13.md`.
++
+ ## Requirements
+ 
+-Target 30 logic updates per second plus 60 distinct rendered frames per second without speeding gameplay, native 1280x720 then 1920x1080 with expanded viewport and scalable UI, and improved pathfinding/basic AI while preserving difficulty and fog of war. Prioritize single player and current saves. Preserve community music, video and localization fixes. Only local Qwen Image 2.1 may generate/edit raster assets.
++## Double-key self-cast — 2026-09-30
++
++- [x] Implement 400 ms paired fresh key presses, retaining single-press targeting.
++- [x] Reuse native portrait self-target predicate and portrait spell command.
++- [x] Build/install v26 preserving prior features, with v25 backup/rollback.
++- User gameplay acceptance pending; no automated/manual game run requested.
++
++## Standing requirements
++
++Target 30 logic updates per second plus 60 distinct rendered frames per second without speeding gameplay, battle at native 1280×720 presented 2× at 2560×1440, and independent UI at native 1920×1440, with improved pathfinding/basic AI while preserving difficulty and fog of war. Prioritize single player and current saves. Preserve community music, video and localization fixes. Only local Qwen Image 2.1 may generate/edit raster assets.
++
++## test11 hotkey refresh — 2026-09-30
++
++- Follow-up: user reported v24 new-talisman binding still fails. v25 now permits
++  empty purchased tray slots (-1) in both assignment and badge rendering;
++  installed with build/integrity checks. Exact test11 acceptance remains pending.
++
++- [x] Use live talisman control state for immediate binding after advancement.
++- [x] Redraw Portmanteau after transfer/Delete; draw badges before native tips.
++- [x] Build and install v24 with exact v23 backup, preserved modules and rollback.
++- Gameplay acceptance delegated to user; do not launch further testing unless
++  requested. Standing direct-install/testing policy recorded in AGENTS.md.
++- User confirmed the preceding test10 terrain fix tests normal.
++
++## test10 diagonal detours — 2026-09-30
++
++- [x] Installed v23 terrain-diagonal at the user's explicit request after paired
++  stationary test10 verified the portal detour removed. Keeps original engine
++  and embedded QoL/repath modules, starting obstacle and no load-time route refresh.
++  User takes over wider playtesting; remaining broad gates below are not passed.
++  Rollback: `python modernization/tools/install_terrain_diagonal.py rollback`.
++
++- [x] Reproduce the user's automatic portal route twice on installed Wide169 v22,
++  without new gameplay orders. Both target cells are clear, but native diagonal
++  side checks reject tile-kind 16 at `(57,78,4)` and solid-volume flag `0x4000`
++  at `(54,73,5)`. Native disk predicate bytes match the community engine.
++  Saves/configuration restored; no gameplay patch installed. Evidence and reusable
++  probes: `docs/test10-diagonal.md`.
++- [x] Record user decision: the starting detour is correct; preserve its solid
++  obstacle. Improve the portal-side height detour with a shared policy for all
++  units, respecting each unit's size/movement capabilities and native multiplayer.
++  Detailed modification plan: `docs/test10-diagonal.md`, proposed modification.
++- [ ] Recover terrain surface/footprint geometry and planner/executor call coverage;
++  establish the safe portal-side corridor before altering side-cell checks.
++- [ ] Implement/test a shared height-aware diagonal policy offline, then integrate
++  in an isolated opt-in latest-baseline candidate for planning, movement and
++  redirects. User approved execution but explicitly excluded automatic saved-route
++  refresh on 2026-09-30; keep serialized routes unchanged and reissue test orders.
++- [ ] Verify freshly ordered test10 (start detour retained, portal detour removed), varied
++  unit sizes and factions/AI, dynamic occupancy, genuine wall corners/slopes,
++  saved/fresh orders, and existing QoL/timing regressions before promotion.
++
++## HD repair plan — broad issues before page details, 2026-09-29
++
++This section controls the order of HD work. The detailed checklist below is an
++evidence ledger, not permission to spend time polishing one page while a more
++visible or functional problem remains elsewhere. Fix only failures that
++prevent a reliable comparison before starting the Qwen value audit. Continue
++the remaining functional repairs while using its results to guide each asset
++change. Revisit the audit whenever a new asset class enters the game. If a
++later test exposes a higher-severity regression, return to it.
++
++**Working candidate and comparison.** Keep the installed hash-verified
++`Chaos-Wide169-Trial.exe` as the comparison baseline and keep the isolated HD
++candidate and user playtest separate, with separate saves/configuration and
++rollback copies. Capture the baseline first, then the same save, page and
++actions in HD at full 2560×1440 output. Use the threshold-48 difference tool
++to locate changes, inspect the actual controls and interactions, and record
++known baseline defects separately. The Grimoire right feedback tab is one
++documented baseline defect; use the user's correct reference half for it.
++
++| Order | Scope | Work to finish | Exit gate |
++| --- | --- | --- | --- |
++| 1. Comparison blockers | Startup, required page access, capture, saves and render-mode identity | Check hash identity, isolated startup, full-output captures and safe save restoration. Fix only crashes, data-loss risks or page failures that stop representative baseline/HD A/B runs. | Representative UI and battle pages can be captured in both builds with the same verified save/action; mutable files are preserved and UI/battle render modes are confirmed. |
++| 2. Early Qwen value audit | Representative finished assets and one small pilot from each pending class | For menu/illustrated UI, text and controls, realm art, portrait, battle icon, terrain and creature motion, compare the baseline, a plain enlargement at the same target resolution, and the local Qwen result in the game. Capture the same page/action at full output resolution; inspect readability, identity, texture, colour keys, clipping and motion. Record accept/refine/plain-upscale/defer decisions by category. | Each sampled class has an in-game value verdict with paired evidence. The verdict determines whether pending jobs proceed, change canvas/strength/packing, or stop. Edge energy and queue status alone do not pass this gate. |
++| 3. Functional and large visual repairs | Remaining navigation, input, save/load, OGG/FMV and window issues; whole-page geometry, missing or tiny controls, wrong layers, unreadable text and major colour-key errors | Continue the short route across main menu, settings, battle, Esc/save/return, Region Entry, Grimoire, Portmanteau, dialogs and end screens. Exercise primary actions, rank visible failures by impact and fix the largest first. Recheck whether Qwen art improves the actual page; feed poor cases back to phase 2. | Primary routes complete with intact saves/config; every main page has a paired capture and issue disposition; no blocker, missing control, unreadable primary text, wrong scale or major crop remains. |
++| 4. Targeted generation and integration | Remaining local Qwen output, shared resources, animations and material quality | Generate or regenerate by the category verdict and visible page need. Preserve original frame order, offsets, masks and colour keys. Route shared battle/UI assets by page when their target sizes differ. Use a small pilot after every pipeline change before a larger batch. Rerun all assets only if a demonstrated common fault warrants it. | Accepted assets have hash/geometry checks and game A/B evidence against plain enlargement; no accepted replacement breaks battle, saves or another page. Weak categories are deferred or use the better plain enlargement. |
++| 5. Page detail pass | Small icon offsets, glyph strokes, spacing, shadows, colour nuance and low-impact pixel differences | Revisit each page's threshold-48 map and remaining TODO, compare at full output resolution, fix defects with clear visual or interaction benefit, and document intentional HD art differences. | Each page has a final before/after pair, interaction check and a short list of accepted differences or known baseline bugs. |
++| 6. Candidate qualification | Cross-page regressions and runtime compatibility | Repeat the core route, long combat, QoL bindings, save/load, OGG/FMV, window transitions and rollback. Measure 30 logic updates and 60 distinct renders separately without changing gameplay time. Promote a new isolated user playtest only after these gates pass. | Manifest and rollback verified; no required compatibility gate is untested or failing. |
++
++**Qwen feedback loop.** Keep a per-asset decision beside its source hash,
++generated hash, category and in-game capture: `accept`, `refine and rerun`,
++`plain enlargement wins`, or `defer`. A visible improvement means clearer
++important content at its actual rendered size without changed meaning,
++unwanted invented texture, broken lettering, halo/key damage or animation
++flicker. When several samples in one category fail for the same reason,
++adjust that category's Qwen canvas, strength, mask or sheet packing and retest
++a small pilot before resuming its queue. When Qwen adds little value, stop
++spending GPU time on that category. Keep the original, plain enlargement and
++Qwen variant available for reversible comparison; never substitute another
++generator for the user's local Qwen Image 2.1.
++
++**Next actions in order.** First confirm that representative baseline/HD
++captures and save restoration remain reliable. Start the Qwen game A/B pilot
++immediately using existing reachable pages and finished assets; do not wait
++for every page interaction to be fixed. Feed its verdict into the pending 160
++SPR containers and into any regenerated UI art. Continue Portmanteau
++drag/drop, equipment and QoL repairs and the remaining route/visual issues
++with this evidence in hand. The remaining tiny Portmanteau talisman mark, individual glyph
++strokes and similar per-page details wait for phase 5. Missing latest
++test2/test7 fixtures are tracked below;
++use explicitly hash-verified legacy fixtures for routes they can cover and
++record which checks require the newer saves.
++
++## Detailed status and TODO ledger — 2026-09-29
++
++Installed baseline is wide169 v11. Isolated HD v4 includes native portrait
++healing and per-unit rerouting, while retaining mixed UI/battle rendering.
++Its 251 manifest files match as of the page-specific Portmanteau icon repair.
++Injured test7 life 122→200 and test2 units 0/9/10 redirects passed. Seven
++core pages were paired using the same older
++fixture; five Grimoire pages passed navigation. This is partial acceptance,
++not a release. User playtest v3 remains separate. Evidence is in
++`docs/native-ui-1920.md`.
++
++- [x] P0: Fix pre-snapshot cleanup deleting installed saves on identity
++  failure. Comparison startup now validates labels, saves mutable files to
++  disk before launch, and preserves newly observed saves. Four regression
++  tests pass. Seven hash-verified legacy saves recovered into baseline and v4;
++  old test2/test7 are explicitly named `*-legacy.sav`.
++- [ ] P0: Recover latest test2 (`cdf39217...`) and injured test7 (`0eb63c2c...`).
++  No copy was found in project/backups or searched user folders. User asked
++  for files or source path. Save recovery remains incomplete pending this.
++- [x] P1: Fix Grimoire left introduction tab visibility using a page-state
++  checked draw hook. Opening, next page, return and core baseline-first flows
++  pass; subsequent page pixels are unchanged. Keep the right clasp from the
++  user's correct reference half. Other chapters and detailed glyph/interaction
++  review remain open.
++- [ ] P1: Verify Chinese/Latin font readability, wrap/advance, list rows and
++  tooltips across pages; preserve original battle font size before 2× output.
++  Stable Grimoire captures confirm different Chinese wraps in v4; changing
++  the returned glyph-frame width by four pixels had no visual effect and was
++  rolled back. The actual issue was SFT object horizontal spacing `+0x230`:
++  independent UI used 2 despite doubled glyphs. V4 now uses 4 there and 2
++  in battle/Esc. Grimoire next-page wraps align with baseline; paired core
++  battle, Esc and return pixels stayed unchanged. Other chapters, lists,
++  tooltips and transitions still require acceptance (see
++  `docs/native-ui-1920.md`, Grimoire Chinese wrap spacing repair).
++- [x] P1: Repair Portmanteau tooltip geometry for native independent pages. V4
++  now doubles tooltip layout bounds and rebuilds its offscreen canvas while
++  preserving the original battle tooltip; paired hover and battle-transition
++  evidence is in `docs/native-ui-1920.md`.
++- [ ] P1: Complete Portmanteau drag/drop, equipment, category/colour selection,
++  tutorial/tooltips and all twelve QoL keys, transfer/Delete/reload/focus gates.
++  Tooltip geometry is repaired. The remaining top icon issue is isolated to
++  `SplIcons.spr` frames 43/54/73 and overlays 99/100/107, which are still at
++  baseline size. A six-frame Qwen trial fixed the page but enlarged and cropped
++  a battle spell icon, so it was rolled back. Page-specific draw selection now
++  fixes the three Portmanteau icons while keeping all core battle/Esc/save
++  captures pixel-identical to the pre-icon candidate. Paired evidence is in
++  `docs/native-ui-1920.md`. Drag/drop, equipment and QoL gates remain.
++- [ ] P1: Extend native UI paired acceptance to character/Region Entry, quick
++  battle/map scrolling/setup, dialogs, loading, victory/defeat and transitions;
++  audit assets, colour keys, interaction and full output screenshots.
++- [ ] P1: Audit Qwen's in-game value against same-resolution plain enlargement
++  by representative category before the remaining 160 SPR containers run.
++  Current queue has 517 done, 160 pending, 136 sequence-decode and 7 format
++  blockers. Decide accept/refine/plain/defer per sample and feed category-wide
++  failures into the pipeline; queue status does not prove a worker is running.
++- [ ] P2: Broaden v11 regressions: repeated portrait effects, successful hostile
++  redirects, other unit geometry, safe fallback, targeting, picking and groups.
++- [ ] P2: Run save/load, OGG/FMVs, window transitions, rollback and sustained
++  combat compatibility gates. Confirm 30 logic updates/60 distinct renders
++  and unchanged gameplay timing separately; these remain unfinished.
++- [ ] P2: Reconcile historical documentation, manifest verification lists and
++  reliable byte-preserving backups. Consolidate v4 as a user playtest only after
++  acceptance; keep v3 and installed/fallback runtimes independent.
++
++Completed items superseding older TODOs below: realm overlay clipping, flag
++size/ANI offsets and selection; Portmanteau labels and colour buttons; options
++control geometry/interaction; baseline v11 bug merge. Remaining glyph differences
++alone are not evidence of a defect. Use threshold-48 marked diffs and documented
++baseline-defect exclusions for each fresh paired run.
+ 
+ ## Release gates
+ 
+@@ -12,7 +249,373 @@ Target 30 logic updates per second plus 60 distinct rendered frames per second w
+ - Native widescreen: expanded visible map, accurate picking/spell targeting, readable Chinese UI.
+ - Save/load, OGG/FMVs, alt-tab and rollback must remain functional.
+ 
+-## Status and next gates
++## 2026-09-28 active follow-up
++
++- User reference `assets/hd/grimoire-feedback-baseline-bug-user-reference.png`
++  has the faulty baseline on the **left** and the correct right-edge clasp/tab
++  appearance on the **right**. Current v4 matches the correct right half in
++  the inspected crop. Keep this baseline defect excluded from pixel matching;
++  no v4 right-edge repair is needed. The left intro tab mismatch was repaired in v4 on 2026-09-29; see the current checklist and `docs/native-ui-1920.md`.
++
++- Historical Grimoire detail audit `1790621195557872200` exposed a left intro tab
++  state mismatch: v4 shows the forest icon on introduction; baseline and an
++  original-size capture hide it until the next page. V4 control bytes do not
++  change across those pages, so trace page compositing/clipping before
++  altering the shared sprite. The right feedback-tab remains the user's
++  identified baseline bug and is excluded separately. See
++  `docs/native-ui-1920.md`.
++
++- Options page detail audit `1790620846631673800` completed against a
++  recorded, previously verified baseline capture. Slider rails, knobs,
++  buttons and radio controls have no threshold-48 structural boxes; controls
++  scale 2× except a two-output-pixel knob-center offset. Remaining four marks
++  are Chinese SFT glyph strokes, consistent with the native font goal.
++  Medium-speed and volume interaction passed in both; no patch needed.
++
++- Map overlay defect repaired in isolated v4: native overlay coordinates were
++  being clipped by old 800×600 sprite bounds. Expanded only the two realm
++  clip setups, installed the verified local Qwen flags, and doubled only the
++  ANI placement offsets. Final same-save comparison `1790620563358734700`
++  has zero structural flag ROI boxes at threshold 48; selection and core
++  regression `1790620636999547300` passed with unchanged battle HUD.
++  Baseline captures were reused with explicit provenance while another user
++  session fixes baseline bugs. All v4 manifest hashes match; rollback and
++  exact evidence are in `docs/native-ui-1920.md`. Earlier unknown flag-path
++  entries below are superseded by this verified repair.
++
++- Fresh realm pair `1790618768115004900` confirms one missing overlay box
++  `[1448,408,1560,488]`: baseline shows wizard plus banner, v4 shows
++  neither. Static v4 disassembly located the realm vtable, update entry,
++  refresh call, flag draw and sprite loader. A hash-gated read-only object
++  probe is ready but stopped at a changing shared `wide169.dll` hash. Wait
++  for stable accepted identity, then read live object fields and fix/retest
++  the actual draw path. See `docs/native-ui-1920.md`.
++
++- Realm banner audit confirmed it is not baked into either Celtic map bitmap.
++  `FLAGS.SPR` loader and two realm draw functions were located, but the live
++  object/frame path remains unknown; a speculative flag-count telemetry field
++  was removed. Establish the live draw identity before patching. See
++  `docs/native-ui-1920.md` and the preserved failed flag-sprite trial.
++
++- V4 Portmanteau QoL letters now draw at native 2× size only on independent
++  pages; the battle path remains at its previous size. Paired Portmanteau and
++  core runs `1790614363760689000` / `1790614655695137400` passed with a
++  zero-region label ROI and unchanged battle HUD. The 89-frame realm flag
++  container trial had no visible effect and was rolled back. Trace the flag
++  animation/draw path before further replacement. See `docs/native-ui-1920.md`.
++
++- Use `tools/mark_hd_differences.py` on each baseline-first pair before visual
++  acceptance. Default structural threshold is 48, with explicit ROI and
++  documented baseline-defect exclusions. The current review fixed v4's three
++  Portmanteau colour buttons with only SplIcons frames 0–2 enlarged; the
++  remaining 231 frames and battle HUD were preserved. The user's identified
++  Grimoire right feedback-button baseline bug is excluded from acceptance
++  matching while original asset evidence is checked. See `docs/native-ui-1920.md`.
++
++- V4 realm toolbar rectangles now match the baseline's exact 2× geometry;
++  Portmanteau entry, region selection and core regressions passed in paired
++  runs `1790609325532850700`, `1790609458273361900`, `1790610329861702000`.
++  The SplIcons ring-only trial had no visible effect and was rolled back.
++  Next: actual colour-button resource, realm flags/markers, tooltip/tutorial
++  sizing and item interactions. Exact hashes and rollback are in
++  `docs/native-ui-1920.md`.
++
++- Isolated v4 now fixes the `test5` realm page geometry and region projection,
++  and opens Portmanteau using its actual toolbar button. Baseline-first
++  selection and Portmanteau pairs passed. Qwen `mitems.spr` and `Talisman.spr`
++  were re-encoded and integrated only in v4; the new pair shows full-size items
++  and talismans. Core and Grimoire navigation regressions passed. Evidence and
++  exact rollback paths are in `docs/native-ui-1920.md`. Options sliders/radio
++  sprites and three Portmanteau function buttons now have Qwen 2× frames;
++  paired options interaction, core and Grimoire reruns passed. Captured battle
++  HUD did not grow. Next: colour buttons and realm toolbar scale/coordinates,
++  tutorial/tooltips, Portmanteau item interactions and QoL checks. V3 remains
++  the current runnable user playtest; v4 is still a development candidate.
++
++- Isolated `mixed-ui-v3/Run-Mixed-UI.cmd` now contains baseline-paired fixes
++  for native Region Entry and Grimoire geometry, Qwen full-size page art,
++  193 re-encoded Grimoire sprite frames, content row pitch and battle/Esc
++  font sizing. Open/turn/return and core menu/load/battle/save/return passed.
++  Installed baseline and v2 were preserved. Evidence: paired directories
++  `1790604321122661300` and `1790604367178761200`; exact scope, hashes,
++  the failed SPR revision and the corrected native format are recorded in
++  `docs/native-ui-1920.md`. Next: test5 realm native geometry/hitmask/input,
++  Portmanteau navigation/interactions, Region Entry and options widget sprites,
++  Chinese wrap details, full QoL and remaining release gates. This is a
++  runnable experimental playtest, not all-page HD acceptance.
++
++- Run the baseline-first paired visual workflow before promoting any HD
++  candidate. `tools/compare_hd_baseline.py` now captures the installed v7
++  executable first, then isolated v2, with 5120×1440 paired output and native
++  source captures. The first audit exposed undersized/black independent realm
++  views, failed Grimoire/Portmanteau navigation, oversized battle Esc text,
++  undersized options controls and possible Load/Save glyph pitch issues. Fix
++  the realm geometry and navigation first, then rerun the same page pairs.
++  The v3 follow-up above fixes part of that audit; the remaining issues and
++  exact evidence directories are in `docs/native-ui-1920.md`.
++
++- The isolated `mixed-ui-v2` at `modernization/playtests/mixed-ui-v2/` now
++  combines the native 1920×1440 independent pages with 2× presentation of
++  the 1280×720 battle and the v7 QoL/replay modules. Normal startup and an
++  extended owned test2 → Esc → Save Game → battle → movement flow passed on
++  2026-09-28. The Save Game background matched 98.60% of its expected native
++  art within 8 levels. A three-second movement segment changed wizard world
++  coordinates from (66,48,6) to (69,49,7), with 66 replay compositions
++  reporting moved commands, 216 adjacent distinct buffers, and 108/108
++  unchanged out-of-scene UI hashes. This is bounded evidence, not yet a
++  30-minute gameplay timing or 60-distinct-FPS acceptance. The isolated v2
++  wrapper was changed to borderless window mode after one 2542×1393 client
++  observation; two subsequent startup/flow checks measured 2560×1440.
++  Screen-aware Latin/Chinese fonts, full QoL input, remaining UI pages,
++  FMV and SPR integration are open. See `docs/native-ui-1920.md` and
++  `playtests/mixed-ui-v2/extended-verification.json`.
++
++- An isolated user playtest is available at `modernization/playtests/mixed-ui-v1/`.
++  Launch `Run-Mixed-UI.cmd`; it uses its own runtime, saves and configuration.
++  The v7 QoL launcher loaded six verified hooks; ordinary startup and an owned
++  `test2` flow both opened at physical 2560×1440 with `MaxFramesPerSec=30`;
++  battle capture passed exact 2× pixel geometry. This is an opt-in test build,
++  with battle font scaling and broader interaction regressions still open.
++
++- The separate user-provided original 1.10 installation had missing system
++  Indeo IV41/IV50 decoders. Its five FMVs were backed up and converted to
++  MSVC AVI with PCM audio preserved; the original game now visibly plays the
++  startup film. The New Game → difficulty → battle path did not show a further
++  film. See `docs/fmv-compat.md`. On 2026-09-29, the five compatible AVIs were
++  installed into the current Wide169 runtime and the startup film was observed
++  centered with Chinese subtitles. Both startup and in-game FMV origins were
++  changed from `(80,120)` to `(320,180)` in the hash-verified engine; the
++  in-game film triggers remain to be played through individually. Package,
++  installed hashes, screenshot and rollback paths are in `docs/fmv-compat.md`.
++
++- On 2026-09-29, the Wide169 Grimoire's right tabs were spaced four above and
++  four below its painted clasp. `package-v20-grimoire-tab-clearance` is installed;
++  settled game-surface captures, click checks, exact rectangles, manifest and
++  rollback are recorded in `docs/wide169.md`. Earlier X-offset trials were
++  rejected after visual review.
++
++- The user rejected v20's claimed visual fix: the clasp remained doubled.
++  V21 corrects the actual cause by scaling only close-control SPR frames 0/1
++  from 27×116 to 32×139, matching the 1.2x backdrop. Isolated crop comparison
++  and close/return passed; v21 is installed. See the corrected diagnosis and
++  rollback in `docs/wide169.md`; v20 spacing alone was not visual acceptance.
++
++- 2026-09-30: v22 installed from the current v21 baseline. Test8 countdown
++  now anchors at (1120,584); shared save/load progress at (281,655). Independent
++  test8 before/after captures and continuous real-save frames verify placement;
++  installed save/config hashes unchanged. See `docs/wide169.md` for exact
++  engine identity, patch evidence, transient capture and rollback.
++
++- SeedVR2 FMV restoration was stopped at the user's request after visual review
++  found limited overall improvement. External 1920×1440 results remain under
++  `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/1920x1440/`. The
++  selected 7B Sharp model upscales each 640×360 film to 1920×1080 and centers
++  it on a 1920×1440 black-padded canvas. The original PCM stream is retained in
++  H.264 MKV masters and MSVC AVI compatibility copies; MP4 previews carry AAC.
++  Frame counts and source held-frame timestamps are restored during muxing.
++  Celtic, Greek, Medieval and Intro1 passed full decode, PCM identity and Windows
++  VfW frame-open checks. The remaining intro0 model job was cancelled and the
++  result collector stopped. This is external media and does not replace the
++  installed game FMVs; details and limits are in `docs/fmv-compat.md`.
++
++- A user-requested MiniMax H3 Celtic follow-up was tested through
++  LocalModelManager with source video plus three source-frame anchors per
++  segment, official structured full-reference prompt format, and 20-step
++  Base Ref2VA at 1024×576. Both eight-second jobs completed and Manager
++  released GPU memory afterward. The joined preview and original-PCM MKV
++  are external to the game in `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-celtic/`.
++  Visual review still found changed perspective/electrical structure and
++  doorway timing; retain as an experimental remake, not an installed FMV.
++  See `docs/fmv-compat.md` for evidence and limitations.
++
++- The FMV creative direction was clarified on 2026-09-28: reconstruct old
++  footage as new high-quality imagery, rather than preserve its low-resolution
++  visual rendering. A short Celtic H3 A/B found that direct old-video reference
++  still copied the old style; text-only reconstruction based on the source
++  scene/storyboard produced a new cinematic look and forward camera movement,
++  while changing exact geometry and timing. This 5.17-second experiment remains
++  external; any full-film reconstruction needs shot-by-shot planning and user
++  visual review. See `docs/fmv-compat.md`.
++
++- The complete Celtic creative reconstruction is now available externally as
++  `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-celtic/video-reconstruction/Celtic-H3-full-reconstruction.mp4`.
++  Two FL2VA continuations from the accepted text-only opening depict portal
++  travel and a sunset-column landscape. Three H3 segments total 377 frames
++  at 24 FPS and carry the original soundtrack; the archival MKV retains PCM
++  byte-for-byte. Full decode passed. The generated ending has more columns
++  than the original, so this remains a creative interpretation pending user
++  visual review and is not installed into the game. See `docs/fmv-compat.md`.
++
++- A corrected Celtic creative reconstruction now includes the source's missing
++  aerial map descent. It uses the user's enhanced `Greek_Map.bmp` as a visual
++  geographic reference, keeps 100 useful frames from the new island-dive
++  segment and regenerates the subsequent white-door/sunset-column ending.
++  The corrected external preview is `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-celtic/video-reconstruction/Celtic-H3-with-map-reconstruction.mp4`.
++  It has 377 decoded frames, the original 15.7-second duration and the
++  source PCM preserved in the archival MKV. The previous version is retained.
++  See `docs/fmv-compat.md` for shot-by-shot evidence and limitations.
++
++- Celtic's map landing must target the main island's upper-left snowy
++  mountains, as marked by the user. The corrected external candidate is
++  `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-celtic/video-reconstruction/Celtic-H3-northwest-final-preview.mp4`.
++  It shows the northwest descent followed by the magical passage, white door
++  and sunset columns. The ending edit includes the entire generated reveal;
++  377 frames preserve the original 15.7-second duration. Full decode and
++  archival source-PCM identity passed. Pending user visual review; no runtime
++  files changed. See `docs/fmv-compat.md`.
++
++- The Celtic review also requires the original's animated blue-white energy
++  web during the aerial map dive. An external overlay candidate is
++  `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-celtic/video-reconstruction/Celtic-H3-northwest-energy-preview.mp4`.
++  It keeps the northwest landing and original soundtrack; 377-frame decode
++  and archival PCM identity passed. Pending user visual review.
++
++- The energy-overlay result was rejected. A new Celtic review candidate
++  directly joins the H3 opening to the original SeedVR2 1920×1440 upscale
++  across the bright portal transition at 5.5–5.8 seconds:
++  `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-celtic/video-reconstruction/Celtic-H3-SeedVR2-splice-preview.mp4`.
++  It preserves all original-derived midfilm effects and the doorway/columns.
++  Complete decode and source PCM identity passed. Pending user visual review.
++
++- The intended Celtic splice is H3 opening + original SeedVR2 middle + H3
++  ending. Interim preview:
++  `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-celtic/video-reconstruction/Celtic-H3-SeedVR2-H3-splice-preview.mp4`.
++  The existing H3 ending gives the correct source type but has an extra portal
++  and imperfect pacing. A revised ending prompt follows the official
++  `[Shot N] At MM:SS.mmm` syntax and marks doorway/columns/panorama times.
++  Its Manager job `3f5f336f6077446a8da1a5c18f30d2b4` failed before
++  generation at the former free-VRAM gate (27648 MiB). On 2026-09-29 the user
++  accepted the existing three-part splice as sufficient and stopped further
++  H3 generation for this film. Do not retry that job automatically or claim
++  source-timing fidelity. The Manager gate was adjusted separately.
++
++- Greek creative review candidate follows the same three-part structure:
++  H3 torch-lit stone corridor, original SeedVR2 portal effects, H3 moonlit
++  sea. Preview:
++  `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-greek/video-reconstruction/Greek-H3-SeedVR2-H3-preview.mp4`.
++  Two Manager H3 jobs completed; 1920×1440, 399 frames, 16.624 seconds.
++  Full decode and archival source-PCM identity passed. External review only;
++  no game files changed. See `docs/fmv-compat.md`.
++
++- After user review, Greek was remade with H3 visuals throughout. The dungeon
++  prompt specifies high-definition stone, torch, floor and transport-dais
++  details; separate H3 segments render the cylindrical portal and moonlit
++  coast. Current external preview:
++  `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-greek/video-reconstruction/Greek-H3-full-remaster-preview.mp4`.
++  Three Manager jobs completed. The 399-frame, 16.624-second video fully
++  decoded and its archival MKV retained the source PCM stream. Creative
++  candidate pending user visual review; no runtime files changed.
++
++- User clarified the Greek goal as increasing detail density within the
++  original shot, preserving geometry, motion and timing. Current external
++  Ref2VA candidate:
++  `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-greek/video-reconstruction/Greek-H3-density-restoration-preview.mp4`.
++  Each H3 segment uses the source video plus three keyframes as fully
++  preserved references. Three Manager jobs completed; the 399-frame,
++  16.624-second preview fully decoded and archival PCM matches the source.
++  Review detail gain and transitions visually before promotion. The prior
++  full-remake version remains for comparison; no game files changed.
++
++- Greek video-only H3 experiment completed at the user's request: all image
++  references removed, one source-video reference per segment, with detailed
++  HD-remake prompts. External preview:
++  `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-greek/video-reconstruction/Greek-H3-video-only-remaster-preview.mp4`.
++  Full decode and source PCM identity passed. The first join repeats part
++  of portal activation; visual improvement and continuity are pending review.
++  Keep prior candidates for comparison; no game files changed.
++
++- Greek two-shot follow-up: one continuous H3 dungeon-to-whiteout generation
++  plus the existing H3 coast segment. Join occurs inside the full white
++  portal transition, with stable black letterbox bars. External preview:
++  `D:/AI/LocalModelManager/media/magic-mayhem-fmv-20260928/h3-greek/video-reconstruction/Greek-H3-two-shot-white-splice-preview.mp4`.
++  399 frames/16.624 seconds, complete decode and source PCM identity passed.
++  Pending user visual review; no runtime files changed.
++
++- Final user clarification: independent UI is native 1920×1440; battle must
++  keep the prior 1280×720 scene/HUD size and scale 2× to 2560×1440 output.
++  The isolated native-2560 battle experiment is superseded. Implement mixed
++  rendering with screen-aware fonts and input transforms, then verify menu →
++  load → battle → full-size Grimoire/Portmanteau → battle. Preserve latest
++  v7 QoL/timing features before any playable package promotion.
++  A read-only owned run confirmed the current UI probe still has 2560×1440
++  battle geometry and doubled battle fonts, with battle pointer nonzero during
++  Esc. See `docs/native-ui-1920.md`; the 5120×1440 actual-game size comparison
++  is under `assets/hd/native-ui-2k-probe/`. An eighth native-size screen,
++  Save Game, passed full-art capture, input, save creation and cleanup from
++  battle. A reversible rectangle-only run then restored the battle scene to
++  1280×720 inside the 2560×1440 primary: its test2 crop matched the previous
++  playable build at 99.04%, while native UI still loaded at full size. The
++  rectangle experiment was rolled back after capture. Compositor code remains
++  groundwork and has not been built or game-tested. No mixed-mode game build yet.
++  A subsequent isolated D3D9 mixed probe has now built and run: battle/Esc and
++  return from Save Game were exact 2× pixel presentations, D3D9 mixed uploads
++  rose from 52 to 124, the Save Game art retained 98.60% native-size match,
++  and protected files were unchanged. This is still a diagnostic prototype:
++  screen-aware fonts, physical input, DPI-aware physical output verification, other renderers
++  and combined v7 QoL/replay remain open. See `docs/native-ui-1920.md`.
++
++- The user clarified on 2026-09-28 that **1920×1440 is the required native UI
++  rendering size**, not merely the asset preparation size or wrapper output.
++  The current wide169 preview only draws non-battle UI in a 960×720 region and
++  is a compatibility experiment, not the HD UI target. Do not promote its
++  downsampled art as completion. An opt-in v7 wide169 Qwen-art preview loads
++  generated Load Game and Grimoire backdrop assets from an isolated package
++  copy, but native UI rendering and full-size asset integration remain open.
++  A separate menu/load-game engineering probe now reaches an actual 2560×1440
++  game surface and draws full 1920×1440 Qwen images centered at 1:1. It is
++  direct-engine and not yet a feature-preserving playable candidate. A
++  reversible font probe now doubles SFT and Chinese `Egfonts.enc` glyph output;
++  menu, Load Game, Battle Options and `test2` load passed at 2560×1440 native
++  capture with `MaxFramesPerSec=30`. Remaining work includes other screens,
++  restoring 1280×720 battle geometry with 2× output, visual QA of dynamic text,
++  and the combined
++  replay/QoL runtime. The next isolated stage reaches Quick Battle, Single
++  Player Battle Setup and Map Selection at 1920×1440, and selects a map before
++  returning to setup. A map-list bottom-edge collision was corrected in the
++  probe CFG; full scrolling and setup text collisions remain open. The
++  single-player Start flow now reaches a full-size Portmanteau shell; Ready
++  proceeds into battle. test2 telemetry confirms the native battle scene rect
++  spans 2560×1440, correcting an earlier visual-only interpretation.
++  Portmanteau item interaction, its sprite assets, mixed battle output, and the
++  combined replay/QoL runtime remain open. See the same document for
++  screenshots, coordinates and hashes.
++  See `docs/native-ui-1920.md` for exact evidence and remaining gates.
++  The UI queue is complete and verified: 382/382 files. See
++  `assets/HD_BUILD_LOG.md` and the preview
++  report. The installed wide169 runtime also lacks 11 package-listed CFG files;
++  reconcile that package discrepancy before treating the installed directory
++  as clean or promoting another package.
++
++- The current `Chaos-Wide169-Trial.exe` is package-v7, based on v6 with
++  centered confirmation dialogs, corrected generic left Grimoire pages and
++  restored single-click selection after same-type double selection. Candidate
++  test8/test9/dialog checks and package install verification passed. Exact
++  2560×1440 wrapper output remains open; see `docs/wide169.md`.
++
++- The latest widescreen development entry is installed from immutable
++  `modernization/build/wide169/package-v6-realm-targets`. test8 hover identity,
++  keyed highlight scaling and three terrain landmarks passed native-surface
++  checks; test9 selection/double-click/portrait casting and test2 five ground
++  movement samples passed. See `docs/wide169.md` for exact evidence and rollback.
++- The session's output client sometimes opened at 1280x720 despite a 2560x1440
++  wrapper setting. Restore and verify 2x output geometry before treating the
++  high-resolution presentation gate as complete. Test queued highlight rendering
++  when reachable. Visual landing and summon placement still need a stronger
++  projection oracle beyond matching memory grid IDs.
++- HD UI generation resumed from a hash-verified staged original source tree;
++  follow `assets/HD_BUILD_LOG.md` for Manager job progress and validation.
++
++## Persistent rerouting acceptance criterion
++
++Safe mid-segment interruption remains required: preplanning with handoff only at the next cell does not satisfy the user. Preserve position continuity, unit identity, valid occupancy and native fallback when transition is unsafe. Earlier primary evidence is retained under `docs/history/primary-before-hd-20260927/`.
++
++## Current authoritative state — 2026-09-27
++
++The user promoted the latest `Chaos-HD60-Trial.exe` to the development baseline. Runtime now lives in `game/`; development materials remain in outer `modernization/`. Older entries below are historical evidence, and statements that HD exists only in an isolated lab or that 800x600 is the primary baseline are superseded. Launcher SHA-256: `1ebb20d0f53f5e73532c02edfd68d81f4b3f7cf06c99081e90b3d6548807c4bf`; engine: `be56ceb3ca4f8eacd9414136237cd8d15899585f79a250203125d72f95c590c7`. Preserve `MaxFramesPerSec=30`. Continue HD compatibility and gameplay timing/render uniqueness gates; promotion does not imply those gates passed. QoL development resumed at user request; the separate HD trial passed live 12-key binding/transfer/Delete/reload, Portmanteau and battle badge pixels, and test7 bound-letter activation of native spell buttons. The casting follow-up passed test7 left-release summoning and box-selection cancellation, right-click cancellation and selection preservation, plus test2 normal movement; keyboard activation now uses the native icon sound call. Picking correction, multi-unit/foreground-audio and broader combat compatibility remain open. See `docs/qol-input.md`. See `docs/project-layout.md` and `current-baseline.json`.
++
++An independent 16:9 experimental entry is now installed at `game/Chaos-Wide169-Trial.exe`, with runtime under `game-wide169/`. Native battle canvas is 1280×720 and cnc-ddraw presents it at 2560×1440. Outside battle, 960×720 original-derived content is centered with 160-pixel native side bars. test2, test5, Grimoire, 11 hooks, 30 setting, save/load, audio session, window restore, and package-v3 rollback/reinstall passed their recorded gates. FMV playback and exact realm destination selection remain open. This candidate does not replace the accepted HD60 baseline; see `docs/wide169.md` and `modernization/wide169-installed.json`.
++
++## Historical status and remaining gates
+ 
+ - **Done:** Immutable baseline of 819 executable/config/interface/AI/save files, including per-file SHA-256 manifest. Source repository ignores commercial assets and backups.
+ - **Done:** Reversible 1080p/1440p/4K cnc-ddraw output presets. These are display scaling only. The installed game has been restored to its community display configuration after testing.
+@@ -21,10 +624,101 @@ Target 30 logic updates per second plus 60 distinct rendered frames per second w
+ - **In progress:** `MaxFramesPerSec=30` loads as 30 and produces a 33 ms interval, compared with 20 and 50 ms. This confirms the preference is accepted, not that game time is preserved. The current menu loop counters do not track that preference. A 30 setting was briefly tested and the installed preference restored to baseline.
+ - **Done:** The user-provided `Test` save is backed up and hash checked as a repeatable forest battle fixture. The load flow now verifies screenshots before recording data; a first click consumed by window activation is retried. Four eight-second 20/30 logic and default/60-present tests show 73–103 wrapper surface uploads versus 481 present attempts at 60-present. The latter repeats the current texture; it is not 60 distinct game images. See `docs/reverse-engineering.md`.
+ - **Current probe limitation:** Later startup attempts intermittently remained black while the display was allowed to turn off; after the user disabled automatic display sleep, 20 and 30 logic test-save loads succeeded again. The screenshot gate rejected black startup captures and restored temporary files. A mouse movement trial did not show confirmed unit displacement, so movement/cast wall-clock comparison remains unmeasured. Do not infer gameplay speed from the four static-scene runs.
+-- **Done:** Full installed-asset metadata inventory of 4,857 files and a 2560×1440 native UI / 2x in-game art plan are recorded in `assets/HD_PLAN.md` and `assets/inventory-summary.json`. Optional local Qwen Image 2.1 backdrop candidates remain uninstalled.
++- **HD UI integration lab (2026-09-27):** The chosen asset target is a 1920×1440 native 4:3 UI plus 2× in-game art. Four Qwen-Image 2.1 UI outputs passed the smoke checks; the remaining UI batch runs in the original workspace. A complete game copy in the isolated `codex/hd-ui-lab` worktree loaded generated menu and settings art through temporary same-path JPGs. A full-size menu cropped on the old 800×600 surface; an 800×600 compatibility conversion aligned and a wrapper client reached 1920×1440 with an 800×600 game surface. The three-tier lab selector works for 640, 800 and 2K presentation. Native 2K asset loading, engine layout/input transforms and a third in-game settings option remain unimplemented. See `docs/hd-integration.md`.
++- **HD handoff candidate v13 (2026-09-27):** The isolated candidate now uses a
++  1120×840 native surface presented at 1920×1440, expands full-screen UI surfaces,
++  scales 23 CFG layouts and 247 raster assets, preserves 640/800/2K selection,
++  and prefers lossless BMP for 190 Qwen Grimoire pages. Colour keys come from a
++  fixed original-image template and are painted after generation/resizing; Qwen
++  output never determines transparency. Menu flow, Grimoire and test2 input/HUD
++  regressions pass with unchanged saves. Candidate SHA-256 is `d0e3f37b...`,
++  based on community `b1eccc46...`; exact edits are in `assets/hd/hud-build.json`.
++  Merge only through a new combined 30/60+HD candidate because the frozen replay
++  buffers still assume 800×600 and 1600 bytes per row. See `docs/hd-integration.md`.
++- **Expanded battle viewport experiment passed (2026-09-27):** The isolated, opt-in `Chaos-hd-viewport-rect-lab.exe` renders `test2` at 1120×840 (1.96× area), with newly drawn map pixels in all four outer bands. The old terrain overlap matches 95.73% exactly after translation by `(160,120)` with unchanged unit scale. Python private input confirmed selection corners before ordering movement in the added right band; the player moved east while the foreground remained unchanged during input, saves stayed unchanged and temporary DLL/INI files were restored. This first sibling did not move the HUD; the subsequent HUD sibling and launcher are described below. See `docs/hd-integration.md`.
++- **Battle HUD adaptation in isolated copy (2026-09-27):** `Chaos-hd-hud-lab-v2.exe` applies the original 640→800 anchoring rule again by `(320,240)`. Automated screenshot checks found exact translated gold UI pixels for the portrait, spell toolbar and control-limit counter with none at their former positions. New portrait click and right-band movement passed with the game continuously in the background. The opt-in `hd_launch.py` connects the existing three-tier selector to the HUD sibling at 2K; 640/800 use the community EXE. The follow-up v4 lab relocates the roof control, extends cursor/scroll edge bounds, and fills the main menu with matching hit rectangles. Private four-edge scrolling, roof toggle, menu-to-test2, and right-band movement passed; normal foreground mouse behavior and other screens remain release gates before installed deployment and merge with the active pathfinding branch. See `docs/hd-integration.md`.
++- **Combined HD60 UI follow-up passed (2026-09-27):** The playable lab entry is
++  `Chaos-HD60-Trial.exe` (`9ab567e1...`) with engine `b7414bb0...`. The remaining
++  enemy warnings, battle tooltip, ESC menu, full-surface cutscene continuation
++  input and loading-bar geometry are adapted for 1120×840. `test2` passed roof,
++  cursor, four-edge scroll and added-band movement; `test3` passed exact enemy,
++  tooltip and ESC visual gates; saves stayed unchanged. Startup passed 11/11
++  runtime hooks and retained `MaxFramesPerSec=30`. Loading and cutscene coverage
++  are static-byte/resource gates pending stable visual fixtures. A hash-gated
++  rollback is in `tools/rollback_hd60_ui_fix.py`. See `docs/hd-integration.md`.
++- **Combined HD60 end screens passed (2026-09-27):** The newer playable lab
++  launcher is `Chaos-HD60-Trial.exe` (`4ed7bb07...`) with engine `b05d3823...`.
++  The `test4` fixture reproducibly reaches victory; private-background clicks
++  and captures verified the full 1120×840 victory, realm map and portmanteau
++  screens. `test2`/`test3` regressions and runtime hook checks passed, with saves
++  unchanged and `MaxFramesPerSec=30`. Resource paths and the realm click mask
++  retain their 800×600 source coordinate system. See `docs/hd-integration.md`;
++  rollback is `tools/rollback_hd60_end_screens.py`.
+ - **Blocked on engineering evidence:** 60 unique rendered game frames with 30 logic updates and no gameplay speedup. Locate and trace simulation/update and render boundaries; establish a repeatable visual frame counter and movement/cast benchmarks before patching.
+ - **Blocked on engine mapping:** Native widescreen. Map render buffers, UI coordinates, viewport and input transforms; output scaling is not native widescreen.
+ - **Blocked on engine mapping:** Live pathfinding integration. Recover navigation cell structures, passability and movement semantics, plus stable hook signatures, then add an opt-in x86 module.
+ - **Not started:** 30-minute combat, save/load, wider screen, film/audio and multiplayer validation. Multiplayer remains original behavior.
+ 
+ Do not claim any blocked feature has been delivered. Do not apply guessed address patches to the installed executable.
++
++- **test5 UI defects corrected (2026-09-27):** Playable HD lab now right-aligns the realm toolbar, scales Portmanteau 800-mode slot/navigation/category rectangles, and fully clips and centres all three character talismans. test5 navigation/pixel checks, 11 hooks, 1120x840, MaxFramesPerSec=30 and test2 roof/four-edge regression passed; saves unchanged. See docs/hd-integration.md and tools/rollback_hd60_test5.py. Remaining HD compatibility gates stay open.
++
++## Latest development checkpoint — 2026-09-28
++
++### Portrait casting and multiunit pathfinding — 2026-09-29
++
++- **Done:** v10 portrait Q heal uses the native portrait cast function. Two
++  consecutive left clicks preserve spell mode; the first restores actual life
++  122→200 in injured test7. v11 preserves the same QoL module bytes.
++- **Done:** v11 per-unit path redirect removes the unit-0-only gate. The wizard
++  and both summoned zombies in test2 each produced mid-segment redirects;
++  enemy orders reached the same hook and one occupied anchor safely fell back.
++  Installed entry is `game/Chaos-Wide169-Trial.exe`, SHA-256
++  `01119a189bfd50d3fed7a07d436be66dd02d93266dd259206084b34102c35bc0`.
++  See `docs/wide169.md` for evidence and rollback.
++- **Open:** Observe a successful enemy redirect in a suitable combat fixture;
++  the current test2 enemy path only demonstrated owner-independent entry and
++  collision fallback. Broader unit geometry and long combat remain separate
++  compatibility gates.
++
++The four requested input/map fixes are installed in the independent widescreen
++entry as immutable package-v5-input-map: exact sprite-mask unit picking, double
++click selection of visible same-type friendly units, portrait target casting,
++and realm hover outline/enemy wizard projection. test9/test8 evidence and the
++rollback path are recorded in `docs/wide169.md`. Post-install QoL and test2
++regressions passed; `current-baseline.json.latest_development` records the new
++launcher and module hashes. Continue remaining widescreen compatibility and
++gameplay timing/render-uniqueness gates from this version.
++
++## Static analysis preparation — 2026-09-27
++
++### Latest development checkpoint: widescreen + QoL merge
++
++- User explicitly requires the latest development version as the default base,
++  preserving prior features, unless a different base is requested. Latest entry:
++  `game/Chaos-Wide169-Trial.exe`; identities in
++  `current-baseline.json.latest_development` and `wide169-installed.json`.
++- Merged latest HD60 QoL code and engine into the independent 1280×720 widescreen
++  runtime. Esc background is centered at (280,120), with matching existing button
++  rectangles. Focused Esc and test7 Q/W/E/R targeting/right-cancel checks pass,
++  including 11 combined + 6 QoL hooks, 30 setting, 2560×1440 output and unchanged
++  protected files. Package-v4-qol includes independent QoL bindings.
++- Next: widescreen test6 bindings/badges, actual left-release cast and box-drag
++  regression, then outstanding FMV/destination/long-combat checks. See the latest
++  checkpoint at the top of `docs/wide169.md` for commands and evidence. This
++  supersedes the historical native-widescreen blocked item above. True 60 distinct
++  game frames and gameplay-time compensation remain unverified.
++
++- **Done:** Portable Ghidra 12.1.4 and Temurin JDK 21.0.12.1+1 deployed outside the runtime; official archive checksums verified. Hash-gated new-import wrapper, bounded pseudocode/call export, nested tool AGENTS.md and global `magic-mayhem-static-analysis` Skill added. Synthetic x86 smoke: two functions, zero failures, no timeout, branch arithmetic and call edge verified; bad-hash and existing-project imports rejected; Skill validation passed.
++- **Deferred:** User requested postponing new baseline freezing while another session is working. No game/config/save/current-baseline changes in this preparation. After that work settles, confirm the accepted engine before creating its analysis database. See `docs/static-analysis.md` for tooling, evidence rules and next tasks.
++
++## Remastered 1.0 delivery — 2026-09-30
++
++- Independent release delivered to `D:/Games/Magic&Mayham_Remastered_1.0`, from
++  installed v37 with identical embedded enhancement modules and native engine.
++  File/build validation passed; runtime acceptance pending user testing.
++- Release packaging, exclusions, source identities and known remaining gates:
++  `docs/remastered-release.md`, `releases/remastered-1.0/tasks.md`.
++- Development checkpoint backup and reversible cache cleanup follow release
++  delivery; immutable packages, baselines, rollback dependencies and evidence
++  remain authoritative. Backup details: `docs/development-backup.md`.
+diff --git a/modernization/README.md b/modernization/README.md
+index 1843f04..26e2071 100644
+--- a/modernization/README.md
++++ b/modernization/README.md
+@@ -1,10 +1,12 @@
+ # Magic & Mayhem modernization workbench
+ 
+-This repository contains tools, tests and reverse-engineering notes for the installed community build. **Real 60 FPS, native widescreen and in-game AI replacement are not implemented yet.** The A* core is an integration prototype, not an installed gameplay patch.
++Current development baseline: `game/Chaos-HD60-Trial.exe`, with its paired `game/Chaos-HD60-engine.exe`. Run commands from the project root and launch with working directory `game/`. Read [project layout](docs/project-layout.md), [plan](PLAN.md), and `current-baseline.json` first. Native 1120x840 HD60 is implemented in this candidate; distinct render rate, long combat, timing and full compatibility remain subject to the recorded gates. The older tool sections below describe historical workflows and do not authorize downgrading HD60.
++
++This repository contains tools, tests and reverse-engineering notes for the community build and accepted HD60 candidate. Expanded 1120x840 rendering is present; native widescreen, full distinct-frame/timing validation and AI replacement remain open. The A* core is an integration prototype.
+ 
+ ## Display profiles
+ 
+-Close the game before applying profiles. From the game directory:
++Close the game before applying profiles. From the project root:
+ 
+ ```powershell
+ python modernization/tools/baseline.py
+diff --git a/modernization/assets/HD_BUILD_LOG.md b/modernization/assets/HD_BUILD_LOG.md
+index 71a0549..1ffed43 100644
+--- a/modernization/assets/HD_BUILD_LOG.md
++++ b/modernization/assets/HD_BUILD_LOG.md
+@@ -1,100 +1,613 @@
+ # HD build log
+ 
+-Running record of the HD asset build, so another session can take over without
+-re-deriving anything. The plan is [HD_PLAN.md](HD_PLAN.md), the per-asset table is
+-[HD_ASSET_LIST.md](HD_ASSET_LIST.md) with a matching CSV, and the executable state is
+-the queue at `modernization/assets/hd/hd-queue.json`.
+-
+-## Current state
+-
+-**Nothing is built.** On 2026-09-27 the user asked to clear all progress and start the
+-build from the UI phase in a fresh session, so the whole build workspace
+-`modernization/assets/hd/` was deleted: pack, queue, logs and review sheets. Everything
+-there is regenerated by `python modernization/tools/hd_pipeline.py plan`.
+-
+-No batch is running. No generated image has ever been loaded by the game.
+-
+-## Phase order
+-
+-| Phase | Command | Assets | Est. GPU | Status |
+-| --- | --- | ---: | ---: | --- |
+-| 1 UI | `run --route composite --category ui-800x600 --category ui-untiered` | 382 | 5.2 h | **next** |
+-| 2 small art | `run --route composite --category portrait --category bitmap` | 125 | 18 min | deferred |
+-| 3 terrain | `run --route atlas` | 17 | 87 min | deferred |
+-| 4 animation | `run --route sheet` | 153 | 5.3 h | deferred |
+-| | | **677** | **12.2 h** | |
+-
+-The user asked for **UI first**; everything after it waits for a further instruction.
+-Phases are ordered by return on time: UI measured 3.3x to 4.0x gain, terrain about 1.2x,
+-animation about 1.04x.
+-
+-## Two rules that were expensive to learn
+-
+-**All outputs are PNG.** JPEG is banned. A colour-key field must stay exact or the engine
+-stops keying it out, and a second lossy encode moves key pixels by up to 8 levels at
+-quality 95. PNG is lossless. This changes the extension of JPEG and BMP sources, so the
+-engine side has to accept PNG at those paths.
+-
+-**Colour-key masks are restored byte for byte.** Old assets make transparency with a key
+-colour, not an alpha channel: pure magenta or blue in palette art, 251,0,253 and 0,0,254
+-in JPEG sources. The keyed region plus a two pixel rim is copied back from a
+-nearest-neighbour resample of the original after the model runs. Detection found 28 of 60
+-sampled assets keyed, covering 9% to 99% of the image. Verified byte for byte over 3.4
+-million pixels: maximum difference 0. Without it the model mottles the flat key field and
+-Lanczos leaves a halo at the sprite edge.
+-
+-## Canvas tier is per record, not global
+-
+-`preset_tier` is decided at plan time: the **2048** class for UI art, the **1024** class
+-for animation frames, terrain and other small art. Native 800x600 UI measured **+288%**
+-edge energy at 2048 against **+87%** at 1024; a 2048-class job costs about 50 s against
+-8.7 s. Where a small UI asset already reaches its target scale on the cheaper preset the
+-planner keeps that preset. **Do not reintroduce a global tier.**
+-
+-## Taking over
+-
+-```powershell
+-python modernization/tools/hd_pipeline.py plan     # rebuild queue, skeleton and list
+-python modernization/tools/hd_pipeline.py status   # what is done and pending
+-python modernization/tools/hd_pipeline.py run --route composite --category ui-800x600 --category ui-untiered
+-```
+-
+-`run` skips records already done and retries anything failed, so any command is safe to
+-repeat and a killed batch resumes where it stopped. The queue is written every ten
+-assets. A trial limited with `--max-sheets` is recorded as `partial`, not `done`, so
+-the rest of the container is not silently skipped.
+-
+-Re-planning preserves the status of every record whose source hash, target size, preset,
+-strength and route are unchanged, so changing a setting resets exactly what it affects.
+-
+-## What is deliberately not built
+-
+-| Group | Files | Why |
+-| --- | ---: | --- |
+-| Legacy 640x480 tier | 424 | Same artwork at the legacy resolution; including it would give one portrait two output sizes. |
+-| Cursors (`.cur`) | 20 | The preset floor forces about 24x, so the model invents rather than restores. Deferred by the user. |
+-| `.ani` sequence definitions | 136 | Not image data: a sprite name plus a table of frame indices. Frame count and order are preserved, so they stay valid unchanged. |
+-| Legacy SPR version 2 | 7 | Frame table layout still undecoded; small early UI sprites, low value. |
+-
+-## Invariants for any further work
+-
+-- **Nothing may be installed into the game.** No generated image has been loaded by the
+-  engine and no native 1920x1440 UI mode is proven.
+-- **Geometry is never generated.** Every output is a Lanczos resample of the original plus
+-  a gated high-frequency band. If a change makes the model supply structure, it is wrong.
+-- **Alpha and colour keys are never generated.** Both are taken from the original.
+-- **Never treat an atlas as an animation, or the reverse.** Route changes the measured
+-  gain by about a factor of two.
+-- **Canvas tier is per record.**
+-- Every asset has a JSON manifest with source and output SHA-256 and the Manager job id.
+-  Do not hand-edit outputs.
+-
+-## Housekeeping
+-
+-`pack/_work/` accumulates one canvas and one raw model output per job, a few GB across
+-the whole build. It is review material only and can be deleted once a phase is reviewed.
+-The whole `hd/` tree is ignored by git: the art derives from commercial game assets and a
+-research-licensed model.
+-
+-`modernization/assets/experimental/` holds artifacts from an earlier session. They are
+-superseded by this pipeline and safe to delete; nothing in the current plan reads them.
++## 2026-09-28: asset verification and mixed UI v2
++
++The local Qwen Image 2.1 Manager queue currently has 382 completed UI,
++37 bitmap, 88 portrait and 5 sprite-container records. The output verifier
++checked all 512 completed records, including 311 generated sprite frames,
++against their recorded hashes with zero failures. The five SPR containers are
++PNG frame outputs only; encoding and game integration remain open. There are
++165 pending sprite containers, 7 blocked-format records and 136 blocked
++sequence decodes. Bitmap and portrait results also remain uninstalled.
++`modernization/playtests/mixed-ui-v2/` provides an isolated runtime for visual
++correction, with native independent pages and a 2× battle. Its extended
++Save Game/movement verification is documented in `docs/native-ui-1920.md`.
++
++## 2026-09-28: native-resolution UI requirement and probe
++
++The user requires the game itself to render UI at 1920×1440, matching the
++prepared full-screen Qwen output. The earlier wide169 art preview reduced it
++to 960×720 and is not the target. The existing Qwen queue dimensions are
++already correct, so no all-asset regeneration is needed for this requirement.
++The resumed UI generation run finished **62/62** items with zero recorded
++failures. `hd_verify.py --category ui-800x600 --category ui-untiered` verified
++all **382/382** completed UI rasters, hashes, dimensions and key/alpha checks
++with zero failures. This validates prepared files, not in-game integration.
++
++`tools/native_ui_2k_probe.py` made a separate copy of the latest hash-verified
++wide169 v7 package and produced an actual 2560×1440 game surface with the
++1920×1440 Qwen main-menu and load-game images centered at 1:1. Private
++background captures, scaled menu hit rectangles and a Load Game transition
++passed. The wrapper client measured 2048×1152 on this desktop; do not call the
++output gate complete. Text still uses old font pixels. The direct-engine probe
++does not include the replay/QoL modules or adapt other screens. Full evidence,
++screen files, build hashes and next steps are in `docs/native-ui-1920.md`.
++
++## 2026-09-28: wide169 Qwen art preview and live comparison
++
++- Resumed the remaining 62 pending UI records from the hash-verified
++  `source-original` tree in one background `hd_pipeline.py run` process. Output:
++  `assets/hd/ui-resume-20260928.out.log`. Manager job
++  `22c65f9389e54b3eb0031902a6694ae7` was queued behind other users' GPU
++  work for about 17 minutes, then dispatched and completed the first resumed
++  item, `Greek_Region_04.JPG`. Its 1920×1440 PNG, source/output hashes and
++  Manager ID matched queue and manifest. The next job dispatched immediately;
++  do not start another queue writer. The 320 previously completed UI records
++  passed `hd_verify.py` with zero failures; 321 are now done and 61 remain.
++- The current installed wide169 directory fails its package checker because 11
++  non-mutable `CFG/*.cfg` files listed in the immutable v7 package are absent.
++  The latest launcher, engine and runtime DLL hashes still match
++  `current-baseline.json`. The preview therefore uses a fresh copy of the
++  hash-verified v7 package under ignored
++  `assets/hd/preview-wide169-v7-qwen/`. It does not change the installed game.
++- Replaced two assets in that preview: `Load Game 800-600.JPG` and Grimoire
++  `Backdrop.JPG`. Their original package hashes and Qwen PNG manifests were
++  verified before conversion. Qwen 1920×1440 PNG content is resized to the
++  current 960×720 content region, placed inside the 1280×720 letterboxed image,
++  and saved as a diagnostic JPEG at the engine's original path. The preview's
++  exact replacement hashes are in `assets/hd/wide169-art-trial.json`. Run
++  `python modernization/tools/hd_wide169_art_trial.py --restore` to restore
++  those two preview images from the v7 package. The v7 package itself is intact.
++- Private background captures verified that both images load in the game,
++  menu/Grimoire interaction still works, side bars stay black, 11 runtime hooks
++  remain active, the native surface is 1280×720 and the 30 setting is retained.
++  The `test2` save loaded with the expected unit position and widened battle
++  image. The wrapper client in this diagnostic session was 2048×1152; this does
++  not close the exact 2560×1440 output gate.
++- Comparison against the same untouched v7 package: Load Game mean absolute
++  RGB change 5.61/255 with 69.19% of content pixels changing by more than 6;
++  Grimoire 2.523/255 and 37.05%. Measured edge-image means rose 17.445→32.105
++  and 12.352→19.174 respectively. The latter indicates more detail, but the
++  side-by-side image `assets/hd/wide169-before-after.png` shows only a modest
++  overall visual change at the current 960×720 presentation size. A first
++  Grimoire capture was taken during a transition and showed no difference;
++  explicit waits fixed the capture gate. Do not infer that zero difference
++  means an asset is unused until the screen has settled.
++- A CPU-only post-downscale sharpening check at 50% and 100% unsharp strength
++  (`assets/hd/sharpen-review.png`) made the parchment grain slightly crisper
++  but did not materially change readability or the overall result. Keep the
++  current candidate; do not add a blanket sharpen pass to all 382 UI images.
++- The opt-in preview launcher is
++  `assets/hd/preview-wide169-v7-qwen/game/Chaos-Wide169-Trial.exe`. The
++  comparison/rollback tool is `tools/hd_wide169_art_trial.py`. Further UI
++  replacements should prioritize assets that retain visible detail at native
++  presentation size, or wait for a genuine higher-resolution UI surface.
++
++## 2026-09-28: resumed Qwen UI work
++
++The original 820-record queue pointed at the project root after workspace
++reorganization, while source assets now live under `game/` and some UI files
++have already been fitted. Reconstructed `modernization/assets/hd/source-original`
++from 560 unchanged game files, 258 checked UI backups and two immutable baseline
++files. Each staged byte stream matched the queue's recorded SHA-256; the queue
++now points at that source tree. No game runtime asset was changed for staging.
++
++The first resumed item, `Medieval_Silhouette_13.pcx`, completed through Manager
++Qwen job `56d7cebc5f4e47d9bf3d22fe04e8af4e`. It spent most of 1505 seconds
++queued because Manager had paused GPU dispatch for two older recovery-required
++jobs. The Manager's `/api/admin/reconcile` checked backends and resolved those
++jobs, then dispatched this exact queued job without replay. Queue done count is
++305. A five-item continuation has started, with the first Manager job
++`a8fe27bfd4f747b4b2f5601f6b8e232c`. Verify each output and inspect an
++integration sample before enlarging the batch. The pipeline now prints job IDs
++and 30-second status, and reconciles/cancels its own job on timeout.
++
++Use [HD_PLAN.md](HD_PLAN.md) for the method and execution commands, and
++[HD_ASSET_LIST.md](HD_ASSET_LIST.md) for the generated asset table. This file records
++actual build progress and checks across sessions.
++
++## 2026-09-27: review and preflight
++
++- Regenerated `modernization/assets/hd/hd-queue.json` and the empty pack skeleton.
++  Queue: 820 records; 382 UI, 125 other bitmaps/portraits and 170 SPR containers are
++  pending; 143 containers are blocked. There are no generated files in `pack/`.
++- The Manager health endpoint reports `qwen21.ok=true` and `assets_ready=true`.
++  Python 3.14 and Pillow 12.3 are available; D: had about 437 GB free.
++- Corrected the main plan's stale 2560×1440 claim. The selected UI target is
++  1920×1440, 4:3. This does not provide the project's separate 16:9 viewport goal.
++- The staging tree cannot be copied over the game as an installable pack: raster
++  extensions change to PNG, and SPRs become frame directories. Engine loading,
++  coordinate transforms, backups and rollback must be proven before installation.
++- The first GPU step is the four-asset UI pilot in `HD_PLAN.md`. It has **not** run.
++  Check output dimensions, SHA-256 manifests, keyed pixels, text, layout and visual
++  quality before the remaining UI batch. Terrain and animation remain deferred.
++- The runner now atomically saves status after each asset, verifies selected source
++  hashes and completed conventional-image output and manifest hashes before skipping,
++  and exits nonzero if any asset fails. A synthetic missing-output test returned exit 1.
++  Completed SPR frame sets still need an integrity check before their later phases.
++
++At that preflight checkpoint no generated image had been loaded by the game.
++
++## 2026-09-27: 2K UI smoke test and UI batch
++
++- Generated the four pilot assets from `HD_PLAN.md` through the local Manager's
++  Qwen-Image 2.1 engine. All four jobs completed with no error: Grimoire backdrop,
++  main-menu background, Grimoire stat bar and Celtic realm silhouette.
++- Verified PNG format, target dimensions, source/output SHA-256 against queue and
++  manifest, and Manager job IDs for all four. Both keyed images have maximum pixel
++  difference **0** in the nearest-neighbour restored key and two-pixel rim.
++- The review sheet reports edge-energy gain 7.30× for the two 800×600-tier images
++  and 2.15× for the two untiered images. These measure detail, not fidelity.
++  A direct inspection of the main menu and review sheets found no obvious changed
++  Chinese title, layout shift or key contamination. This is an asset smoke pass,
++  not an in-game rendering pass.
++- Added `tools/hd_verify.py` for repeatable batch checks of source/output hashes,
++  dimensions, PNG format, alpha coverage and keyed pixels. It passed the first six
++  completed UI images with zero failures while the batch continued.
++- Started the remaining 378 UI jobs in a hidden background process, PID 43932,
++  writing `hd/ui-run.out.log` and `hd/ui-run.err.log`. The queue is saved after
++  every asset; use `python modernization/tools/hd_pipeline.py status` to inspect
++  progress. Do not start a second batch against the same queue while it runs.
++- Hash-gated static inspection of `Chaos.exe` found hardcoded `.JPG`, `.BMP` and
++  `.PCX` resource path templates, including main-menu and Grimoire assets.
++  `CFG/prefs.cfg`/interface CFGs expose only 640×480 and 800×600 layouts. The
++  generated PNGs are therefore still staging assets; game integration requires a
++  verified loader path and native UI/input coordinate work.
++- The user approved three resolution tiers: 640×480, 800×600 and 1920×1440.
++  `tools/hd_layout_tier.py` generated 23 staged CFG files with 367 `Rect3`
++  rectangles and 38 `1920x1440_*` coordinates. Source and output hashes passed.
++  This is data preparation only: the Boolean `IsHighRes` setting and existing
++  executable do not yet read a third tier.
++- Another active chat is changing pathfinding/frame timing in this shared checkout.
++  HD work is confined to `modernization/assets/hd/`, HD-specific documents and
++  tools. The other chat was notified. This work does not touch installed game
++  files, preferences, wrapper, executable, saves or runtime patches.
++
++## 2026-09-27: isolated game integration trial
++
++- Created a full playable game copy in the managed `codex/hd-ui-lab` worktree.
++  `docs/hd-integration.md` contains the baseline hashes, test evidence and
++  rollback procedure. The original installation remains the other chat's
++  pathfinding/frame-timing workspace.
++- A generated 1920×1440 main-menu image loaded through a temporary JPG at the
++  original path but cropped to the top-left of the 800×600 surface. Native 2K
++  UI therefore **failed** its first game-load test.
++- Exact PNG bytes at the original `.JPG` path produced a Chinese file-read
++  error dialog naming that file; the original JPG was restored. The engine
++  needs an explicit PNG loading path.
++- The same generated image downsampled to 800×600 aligned with the Chinese
++  menu. The generated settings background also displayed correctly in the
++  options page. Both were restored to their original verified hashes afterward.
++- A diagnostic wrapper presented a 1920×1440 client while the captured game
++  surface remained 800×600. This is a working compatibility presentation tier,
++  not native 2K rendering.
++- Added a Python private-input trial that clicks only the owned lab window in
++  the background, captures the primary surface and restores the DLL/INI. A
++  client click at `(400,480)` reached settings; captured frames differed by
++  mean absolute RGB 14.955. It stops before input if startup leaves the game
++  foreground. No computer-use interaction is needed for this trial.
++- `tools/hd_resolution.py` now selects 640, 800 or 2K presentation modes in
++  the lab with checked rollback. The old in-game settings UI still exposes two
++  radio buttons; third-tier engine support remains open.
++- `tools/hd_compat_pack.py` staged only unkeyed JPG conversions for content
++  checks. The first 78 completed UI outputs yielded 9 compatible JPGs; 65
++  keyed JPGs, 4 BMPs and 1 PCX were skipped to preserve colour-key semantics.
++- Left a reversible compatibility demonstration installed in the isolated lab:
++  converted generated main-menu/settings JPGs plus 1920×1440 wrapper output.
++  The final bounded background test reached settings with the 2K client, then
++  restored its diagnostic wrapper. `docs/hd-integration.md` lists exact rollback
++  commands. The original game files were hash-checked afterward and unchanged.
++
++## 2026-09-27: expanded battle HUD implementation in isolated lab
++
++- After the user accepted the 1120×840 test2 view, traced the original
++  640×480→800×600 fixed battle HUD offset `(160,120)` in the verified community
++  EXE. The isolated HD sibling applies the same lower-right anchoring rule with
++  another `(320,240)` for the wizard portrait, spell toolbar and control-limit
++  counter. The builder checks exact x86 instructions and does not overwrite
++  `Chaos.exe`.
++- The final isolated sibling is `Chaos-hd-hud-lab-v2.exe`, SHA-256
++  `71e58150ecc98b3b6ef9b2fe7e29bce6c15dc22161e6dc19841cd27bd71325dd`.
++  A 1920×1440 wrapper client displayed a 1120×840 native battle surface.
++  `hd_hud_verify.py` found 100% matching gold pixels in all three relocated
++  controls after translation and zero gold pixels in their old positions.
++  Private click on the relocated portrait selected the player; a click in the
++  new map band moved unit 0 from `(66,48,6)` to `(76,46,3)` without activating
++  the game window or changing saves.
++- `hd_resolution.py` and `hd_launch.py` now offer an opt-in three-tier isolated
++  launch: 640, 800, and 2K presentation with a 1120×840 battle viewport. The
++  original game's runtime files and the active pathfinding session remain
++  untouched. Legacy menus/settings are still 800×600 within the expanded
++  surface; native 2K UI assets and all-screen testing remain later work.
++
++## 2026-09-27: isolated HD follow-up v4
++
++- Built `Chaos-hd-hud-lab-v4.exe` from hash-verified community EXE; SHA-256
++  `baf839075c7df3c95af7071d3266d84499a4bdeb224c31cbdf6017218b1de922`.
++  Added roof anchor, exact scroll edges, cursor backing/restore bounds, window
++  input geometry and main-menu backing surface. The earlier map-object claim
++  about the house icon was incorrect; it is the roof visibility button.
++- Trial `background-trials/1790467844974042900`: roof state `1→2→1`, all four
++  outer scroll edges changed camera position with expected direction cursors,
++  stable cursor restore rectangles in added bands, 1920×1440 client and
++  1120×840 captures, selected player moved into the right added terrain band.
++  Diagnostic files restored and no saves changed.
++- The generated main-menu JPG and seven `Rect2` rectangles now fit 1120×840
++  in the isolated 2K tier. Menu-to-test2 click passed; screenshot outer bands
++  contain menu art. Verified 800→2K→640→2K tier transitions and dry-run launch.
++  Settings/other menus and normal foreground pointer mapping remain open.
++
++## 2026-09-27: all-screen fit, Qwen samples and source-derived key templates
++
++- Generalized the reversible fit from the main menu to 270 UI files: 23 CFGs,
++  57 full-screen JPEGs and 190 Grimoire page JPEGs. A completed 800→2K cycle
++  verified every current and backup hash.
++- Synchronized and verified 304 completed Qwen UI records from the interrupted
++  producer batch without restarting it. Enabled the main menu, battle options
++  and load-game backgrounds as reversible samples; the seven-screen menu flow
++  passed on a 1120×840 surface.
++- Replaced output-based blue cleanup with a fixed source-derived Grimoire colour
++  key template. The original 400×600 page alone determines art, blue and magenta
++  positions; nearest-neighbour template scaling and exact colour painting happen
++  after Qwen generation and resizing. Six deliberately different-content checks
++  produced identical key pixels, and all 190 completed pages now have template,
++  source, Qwen and derivative hashes.
++- Built `Chaos-hd-ui-lab-v13.exe` from community SHA-256 `b1eccc46...`; output
++  SHA-256 `d0e3f37b...`. It contains 148 hash-gated changes and selects lossless
++  BMP Grimoire pages before JPEG fallback. The final Grimoire, menu-flow and
++  test2 regression reports are named `grimoire-v13-qwen-template.out.json`,
++  `menu-flow-qwen-v13.out.json` and `battle-regression-v13.out.json`.
++- Do not install v13 over the accepted 30/60 entry. The next owner must compose
++  a separate candidate and make replay surfaces/pitch/clipping dimension-aware.
++
++## 2026-09-27: combined HD60 UI defect follow-up
++
++- Updated the user-selected combined entry in the playable lab. Final SHA-256:
++  launcher `9ab567e1f720a440a6d1d52bdddbed85cfe5363917ff35ccf3a7791849c28a66`,
++  engine `b7414bb05f67bc80857f31cfce5ce07ccd755594f774f1878cfa93938c070744`,
++  runtime DLL `1ec698a03854a1bb95f88a764b8dc411dd83f363d136dff1e9abc4d580acb181`.
++- Added hash-gated engine edits for the two right-aligned enemy-warning columns,
++  1120×840 tooltip bounds, full-surface speech/cutscene continuation input, four
++  loading-bar anchors, and the loading renderer's 837×50 geometry.
++- Enlarged the ESC bitmap to 840×560 and all eight progress images to 840×50.
++  BMP scanning also brought three realm-view maps and the spellbox portmanteau
++  into the reversible 1120×840 fit; `ui-fit.json` now has 283 records.
++- Private-background `test2` passed roof, cursor, four-edge scroll and added-band
++  movement checks. Private-background `test3` passed exact enemy rectangles,
++  right-bottom tooltip pixels and centred ESC-menu pixels. Both save hashes were
++  unchanged. The test now explicitly selects `test3` row 1 or `test2` row 2.
++- Startup verification passed all 11 hooks, a 1120×840 live surface, the loading
++  and cutscene patch immediates, all progress/ESC resource sizes, and the retained
++  `MaxFramesPerSec=30` preference.
++- Loading cannot be screenshot through the private wrapper while its main thread
++  is blocked, so its current gate is static byte and resource-dimension evidence.
++  Cutscene input is also byte-verified pending a stable story fixture.
++- Previous combined binaries and a checked rollback manifest are under
++  `modernization/backups/hd60-pre-ui-fix/`; run
++  `python modernization/tools/rollback_hd60_ui_fix.py` with the game closed.
++
++## 2026-09-27: victory, realm map and portmanteau follow-up
++
++- Reproduced the three 800×600 clipping defects with the new `test4` save. Its
++  SHA-256 is `9cbd2bd5fdf2ceba6015e21d98db48241570962a6c5baf40bb7ff25af232b09a`.
++- Enlarged the victory/defeat and portmanteau backing surfaces and interaction
++  bounds, plus the realm map initial and refreshed backing surfaces. The 12
++  patch sites are instruction-checked in `hd_hud_build.py`. Resource lookup
++  dimensions remain 800×600 because the existing fitted assets live there.
++  The realm click mask also remains 800×600; its source coordinates and stride
++  must not be enlarged without rebuilding the mask.
++- The current playable launcher is SHA-256 `4ed7bb070dad1c135cdf26b53f5f179fdddd87b11115d0a5150a7b94b939d2a7`;
++  its engine is `b05d382387ef1727c8df33c77b03fbd6b934c9d09e5c889cff99b5d4afd6545e`.
++  The rebuilt runtime DLL is `ba24cab91e716495f88780625d0eed4344009de2baca81d9497da3ac05130f0f`.
++- Python private-background `test4` reached victory, clicked its relocated OK
++  control, opened the full-size realm map and then the full-size portmanteau.
++  Captures were 1120×840, wrapper client 1920×1440, and the save was unchanged.
++  `test2` battle movement/edge scroll and `test3` UI flow also passed unchanged
++  saves. Runtime startup passed 11/11 hooks, 1120×840 surface and retained
++  `MaxFramesPerSec=30`.
++- Hash-gated rollback for the two changed root binaries is
++  `python modernization/tools/rollback_hd60_end_screens.py`; the checked backup
++  and manifest are under `modernization/backups/hd60-pre-end-screens/`.
++
++## 2026-09-28 mixed-resolution clarification and Save Game integration
++
++The UI target remains 1920×1440 native art. Battle retains 1280×720 native
++geometry, presented 2× at 2560×1440; the older full-native-2560 battle probe
++is historical and superseded. `native-ui-2k-probe/` now includes an eighth
++full-size UI screen, Save Game, in the isolated direct-engine runtime. Its
++native capture is `save-game-native-2560x1440.png`; the central Qwen art matched
++98.60% within RGB difference 8. An owned run created a 340,696-byte diagnostic
++save through the enlarged edit box and Save button, then restored all protected
++files and removed the new save. `battle-size-compare-5120x1440.png` shows the
++preferred battle size on the left and the superseded exploration on the right,
++both at 2560×1440 per side. Mixed-mode switching remains unimplemented.
++An additional reversible scene-rectangle experiment kept the primary surface
++at 2560×1440, restored battle drawing to 1280×720, and matched the prior
++playable test2 crop at 99.04% within RGB difference 8. The full-size Save Game
++page still loaded; the patch was hash-rolled back after capture. See
++`docs/native-ui-1920.md` for the diagnostic runs and remaining compositor work.
++
++## 2026-09-29: first in-game Qwen value decisions
++
++The installed `Chaos-Wide169-Trial.exe` was hash checked and captured first. The
++isolated mixed UI v4 was then captured on the same page and actions with its
++Qwen asset and a source-derived Lanczos enlargement at identical 1920×1440
++content size. Every comparison is a full 2560×1440 game-surface capture, not a
++desktop or 720p thumbnail. All six capture sessions restored their mutable
++files and reported no unexpected saves; the v4 manifest still matches 251/251.
++
++| Asset | Evidence | Decision | In-game observation |
++| --- | --- | --- | --- |
++| Main menu background | `hd/qwen-value-audits/1790672823538568100/` | **accept this asset** | Carved title, logo and page edges gain useful clarity; live Chinese button labels and positions are intact. Paper texture is visibly grainier, so this is not a blanket approval for UI backgrounds. |
++| Grimoire backdrop | `hd/qwen-value-audits/1790673125968504000/` | **accept this asset** | Page and spine texture are clearer. The plain enlargement exhibits a large rectangular edge seam and a different upper right tab appearance. Live list text remains legible. The known baseline feedback control defect is excluded from fidelity scoring. |
++
++The menu and Grimoire results are asset-specific. They justify keeping these
++two Qwen outputs in v4 but do not justify restarting the 160 pending SPR
++containers. Next value samples should cover a portrait or icon in a reachable
++page and a small terrain/animation pilot in battle; assess identity, keying and
++temporal consistency before choosing `accept`, `refine and rerun`, `plain
++enlargement wins` or `defer` for those categories. Do not launch the full
++pending batch on edge-energy gain alone.
++
++The first two Portmanteau icon A/B runs are **invalidated**: they replaced
++`port-icons.spr` and `mitems.spr`, neither of which draws the pictured head,
++book and green creature. Read-only live control and frame-header inspection
++identified `Sprites/Buttons.spr` frames 0, 3 and 9 as the actual source. A
++proposed hook change based on the first mistaken attribution was reverted
++before any binary rebuild; v4 was never modified by it.
++
++The valid same-fixture `Buttons.spr` audit is
++`hd/qwen-value-audits/1790676679178214200/`. Qwen versus source-derived
++Lanczos differs only within the three icon footprints (output difference box
++`1818,52–2163,148`). **Plain enlargement wins for these visible frames**:
++at game size Qwen gives no useful identity or readability improvement, while
++the face and book look slightly darker. All three game sessions restored
++protected files, used the same `test5.sav` hash, and the v4 manifest remains
++251/251. This is not a verdict on the other 18 `Buttons.spr` frames or on
++terrain/animation containers. Do not spend a full Qwen batch on similar small
++buttons without a better pilot that shows visible in-game benefit.
++
++The accepted choice is staged in the isolated v4 only: `Sprites/Buttons.spr`
++frames 0, 3 and 9 now use the reviewed plain enlargement; its other 18 frame
++payloads are byte-identical to the previous Qwen container. The new file hash
++is `dd94d69c...`; rollback bytes and manifest are in
++`playtests/mixed-ui-v4/before-plain-port-buttons-20260929/`. Baseline-first
++Portmanteau retest `1790677064806244500/` opened the same `test5` page and
++hovered two talismans. Relative to the preceding Qwen run, all three page
++captures differ only at `(1818,52)–(2163,148)`. Baseline-first core retest
++`1790677264772377000/` reached menu, options, load, battle, Esc, save and
++battle return with the same `test2` save in both runtimes; battle and battle
++return are pixel-identical to the earlier v4 core reference. Both runs report
++restoration and the current v4 manifest matches 251/251. The missing `test2`
++diagnostic fixture was temporarily staged from a hash-verified backup and
++removed after the run.
++
++## 2026-09-29: terrain and animation Qwen pilots
++
++To decide whether the remaining SPR queue merits GPU time, a bounded local
++Qwen Image 2.1 run processed the first sheet of
++`Realms/Celtic/Forest/Terrain.spr` (49 of 1712 usable frames, `partial`, job
++`abcdae771c414030a8d35454ba592aa0`) and the 144-frame
++`Creatures/16Mb Anims/CelticWizard.spr` sheet pilot (six jobs, `done`). All
++193 output PNG hashes match their manifests. Queue status after the pilots:
++518 done, 158 pending, one partial, 136 blocked-sequence-decode and seven
++blocked-format.
++
++The corrected full-size offline comparison sheets are
++`hd/pack/Realms/Celtic/Forest/Terrain.spr/pilot-plain-qwen-contact-924x1456.png`
++and
++`hd/pack/Creatures/16Mb Anims/CelticWizard.spr/pilot-plain-qwen-aligned-1240x1480.png`.
++The animation sheet must be cropped using its recorded aligned frame offsets;
++the initial unaligned contact sheet made the Qwen figures look too small and
++is invalid evidence. With alignment corrected, Qwen preserves poses and
++silhouettes but gives only modest added texture. Across the first 48 animation
++frames, median edge-energy ratio is 1.095 and adjacent-frame luma change is
++11.63 versus 11.75 for plain enlargement. Neither metric proves an in-game
++benefit. Terrain contours are somewhat harder, but visual gain is inconsistent
++across the sampled tiles.
++
++**Decision: defer mass terrain and animation generation.** The current battle
++policy retains a 1280×720 native scene/HUD and presents it at 2×. These 2×
++sprite PNGs cannot simply replace the original battle SPRs without doubling
++their world size. A controlled battle renderer path that draws 2× art in the
++same logical footprint, plus same-scene Qwen/plain captures, is required
++before choosing `accept` or `refine and rerun` for these categories. The
++pilots remain prepared assets only; no battle runtime was modified.
++
++Follow-up render-path mapping: isolated v4's `mm_mixed_present` reads the
++1280×720 battle area of a 2560×1440 RGB565 primary and writes every source
++pixel as a 2×2 block into a separate output buffer. The primary is untouched.
++The existing `0x5002a0` scene queue uses 36-byte entries with frame pointer
++and native screen coordinates; this is a plausible controlled source for a
++post-scale 2× sprite overlay, but no live frame identity or draw-order mapping
++has been proven for test2. The screenshot's wizard visually matches
++`Wizard1`, not the earlier `CelticWizard` pilot, so `Wizard1.spr` was prepared
++as a 120-frame local Qwen pilot (four jobs, all output hashes verified).
++Evidence and the next dynamic gate are in
++`hd/qwen-value-audits/battle-render-path-20260929/mapping.json`.
++No runtime overlay or battle asset replacement was installed. The queue is
++now 519 done, 157 pending, one partial, 136 blocked-sequence-decode and seven
++blocked-format.
++
++## 2026-09-29: reversible battle presentation sharpen trial
++
++The user asked to test a filter before continuing the expensive battle sprite
++replacement. A RGB565 five-tap unsharp pass was added to the v4 mixed wrapper's
++**presentation buffer only**. The native battle still renders at 1280×720 and
++is copied 2× to 2560×1440; independent UI pages remain native 1920×1440.
++`MM_PROBE_BATTLE_SHARPEN=1` selects the light pass, `=2` the stronger pass,
++and an unset value or `=0` selects the original nearest-neighbour output.
++The source primary is untouched and the temporary filter buffer is reused.
++
++A current hash-verified `Chaos-Wide169-Trial.exe` baseline-first core run and
++same-save v4 run completed at
++`hd/baseline-comparisons/1790680533605652400/comparison.json`; restoration
++passed. A separate isolated 0/1/2 capture used the same verified `test2.sav`
++at `hd/battle-sharpen-trial/1790680614857107200/trial.json`. The three
++2560×1440 battle frames and full-size `wizard`, `terrain`, and `hud` comparison
++PNGs are there. Menu frames are pixel-identical across all three levels.
++Against level 0, level 1 changes 62.51% of battle output pixels but only
++0.06% by over 24 RGB levels; level 2 changes 76.92% and 0.48%, respectively.
++The light pass modestly defines wizard/HUD contours. Level 2 makes grass
++grain and pixel boundaries too harsh and adds no sprite detail. This is a
++presentation experiment, not native sprite resolution improvement or a
++replacement for the open scene/HUD issues.
++
++The light option is available through
++`playtests/mixed-ui-v4/Start-Battle-Sharpen-Light.ps1`; ordinary playtest
++launches use the unfiltered output. The wrapper hash is now
++`2f1c5881ed9e59fa82772ac14a60f6e79b7f44e6c80c2c0d7f797bc95a90a241`;
++the previous DLL and manifest are in
++`playtests/mixed-ui-v4/before-battle-sharpen-20260929/`. Full package hash
++validation passed 251/251. The temporary `test2` copies were removed.
++
++Follow-up: a repeated 10-second owned-process test measured D3D9 upload counts
++and engine CPU time in the same `test2` battle. The initial level-1 pass
++produced 29.7 and 29.4 uploads/s with 15.83 and 15.88 CPU s per 10 wall s;
++level 0 produced 30.0 and 25.9 uploads/s with 12.02 and 10.38 CPU s. The
++unfiltered second sample fluctuated, so those readings establish extra CPU
++cost but not a robust frame-rate delta. Level 2 reached 27.0 uploads/s in its
++single sample. Raw results: `hd/battle-sharpen-trial/1790681373689530900/performance.json`.
++
++An optimized implementation computes the same five-tap output directly from
++each 1280×720 source block while writing its four 2× presentation pixels.
++It avoids the separate 2560×1440 copy and pass. Level 0/1/2 menu and Esc
++captures, plus a static battle terrain region, were pixel-identical to the
++initial implementation (all differences zero); evidence:
++`hd/battle-sharpen-trial/1790681618003374200/trial.json`. Repeated optimized
++10-second samples gave level 0 30.0/30.0 uploads/s at 12.14/12.11 CPU s,
++level 1 29.7/29.6 at 15.66/15.66 CPU s, and level 2 29.6 at 15.94 CPU s:
++`hd/battle-sharpen-trial/1790681707708946400/performance.json`. This is
++still a material CPU cost for a modest visual improvement; keep the filter
++opt-in. The isolated wrapper now hashes to
++`015a369ee8b8654434b3e745e61befe63346db521f4bb6acc5b3aca1e9e7796d`.
++The preceding wrapper and manifest are backed up under
++`playtests/mixed-ui-v4/before-battle-sharpen-optimized-20260929/`; package
++verification again passed 251/251 and temporary saves were removed. The
++strong level remains diagnostic only.
++
++A compact RGB565 channel lookup-table variant was also trialled, then
++rejected. The available level-0/1 menu, Esc, and static battle-terrain captures
++were pixel-identical to the shipped block implementation. A third launch
++failed to produce an owned engine; cleanup restored the original wrapper and
++temporary save, so no level-2 claim is made from that attempt. Two 10-second
++light samples used 15.27/15.36 engine CPU seconds and 29.6/29.0 D3D9 uploads
++per second, versus the shipped implementation's 15.66/15.66 CPU seconds and
++29.7/29.6 uploads per second. The small CPU reduction did not yield a stable
++presentation improvement. Evidence:
++`hd/battle-sharpen-trial/1790682097412926700/performance.json`. The LUT
++source was reverted; the isolated playtest DLL remains the verified
++`015a369e...` build and its manifest still validates 251/251.
++For one-click Windows access, `playtests/mixed-ui-v4/Start-Battle-Sharpen-Light.cmd`
++invokes the hash-checking PowerShell launcher. A launch-call dry run verified
++the isolated executable, working directory, inherited filter flags, and
++restoration of the parent shell environment. A subsequent Windows shell
++double-click-equivalent launch (`os.startfile`) successfully started the
++expected isolated `game-wide169/Chaos-Wide169-engine.exe`; its full process
++path was checked and it remained alive during the startup observation.
++The owned test engine and preview launcher were closed afterwards. Package
++verification remained 251/251 and no temporary test2 save remained. This
++checks the runnable entry; the light-filter visual and performance evidence
++comes from the earlier hash-verified background test2 captures. An initial
++direct `cmd /c` diagnostic invocation failed to find an engine and is not the
++validated launch method for this path containing an ampersand.
++
++The ordinary wrapper screenshot hotkey previously called
++`ss_take_screenshot(g_ddraw.primary)`, bypassing the 2× battle presentation
++buffer. The isolated wrapper now uses `mm_mixed_present(g_ddraw.primary)`
++under the same wrapper/surface locks as the private capture path. With a
++temporary background-only trigger into the real keyboard hook, native-menu
++and battle-Esc hotkey captures were pixel-identical to the private
++presentation captures at 2560×1440. Evidence:
++`hd/battle-sharpen-trial/1790683311961478000/`. A plain posted key-up did not
++invoke the Windows keyboard hook, so physical Print Screen activation was not
++verified by that test. The diagnostic trigger was removed before packaging.
++The isolated wrapper is now
++`93b45aa6d8d776a7c02f8c5489d3ff807320d4c690a3b302bc03602a4fbfb2ff`;
++the prior DLL and manifest are in
++`playtests/mixed-ui-v4/before-mixed-screenshot-20260929/`. Final package
++verification passed 251/251; no game process or temporary test2 save remained.
++
++## 2026-09-29: community filter review for battle output
++
++The same verified test2 battle output was reconstructed as 1280×720 source
++pixels and compared offline at exact 2× using nearest, bilinear, bicubic,
++Lanczos, a simple Scale2x rule, and the live light sharpen capture. Full
++resolution crops are
++`hd/battle-sharpen-trial/1790680614857107200/{wizard,terrain,hud}-filter-options.png`.
++Bilinear and bicubic smooth the wizard, but blur grass texture and the battle
++HUD's letters. Lanczos keeps more contour contrast but still softens text.
++The simple Scale2x rule retains hard edges and alters small HUD glyph shapes;
++it does not consistently improve this textured game. These are still-image
++comparisons, not runtime validation of a shader.
++
++Community source inspected at `libretro/glsl-shaders` commit
++`f8e23ff880668f0f0e837a05a316534d82a7f31b`:
++
++- [`sharp-bilinear.glsl`](https://github.com/libretro/glsl-shaders/blob/f8e23ff880668f0f0e837a05a316534d82a7f31b/interpolation/shaders/sharp-bilinear.glsl)
++  is public domain and primarily addresses non-integer scaling. At exact 2×,
++  the current nearest copy already preserves the pixel grid.
++- [`fsr-pass0.glsl` and `fsr-pass1.glsl`](https://github.com/libretro/glsl-shaders/tree/f8e23ff880668f0f0e837a05a316534d82a7f31b/fsr/shaders)
++  describe MIT-licensed EASU/RCAS GPU passes. They have not been tested here;
++  the current wrapper supplies an already enlarged 2560×1440 texture, so
++  EASU cannot replace the CPU enlargement without render-path work.
++- [`xbr-lv2.glsl`](https://github.com/libretro/glsl-shaders/blob/f8e23ff880668f0f0e837a05a316534d82a7f31b/xbr/shaders/xbr-lv2.glsl)
++  includes an MIT-style permission notice. It is an edge-stylizing candidate,
++  but its benefit for this game's textured terrain and animated sprites
++  remains unproven. The related `xbrz-freescale.glsl` incorporates GPL-3.0
++  material, so it should not be copied casually into the isolated package.
++
++The pinned cnc-ddraw wrapper supports GLSL shaders with OpenGL and built-in
++nearest/bilinear/bicubic/Lanczos with D3D9. The mixed compositor currently
++copies the 1280×720 battle source into a 2560×1440 CPU buffer before D3D9
++upload, while independent UI pages use native 1920×1440 rendering. Merely
++changing `d3d9_filter` or `shader` cannot move this battle enlargement to the
++GPU; that needs a separate 1280×720 battle texture and correct mode switching
++for independent UI, screenshots, and input transforms. Given the offline
++quality trade-offs and the existing CPU cost, retain light sharpen as an
++opt-in comparison rather than promoting another filter now.
++
++## 2026-09-29: isolated launch regression reported by user
++
++The user reported that both suggested entries appeared frozen, then clarified
++the tested save was mistaken and the concrete display fault was the battle
++occupying only the upper-left 1280×720 while old page pixels remained outside
++it. Read-only observation of the user-owned run showed a responsive HWND,
++changing scene pixels and a running 2560×1440 engine. The direct EXE was
++previously missing `MM_PROBE_MIXED_RENDER=1`; recommending it as the normal
++unfiltered entry was incorrect.
++
++A first attempted rebuild from `playtests/mixed-ui-v4/build-launcher.cmd`
++used stale v2 resource DLLs and produced incorrect 64/44/30 battle font
++heights. That binary was rolled back before delivery. The final rebuild used
++the existing v4 `build/mixed-ui-v4-runtime/candidate.res` and exact current
++engine hash, with the mixed-render and mixed-font flags set inside the
++launcher. The direct EXE now hashes to
++`0bb54b014be6c2852a346342b10d49778d94a2a9dbb4fdcf9a011dafc5a14ab1`;
++the original EXE and manifest are in
++`playtests/mixed-ui-v4/before-launcher-mixed-flags-20260929/`.
++
++With *no mixed-render/font variables supplied by the test harness*, both
++unfiltered and level-1 runs loaded the same verified test2 save. Full
++2560×1440 battle screenshots had 98.0% and 94.6% lit pixels in a right-side
++sample, respectively; menu fonts were 64/44/30 and battle/Esc fonts
++32/22/15. Esc controls responded in both runs. Evidence:
++`hd/launcher-mixed-fix/1790688125414896600/launcher-check.json` and its
++game-surface PNGs. The package passed 251/251 hashes; diagnostic test2 was
++removed and no owned game process remained. Both entrypoints now use the
++same current v4 resources; light sharpening remains optional.
++# 2026-09-29 mixed cursor and progress correction
++
++- Corrected ordinary message-queue mouse coordinates in the isolated mixed
++  wrapper. Native cursor screenshots at `(500,350)`, `(1700,350)`,
++  `(1700,1050)` and `(2500,700)` show a visible cursor; all four automated
++  crops contained 388 cyan cursor pixels. See
++  `hd/cursor-progress-verification/1790692182272423000/verification.json`.
++- Enlarged and relocated load/save progress drawing on the 2560×1440 native
++  primary. Read-only consecutive frames are in `hd/loading-frames/`, including
++  load `1790691536067492800` and save `1790691646985940300`.
++- Staged only in `playtests/mixed-ui-v4`; rollback is
++  `playtests/mixed-ui-v4/before-cursor-progress-20260929-221855/`.
++  The package manifest verifies 259/259 files. The installed baseline was not
++  modified. Full same-page baseline comparison remains pending because its
++  startup FMV interrupted the later capture.
+diff --git a/modernization/assets/HD_PLAN.md b/modernization/assets/HD_PLAN.md
+index d45d626..97b2eee 100644
+--- a/modernization/assets/HD_PLAN.md
++++ b/modernization/assets/HD_PLAN.md
+@@ -1,41 +1,109 @@
+ # HD asset plan
+ 
+-**This is the entry point for the HD asset workstream.** It assumes no prior
+-conversation. Read it first, then [HD_BUILD_LOG.md](HD_BUILD_LOG.md) for what has
+-actually been built, then [HD_ASSET_LIST.md](HD_ASSET_LIST.md) for the per-asset table.
++**This is the asset pipeline reference.** The current implementation order is
++the broad-to-detail HD repair plan in [../PLAN.md](../PLAN.md). Use this file
++when that plan identifies an asset or pipeline defect. Then read
++[HD_BUILD_LOG.md](HD_BUILD_LOG.md) for what has actually been built and
++[HD_ASSET_LIST.md](HD_ASSET_LIST.md) for the per-asset table. Historical queue
++counts and command examples below do not authorize mass regeneration ahead of
++the early in-game value audit in `modernization/PLAN.md`.
++
++## In-game Qwen value gate — current priority
++
++**2026-09-29 battle-art reprioritization:** The user prefers testing a
++real-time presentation filter before investing in mass battle sprite
++replacement. Keep the terrain/animation Qwen batch paused. The isolated v4
++light sharpen remains opt-in after same-scene game capture and performance
++checks. Community sharp-bilinear, FSR and xBR candidates and offline
++nearest/bilinear/bicubic/Lanczos/Scale2x comparisons are recorded in
++[HD_BUILD_LOG.md](HD_BUILD_LOG.md). None is approved for default use; a GPU
++filter would require a separate 1280×720 battle texture while preserving
++native 1920×1440 UI pages, screenshot fidelity and input mapping.
++
++Evaluate generated art early, while it can still change the remaining queue.
++For representative finished UI, portraits, icons and realm art, and a small
++pilot from pending terrain/animation classes, preserve three variants at the
++same target pixel dimensions: source-derived plain enlargement, local Qwen
++output and the currently accepted runtime asset. Install only into an isolated
++candidate, capture the same game page/action at full output resolution, and
++compare against the hash-verified baseline. Check important text and icon
++identity, visual clarity at play size, geometry, colour keys, borders, flat
++fills and frame-to-frame consistency. Include a battle regression for any
++shared UI/battle sprite.
++
++Record `accept`, `refine and rerun`, `plain enlargement wins`, or `defer`, with
++source/output hashes and the paired capture. Edge-energy gain is supporting
++data, not a value verdict. When a category repeatedly shows little useful
++gain, stop its pending Qwen work. When failures share a cause, change that
++category's canvas, detail strength, mask or frame packing, then run a small
++pilot and repeat the in-game A/B check before restarting its batch. A complete
++rerun requires evidence of a common pipeline defect, not merely a completed
++queue or a higher edge-energy score. Keep local Qwen Image 2.1 as the only
++generation/editing model.
++
++The 2026-09-29 in-game value audit accepts the sampled main-menu and Grimoire
++backgrounds but chooses ordinary enlargement for three small Portmanteau
++`Buttons.spr` frames. A 49-frame terrain pilot and 144-frame wizard animation
++pilot show only limited offline benefit and are **deferred for batch work**.
++Before further terrain/animation generation, the battle renderer must prove
++that 2× source art can be drawn at the old logical world size, then compare
++Qwen and ordinary enlargement in the same battle scene. See
++[HD_BUILD_LOG.md](HD_BUILD_LOG.md) for exact hashes, captures and limits.
+ 
+ ## 0. Start here
+ 
++**2026-09-28 requirement clarification.** The final game must render UI at a
++native 1920×1440 resolution and load the corresponding generated assets at
++their prepared pixel dimensions. Wrapper enlargement of a 960×720 or 1280×720
++game surface is not an HD UI implementation. The earlier wide169 Qwen-art
++preview is useful only to check art and resource wiring while native rendering
++is built. Do not reduce final UI assets to 960×720 to fit that preview. Preserve
++the existing wide169 and QoL features in the eventual combined candidate.
++
+ **Goal.** Raise the game art to a native 4:3 high-definition UI plus doubled in-game
+ art, using **only** the locally installed Qwen-Image 2.1. Nothing is installed into the
+ game by this workstream: the deliverable is a prepared tree mirroring the game layout,
+ plus the engine-side evidence installation will need.
+ 
+-**Current state.** Nothing is built. The build workspace `modernization/assets/hd/`
+-was deliberately deleted so a fresh session starts clean; it is regenerated by the first
+-command below. The plan, the per-asset list and this document are tracked in git.
++**Current state.** The four-asset UI smoke test passed on 2026-09-27. The remaining
++378 UI assets are generating in the original workspace; use its `status` and ignored
++`assets/hd/ui-run.out.log` for current progress. An isolated playable copy now exists
++on branch `codex/hd-ui-lab`. Generated menu and settings art loaded in that copy via
++temporary, backed-up JPG replacements; full 1920x1440 art cropped on the old 800x600
++surface, while 800x600 compatibility conversions aligned. See
++[`../docs/hd-integration.md`](../docs/hd-integration.md). Nothing was installed in
++the original game. The plan, build log and per-asset list are tracked in git;
++`modernization/assets/hd/` is ignored.
+ 
+-**Phase order.** The user asked to do **UI first**; terrain and animation are deferred.
++**Historical asset order.** UI was queued first; terrain and animation were
++deferred. Current repair priority is governed by `modernization/PLAN.md`.
+ 
+ ```powershell
+ # 1. rebuild the queue, the mirrored output skeleton and the list  (~4 s)
+ python modernization/tools/hd_pipeline.py plan
+ 
+-# 2. build the UI phase                                                    (~5.2 h)
++# 2. completed pilot: full screen, illustrated page, narrow bar, keyed flat area
++python modernization/tools/hd_pipeline.py run --route composite --source 'Interface/MainScreen/800x600/Main Menu 800-600.JPG' --source 'Interface/Grimoire/800x600/Backdrop.JPG' --source 'Interface/Grimoire/Generic/statbar.bmp' --source 'Interface/RealmViewer/Generic/Celtic_Silhouette_00.PCX'
++python modernization/tools/hd_pipeline.py review --category ui-800x600 --category ui-untiered
++
++# 3. running after successful asset smoke checks (~5.2 h total)
+ python modernization/tools/hd_pipeline.py run --route composite --category ui-800x600 --category ui-untiered
+ 
+-# 3. later, when the user asks for them
++# 4. later, when the user asks for them
+ python modernization/tools/hd_pipeline.py run --route composite --category portrait --category bitmap
+ python modernization/tools/hd_pipeline.py run --route atlas      # 17 realm terrain atlases
+ python modernization/tools/hd_pipeline.py run --route sheet      # 153 animation containers
+ 
+ # check progress at any time; safe to repeat any run command
+ python modernization/tools/hd_pipeline.py status
++python modernization/tools/hd_verify.py --category ui-800x600 --category ui-untiered
+ python modernization/tools/hd_pipeline.py review --category ui-800x600
+ ```
+ 
+-`run` skips records already done and retries anything failed, so a killed or
+-interrupted batch resumes where it stopped. The queue is written every ten assets.
++`run` skips records marked done and retries anything failed. The pilot does not touch
++installed game files. The queue is atomically saved after every asset. Before running,
++the runner verifies selected source hashes and checks output and manifest hashes for
++completed conventional images. Container output integrity still needs its own check.
+ 
+ ## 1. Objective and constraints
+ 
+@@ -67,8 +135,8 @@ interrupted batch resumes where it stopped. The queue is written every ten asset
+ 
+ ## 3. Method, per asset
+ 
+-1. **Base.** The original is resampled with Lanczos to its exact target size. Outline,
+-   layout, colour, luminance and every letterform are the original pixels.
++1. **Base.** The original is resampled with Lanczos to its target size. Layout and
++   lettering derive from the original; their final pixels still need verification.
+ 2. **Key detection.** A colour-key background is detected from border pixels with a
+    tolerance, because palette art uses pure magenta or blue while JPEG sources carry
+    shifted keys (251,0,253 and 0,0,254). Detection is skipped when the asset has real
+@@ -88,7 +156,8 @@ interrupted batch resumes where it stopped. The queue is written every ten asset
+    steps and the prompt are the only levers.
+ 6. **Composite.** Only the model high-frequency band, above a 1.6 px blur radius, is
+    added to the base, and only where two gates allow it:
+-   - a **structure gate** keeps text strokes, icons, borders and hit targets exact;
++   - a **structure gate** limits changes to text strokes, icons and borders; pixel
++     identity and hit targets have not been proven across all assets;
+    - a **texture gate** keeps deliberate flat fills flat. Without it a realm silhouette
+      blue went from a standard deviation of 0.00 to 10.49 with invented contour lines.
+ 7. **Key restore.** The keyed region plus a two pixel rim is copied back from a
+@@ -140,11 +209,13 @@ The UI phase alone is 382 records and about **5.2 hours**.
+ 
+ See section 0 for the exact commands. Two properties matter when picking this up:
+ 
+-- **Resumable.** `run` selects records whose status is not done, so repeating a command
+-  continues, and a killed batch loses at most the current asset.
+-- **Safe to re-plan.** `plan` preserves the status of every record whose source hash,
+-  target size, preset, strength and route are unchanged, so changing a setting resets
+-  exactly the records it affects and nothing else.
++- **Resumable with checks.** `run` selects records whose status is not done. It saves the
++  queue after every asset and checks completed conventional-image output hashes before
++  skipping them. A failure returns a nonzero process status. Container output integrity
++  is not yet verified on resume.
++- **Re-plan limits.** `plan` preserves status when source hash, target size, preset,
++  strength and route match. It does not compare prompt, seed, steps, detail blur, padding
++  policy or code revision. Changes to those inputs require an explicit rebuild decision.
+ - A trial limited with `--max-sheets` writes real but partial output and is recorded as
+   `partial`, not `done`, so the rest of the container is not silently skipped.
+ 
+@@ -165,28 +236,43 @@ Manager job id. Sprite containers keep frame index, name, source box, offset and
+ `sprite.json`, which is what a future SPR re-encode needs. `pack/_work/` holds the
+ canvas and raw model output per job; it is review material and can be deleted.
+ 
+-Installing means backing up the originals and copying the mirrored tree over the game
+-root; rollback means restoring that backup. **Nothing has been installed and the engine
+-has never loaded a generated image.**
++The mirrored tree is a staging layout, **not an installable replacement pack**. JPEG/BMP/PCX
++sources become PNG files with different names, and each SPR becomes a directory of PNG
++frames plus `sprite.json`, not a loadable SPR. Installation requires a verified engine
++loader or a proven re-encoder, a backup of every touched game file, and a tested rollback.
++**Nothing has been installed and the engine has never loaded a generated image.**
+ 
+ ## 8. Engine-side requirements before anything can be installed
+ 
+ | # | Requirement |
+ | --- | --- |
+ | 1 | The engine must render a **1920x1440** UI natively. The prepared art is not a proven game mode. |
+-| 2 | The engine must accept **PNG at paths whose source was JPEG or BMP**, because every output is now PNG. |
++| 2 | The engine must resolve the new **PNG paths** for JPEG/BMP/PCX sources; copying a PNG next to the original does not replace it. |
+ | 3 | Doubled in-game art must be drawn at **2x scale** with unchanged world size; blindly doubling sprites would enlarge every unit. |
+-| 4 | The coordinate tables in `Interface/MainScreen/screen (MainMenu).cfg` and `Grimoire.cfg` must scale by **2.40x** or hit targets will drift. |
+-| 5 | Colour-key assets must still key correctly after the rebuild. The keyed region is byte-identical to the original, so this should hold, but it needs an in-game check. |
++| 4 | SPR frame directories need a verified loader or a lossless re-encode path that preserves frame indices, offsets, flags and palette/key semantics. |
++| 5 | Scale and validate the coordinate tables in `Interface/MainScreen/screen (MainMenu).cfg` and `Grimoire.cfg`, then trace any hardcoded layout and input transforms; scaling two CFG files alone may not cover all hit targets. |
++| 6 | Colour-key assets must still key correctly after the rebuild. The keyed region is byte-identical to the original, so this should hold, but it needs an in-game check. |
++
++The approved resolution policy is three selectable tiers: existing 640x480 and
++800x600, plus 1920x1440. `tools/hd_layout_tier.py` stages `Rect3` and
++`1920x1440_*` coordinate candidates under ignored `assets/hd/config-1920x1440/`.
++The current `IsHighRes` setting is Boolean and the executable has no verified
++third-tier reader; staged CFG files are not installed or sufficient by themselves.
+ 
+ ## 9. Known limits and risks
+ 
+ - Gain is strongly category dependent, and the weakest category carries the largest time
+   cost: animation is 5.3 hours for about 1.04x.
+ - PNG is lossless but much larger than JPEG; the full pack plus working files is expected
+-  to be several GB. 409 GB was free when this was written.
++  to be several GB. About 437 GB was free at the 2026-09-27 preflight.
+ - The 2048-tier UI jobs are 50 s each, so the UI phase alone is 5.2 hours.
+ - Nothing is proven in game. Every engine-side item above is unverified.
++- The project also targets a later expanded 16:9 viewport. This 1920x1440 4:3 UI pack
++  does not establish that widescreen mode or its layout policy.
++- Edge-energy gain measures added detail, not visual fidelity. Review representative
++  Chinese text, glyphs, buttons, maps, transparency and flat fills before a long batch.
++- The Qwen Research License is for non-commercial research/evaluation; distribution of
++  generated assets also depends on the game's asset rights.
+ - 7 legacy SPR version 2 containers remain undecoded and are low value.
+ 
+ ## 10. Repository layout
+@@ -194,6 +280,8 @@ has never loaded a generated image.**
+ | Path | What it is | Tracked |
+ | --- | --- | --- |
+ | `modernization/tools/hd_pipeline.py` | planner, builder and reviewer: `plan`, `run`, `status`, `review` | yes |
++| `modernization/tools/hd_verify.py` | completed raster hash, size, alpha and colour-key checks | yes |
++| `modernization/tools/hd_layout_tier.py` | stages third-tier CFG coordinate candidates without changing installed files | yes |
+ | `modernization/tools/qwen_canvas.py` | canvas composition, restoration, key protection, gates | yes |
+ | `modernization/tools/spr_assets.py` | SPR v4 reader, including the multi-palette terrain header | yes |
+ | `modernization/tools/spr_sequence.py` | per-frame versus per-sheet experiment and flicker measurement | yes |
+diff --git a/modernization/assets/README.md b/modernization/assets/README.md
+index f8700e8..eece9e6 100644
+--- a/modernization/assets/README.md
++++ b/modernization/assets/README.md
+@@ -19,9 +19,12 @@ keep their exact pixels and deliberate flat fills stay flat. The list covers **8
+ records**, of which **677 are runnable**: 507 conventional images, 17 terrain atlases and
+ 153 animation containers. The plan builds **UI first**; terrain and animation are deferred.
+ 
+-**Nothing is built yet, no generated image is installed, and no new game UI mode is
+-proven.** The build workspace `hd/` was cleared on 2026-09-27 and is regenerated by
+-`python modernization/tools/hd_pipeline.py plan`. The earlier trial below is a narrow
++**The four-asset 2K UI smoke test passed, and the remaining UI assets are generating.
++No generated image is installed in the original game, and no native 2K UI mode is
++proven.** An isolated game copy has tested generated main-menu and settings art; see
++[../docs/hd-integration.md](../docs/hd-integration.md). The `hd/`
++queue and output tree were regenerated on 2026-09-27. See [HD_BUILD_LOG.md](HD_BUILD_LOG.md)
++for the pilot evidence and current batch logs. The earlier trial below is a narrow
+ prototype, not a game integration.
+ This directory contains an **experimental, uninstalled** grimoire background trial. The installed community game assets remain untouched. Outputs live under ignored `experimental/` because they derive from the commercial game image and the local Qwen Research License model; do not include them in the source repository or a community release without resolving both sets of rights.
+ 
+diff --git a/modernization/tools/baseline.py b/modernization/tools/baseline.py
+index a691995..7c6cac1 100644
+--- a/modernization/tools/baseline.py
++++ b/modernization/tools/baseline.py
+@@ -5,7 +5,7 @@ import json
+ import shutil
+ from datetime import datetime, timezone
+ 
+-ROOT = Path(__file__).resolve().parents[2]
++ROOT = (Path(__file__).resolve().parents[2] / "game")
+ DEST = ROOT / "modernization" / "baseline"
+ 
+ def digest(path):
+diff --git a/modernization/tools/display.py b/modernization/tools/display.py
+index f2488a1..0a37808 100644
+--- a/modernization/tools/display.py
++++ b/modernization/tools/display.py
+@@ -7,7 +7,7 @@ import json
+ import re
+ from pathlib import Path
+ 
+-ROOT = Path(__file__).resolve().parents[2]
++ROOT = (Path(__file__).resolve().parents[2] / "game")
+ BASELINE = ROOT / "modernization" / "baseline"
+ PRESETS = {"1080p": (1920, 1080), "1440p": (2560, 1440), "4k": (3840, 2160)}
+ SETTINGS = ("width", "height", "fullscreen", "windowed", "maintas", "border")
+diff --git a/modernization/tools/game_window.py b/modernization/tools/game_window.py
+index 9f9ebac..0dcc160 100644
+--- a/modernization/tools/game_window.py
++++ b/modernization/tools/game_window.py
+@@ -6,7 +6,7 @@ from pathlib import Path
+ import time
+ from PIL import ImageGrab
+ 
+-ROOT = Path(__file__).resolve().parents[2]
++ROOT = (Path(__file__).resolve().parents[2] / "game")
+ 
+ def main():
+     ap = argparse.ArgumentParser()
+diff --git a/modernization/tools/hd_pipeline.py b/modernization/tools/hd_pipeline.py
+index 1361150..07ec5eb 100644
+--- a/modernization/tools/hd_pipeline.py
++++ b/modernization/tools/hd_pipeline.py
+@@ -67,6 +67,13 @@ def sha256_file(path: Path) -> str:
+     return digest.hexdigest()
+ 
+ 
++def write_queue(queue: dict, path: Path) -> None:
++    """Persist each completed job without exposing a half-written queue."""
++    temporary = path.with_name(path.name + ".tmp")
++    temporary.write_text(json.dumps(queue, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
++    temporary.replace(path)
++
++
+ def classify(relative: str, size: tuple, ui_height: int, art_scale: float):
+     """Return (category, target size, note) for one installed asset, or None."""
+     parts = relative.split("/")
+@@ -233,7 +240,7 @@ def plan(args) -> None:
+         "records": records,
+     }
+     args.queue.parent.mkdir(parents=True, exist_ok=True)
+-    args.queue.write_text(json.dumps(queue, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
++    write_queue(queue, args.queue)
+     created = create_skeleton(records, args.pack)
+     write_list(queue, args.list)
+     write_csv(queue, args.list.with_suffix(".csv"))
+@@ -467,20 +474,18 @@ def write_list(queue: dict, path: Path) -> None:
+         add("")
+     add("## Output layout")
+     add("")
+-    add("`plan` already created the whole tree, so the pack mirrors the installed game")
+-    add("layout and installation is a directory copy:")
++    add("`plan` creates a staging tree with paths derived from the installed game:")
+     add("")
+     add("```")
+     add("modernization/assets/hd/pack/")
+-    add("  Interface/CharacterScreen/800x600/CharacterScreen.jpg       <- 1920x1440")
+-    add("  Portraits/800x600/Aeetes 800x600.jpg                        <- 160x200")
++    add("  Interface/CharacterScreen/800x600/CharacterScreen.png       <- 1920x1440")
++    add("  Portraits/800x600/Aeetes 800x600.png                        <- 160x200")
+     add("  Creatures/Brownie.spr/0000.png ... plus sprite.json         <- aligned frames")
+     add("  Realms/Celtic/Plains/Terrain.spr/0000.png ... sprite.json   <- per-frame size")
+     add("```")
+     add("")
+-    add("- JPEG and BMP keep their container, because the engine already reads them and a")
+-    add("  larger same-format file is the least risky engine test. PCX, TGA and CUR become")
+-    add("  PNG intermediates until a re-encode path is proven.")
++    add("- All conventional outputs are PNG, including JPEG, BMP, PCX and TGA sources.")
++    add("  Changed extensions require a verified engine loading path.")
+     add("- Every asset gets a JSON manifest beside it with the source and output SHA-256")
+     add("  and the Manager job id.")
+     add("- Sprite containers keep frame index, name, source box, offset and flags in")
+@@ -495,9 +500,11 @@ def write_list(queue: dict, path: Path) -> None:
+     add("`Interface/MainScreen/screen (MainMenu).cfg` and `Grimoire.cfg` must scale by")
+     add("**%.2fx** or hit targets will drift." % queue["ui_factor"])
+     add("")
+-    add("To install: back up the originals, copy the mirrored tree over the game root, then")
+-    add("check Chinese text, every menu hit target, dark and light backgrounds, tile seams")
+-    add("and save/load. To roll back: restore that backup.")
++    add("The pack cannot be copied into the game as a replacement: source extensions")
++    add("change to PNG and SPR output is a frame directory. First prove an opt-in loader")
++    add("or re-encoder and native UI/input transforms on the hash-verified executable.")
++    add("Before any installation, back up touched files and verify rollback. Then check")
++    add("Chinese text, menu hit targets, colour keys, seams, save/load and media playback.")
+     add("")
+     add("## Open decision")
+     add("")
+@@ -725,16 +732,31 @@ def build_atlas(record: dict, root: Path, pack: Path, queue: dict, args) -> dict
+ def run(args) -> None:
+     queue = json.loads(args.queue.read_text(encoding="utf-8"))
+     root = Path(queue["assets_root"]).resolve(strict=True)
+-    todo = [r for r in queue["records"]
+-            if r["route"] in {"composite", "sheet", "atlas"}
+-            and (not args.only_missing or r["status"] != "done")]
++    selected = [r for r in queue["records"] if r["route"] in {"composite", "sheet", "atlas"}]
+     if args.category:
+-        todo = [r for r in todo if r["category"] in args.category]
++        selected = [r for r in selected if r["category"] in args.category]
+     if args.route:
+-        todo = [r for r in todo if r["route"] in args.route]
++        selected = [r for r in selected if r["route"] in args.route]
+     if args.source:
+-        todo = [r for r in todo
++        selected = [r for r in selected
+                 if any(token.lower() in r["source"].lower() for token in args.source)]
++    # The installed sources must still be the ones used to prepare the queue. A
++    # completed raster also needs its output and manifest; status alone is not proof.
++    for record in selected:
++        source = root / record["source"]
++        if not source.is_file() or sha256_file(source) != record["source_sha256"]:
++            raise RuntimeError("Source changed since plan: " + record["source"])
++        if args.only_missing and record["status"] == "done" and record["route"] == "composite":
++            output = args.pack / record["output"]
++            manifest_path = output.with_suffix(output.suffix + ".json")
++            if not output.is_file() or not manifest_path.is_file():
++                raise RuntimeError("Completed output or manifest missing: " + record["source"])
++            manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
++            if (sha256_file(output) != record.get("output_sha256")
++                    or manifest.get("output_sha256") != record.get("output_sha256")
++                    or manifest.get("source_sha256") != record["source_sha256"]):
++                raise RuntimeError("Completed output hash mismatch: " + record["source"])
++    todo = [r for r in selected if not args.only_missing or r["status"] != "done"]
+     if args.limit:
+         todo = todo[:args.limit]
+     if not todo:
+@@ -771,12 +793,11 @@ def run(args) -> None:
+         print("[%d/%d] %-54s %-8s %5.1fs %s" % (
+             index, len(todo), record["source"][-54:], record["status"],
+             record.get("seconds") or 0.0, (record.get("error") or "")[:60]), flush=True)
+-        if index % 10 == 0 or index == len(todo):
+-            args.queue.write_text(json.dumps(queue, ensure_ascii=False, indent=1) + "\n",
+-                                  encoding="utf-8")
+-    args.queue.write_text(json.dumps(queue, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
++        write_queue(queue, args.queue)
+     done = sum(1 for r in queue["records"] if r["status"] == "done")
+     print("Finished: %d failed this run; %d done in queue" % (failures, done))
++    if failures:
++        raise SystemExit(1)
+ 
+ 
+ def status(args) -> None:
+@@ -935,4 +956,4 @@ def main() -> int:
+ 
+ 
+ if __name__ == "__main__":
+-    sys.exit(main())
+\ No newline at end of file
++    sys.exit(main())
+diff --git a/modernization/tools/inspect_assets.py b/modernization/tools/inspect_assets.py
+index 4af5cd7..d466512 100644
+--- a/modernization/tools/inspect_assets.py
++++ b/modernization/tools/inspect_assets.py
+@@ -79,7 +79,7 @@ def inspect(root: Path, path: Path) -> dict:
+ 
+ def main() -> None:
+     parser = argparse.ArgumentParser(description=__doc__)
+-    parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[2])
++    parser.add_argument("--root", type=Path, default=(Path(__file__).resolve().parents[2] / "game"))
+     parser.add_argument("--output", type=Path, required=True, help="Local full manifest JSON")
+     parser.add_argument("--summary", type=Path, help="Small aggregate summary JSON")
+     args = parser.parse_args()
+diff --git a/modernization/tools/inspect_pe.py b/modernization/tools/inspect_pe.py
+index cae99e7..1cdbd4d 100644
+--- a/modernization/tools/inspect_pe.py
++++ b/modernization/tools/inspect_pe.py
+@@ -6,7 +6,7 @@ from pathlib import Path
+ import pefile
+ from capstone import Cs, CS_ARCH_X86, CS_MODE_32
+ 
+-ROOT = Path(__file__).resolve().parents[2]
++ROOT = (Path(__file__).resolve().parents[2] / "game")
+ 
+ def main():
+     ap = argparse.ArgumentParser()
+diff --git a/modernization/tools/probe_session.py b/modernization/tools/probe_session.py
+index 36e97cf..04d6a6b 100644
+--- a/modernization/tools/probe_session.py
++++ b/modernization/tools/probe_session.py
+@@ -14,7 +14,7 @@ import sys
+ import time
+ from PIL import Image, ImageChops, ImageStat
+ 
+-ROOT = Path(__file__).resolve().parents[2]
++ROOT = (Path(__file__).resolve().parents[2] / "game")
+ TEST_SAVE_SHA256 = "62adbfdbc9cb7402e53a26d2e7964d23d15c8801623116fe7a78437118e8e634"
+ 
+ def main():
+diff --git a/modernization/tools/qwen_canvas.py b/modernization/tools/qwen_canvas.py
+index 845e704..7da9392 100644
+--- a/modernization/tools/qwen_canvas.py
++++ b/modernization/tools/qwen_canvas.py
+@@ -257,7 +257,9 @@ def restore(canvas: Image.Image, size: str, steps: int, seed: int, timeout: int)
+     }
+     started = time.monotonic()
+     job_id = _post_json(WORKBENCH + "/api/keyframe2/jobs", payload, timeout=60)["job"]["id"]
++    print("Manager Qwen job: " + job_id, flush=True)
+     deadline = started + timeout
++    next_progress = started + 30
+     while True:
+         job = _get_json(WORKBENCH + "/api/keyframe2/jobs/" + urllib.parse.quote(job_id))["job"]
+         # A newly queued job is briefly visible before its request fields are set.
+@@ -266,7 +268,21 @@ def restore(canvas: Image.Image, size: str, steps: int, seed: int, timeout: int)
+             raise RuntimeError("Qwen job identity does not match this tool")
+         if job["status"] in {"completed", "failed", "canceled"}:
+             break
++        now = time.monotonic()
++        if now >= next_progress:
++            print("Qwen %s: %s %s; %.0fs elapsed" % (
++                job_id, job["status"], job.get("phase_code") or job.get("phase") or "",
++                now - started), flush=True)
++            next_progress = now + 30
+         if time.monotonic() > deadline:
++            # Reconcile this exact job before letting the caller select it again.
++            # The Manager owns cancellation and keeps uncertain outcomes visible.
++            latest = _get_json(WORKBENCH + "/api/keyframe2/jobs/" + urllib.parse.quote(job_id))["job"]
++            if latest["status"] == "completed":
++                job = latest
++                break
++            if latest["status"] not in {"failed", "canceled", "cancelled"}:
++                _post_json(WORKBENCH + "/api/keyframe2/jobs/" + urllib.parse.quote(job_id) + "/cancel", {}, timeout=60)
+             raise TimeoutError("Qwen job timed out: " + job_id)
+         time.sleep(2)
+     if job["status"] != "completed":
+@@ -432,6 +448,44 @@ def protect_key(image: Image.Image, source: Image.Image, mask: Image.Image, ring
+     return Image.composite(flat, restored, rim)
+ 
+ 
++def grimoire_key_template(source: Image.Image) -> Image.Image:
++    """Record the original page's blue and magenta key positions at source size.
++
++    Template values are 0 for art, 1 for the outer blue key and 2 for the inner
++    magenta key. Detection reads only the original JPEG, never Qwen output.
++    """
++    rgb = source.convert("RGB")
++    red, green, blue = rgb.split()
++    low_red = red.point(lambda value: 255 if value <= 48 else 0)
++    low_green = green.point(lambda value: 255 if value <= 32 else 0)
++    high_red = red.point(lambda value: 255 if value >= 232 else 0)
++    high_blue = blue.point(lambda value: 255 if value >= 232 else 0)
++    blue_mask = ImageChops.multiply(ImageChops.multiply(low_red, low_green), high_blue)
++    magenta_mask = ImageChops.multiply(ImageChops.multiply(high_red, low_green), high_blue)
++    blue_mask = blue_mask.filter(ImageFilter.MaxFilter(3))
++    magenta_mask = magenta_mask.filter(ImageFilter.MaxFilter(3))
++    template = Image.new("L", rgb.size)
++    template.paste(1, mask=blue_mask)
++    template.paste(2, mask=magenta_mask)
++    return template
++
++
++def apply_grimoire_key_template(image: Image.Image, template: Image.Image) -> Image.Image:
++    """Scale the fixed source template and paint exact key colours over any art."""
++    if template.mode != "L":
++        raise ValueError("Grimoire key template must be an L image")
++    scaled = template.resize(image.size, Image.Resampling.NEAREST)
++    blue = scaled.point(lambda value: 255 if value == 1 else 0)
++    magenta = scaled.point(lambda value: 255 if value == 2 else 0)
++    result = Image.composite(Image.new("RGB", image.size, (0, 0, 255)), image.convert("RGB"), blue)
++    return Image.composite(Image.new("RGB", image.size, (255, 0, 255)), result, magenta)
++
++
++def protect_grimoire_keys(image: Image.Image, source: Image.Image) -> Image.Image:
++    """Compatibility wrapper for the source-derived, fixed colour-key template."""
++    return apply_grimoire_key_template(image, grimoire_key_template(source))
++
++
+ def restore_content(source: Image.Image, target: tuple, *, preset_max_dim: int | None = None,
+                     steps: int = 12, seed: int = 260926, max_aspect: float = 4.0,
+                     timeout: int = 2400, work_dir: Path | None = None,
+@@ -503,10 +557,16 @@ def build_asset(source_path: Path, output_path: Path, target: tuple, *,
+                                     stem="%s_s%d" % (source_path.stem.replace(" ", "_"), steps))
+ 
+     base = source.resize(target, Image.Resampling.LANCZOS)
+-    if key_mask is not None:
++    grimoire_page = ("Grimoire" in source_path.parts and "800x600" in source_path.parts
++                      and source.size == (400, 600))
++    if grimoire_page:
++        base = protect_grimoire_keys(base, source)
++    elif key_mask is not None:
+         base = protect_key(base, source, key_mask)
+     composite = detail_composite(base, content, strength, detail_blur, mask_source=source)
+-    if key_mask is not None:
++    if grimoire_page:
++        composite = protect_grimoire_keys(composite, source)
++    elif key_mask is not None:
+         composite = protect_key(composite, source, key_mask)
+     if has_alpha:
+         composite = _with_alpha(composite, alpha)
+@@ -537,6 +597,7 @@ def build_asset(source_path: Path, output_path: Path, target: tuple, *,
+         "has_alpha": has_alpha,
+         "key_color": list(key_colour) if key_colour else None,
+         "key_fraction": key_fraction,
++        "key_edge_policy": "grimoire-source-template-v2" if grimoire_page else "legacy-key-rim-v1",
+         "manager_job_id": meta["manager_job_id"],
+         "qwen_seconds": meta["qwen_seconds"],
+         "prompt": PROMPT,
+diff --git a/modernization/tools/spr_assets.py b/modernization/tools/spr_assets.py
+index fa6e176..ab6aef8 100644
+--- a/modernization/tools/spr_assets.py
++++ b/modernization/tools/spr_assets.py
+@@ -85,6 +85,10 @@ def read_spr(path: Path):
+             if pixel_offset + opaque * (1 if pixel_format == 1 else 2) > size:
+                 raise ValueError("truncated pixels")
+             spans.append(row_spans)
++        # Legacy inventory calls these "flags". Native 0x57D310 instead uses
++        # +28 as palette selector (-1 for RGB565), while +32/+36 are optional
++        # mask offsets. Preserve the legacy tuple for existing queue manifests;
++        # encoders must not copy those offsets into a resized payload.
+         flags = struct.unpack_from("<3I", frame, 28)
+         frames.append({"index": index, "width": width, "height": height,
+                        "offset": [x, y], "name": frame[20:28].rstrip(b"\0").decode("ascii", "replace"),
+@@ -140,7 +144,7 @@ def inventory(root, output):
+ 
+ def main():
+     parser = argparse.ArgumentParser(description=__doc__)
+-    parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[2])
++    parser.add_argument("--root", type=Path, default=(Path(__file__).resolve().parents[2] / "game"))
+     parser.add_argument("--inventory", type=Path)
+     parser.add_argument("--source", type=Path)
+     parser.add_argument("--output-dir", type=Path)
+diff --git a/modernization/tools/telemetry.py b/modernization/tools/telemetry.py
+index ff12194..b10c94e 100644
+--- a/modernization/tools/telemetry.py
++++ b/modernization/tools/telemetry.py
+@@ -12,7 +12,7 @@ import json
+ from pathlib import Path
+ import time
+ 
+-ROOT = Path(__file__).resolve().parents[2]
++ROOT = (Path(__file__).resolve().parents[2] / "game")
+ SUPPORTED = "b1eccc46cc16065d57c277fca9c0993635b7b645b3b3b7717759d8bf1c800291"
+ ADDRESSES = {
+     "logic_rate_config": 0x6DE6FD,

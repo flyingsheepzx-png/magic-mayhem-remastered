@@ -1,0 +1,383 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "kind": "detach",
+      "index": 0,
+      "cursor": 0,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 0,
+      "cursor": 0,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 0,
+      "cursor": 1,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 0,
+      "cursor": 1,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 0,
+      "cursor": 2,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 0,
+      "cursor": 2,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 0,
+      "cursor": 3,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 0,
+      "cursor": 3,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 1,
+      "cursor": 0,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 1,
+      "cursor": 0,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 1,
+      "cursor": 1,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 1,
+      "cursor": 1,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 1,
+      "cursor": 2,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 1,
+      "cursor": 2,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 1,
+      "cursor": 3,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 1,
+      "cursor": 3,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 2,
+      "cursor": 0,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 2,
+      "cursor": 0,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 2,
+      "cursor": 1,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 2,
+      "cursor": 1,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 2,
+      "cursor": 2,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 2,
+      "cursor": 2,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 2,
+      "cursor": 3,
+      "free": false,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 2,
+      "cursor": 3,
+      "free": true,
+      "missing": false,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 0,
+      "cursor": 2,
+      "free": false,
+      "missing": true,
+      "leaf": false
+    },
+    {
+      "kind": "detach",
+      "index": 0,
+      "cursor": 2,
+      "free": false,
+      "missing": false,
+      "leaf": true
+    },
+    {
+      "kind": "group_destructor",
+      "cutoff": 0,
+      "child_rank": -1,
+      "freed": [
+        33621248
+      ]
+    },
+    {
+      "kind": "group_destructor",
+      "cutoff": 0,
+      "child_rank": 0,
+      "freed": [
+        33621248
+      ]
+    },
+    {
+      "kind": "group_destructor",
+      "cutoff": 0,
+      "child_rank": 3,
+      "freed": [
+        33621248
+      ]
+    },
+    {
+      "kind": "group_destructor",
+      "cutoff": 5,
+      "child_rank": -1,
+      "freed": [
+        33621248
+      ]
+    },
+    {
+      "kind": "group_destructor",
+      "cutoff": 5,
+      "child_rank": 0,
+      "freed": [
+        33621248
+      ]
+    },
+    {
+      "kind": "group_destructor",
+      "cutoff": 5,
+      "child_rank": 3,
+      "freed": [
+        33621248
+      ]
+    },
+    {
+      "kind": "base_action_owned_group_cleanup_prefix",
+      "child_first": false,
+      "freed": [
+        33624320,
+        33624064,
+        0,
+        33625088,
+        0,
+        33626112
+      ]
+    },
+    {
+      "kind": "base_action_owned_group_cleanup_prefix",
+      "child_first": true,
+      "freed": [
+        0,
+        33625088,
+        0,
+        33626112,
+        33624320,
+        33624064
+      ]
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 1,
+      "reverse_order": false,
+      "with_native_groups": false,
+      "allocations": 8,
+      "non_null_frees": 8
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 1,
+      "reverse_order": false,
+      "with_native_groups": true,
+      "allocations": 13,
+      "non_null_frees": 13
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 1,
+      "reverse_order": true,
+      "with_native_groups": false,
+      "allocations": 8,
+      "non_null_frees": 8
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 1,
+      "reverse_order": true,
+      "with_native_groups": true,
+      "allocations": 13,
+      "non_null_frees": 13
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 2,
+      "reverse_order": false,
+      "with_native_groups": false,
+      "allocations": 12,
+      "non_null_frees": 12
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 2,
+      "reverse_order": false,
+      "with_native_groups": true,
+      "allocations": 22,
+      "non_null_frees": 22
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 2,
+      "reverse_order": true,
+      "with_native_groups": false,
+      "allocations": 12,
+      "non_null_frees": 12
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 2,
+      "reverse_order": true,
+      "with_native_groups": true,
+      "allocations": 22,
+      "non_null_frees": 22
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 5,
+      "reverse_order": false,
+      "with_native_groups": false,
+      "allocations": 24,
+      "non_null_frees": 24
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 5,
+      "reverse_order": false,
+      "with_native_groups": true,
+      "allocations": 49,
+      "non_null_frees": 49
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 5,
+      "reverse_order": true,
+      "with_native_groups": false,
+      "allocations": 24,
+      "non_null_frees": 24
+    },
+    {
+      "kind": "native_constructor_full_base_destructor",
+      "action_count": 5,
+      "reverse_order": true,
+      "with_native_groups": true,
+      "allocations": 49,
+      "non_null_frees": 49
+    }
+  ],
+  "scope": "Full native407780/407650, action prefix and12 constructed lifecycle cases: real422ec0 and full418050, shared feature-tree sentinels, empty containers and native owned groups. CRT allocation/free sinks only; allocations all released exactly once. Nonempty feature trees, derived destructors and allocation failures pending."
+}

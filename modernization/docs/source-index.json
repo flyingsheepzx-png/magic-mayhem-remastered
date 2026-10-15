@@ -1,0 +1,1227 @@
+{
+  "schema_version": 1,
+  "title": "Remastered 1.1 agent source materials",
+  "date": "2026-10-02",
+  "paths_relative_to": "development project root (DEV_ROOT)",
+  "source_code_included": false,
+  "baseline": {
+    "files": {
+      "MagicMayhem-Remastered.exe": "bd9015dc7feaeb5d862130a20075e71f5cd09694daa238778db5d429abd4cc3f",
+      "runtime/Chaos-Wide169-engine.exe": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+      "runtime/ddraw.dll": "f642c354e106dac903ee0899c3b5a09024c1bad2458f4232c85e37d8c98427cf",
+      "runtime/terrain_diagonal.dll": "3a27cafa8a0f282b6bade57e3fee4e8d89511191f2d1b9aea1852399d3ca66d3",
+      "runtime/fmv_h264.dll": "9b86df83d71198afe02474fbeae5380f55da99746cc051e6ac169d9263108789"
+    },
+    "embedded_modules": {
+      "101": "0f618f11afe86cba77b33a64938b07c25da2dad1afc365e414ae63ad43535dd2",
+      "102": "ea6325f770b9c1b57a74624973ae6fecdc74a45167e6c857953ada8359daa8b6",
+      "103": "4e63e0d8452f2bfbcfef52e1838e17575d2bf7cddf37c4a1213dbe6f2ac95c17"
+    }
+  },
+  "groups": [
+    {
+      "component": "launcher_and_102",
+      "source_root": "modernization/build/remastered-1.1-pick-projection",
+      "materials": [
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/ai_budget.cpp",
+          "bytes": 1708,
+          "sha256": "7aa939bac826d2b9840b0410e60131791df5d730c21a10da98d765141c7b4029"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/ai_danger_refresh.cpp",
+          "bytes": 2384,
+          "sha256": "52722b271337a2985b1d8b2a305701a3304cceed811a03cb35e55d6153464f9c"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/build.cmd",
+          "bytes": 1616,
+          "sha256": "9058b81521ed6da513a9ffe54d17a7bba89392a18bf1e13d591a6f2ce5057542"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/campaign_ui.cpp",
+          "bytes": 6847,
+          "sha256": "55ebe490be6ecdf9fb712e3c7df0702db9eb31c3aa03a04331ba804d22f37c55"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/candidate.rc",
+          "bytes": 89,
+          "sha256": "6624e3faa0dfca15a5bedf43bacbf58d7b768be06110d31797659e5fe587c672"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/canopy_pick.inc",
+          "bytes": 11396,
+          "sha256": "5ece0c308c003dcdb2040bb20329613450498b88b1132cc19472ad5e71778e8b"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/confirm_dialog.cpp",
+          "bytes": 3129,
+          "sha256": "5b46b5443097a4d81124b2ae4b7ef4d83432003849fac0532d60fea152036141"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/display_test.cpp",
+          "bytes": 1127,
+          "sha256": "6270fba1b661ad0a10675b2a038e6e40c96b6dc479939bd6ae6d74e3084b3606"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/launcher.cpp",
+          "bytes": 14566,
+          "sha256": "a9aa22e5b50ebef940d6813ff0685a038aaf8f16e546efd139284c02fc1a9d8f"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/layout_context.h",
+          "bytes": 2342,
+          "sha256": "ef0212668dbfe4f36f0d13f0b80faf0d6dcfb3738d9a3a927c7065f04267ce36"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/main_portrait_input.inc",
+          "bytes": 709,
+          "sha256": "afba8d4a66345675b16cd4f919f74a59ad0811e906dffd5acd6e65dc8d0017da"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/mixed_ui_fonts.cpp",
+          "bytes": 20123,
+          "sha256": "be4f5330889e2b382b3990a9f018de5fcffc349238a0b56a8d92ef7791129251"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/native_destroy.bin",
+          "bytes": 216,
+          "sha256": "cc0f263eb367d40f8df8241a4721cc3475284b1140681a4b949fd26662d04e46"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/options_render.cpp",
+          "bytes": 3491,
+          "sha256": "cc83d9bc591180497683ef14f176f24af185856e09091ecd09f06f4066163ddb"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/options_resolution.cpp",
+          "bytes": 2706,
+          "sha256": "1bd415457b7ec9b3c83a8378e6079d0fd88e1f10e8ab66cbaac063a5fb6b2401"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/options_speed.cpp",
+          "bytes": 2142,
+          "sha256": "d8dfe69135017bdd194e7ab4a898d12fada315598dad0b41a3ecfe5264c2d088"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/options_window.cpp",
+          "bytes": 2209,
+          "sha256": "1944738b7a1b14866cf028a5ac9418907d373309ccf75c8d599e500a26628f1e"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/port_drag.cpp",
+          "bytes": 1786,
+          "sha256": "8f73ede3dec9162bae961850e169455bf0a274b5cbfc0e65ad866782dfea4c49"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/portrait_sprite_ready.cpp",
+          "bytes": 1343,
+          "sha256": "b9581adae8bb81298a36d09cc7a561ee94ede0e13e4f07753674c351366f61c9"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/qol_bindings.cpp",
+          "bytes": 47185,
+          "sha256": "cac05ce9215d1642f3027f5fbdce61046b1c1142e3cd95f16837d61e06a9d433"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/qwen_highlight.cpp",
+          "bytes": 1595,
+          "sha256": "e1250bb9e17cd599be6baa8fc46fbd87f95e8b84b6d86533f49b6dd9396e4e39"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/release.rc",
+          "bytes": 114,
+          "sha256": "754f18ece4b7e7980148fe5570a2e7ffc9c5018c9e869f133a825f04c5cd326a"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/release_launcher.cpp",
+          "bytes": 14807,
+          "sha256": "ac698421805271973a038e721aa3451a6d594d8c91fb118c461d908ad937d8fb"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/remastered.ico",
+          "bytes": 4710,
+          "sha256": "840f8eb66d0ef7f4e7b165b192f4f0c05c7d1884be63e936973082fe6443bcd7"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/roof_tab.inc",
+          "bytes": 676,
+          "sha256": "bc7aebff9bb13974109e19063dc543e0593289e02aaa31a9a1523a726b631fe7"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/surface_lifecycle.cpp",
+          "bytes": 3305,
+          "sha256": "437a3c911a639ad06978833a79f4cdf5171047d7a93e9cc1451d632c4b83e7a3"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/surface_lifecycle_native_test.cpp",
+          "bytes": 3327,
+          "sha256": "00263fcca761121e3175194bb0a8b5c0fd08b9327b832ace2029c0a332141d4d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/surface_lifecycle_test_hooks.cpp",
+          "bytes": 3408,
+          "sha256": "a2aebaa9dbd6f04604c0e0c4416d659d980be94bf29c4c11bef0bef290aa7f9f"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/surface_registry.h",
+          "bytes": 596,
+          "sha256": "8717bcda766514652a23503d874b5cc2ad203d018f05b956203257b0ddbf8eb8"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/surface_registry_test.cpp",
+          "bytes": 980,
+          "sha256": "4bbe8c39b6625a3bf0184f7510afd273bbe90010ec9faf57c0e03eaa1a88ec86"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/teammate_portrait.inc",
+          "bytes": 2122,
+          "sha256": "6f375a3d7c34ca3a21373c3dc62c243475989f701c26749ee67931b07da9cfe6"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/test.cmd",
+          "bytes": 291,
+          "sha256": "d167b1067d40e21ace0432c8249a9689498781c8c1cf6caa840e5a4d284bc16b"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/ui_geometry.h",
+          "bytes": 2014,
+          "sha256": "62bb3f81a8c3440898170c645b519263c57638e254e1636c31e3c2f7e01e93ed"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-pick-projection/window_close.cpp",
+          "bytes": 1642,
+          "sha256": "95e4bdde9d116f9536ca0432a8b2f73b42bdb6d37f171de990728f79863902ab"
+        }
+      ],
+      "scope": "Source provenance inventory; no clean rebuild executed for this manual.",
+      "matching_artifact": {
+        "path": "modernization/build/remastered-1.1-pick-projection/release.exe",
+        "sha256": "bd9015dc7feaeb5d862130a20075e71f5cd09694daa238778db5d429abd4cc3f",
+        "matches_installed": true
+      }
+    },
+    {
+      "component": "101",
+      "source_root": "modernization/build/remastered-1.1-movement-timing",
+      "materials": [
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/build.cmd",
+          "bytes": 1003,
+          "sha256": "89f68da47bd67f3d9d76795d198b2c81185987e19aed0bf9ef149ceb9d6ad39a"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/candidate.rc",
+          "bytes": 89,
+          "sha256": "6624e3faa0dfca15a5bedf43bacbf58d7b768be06110d31797659e5fe587c672"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/clock_trial.cpp",
+          "bytes": 1570,
+          "sha256": "f54f58e321d8b9cb2bf2bdc108ffde5927a216991eb5d3548e2f389320ce3159"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/command_index.h",
+          "bytes": 1129,
+          "sha256": "8b98cd4cf26df12937060d3a582c641c1bc596d38b693ed572ee6a861bc046cc"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/command_response.inc",
+          "bytes": 3548,
+          "sha256": "ec012ba72a4f7010b4c4204ebe73cd782cefe964e3ca0b1f139f06d747656b5f"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/corridor_route.inc",
+          "bytes": 2375,
+          "sha256": "0b7aaa668b92cd99f89780108c48c9b984c05f38e5aaadcabff92e3daf6080f4"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/dynamic_wait.inc",
+          "bytes": 1032,
+          "sha256": "8b9bd3ed2249e8a051ac1bb35474b3e3eacce6c083d73e87ed421624892536f1"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/game_time_trial.cpp",
+          "bytes": 1663,
+          "sha256": "98abe67dd2007a9a73bb56d64baa2c607e728d8feb43a6e0d255a81b5963a835"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/launcher.cpp",
+          "bytes": 14566,
+          "sha256": "a9aa22e5b50ebef940d6813ff0685a038aaf8f16e546efd139284c02fc1a9d8f"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/layout_context.h",
+          "bytes": 2342,
+          "sha256": "ef0212668dbfe4f36f0d13f0b80faf0d6dcfb3738d9a3a927c7065f04267ce36"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/local_route.inc",
+          "bytes": 3026,
+          "sha256": "d4bb7f6d43e75c7f924b7d647d8df5c38749f1398bec91287a9bd665cefd4559"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/logic_time_trial.cpp",
+          "bytes": 3372,
+          "sha256": "55b49cec006cc790019e4f33338e6125c2772f984ff87199caf3c0032e70ab5c"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/long_route.inc",
+          "bytes": 4928,
+          "sha256": "94823eff7d7e36f159a36782db6cc29b2b1a2ac8feb332d64aa0c04a7ac24c29"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/movement_timing.h",
+          "bytes": 1015,
+          "sha256": "3efd27de3dd60c6f047e5668d65373c3ae3738245d9ed957ddd8139b677d762e"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/release.rc",
+          "bytes": 114,
+          "sha256": "754f18ece4b7e7980148fe5570a2e7ffc9c5018c9e869f133a825f04c5cd326a"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/release_launcher.cpp",
+          "bytes": 14807,
+          "sha256": "ac698421805271973a038e721aa3451a6d594d8c91fb118c461d908ad937d8fb"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/remastered.ico",
+          "bytes": 4710,
+          "sha256": "840f8eb66d0ef7f4e7b165b192f4f0c05c7d1884be63e936973082fe6443bcd7"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/render_replay_trial.cpp",
+          "bytes": 27399,
+          "sha256": "cc2316ac2d5a01cdba2988bfa3b109323b7cb07eeb07670a1bd2ccc269b538e7"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/repath_multiunit_trial.cpp",
+          "bytes": 40099,
+          "sha256": "190fee79fda4632f5b52de26d18eaf944ca001f0a4cba93cbde2dde4cc0e3fa1"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/roof_ghost.inc",
+          "bytes": 5028,
+          "sha256": "4e11588017f0857972a692bedbe83caaabffda8af40ab7c20938439f8f82622b"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/short_direct_route.inc",
+          "bytes": 1362,
+          "sha256": "1008719e2964d807c26e4379fa842e258cc8f989735576d270b595e9333814b7"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/timing_test.cmd",
+          "bytes": 280,
+          "sha256": "5f7e53a560fb317fb4339bb4c63d971a0b40fececad3b212345385b7bfd58ab5"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-movement-timing/ui_layout.h",
+          "bytes": 578,
+          "sha256": "b628bb74d25d7333edabd98dfa1c8bcb8c8cc27d1d44d779c8902ead17144818"
+        }
+      ],
+      "scope": "Source provenance inventory; no clean rebuild executed for this manual.",
+      "matching_artifact": {
+        "path": "modernization/build/remastered-1.1-movement-timing/repath.dll",
+        "sha256": "0f618f11afe86cba77b33a64938b07c25da2dad1afc365e414ae63ad43535dd2",
+        "matches_installed": true
+      }
+    },
+    {
+      "component": "103",
+      "source_root": "modernization/build/remastered-1.1-ai-diagnostics",
+      "materials": [
+        {
+          "path": "modernization/build/remastered-1.1-ai-diagnostics/ai_diagnostics.cpp",
+          "bytes": 14786,
+          "sha256": "d92263f6a2bd11c3da624d44d52e2b43519780542b03cc411a3d11440078fa4d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-ai-diagnostics/ai_diagnostics_fp_test.cpp",
+          "bytes": 3069,
+          "sha256": "ca0d74debe3d9ca33a2f89016895997a02b1f81c4f1f6853074c7e32ce23205d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-ai-diagnostics/build.cmd",
+          "bytes": 922,
+          "sha256": "a783c1b700a66bca855755fc697b21ab5dc85f3466cb88ff15ef75fb3e300e4d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-ai-diagnostics/candidate.rc",
+          "bytes": 89,
+          "sha256": "6624e3faa0dfca15a5bedf43bacbf58d7b768be06110d31797659e5fe587c672"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-ai-diagnostics/fixture-trace.bin",
+          "bytes": 3280,
+          "sha256": "72c8934bda125ebe8dbac3faea0c3cca9e38ed32f0cb333718215d53243195f7"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-ai-diagnostics/fixture.cmd",
+          "bytes": 439,
+          "sha256": "fd239f7df89e78ef31e75d84ce803a5b1c1a82ff971949ee5d7932b94b6ef7d0"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-ai-diagnostics/launcher.cpp",
+          "bytes": 14566,
+          "sha256": "f3537206713ba1ac173e2ae87eb7135c783bdeea94f1fb6f67c2312b269aba93"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-ai-diagnostics/release.rc",
+          "bytes": 114,
+          "sha256": "754f18ece4b7e7980148fe5570a2e7ffc9c5018c9e869f133a825f04c5cd326a"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-ai-diagnostics/release_launcher.cpp",
+          "bytes": 14807,
+          "sha256": "e25f05d88716966ca05dfff9d21d1e66bafe2ede72be4d5ce06ce1404549706c"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-ai-diagnostics/remastered.ico",
+          "bytes": 4710,
+          "sha256": "840f8eb66d0ef7f4e7b165b192f4f0c05c7d1884be63e936973082fe6443bcd7"
+        }
+      ],
+      "scope": "Source provenance inventory; no clean rebuild executed for this manual.",
+      "matching_artifact": {
+        "path": "modernization/build/remastered-1.1-ai-diagnostics/ai_diagnostics.dll",
+        "sha256": "4e63e0d8452f2bfbcfef52e1838e17575d2bf7cddf37c4a1213dbe6f2ac95c17",
+        "matches_installed": true
+      }
+    },
+    {
+      "component": "wrapper",
+      "source_root": "modernization/build/remastered-1.1-options-render-v1/wrapper",
+      "materials": [
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/build.cmd",
+          "bytes": 1073,
+          "sha256": "4dc723f5a2f8a4c4d9484a91f25eba1d80bdb28c297af4c0c0c95f23240b3563"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/build_debug.cmd",
+          "bytes": 1081,
+          "sha256": "f69a2e6fc1d24d8aa20a4227ea0813af9407f22ab45bbaa88030ce60f140253e"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/cnc-ddraw.sln",
+          "bytes": 1717,
+          "sha256": "b28455f6cff845a18f579ea9fe42212127948b600b98f758f4ee5b3351f2b285"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/cnc-ddraw.vcxproj",
+          "bytes": 22080,
+          "sha256": "96b72f1ad9705c2e5eaa4a82611715d1e2fad0304d4efe1b37194856236b8c2d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/cnc-ddraw.vcxproj.filters",
+          "bytes": 11076,
+          "sha256": "1a6e8b2e560eb699fa4d63a27955598b78af392b2f75a2594f41a3769bc60d0d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/config/cnc-ddraw config.cpp",
+          "bytes": 1989,
+          "sha256": "31a2191d0ea4c227b52e9247793deb2ef043edf64984eec20fe91022142280ef"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/config/cnc-ddraw config.manifest",
+          "bytes": 1560,
+          "sha256": "3ffdac66cbda7991d690c6301aeed2985e825149f09b0516745b1d18e5721e91"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/config/cnc-ddraw config_resources.rc",
+          "bytes": 400,
+          "sha256": "848bbbaddaf6d00d0b0b944554bc05f29338213ab049efa76f8c390f10701bc8"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/config/cnc-ddraw.ico",
+          "bytes": 85242,
+          "sha256": "c51e6142ef1312f9f3e35cd7de9c0ea4a717758d17a91d52b423c6725b6d1c42"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/config/ConfigFormUnit.cpp",
+          "bytes": 66916,
+          "sha256": "a99e42e652e83e2c420aebc9a2b62e34cd94252e7759cfd68840dc3ff0a73062"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/config/ConfigFormUnit.h",
+          "bytes": 4775,
+          "sha256": "32651346a5b4db95234accb3ee8fdd99afd10a6adb01caaf09e3701c5b1fcc9b"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/exports.def",
+          "bytes": 1054,
+          "sha256": "f23791b2f4a4f8c98c903f42553965a70397718b638351503ea393625c925777"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/blt.h",
+          "bytes": 2412,
+          "sha256": "0ba8727b22324f319fdd0d135622e1d018946cae1feb8663ba92b0d681d8b2af"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/config.h",
+          "bytes": 2551,
+          "sha256": "c61dfeebb30bdbbf091408f043d2f4b0fd95b6b4129ca7a499b6ec4db8c48a2b"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/crc32.h",
+          "bytes": 257,
+          "sha256": "214107726180495ef1300cddfc4182ded7804e4d47d8e7d90c47e00aaca8c5a5"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/d3d9shader.h",
+          "bytes": 55061,
+          "sha256": "05892733715826f33b5929a4f6edf8f7c8ecd2cd38da5368906ae2c4f2b88a2b"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/d3dcaps.h",
+          "bytes": 26201,
+          "sha256": "28c6ba51914337c8120a23207a229bb156b848b6b4029a8de0079f4c8c5f0328"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/dd.h",
+          "bytes": 4978,
+          "sha256": "457803d1d73c7570ba38ab031e1a4680e5d528248005e0cb72caa9d137ef4d0f"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/ddclipper.h",
+          "bytes": 775,
+          "sha256": "d0db3d9602d36e7d9196bcb4b2daf4c3f9511fc4ca93a551899f4ee1942c50c8"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/ddpalette.h",
+          "bytes": 626,
+          "sha256": "12a23b09215901531528fa2b6e3b31eff08a72a8dc613d68bcc2eebafb4a26e9"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/ddraw.h",
+          "bytes": 247042,
+          "sha256": "7b6df40c8e4910c953af5b6d803eff329722fb0624e9fc9b009b0a50a6516a7a"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/ddsurface.h",
+          "bytes": 2776,
+          "sha256": "52cd562e737b4e4d1154020c73697a73acbcc0bd629e66ede4ccd9c6f7ecd86d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/debug.h",
+          "bytes": 2493,
+          "sha256": "a153544101f35e02ee1fee7b6be81402948543261f2dc16fd0591921368614a8"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/delay_imports.h",
+          "bytes": 1037,
+          "sha256": "fa31cff0c6b3fbc612875d4805903aabfca406e1a795a557ef663aea0b6e1c0f"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/directinput.h",
+          "bytes": 1883,
+          "sha256": "6d540701c338c68e5a3c5934fddf78d72e4de317659b72e48db701c5b7f3bc73"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/dllmain.h",
+          "bytes": 1261,
+          "sha256": "38ed5cba49fb359049be828057463d7a83af7a70b18535bd8fbbe6925c2f3160"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/fps_limiter.h",
+          "bytes": 1815,
+          "sha256": "ab0f6c1cec24b6aa90151af5d807b703978170317611cb124080cf5527f28743"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/git.h",
+          "bytes": 65,
+          "sha256": "7c6ae144a4a674da488894353d96082d6aee1f9f6c06e88e2ee76482f0cb8a9b"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/glcorearb.h",
+          "bytes": 425160,
+          "sha256": "180de8881a2f2cf7b8705c0b0220a904ed139535d028baadee15dc5a5e88baf9"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/hook.h",
+          "bytes": 7838,
+          "sha256": "c4f201ab2ba9b58f69b2be2f6e1f1cd8c5d1c7e7a35c5b0b257e8a335f98094c"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/IAMMediaStream.h",
+          "bytes": 1816,
+          "sha256": "bf926526fe22116282754a398ad6078d5c5cae801e7c026645cb4827b767cd42"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/IDirect3D.h",
+          "bytes": 4230,
+          "sha256": "c7c43b6766575ead9a840573355243366c64c0f218a407b31ba89c30f545ecb3"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/IDirectDraw.h",
+          "bytes": 2877,
+          "sha256": "ec436e6ad30e314efc396ba42bba941ce78f1fb944d33ab2b99719ed36e4f5e7"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/IDirectDrawClipper.h",
+          "bytes": 1227,
+          "sha256": "cbd29e1435cfa0c7fbb2205bf90b4dad40a31dd1e0ff54da2e8bdabca5bb3832"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/IDirectDrawGammaControl.h",
+          "bytes": 1020,
+          "sha256": "4b03ebcf91e7b5224a040cb1a533a5602ff5f9ddcb15c11056bdae44dd01c62e"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/IDirectDrawPalette.h",
+          "bytes": 1173,
+          "sha256": "e6d4c20c5f5a3e558d4069df4eb9e46140c375e8e6361807e6b9c65934f2250c"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/IDirectDrawSurface.h",
+          "bytes": 4725,
+          "sha256": "f238e2b1feee85012580984db2b9aa2bf3727a094bac2678953683db79cc51f9"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/indeo.h",
+          "bytes": 91,
+          "sha256": "84af3e20bb2ba733157966b8255d701bb4f7626dba41c488b0e940b2a1f8cf32"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/ini.h",
+          "bytes": 638,
+          "sha256": "5a9434dfdcabd887fa8cf472aef072c18e35dbad4226095da4450133498593f2"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/keyboard.h",
+          "bytes": 221,
+          "sha256": "36474fe68f5f03e17bb8807c30ffa96f713c862aed6c439a9be241597d6d8545"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/KHR/khrplatform.h",
+          "bytes": 10319,
+          "sha256": "8d872c0db82a9d6f27c8a22266a8ffe867acc5737725551ef4e1e98914aee5cc"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/lodepng.h",
+          "bytes": 93957,
+          "sha256": "6ad1e93220b13c72d15ebe969da6e3a6b01e96b99cbf893deee1cf1d2611498b"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/mm_probe.h",
+          "bytes": 3014,
+          "sha256": "2b042e3a4982cbbd2803d1a61391aa0799111e8fa007f465ce443c25cbd00f09"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/mouse.h",
+          "bytes": 253,
+          "sha256": "d77d6b8c790ad78a1402b1638acef607242fc91ba4c862f5030db88a167c89cc"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/opengl_utils.h",
+          "bytes": 5084,
+          "sha256": "729fbcb5ed3bac2e49abf617917bb10540e26fff7094077a3a7a97697724bca6"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/openglshader.h",
+          "bytes": 22222,
+          "sha256": "37d36302b135136bcc00dc659672f55dede4a34d16321a3479adfe99619ac509"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/palette.h",
+          "bytes": 6783,
+          "sha256": "906f982dfa95912b335d8693d71d900c1debe45842faf8175284d540a8253cb3"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/patch.h",
+          "bytes": 1539,
+          "sha256": "345bc7fb032bc4f8d9082a09ab63f4500f1f70fb3471b38c19f3d3e5ca1316e3"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/render_d3d9.h",
+          "bytes": 1189,
+          "sha256": "71b65c5e9955ea83be8e68b2466ff05bf3e273b03fb595e2804f7bb5508ae728"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/render_gdi.h",
+          "bytes": 148,
+          "sha256": "110bd6ef86e3d928c24c771cde8147acdd43ca7f72c99b9f82e6f96c3d1e10db"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/render_ogl.h",
+          "bytes": 1398,
+          "sha256": "c8323b2935ab08ea2ea715cda48452a841183ab0ba8c77d516fa5e0a27a3983e"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/screenshot.h",
+          "bytes": 195,
+          "sha256": "3dd5837cdfd7f28ba72cfaddc1a1d4df27a1cbf46b1a7918e8e998f784982d8b"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/utils.h",
+          "bytes": 1189,
+          "sha256": "c791d747915119acf6fc3ecda98fce37ec9c7e58a82d8af23547cfdcdf5becd5"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/version.h",
+          "bytes": 438,
+          "sha256": "c7ac60cb3482cbfd2545f61e9e4c11c99aab68c41606d284fe86fc28f629ef3d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/versionhelpers.h",
+          "bytes": 9884,
+          "sha256": "f1630cb87bf994f1038f06ac0644e598943b183c4cbe25991aa67adc12acc1ab"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/wglext.h",
+          "bytes": 43943,
+          "sha256": "27905ed9f0f6cc45452b8f66e3eb8e7b3785cf64bce4948985b0ba77b8b5d509"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/winapi_hooks.h",
+          "bytes": 5170,
+          "sha256": "182d4d9f494d8f748de0543df93515bc5dc8f7073c2ed9e8c49d361da7795d07"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/inc/wndproc.h",
+          "bytes": 698,
+          "sha256": "5da7992f1cec1330c922ff057d2c0bfc225a68d90b10a5909154fa3f08eb6180"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/LICENSE",
+          "bytes": 1099,
+          "sha256": "8266b2d0f103cf043c055fa9a18ea5734ee304294930fc26125ce369839fae93"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/Makefile",
+          "bytes": 1419,
+          "sha256": "7a1b2075ce1925da27794e6abcef5b3f99ab37e611042ecb62474d4ebd22334d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/README.md",
+          "bytes": 14592,
+          "sha256": "84b430264ecab12c581144d2e1c2ec5a76cd7e32e44dd251f939275c7c9459b9"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/res.rc",
+          "bytes": 914,
+          "sha256": "a6d8fccd340614c3e850d8831f90d7dbbce7af663121971e4aadedde8a8f9ea1"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/blt.c",
+          "bytes": 20307,
+          "sha256": "4857fe288a833104b68a9f07d0399a0974836453ae30b36d621b3431cefb1d2a"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/config.c",
+          "bytes": 73044,
+          "sha256": "59aa221fd7ecdc918507d880feca7e19e4278fee288ea1ceadcb0adea3771644"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/crc32.c",
+          "bytes": 5162,
+          "sha256": "00bdf08e252d7e58d5371124675c96fe4efe4dc7ce63f0533896bb4877b35bce"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/dd.c",
+          "bytes": 66110,
+          "sha256": "4884e41c4845c5f24c235a53bf73f38388a96874d2cf57c0f9c6c8297f8bd10f"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/ddclipper.c",
+          "bytes": 5002,
+          "sha256": "0c710cad02b0bcea4fc96e28d52c6630c82da135dccfb90c2e50e1bca8ebb1db"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/ddpalette.c",
+          "bytes": 3277,
+          "sha256": "93d9397eddd28bce0edd9cd3d0bd88c7c71d741e56c7ed7e2e9436a08c7a389d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/ddsurface.c",
+          "bytes": 52481,
+          "sha256": "2d7cc1e6d2aa10e91feaa6eef3d79118dfee7e118dd8939899a6d4c496f56163"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/debug.c",
+          "bytes": 66870,
+          "sha256": "edc430a958e1a7719f7194731a869dcb70a603ec5742ba558bfec78fe70809aa"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/delay_imports.c",
+          "bytes": 1239,
+          "sha256": "18b2d6a9136657b20654bf6d160479f27ce0c33a4917501391aec44b456b9ec0"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/creatwth.cpp",
+          "bytes": 58243,
+          "sha256": "4b7c90df76d9c5bb2062e26d56624512bbdf71386a939c435fa7af8f25347aee"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/detours.cpp",
+          "bytes": 87278,
+          "sha256": "2c0a21ceabd877b642d1c4a49605408906566002ac68b4abae080e8ec91ee300"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/detours.h",
+          "bytes": 39470,
+          "sha256": "96017a6b7914b2e8e9789bdbdb3f68ab670be494a24d6e223f190d264c21c57e"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/detver.h",
+          "bytes": 747,
+          "sha256": "030559dacbf2a3672b65f305be62175f8e6b8693b11885fc73c217350ba4a92f"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/disasm.cpp",
+          "bytes": 170684,
+          "sha256": "a88d2e407f26b1ce5d69d2ef93130d6f5863c54f1133e6259d0fea639306a790"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/disolarm.cpp",
+          "bytes": 60,
+          "sha256": "9d0d2519a8e45809b9dc7aa69fbabbe4dd1657c0bec6fb1595d664cd0fe57746"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/disolarm64.cpp",
+          "bytes": 62,
+          "sha256": "9d90e7d1890c89285f4666c61f4323ecc98f5b05ebab7041967d8211723728ce"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/disolia64.cpp",
+          "bytes": 61,
+          "sha256": "7e76161e2af3140598306f947f51388ce4b7bede3028fdeaf9163a59c1df080b"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/disolx64.cpp",
+          "bytes": 60,
+          "sha256": "508e36655e69e9340d9cb6a170ea7d8d3ead5f3ae3725b298696407e7edc9251"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/disolx86.cpp",
+          "bytes": 60,
+          "sha256": "2ca65c70c08f451473ac04871adfb2cd223e62144fe99458b8991c393c29cac7"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/image.cpp",
+          "bytes": 68740,
+          "sha256": "3085c11717e4d0c59273a007d9bea4948b8e3ee52dab3506cd4294add1aeb4aa"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/LICENSE.md",
+          "bytes": 1122,
+          "sha256": "f854ae8aabc0404652b48a2b3bf7f21ec174c69d73f5596934c20884eb0639ef"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/modules.cpp",
+          "bytes": 33326,
+          "sha256": "642ad5043e1010d7ba2edc9c3c7c8a82b1aed8e6e5c22e9643c5e701f345f979"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/README.md",
+          "bytes": 2631,
+          "sha256": "1284cd9b829fcb92a83ff37533d5cc7047d32ea1848735739ea929cc0c35195c"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/detours/uimports.cpp",
+          "bytes": 10050,
+          "sha256": "a33f50bdffb57e65f406cff00f52089ee3f100fb73958a65ebe630882754c64e"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/directinput.c",
+          "bytes": 16072,
+          "sha256": "6652c0d3901a4d3cb907e8a2586f183cd64880277284029b6011487be35cfcb7"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/display_render.h",
+          "bytes": 667,
+          "sha256": "b115906ea334186d632593191f8601dfbca136a90752b6e42e2c9bf09e53effe"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/display_render_load.h",
+          "bytes": 321,
+          "sha256": "9792bee3b3f5150dbefc363516ebb840b8ca79e597eb5c62c6372ef048aff05e"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/display_resolution.h",
+          "bytes": 1893,
+          "sha256": "1ef3db3b9b2e63bd8739cd91d44b0a3f2a46b6de76a677f674b4fea323924a52"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/display_resolution_load.h",
+          "bytes": 1030,
+          "sha256": "8ef56f23be2a6d26a9f95ed7301270ec12f78d1783e221dcfbd54afc543bee89"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/dllmain.c",
+          "bytes": 11173,
+          "sha256": "533631175565361e41daa5ac4bd4f08e310f3a40466ea59486d03fd164b693bd"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/fps_limiter.c",
+          "bytes": 5705,
+          "sha256": "c95a8b92f70b690d73601bb5161da0fcd1eaebf69e51202205dbda62320cb111"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/hook.c",
+          "bytes": 30363,
+          "sha256": "b4acdc5ce2e6b8669932101e7b3c4674ec9a706f25d965bb742e54ce53d9a249"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/hud_overlay_core.h",
+          "bytes": 3442,
+          "sha256": "69d8010ca506ca22555c552495ae96bdce50bc3dba51ca6822ddbfada71e5db4"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/IAMMediaStream/IAMMediaStream.c",
+          "bytes": 4461,
+          "sha256": "60d5a0b9ada0a8cfb46f09fba31dda75f73746224ac2c5c56d6c14012e8931a0"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/IDirect3D/IDirect3D.c",
+          "bytes": 3407,
+          "sha256": "ab539b4354dce2f98f30d4d47b9173028593f930a7ef552fc90e3bb7df0dda99"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/IDirect3D/IDirect3D2.c",
+          "bytes": 3456,
+          "sha256": "8c170f5bbcc3a32849768f650ffc5274ddde7d2135ae3dd839761792aa12b81a"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/IDirect3D/IDirect3D3.c",
+          "bytes": 4432,
+          "sha256": "9ffbc12b2db042cccd6d36a542fb8c12c8bedb0bae1ae71f71031e2304c736e2"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/IDirect3D/IDirect3D7.c",
+          "bytes": 3159,
+          "sha256": "69d2d51d6aca1b56d071fbab7bc4fef5d5b862cf4a69b341315a19e79f406074"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/IDirectDraw/IDirectDraw.c",
+          "bytes": 19918,
+          "sha256": "5647518ff2adcb53ed77516574c65d6b30ef569ab42cd3c63d7373d9f53c18c9"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/IDirectDraw/IDirectDrawClipper.c",
+          "bytes": 3922,
+          "sha256": "c5d4d456956ac4122d6a07d7f4899927f967b739ac599335dd779add936339e4"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/IDirectDraw/IDirectDrawGammaControl.c",
+          "bytes": 2273,
+          "sha256": "d1a44b9c4b7c6c6dcb89bb4cc31d2db7ad9e6ce537a43b002679be7a37d66be0"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/IDirectDraw/IDirectDrawPalette.c",
+          "bytes": 3551,
+          "sha256": "fdd550ee6c17263d2529b3906c718f381bda6c2ad52f1af07100a685551be691"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/IDirectDraw/IDirectDrawSurface.c",
+          "bytes": 26065,
+          "sha256": "d6f461232992d7181d5c21c421aaec5100e8e0d983f79d0c5e985dae00b25ca3"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/indeo.c",
+          "bytes": 1636,
+          "sha256": "6af06698ba36a9f00edc795ac63be9faf6081c92fad6f9cc5faaa8162a8cb8c9"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/ini.c",
+          "bytes": 5373,
+          "sha256": "74aff81e36ccc578b407472271de98bd0531f0ebc25d5ac263deb325902a89a8"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/keyboard.c",
+          "bytes": 3776,
+          "sha256": "f120a3c1d4ce505b1f5362cd1ec35b7aaa832c837c75a4efa781b9635127d652"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/layout_context.h",
+          "bytes": 2342,
+          "sha256": "ef0212668dbfe4f36f0d13f0b80faf0d6dcfb3738d9a3a927c7065f04267ce36"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/lodepng.c",
+          "bytes": 250544,
+          "sha256": "932568a12b10f6f74a71d03a457f683e8fc73f233c8184e016619d3dc66f1be6"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/mm_background.h",
+          "bytes": 1057,
+          "sha256": "3e74be50e68c0a407a71452dea70f0c6e8f604ff11e5eab1c5a0bababc82db26"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/mm_battle_hud.h",
+          "bytes": 5133,
+          "sha256": "0ba3165d17a6dde3deae20759da997ca7db4a9e9d001ff75b3a7b61424c5676d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/mm_engine_identity.h",
+          "bytes": 1679,
+          "sha256": "2802684b9ad46a6dba38e29d749e808700f7936b6dec3a7d6ec50dbff037bf73"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/mm_mixed.h",
+          "bytes": 8797,
+          "sha256": "df5ff365caa6d56dba6bf6143634601ffd89e3ef7921eb37615e222151c2f018"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/mouse.c",
+          "bytes": 3056,
+          "sha256": "211fb4177b2eab9ceb878e9e4c9a6f9c82b56567c0856ae693f6f5b9d364ea96"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/opengl_utils.c",
+          "bytes": 19881,
+          "sha256": "14634320400a2d469cb9cd0a3f36db8ab51c686e91c20171f8fd31bafb670b21"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/presentation_epoch.h",
+          "bytes": 936,
+          "sha256": "ccbbba89ffbc0520f8e44efcdb0c816d2b03db1fdd743a69a3d6419852700a33"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/render_d3d9.c",
+          "bytes": 26655,
+          "sha256": "d6a09b25f8ee9f7f7081dfb777ab57c0bdb68debd228f7223f471184461907aa"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/render_gdi.c",
+          "bytes": 6130,
+          "sha256": "06ed0da4d6b39f5ddb6874dc0300fba351731af1aa906a381a598a352874c209"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/render_ogl.c",
+          "bytes": 55690,
+          "sha256": "c86b9b4d97f6e8323eb36f01e5a44156bf9a6a52c0df1fc757f4233b07b9c83d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/screenshot.c",
+          "bytes": 6527,
+          "sha256": "81fcbd94d3f784e72eee2751cbddb54b0fdf4722285938e869a433576212160b"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/utils.c",
+          "bytes": 34666,
+          "sha256": "d72360b362f499a7603d7814eb5996a6ed52e10e1ec72f7c3f4317224c4ef848"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/versionhelpers.c",
+          "bytes": 1006,
+          "sha256": "3d7e77746854a0e3f219c893d8cc4760183545456c8cd4011f602735898ac44e"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/winapi_hooks.c",
+          "bytes": 70457,
+          "sha256": "02f1332b06f0da4b2bf692b2934d3129dc709d86ffc61215b9f4424554c732f6"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/src/wndproc.c",
+          "bytes": 36242,
+          "sha256": "93ac9bd0615029942ea9ffe52ee9eaec7900f84da77e072c3b9e4a075ad44eb2"
+        }
+      ],
+      "scope": "Source provenance inventory; no clean rebuild executed for this manual.",
+      "matching_artifact": {
+        "path": "modernization/build/remastered-1.1-options-render-v1/wrapper/bin/Release/ddraw.dll",
+        "sha256": "f642c354e106dac903ee0899c3b5a09024c1bad2458f4232c85e37d8c98427cf",
+        "matches_installed": true
+      }
+    },
+    {
+      "component": "terrain",
+      "source_root": "modernization/build/remastered-1.1-half-stair",
+      "materials": [
+        {
+          "path": "modernization/build/remastered-1.1-half-stair/candidate.rc",
+          "bytes": 89,
+          "sha256": "6624e3faa0dfca15a5bedf43bacbf58d7b768be06110d31797659e5fe587c672"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-half-stair/entries.cmd",
+          "bytes": 759,
+          "sha256": "6f1713ed9a0ce5c788dc334db06dd70efed74b9386d695b5bacea205563fe17d"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-half-stair/launcher.cpp",
+          "bytes": 14566,
+          "sha256": "a9aa22e5b50ebef940d6813ff0685a038aaf8f16e546efd139284c02fc1a9d8f"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-half-stair/release.rc",
+          "bytes": 114,
+          "sha256": "754f18ece4b7e7980148fe5570a2e7ffc9c5018c9e869f133a825f04c5cd326a"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-half-stair/release_launcher.cpp",
+          "bytes": 14807,
+          "sha256": "ac698421805271973a038e721aa3451a6d594d8c91fb118c461d908ad937d8fb"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-half-stair/remastered.ico",
+          "bytes": 4710,
+          "sha256": "840f8eb66d0ef7f4e7b165b192f4f0c05c7d1884be63e936973082fe6443bcd7"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-half-stair/terrain.cmd",
+          "bytes": 242,
+          "sha256": "03e03e4c5ac073d9d45ce02c9291ab083376114095efbe531f4a3d69e6e916e1"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-half-stair/terrain_diagonal.cpp",
+          "bytes": 6668,
+          "sha256": "f6532f04ba0699e210a8c796039c16c5f07e3e76f06ba2727eaa35aecbf00ac7"
+        }
+      ],
+      "scope": "Source provenance inventory; no clean rebuild executed for this manual.",
+      "matching_artifact": {
+        "path": "modernization/build/remastered-1.1-half-stair/terrain_diagonal.dll",
+        "sha256": "3a27cafa8a0f282b6bade57e3fee4e8d89511191f2d1b9aea1852399d3ca66d3",
+        "matches_installed": true
+      }
+    },
+    {
+      "component": "fmv",
+      "source_root": "modernization/build/remastered-1.1-fmv-h264",
+      "materials": [
+        {
+          "path": "modernization/build/remastered-1.1-fmv-h264/build.cmd",
+          "bytes": 457,
+          "sha256": "d772c892a94356b4dc8b1774307488e11c4ef7412d6d725d1b382215ee8d9397"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-fmv-h264/combined.rc",
+          "bytes": 56,
+          "sha256": "ca4dcec7e37ae6b53ca57426d0802179e63931ca753d14cd8b90f82a3c7e816a"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-fmv-h264/fmv_h264.cpp",
+          "bytes": 7789,
+          "sha256": "3d38fcd7a292f829f02381e4d0f0abf71dabaf0b175de32c3aa08a82f467465a"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-fmv-h264/launcher.cpp",
+          "bytes": 11662,
+          "sha256": "9a5acb5c15f64e992b680ecd4a8b9e8119a7eb2d77f65d1d7d64f724bdfb28dd"
+        }
+      ],
+      "scope": "Source provenance inventory; no clean rebuild executed for this manual.",
+      "matching_artifact": {
+        "path": "modernization/build/remastered-1.1-fmv-h264/fmv_h264.dll",
+        "sha256": "9b86df83d71198afe02474fbeae5380f55da99746cc051e6ac169d9263108789",
+        "matches_installed": true
+      }
+    },
+    {
+      "component": "general_png",
+      "source_root": "modernization/build/remastered-1.1-loader-fix",
+      "materials": [
+        {
+          "path": "modernization/build/remastered-1.1-loader-fix/build-launcher.cmd",
+          "bytes": 457,
+          "sha256": "d772c892a94356b4dc8b1774307488e11c4ef7412d6d725d1b382215ee8d9397"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-loader-fix/build-policy.cmd",
+          "bytes": 226,
+          "sha256": "bb1295ab6f0cf237f540d9e07d199cf9b448e49befc052bc15fd0fda9c309b08"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-loader-fix/build.cmd",
+          "bytes": 459,
+          "sha256": "dc6df4d911e28ef1d3407e3541fb919d0e17d7b13962cf945423f532738528bb"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-loader-fix/combined.rc",
+          "bytes": 176,
+          "sha256": "a6f9080b9d293abd66c25cc5606c227482de597590ddad88871a6d621a144d48"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-loader-fix/launcher.cpp",
+          "bytes": 10646,
+          "sha256": "c407ace990ebce17223407b583dcd062ff5222e06c21bdec222601da20ab07c4"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-loader-fix/png_assets.cpp",
+          "bytes": 9745,
+          "sha256": "75b249724632f01db19436606c708236df1ac0cdc2640aa2393bef1516ade7f2"
+        },
+        {
+          "path": "modernization/build/remastered-1.1-loader-fix/verify_policy.cpp",
+          "bytes": 1920,
+          "sha256": "91f567b3d2c04dc086bf54f81e88fbd88235b4c42299d79e8ed5a5d44c1baa67"
+        }
+      ],
+      "scope": "Source provenance inventory; no clean rebuild executed for this manual.",
+      "matching_artifact": {
+        "path": "modernization/build/remastered-1.1-loader-fix/png_assets.dll",
+        "sha256": "48916f6cc6ffd183e0c2ee90caf6d1571a28e627e36197747ec9e96d3772b427",
+        "matches_installed": true
+      }
+    },
+    {
+      "component": "png_pages_reference",
+      "source_root": "modernization/runtime/png-pages",
+      "materials": [
+        {
+          "path": "modernization/runtime/png-pages/offline_test.cpp",
+          "bytes": 3583,
+          "sha256": "ddf2df4ec4c71a145cc9af944f3167e0ee9cc1b2266804f3dddd88c87dd7b210"
+        },
+        {
+          "path": "modernization/runtime/png-pages/png_pages.cpp",
+          "bytes": 5148,
+          "sha256": "496c677171734d10082a9a7cfae5ad6002f0b798437842a747b600dabaf9cecb"
+        }
+      ],
+      "scope": "Reference/maintenance source; installed-binary correspondence not asserted."
+    },
+    {
+      "component": "jpeg_and_png_reference",
+      "source_root": "modernization/runtime/png-assets",
+      "materials": [
+        {
+          "path": "modernization/runtime/png-assets/hash_test.cpp",
+          "bytes": 1064,
+          "sha256": "843f4488b4b26c19c07ce91a77d895960a938c971b863dcdd6e92e2752ed4aa8"
+        },
+        {
+          "path": "modernization/runtime/png-assets/jpeg_proxy.cpp",
+          "bytes": 285,
+          "sha256": "40a76c7362c13ab2a043eb36bcfd0749ea8819c6a0236b571a0ad45ef86d7452"
+        },
+        {
+          "path": "modernization/runtime/png-assets/jpeg_proxy.def",
+          "bytes": 96,
+          "sha256": "916a962d60769a83f25cabe6f518c6808bb7b3fed1de924b6bd458fcc2dd4f5b"
+        },
+        {
+          "path": "modernization/runtime/png-assets/offline_test.cpp",
+          "bytes": 4869,
+          "sha256": "5ab50399e25eb1c8adcac5bf394786e90f4d6b3071478e82b5595680565a718f"
+        },
+        {
+          "path": "modernization/runtime/png-assets/png_assets.cpp",
+          "bytes": 9672,
+          "sha256": "5a65cb055cfe24a432ed81b9e1e679cf33eb1df19effc059765e91ac5780b543"
+        },
+        {
+          "path": "modernization/runtime/png-assets/proxy_test.cpp",
+          "bytes": 574,
+          "sha256": "6bad8895e924d391b94ea6284826aabe0756c22ef0f3899160228a31a7421132"
+        }
+      ],
+      "scope": "Reference/maintenance source; installed-binary correspondence not asserted."
+    }
+  ],
+  "additional_materials": [
+    "modernization/runtime/hd11/ (maintenance source and adapters; final snapshots take precedence)",
+    "modernization/runtime/terrain_diagonal/",
+    "modernization/tools/ (include transitive imports and build/verification scripts)",
+    "modernization/tests/ (source plus required controlled fixtures)",
+    "modernization/requirements-re.txt",
+    "modernization/docs/ (manual section 11 specifies design documents)",
+    "modernization/assets/fmv-delivery-1440p-20261001/ (build commands, validation source, REPORT.md, HANDOFF.md)",
+    "Target-specific resource generation scripts, geometry plans and immutable input provenance"
+  ],
+  "exclusion_policy": "No player saves, credentials, private service configuration, model weights, logs/dumps or build intermediates."
+}

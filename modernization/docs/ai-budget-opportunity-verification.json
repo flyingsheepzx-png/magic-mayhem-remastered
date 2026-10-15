@@ -1,0 +1,248 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "result": "passed",
+  "native_budget_splits": [
+    {
+      "total": 0,
+      "each_scheduler": 0,
+      "planning_each": 0,
+      "execution_each": 0
+    },
+    {
+      "total": 1,
+      "each_scheduler": 0,
+      "planning_each": 0,
+      "execution_each": 0
+    },
+    {
+      "total": 2,
+      "each_scheduler": 1,
+      "planning_each": 0,
+      "execution_each": 1
+    },
+    {
+      "total": 3,
+      "each_scheduler": 1,
+      "planning_each": 0,
+      "execution_each": 1
+    },
+    {
+      "total": 15,
+      "each_scheduler": 7,
+      "planning_each": 3,
+      "execution_each": 4
+    },
+    {
+      "total": 30,
+      "each_scheduler": 15,
+      "planning_each": 7,
+      "execution_each": 8
+    },
+    {
+      "total": 60,
+      "each_scheduler": 30,
+      "planning_each": 15,
+      "execution_each": 15
+    },
+    {
+      "total": 120,
+      "each_scheduler": 60,
+      "planning_each": 30,
+      "execution_each": 30
+    },
+    {
+      "total": 240,
+      "each_scheduler": 120,
+      "planning_each": 60,
+      "execution_each": 60
+    },
+    {
+      "total": 480,
+      "each_scheduler": 240,
+      "planning_each": 120,
+      "execution_each": 120
+    }
+  ],
+  "traces": [
+    {
+      "trace": "D:\\Games\\Magic&Mayham\\modernization\\logs\\ai-review\\isolated-test18-v1\\isolated-package\\runtime\\AI\\diagnostics\\session-35964-41322640\\trace.bin",
+      "sha256": "21ad6b4dd7b7009f2e34d6fcd82539a475acc9fffa9c6ab07d6334dff45c829a",
+      "schedulers": {
+        "0x690600": {
+          "calls": 340,
+          "budgets": {
+            "2147483647": 1,
+            "15": 339
+          },
+          "normal_calls": 339,
+          "normal_calls_with_candidate_budget_yield": 321,
+          "normal_yield_fraction": 0.9469026548672567,
+          "normal_duration_us": {
+            "median": 60,
+            "p95": 216,
+            "max": 301
+          },
+          "calls_with_candidate_budget_yield": 321,
+          "fraction_calls_with_candidate_budget_yield": 0.9441176470588235,
+          "max_consecutive_calls_with_candidate_budget_yield": 39,
+          "scheduler_tick_deltas": {
+            "1": 339
+          },
+          "observed_duration_us": {
+            "median": 60,
+            "p95": 217,
+            "max": 6051
+          },
+          "candidate_evaluations_per_call": {
+            "median": 1,
+            "p95": 112,
+            "max": 791
+          },
+          "end_phases": {
+            "0": 8,
+            "4": 298,
+            "2": 34
+          }
+        },
+        "0x644550": {
+          "calls": 340,
+          "budgets": {
+            "2147483647": 1,
+            "15": 339
+          },
+          "normal_calls": 339,
+          "normal_calls_with_candidate_budget_yield": 0,
+          "normal_yield_fraction": 0.0,
+          "normal_duration_us": {
+            "median": 35,
+            "p95": 59,
+            "max": 121
+          },
+          "calls_with_candidate_budget_yield": 0,
+          "fraction_calls_with_candidate_budget_yield": 0.0,
+          "max_consecutive_calls_with_candidate_budget_yield": 0,
+          "scheduler_tick_deltas": {
+            "1": 339
+          },
+          "observed_duration_us": {
+            "median": 35,
+            "p95": 59,
+            "max": 127
+          },
+          "candidate_evaluations_per_call": {
+            "median": 110,
+            "p95": 110,
+            "max": 222
+          },
+          "end_phases": {
+            "0": 340
+          }
+        }
+      },
+      "commits": {
+        "14": 2,
+        "11": 1,
+        "0": 20,
+        "12": 1,
+        "59": 18,
+        "6": 2
+      },
+      "total_events": 50027,
+      "limitations": "Historical instrumented baseline only. Yields are evaluator continuation, not proof of idle units. Duration includes observer overhead. No increased-budget gameplay or wall-time prediction."
+    },
+    {
+      "trace": "D:\\Games\\Magic&Mayham\\modernization\\logs\\ai-review\\isolated-test7-v1\\isolated-package\\runtime\\AI\\diagnostics\\session-7760-41761078\\trace.bin",
+      "sha256": "2178487dd2bea85d0adef0f46417ccb5cd5cd3a0bfae2e9c7ed09052cb56164e",
+      "schedulers": {
+        "0x690600": {
+          "calls": 576,
+          "budgets": {
+            "2147483647": 1,
+            "15": 575
+          },
+          "normal_calls": 575,
+          "normal_calls_with_candidate_budget_yield": 521,
+          "normal_yield_fraction": 0.9060869565217391,
+          "normal_duration_us": {
+            "median": 67,
+            "p95": 265,
+            "max": 660
+          },
+          "calls_with_candidate_budget_yield": 521,
+          "fraction_calls_with_candidate_budget_yield": 0.9045138888888888,
+          "max_consecutive_calls_with_candidate_budget_yield": 68,
+          "scheduler_tick_deltas": {
+            "1": 575
+          },
+          "observed_duration_us": {
+            "median": 67,
+            "p95": 267,
+            "max": 11159
+          },
+          "candidate_evaluations_per_call": {
+            "median": 1,
+            "p95": 158,
+            "max": 1050
+          },
+          "end_phases": {
+            "0": 9,
+            "4": 487,
+            "2": 31,
+            "3": 49
+          }
+        },
+        "0x644550": {
+          "calls": 576,
+          "budgets": {
+            "2147483647": 1,
+            "15": 575
+          },
+          "normal_calls": 575,
+          "normal_calls_with_candidate_budget_yield": 101,
+          "normal_yield_fraction": 0.17565217391304347,
+          "normal_duration_us": {
+            "median": 37,
+            "p95": 78,
+            "max": 171
+          },
+          "calls_with_candidate_budget_yield": 101,
+          "fraction_calls_with_candidate_budget_yield": 0.1753472222222222,
+          "max_consecutive_calls_with_candidate_budget_yield": 31,
+          "scheduler_tick_deltas": {
+            "1": 575
+          },
+          "observed_duration_us": {
+            "median": 37,
+            "p95": 80,
+            "max": 171
+          },
+          "candidate_evaluations_per_call": {
+            "median": 110,
+            "p95": 110,
+            "max": 222
+          },
+          "end_phases": {
+            "0": 472,
+            "2": 102,
+            "4": 2
+          }
+        }
+      },
+      "commits": {
+        "0": 48,
+        "8": 5,
+        "9": 5,
+        "59": 22,
+        "14": 5,
+        "15": 2,
+        "6": 1,
+        "39": 1,
+        "13": 1,
+        "11": 1
+      },
+      "total_events": 75594,
+      "limitations": "Historical instrumented baseline only. Yields are evaluator continuation, not proof of idle units. Duration includes observer overhead. No increased-budget gameplay or wall-time prediction."
+    }
+  ],
+  "scope": "No game launched or patched. Native caller and split instruction slices, whole NOTIONAL budget init/query; scheduler callback explicitly doubled. Existing traces read only."
+}

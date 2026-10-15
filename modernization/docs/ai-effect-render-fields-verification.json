@@ -1,0 +1,1802 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "config_sha256": "a0f832ea4c128d474a84f000735289715b9da3edd074d5af0b6a5e3956def2f8",
+  "cases": [
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 0
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 1
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 2
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 3
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 4
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 5
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 6
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 7
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 8
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 9
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 10
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 11
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 12
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 13
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 14
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 15
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 16
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 17
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 18
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 19
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 20
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 21
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 22
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 23
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 24
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 25
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 26
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 27
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 28
+    },
+    {
+      "printer_text": "TRANSPARENT50",
+      "data_text": "0",
+      "printer_value": 4,
+      "data_value": 0,
+      "directory_index": 29
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 30
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 31
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 32
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 33
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 34
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 35
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 36
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 37
+    },
+    {
+      "printer_text": "TRANSPARENT25",
+      "data_text": "0",
+      "printer_value": 3,
+      "data_value": 0,
+      "directory_index": 38
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 39
+    },
+    {
+      "printer_text": "TRANSPARENT50",
+      "data_text": "0",
+      "printer_value": 4,
+      "data_value": 0,
+      "directory_index": 40
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 41
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 42
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 43
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 44
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 45
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 46
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 47
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 48
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 49
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 50
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 51
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 52
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 53
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 54
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 55
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 56
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 57
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 58
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 59
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 60
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 61
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 62
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 63
+    },
+    {
+      "printer_text": "TRANSPARENT50",
+      "data_text": "0",
+      "printer_value": 4,
+      "data_value": 0,
+      "directory_index": 64
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 65
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 66
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 67
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 68
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 69
+    },
+    {
+      "printer_text": "TRANSPARENT75",
+      "data_text": "0",
+      "printer_value": 5,
+      "data_value": 0,
+      "directory_index": 70
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 71
+    },
+    {
+      "printer_text": "TRANSPARENT50",
+      "data_text": "0",
+      "printer_value": 4,
+      "data_value": 0,
+      "directory_index": 72
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 73
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 74
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 75
+    },
+    {
+      "printer_text": "TRANSPARENT50",
+      "data_text": "0",
+      "printer_value": 4,
+      "data_value": 0,
+      "directory_index": 76
+    },
+    {
+      "printer_text": "TRANSPARENT50",
+      "data_text": "0",
+      "printer_value": 4,
+      "data_value": 0,
+      "directory_index": 77
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 78
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 79
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 80
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 81
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 82
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 83
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 84
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 85
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 86
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 87
+    },
+    {
+      "printer_text": "TRANSPARENT75",
+      "data_text": "0",
+      "printer_value": 5,
+      "data_value": 0,
+      "directory_index": 88
+    },
+    {
+      "printer_text": "TRANSPARENT25",
+      "data_text": "0",
+      "printer_value": 3,
+      "data_value": 0,
+      "directory_index": 89
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 90
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 91
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 92
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 93
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 94
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 95
+    },
+    {
+      "printer_text": "TRANSPARENT75",
+      "data_text": "0",
+      "printer_value": 5,
+      "data_value": 0,
+      "directory_index": 96
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 97
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 98
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 99
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0,
+      "directory_index": 100
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 101
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "85",
+      "printer_value": 31,
+      "data_value": 85,
+      "directory_index": 102
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "86",
+      "printer_value": 31,
+      "data_value": 86,
+      "directory_index": 103
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "87",
+      "printer_value": 31,
+      "data_value": 87,
+      "directory_index": 104
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "88",
+      "printer_value": 31,
+      "data_value": 88,
+      "directory_index": 105
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "89",
+      "printer_value": 31,
+      "data_value": 89,
+      "directory_index": 106
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "90",
+      "printer_value": 31,
+      "data_value": 90,
+      "directory_index": 107
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "91",
+      "printer_value": 31,
+      "data_value": 91,
+      "directory_index": 108
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "92",
+      "printer_value": 31,
+      "data_value": 92,
+      "directory_index": 109
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "93",
+      "printer_value": 31,
+      "data_value": 93,
+      "directory_index": 110
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "94",
+      "printer_value": 31,
+      "data_value": 94,
+      "directory_index": 111
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "95",
+      "printer_value": 31,
+      "data_value": 95,
+      "directory_index": 112
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "96",
+      "printer_value": 31,
+      "data_value": 96,
+      "directory_index": 113
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "97",
+      "printer_value": 31,
+      "data_value": 97,
+      "directory_index": 114
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "98",
+      "printer_value": 31,
+      "data_value": 98,
+      "directory_index": 115
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "99",
+      "printer_value": 31,
+      "data_value": 99,
+      "directory_index": 116
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "100",
+      "printer_value": 31,
+      "data_value": 100,
+      "directory_index": 117
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "101",
+      "printer_value": 31,
+      "data_value": 101,
+      "directory_index": 118
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "102",
+      "printer_value": 31,
+      "data_value": 102,
+      "directory_index": 119
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "103",
+      "printer_value": 31,
+      "data_value": 103,
+      "directory_index": 120
+    },
+    {
+      "printer_text": "TRANSPARENT",
+      "data_text": "104",
+      "printer_value": 2,
+      "data_value": 104,
+      "directory_index": 121
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "105",
+      "printer_value": 31,
+      "data_value": 105,
+      "directory_index": 122
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "106",
+      "printer_value": 31,
+      "data_value": 106,
+      "directory_index": 123
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "107",
+      "printer_value": 31,
+      "data_value": 107,
+      "directory_index": 124
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "108",
+      "printer_value": 31,
+      "data_value": 108,
+      "directory_index": 125
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "109",
+      "printer_value": 31,
+      "data_value": 109,
+      "directory_index": 126
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "110",
+      "printer_value": 31,
+      "data_value": 110,
+      "directory_index": 127
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "111",
+      "printer_value": 31,
+      "data_value": 111,
+      "directory_index": 128
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "112",
+      "printer_value": 31,
+      "data_value": 112,
+      "directory_index": 129
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "113",
+      "printer_value": 31,
+      "data_value": 113,
+      "directory_index": 130
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "114",
+      "printer_value": 31,
+      "data_value": 114,
+      "directory_index": 131
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "115",
+      "printer_value": 31,
+      "data_value": 115,
+      "directory_index": 132
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "116",
+      "printer_value": 31,
+      "data_value": 116,
+      "directory_index": 133
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "117",
+      "printer_value": 31,
+      "data_value": 117,
+      "directory_index": 134
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "118",
+      "printer_value": 31,
+      "data_value": 118,
+      "directory_index": 135
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "119",
+      "printer_value": 31,
+      "data_value": 119,
+      "directory_index": 136
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "120",
+      "printer_value": 31,
+      "data_value": 120,
+      "directory_index": 137
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "121",
+      "printer_value": 31,
+      "data_value": 121,
+      "directory_index": 138
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "122",
+      "printer_value": 31,
+      "data_value": 122,
+      "directory_index": 139
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "123",
+      "printer_value": 31,
+      "data_value": 123,
+      "directory_index": 140
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "124",
+      "printer_value": 31,
+      "data_value": 124,
+      "directory_index": 141
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "125",
+      "printer_value": 31,
+      "data_value": 125,
+      "directory_index": 142
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "126",
+      "printer_value": 31,
+      "data_value": 126,
+      "directory_index": 143
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "127",
+      "printer_value": 31,
+      "data_value": 127,
+      "directory_index": 144
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "128",
+      "printer_value": 31,
+      "data_value": 128,
+      "directory_index": 145
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "129",
+      "printer_value": 31,
+      "data_value": 129,
+      "directory_index": 146
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "130",
+      "printer_value": 31,
+      "data_value": 130,
+      "directory_index": 147
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "131",
+      "printer_value": 31,
+      "data_value": 131,
+      "directory_index": 148
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "132",
+      "printer_value": 31,
+      "data_value": 132,
+      "directory_index": 149
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "133",
+      "printer_value": 31,
+      "data_value": 133,
+      "directory_index": 150
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "134",
+      "printer_value": 31,
+      "data_value": 134,
+      "directory_index": 151
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "135",
+      "printer_value": 31,
+      "data_value": 135,
+      "directory_index": 152
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "136",
+      "printer_value": 31,
+      "data_value": 136,
+      "directory_index": 153
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "137",
+      "printer_value": 31,
+      "data_value": 137,
+      "directory_index": 154
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "138",
+      "printer_value": 31,
+      "data_value": 138,
+      "directory_index": 155
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "139",
+      "printer_value": 31,
+      "data_value": 139,
+      "directory_index": 156
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "140",
+      "printer_value": 31,
+      "data_value": 140,
+      "directory_index": 157
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "141",
+      "printer_value": 31,
+      "data_value": 141,
+      "directory_index": 158
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "135",
+      "printer_value": 31,
+      "data_value": 135,
+      "directory_index": 159
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "148",
+      "printer_value": 31,
+      "data_value": 148,
+      "directory_index": 160
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "149",
+      "printer_value": 31,
+      "data_value": 149,
+      "directory_index": 161
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "150",
+      "printer_value": 31,
+      "data_value": 150,
+      "directory_index": 162
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "151",
+      "printer_value": 31,
+      "data_value": 151,
+      "directory_index": 163
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "152",
+      "printer_value": 31,
+      "data_value": 152,
+      "directory_index": 164
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "153",
+      "printer_value": 31,
+      "data_value": 153,
+      "directory_index": 165
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "154",
+      "printer_value": 31,
+      "data_value": 154,
+      "directory_index": 166
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "155",
+      "printer_value": 31,
+      "data_value": 155,
+      "directory_index": 167
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "156",
+      "printer_value": 31,
+      "data_value": 156,
+      "directory_index": 168
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "157",
+      "printer_value": 31,
+      "data_value": 157,
+      "directory_index": 169
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "158",
+      "printer_value": 31,
+      "data_value": 158,
+      "directory_index": 170
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "159",
+      "printer_value": 31,
+      "data_value": 159,
+      "directory_index": 171
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "160",
+      "printer_value": 31,
+      "data_value": 160,
+      "directory_index": 172
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "161",
+      "printer_value": 31,
+      "data_value": 161,
+      "directory_index": 173
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "162",
+      "printer_value": 31,
+      "data_value": 162,
+      "directory_index": 174
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "163",
+      "printer_value": 31,
+      "data_value": 163,
+      "directory_index": 175
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "164",
+      "printer_value": 31,
+      "data_value": 164,
+      "directory_index": 176
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "165",
+      "printer_value": 31,
+      "data_value": 165,
+      "directory_index": 177
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "166",
+      "printer_value": 31,
+      "data_value": 166,
+      "directory_index": 178
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "167",
+      "printer_value": 31,
+      "data_value": 167,
+      "directory_index": 179
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "168",
+      "printer_value": 31,
+      "data_value": 168,
+      "directory_index": 180
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "169",
+      "printer_value": 31,
+      "data_value": 169,
+      "directory_index": 181
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "170",
+      "printer_value": 31,
+      "data_value": 170,
+      "directory_index": 182
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "146",
+      "printer_value": 31,
+      "data_value": 146,
+      "directory_index": 183
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 184
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 185
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 186
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 187
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 188
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 189
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 190
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 191
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 192
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 193
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 194
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0,
+      "directory_index": 195
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "204",
+      "printer_value": 31,
+      "data_value": 204,
+      "directory_index": 196
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "205",
+      "printer_value": 31,
+      "data_value": 205,
+      "directory_index": 197
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "206",
+      "printer_value": 31,
+      "data_value": 206,
+      "directory_index": 198
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "207",
+      "printer_value": 31,
+      "data_value": 207,
+      "directory_index": 199
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "208",
+      "printer_value": 31,
+      "data_value": 208,
+      "directory_index": 200
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "209",
+      "printer_value": 31,
+      "data_value": 209,
+      "directory_index": 201
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "210",
+      "printer_value": 31,
+      "data_value": 210,
+      "directory_index": 202
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "211",
+      "printer_value": 31,
+      "data_value": 211,
+      "directory_index": 203
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "212",
+      "printer_value": 31,
+      "data_value": 212,
+      "directory_index": 204
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "213",
+      "printer_value": 31,
+      "data_value": 213,
+      "directory_index": 205
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "214",
+      "printer_value": 31,
+      "data_value": 214,
+      "directory_index": 206
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "215",
+      "printer_value": 31,
+      "data_value": 215,
+      "directory_index": 207
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "216",
+      "printer_value": 31,
+      "data_value": 216,
+      "directory_index": 208
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "217",
+      "printer_value": 31,
+      "data_value": 217,
+      "directory_index": 209
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "218",
+      "printer_value": 31,
+      "data_value": 218,
+      "directory_index": 210
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "219",
+      "printer_value": 31,
+      "data_value": 219,
+      "directory_index": 211
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "220",
+      "printer_value": 31,
+      "data_value": 220,
+      "directory_index": 212
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "221",
+      "printer_value": 31,
+      "data_value": 221,
+      "directory_index": 213
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "222",
+      "printer_value": 31,
+      "data_value": 222,
+      "directory_index": 214
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "223",
+      "printer_value": 31,
+      "data_value": 223,
+      "directory_index": 215
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "224",
+      "printer_value": 31,
+      "data_value": 224,
+      "directory_index": 216
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "225",
+      "printer_value": 31,
+      "data_value": 225,
+      "directory_index": 217
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "226",
+      "printer_value": 31,
+      "data_value": 226,
+      "directory_index": 218
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "230",
+      "printer_value": 31,
+      "data_value": 230,
+      "directory_index": 219
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "228",
+      "printer_value": 31,
+      "data_value": 228,
+      "directory_index": 220
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "232",
+      "printer_value": 31,
+      "data_value": 232,
+      "directory_index": 221
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "",
+      "printer_value": 31,
+      "data_value": 2779096485
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "0",
+      "printer_value": 31,
+      "data_value": 0
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "-1",
+      "printer_value": 31,
+      "data_value": 4294967295
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "99",
+      "printer_value": 31,
+      "data_value": 99
+    },
+    {
+      "printer_text": "NORMAL",
+      "data_text": "invalid",
+      "printer_value": 31,
+      "data_value": 0
+    },
+    {
+      "printer_text": "transparent",
+      "data_text": "",
+      "printer_value": 2,
+      "data_value": 2779096485
+    },
+    {
+      "printer_text": "transparent",
+      "data_text": "0",
+      "printer_value": 2,
+      "data_value": 0
+    },
+    {
+      "printer_text": "transparent",
+      "data_text": "-1",
+      "printer_value": 2,
+      "data_value": 4294967295
+    },
+    {
+      "printer_text": "transparent",
+      "data_text": "99",
+      "printer_value": 2,
+      "data_value": 99
+    },
+    {
+      "printer_text": "transparent",
+      "data_text": "invalid",
+      "printer_value": 2,
+      "data_value": 0
+    },
+    {
+      "printer_text": "TrAnSpArEnT25",
+      "data_text": "",
+      "printer_value": 3,
+      "data_value": 2779096485
+    },
+    {
+      "printer_text": "TrAnSpArEnT25",
+      "data_text": "0",
+      "printer_value": 3,
+      "data_value": 0
+    },
+    {
+      "printer_text": "TrAnSpArEnT25",
+      "data_text": "-1",
+      "printer_value": 3,
+      "data_value": 4294967295
+    },
+    {
+      "printer_text": "TrAnSpArEnT25",
+      "data_text": "99",
+      "printer_value": 3,
+      "data_value": 99
+    },
+    {
+      "printer_text": "TrAnSpArEnT25",
+      "data_text": "invalid",
+      "printer_value": 3,
+      "data_value": 0
+    },
+    {
+      "printer_text": "TRANSPARENT50",
+      "data_text": "",
+      "printer_value": 4,
+      "data_value": 2779096485
+    },
+    {
+      "printer_text": "TRANSPARENT50",
+      "data_text": "0",
+      "printer_value": 4,
+      "data_value": 0
+    },
+    {
+      "printer_text": "TRANSPARENT50",
+      "data_text": "-1",
+      "printer_value": 4,
+      "data_value": 4294967295
+    },
+    {
+      "printer_text": "TRANSPARENT50",
+      "data_text": "99",
+      "printer_value": 4,
+      "data_value": 99
+    },
+    {
+      "printer_text": "TRANSPARENT50",
+      "data_text": "invalid",
+      "printer_value": 4,
+      "data_value": 0
+    },
+    {
+      "printer_text": "TRANSPARENT75",
+      "data_text": "",
+      "printer_value": 5,
+      "data_value": 2779096485
+    },
+    {
+      "printer_text": "TRANSPARENT75",
+      "data_text": "0",
+      "printer_value": 5,
+      "data_value": 0
+    },
+    {
+      "printer_text": "TRANSPARENT75",
+      "data_text": "-1",
+      "printer_value": 5,
+      "data_value": 4294967295
+    },
+    {
+      "printer_text": "TRANSPARENT75",
+      "data_text": "99",
+      "printer_value": 5,
+      "data_value": 99
+    },
+    {
+      "printer_text": "TRANSPARENT75",
+      "data_text": "invalid",
+      "printer_value": 5,
+      "data_value": 0
+    },
+    {
+      "printer_text": "bad",
+      "data_text": "",
+      "printer_value": 2779096485,
+      "data_value": 2779096485
+    },
+    {
+      "printer_text": "bad",
+      "data_text": "0",
+      "printer_value": 2779096485,
+      "data_value": 0
+    },
+    {
+      "printer_text": "bad",
+      "data_text": "-1",
+      "printer_value": 2779096485,
+      "data_value": 4294967295
+    },
+    {
+      "printer_text": "bad",
+      "data_text": "99",
+      "printer_value": 2779096485,
+      "data_value": 99
+    },
+    {
+      "printer_text": "bad",
+      "data_text": "invalid",
+      "printer_value": 2779096485,
+      "data_value": 0
+    },
+    {
+      "printer_text": "",
+      "data_text": "",
+      "printer_value": 2779096485,
+      "data_value": 2779096485
+    },
+    {
+      "printer_text": "",
+      "data_text": "0",
+      "printer_value": 2779096485,
+      "data_value": 0
+    },
+    {
+      "printer_text": "",
+      "data_text": "-1",
+      "printer_value": 2779096485,
+      "data_value": 4294967295
+    },
+    {
+      "printer_text": "",
+      "data_text": "99",
+      "printer_value": 2779096485,
+      "data_value": 99
+    },
+    {
+      "printer_text": "",
+      "data_text": "invalid",
+      "printer_value": 2779096485,
+      "data_value": 0
+    },
+    {
+      "printer_text": "NORMALsuffix",
+      "data_text": "",
+      "printer_value": 2779096485,
+      "data_value": 2779096485
+    },
+    {
+      "printer_text": "NORMALsuffix",
+      "data_text": "0",
+      "printer_value": 2779096485,
+      "data_value": 0
+    },
+    {
+      "printer_text": "NORMALsuffix",
+      "data_text": "-1",
+      "printer_value": 2779096485,
+      "data_value": 4294967295
+    },
+    {
+      "printer_text": "NORMALsuffix",
+      "data_text": "99",
+      "printer_value": 2779096485,
+      "data_value": 99
+    },
+    {
+      "printer_text": "NORMALsuffix",
+      "data_text": "invalid",
+      "printer_value": 2779096485,
+      "data_value": 0
+    }
+  ],
+  "scope": "Native49c9aa..49ca92 directory entry8 printer/entryc Data1 assignment;real59db40(C-locale)/59c5a4,Win32 API doubled. All222 installed entries and40 edges. Missing/unrecognized printer preserves prior;nonempty invalid Data1 parses0,empty preserves. Renderer and whole config loader integration pending."
+}

@@ -1,0 +1,5191 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 5
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 10
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 45
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 10
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 15
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 50
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 12
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 17
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 52
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 23
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 28
+    },
+    {
+      "action_id": 21,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 63
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 11
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 16
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 51
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 9
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 14
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 49
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 13
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 18
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 53
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 24
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 29
+    },
+    {
+      "action_id": 21,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 64
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 15
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 20
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 55
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 16
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 21
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 56
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 17
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 22
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 57
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 22
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 27
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 62
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 28
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 33
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 68
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 29
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 34
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 69
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 33
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 38
+    },
+    {
+      "action_id": 21,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 73
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 5
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 10
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 45
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 10
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 15
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 50
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 12
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 17
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 52
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 23
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 28
+    },
+    {
+      "action_id": 52,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 63
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 11
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 16
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 51
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 9
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 14
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 49
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 13
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 18
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 53
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 24
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 29
+    },
+    {
+      "action_id": 52,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 64
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 15
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 20
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 55
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 16
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 21
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 56
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 17
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 22
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 57
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 22
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 27
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 62
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 28
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 33
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 68
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 29
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 34
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 69
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 33
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 38
+    },
+    {
+      "action_id": 52,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 73
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 9
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 14
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 49
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 13
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 18
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 53
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 10
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 15
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 50
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 11
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 16
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 51
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 15
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 20
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 55
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 21
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 26
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 61
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 22
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 27
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 62
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 26
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 31
+    },
+    {
+      "action_id": 39,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 66
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 9
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 14
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 49
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 10
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 15
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 50
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 14
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 19
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 54
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 11
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 16
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 51
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 12
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 17
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 52
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 16
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 21
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 56
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 22
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 27
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 62
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 23
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 28
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 63
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 27
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 32
+    },
+    {
+      "action_id": 39,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 67
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 23
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 28
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 63
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 21
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 26
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 61
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 25
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 30
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 65
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 31
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 36
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 71
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 32
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 37
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 72
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 36
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 41
+    },
+    {
+      "action_id": 39,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 76
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 5
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 10
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 45
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 10
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 15
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 50
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 12
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 17
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 52
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 23
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 28
+    },
+    {
+      "action_id": 43,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 63
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 11
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 16
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 51
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 9
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 14
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 49
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 13
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 18
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 53
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 24
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 29
+    },
+    {
+      "action_id": 43,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 64
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 15
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 20
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 55
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 16
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 21
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 56
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 17
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 22
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 57
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 22
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 27
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 62
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 28
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 33
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 68
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 29
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 34
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 69
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 33
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 38
+    },
+    {
+      "action_id": 43,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 73
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 5
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 10
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 45
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 10
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 15
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 50
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 12
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 17
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 52
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 23
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 28
+    },
+    {
+      "action_id": 44,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 63
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 11
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 16
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 51
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 9
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 14
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 49
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 13
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 18
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 53
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 24
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 29
+    },
+    {
+      "action_id": 44,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 64
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 15
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 20
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 55
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 16
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 21
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 56
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 17
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 22
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 57
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 22
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 27
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 62
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 28
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 33
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 68
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 29
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 34
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 69
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 33
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 38
+    },
+    {
+      "action_id": 44,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 73
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 5
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 10
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 45
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 10
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 15
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 50
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 12
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 17
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 52
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 23
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 28
+    },
+    {
+      "action_id": 47,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 63
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 11
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 16
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 51
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 9
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 14
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 49
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 13
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 18
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 53
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 24
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 29
+    },
+    {
+      "action_id": 47,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 64
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 15
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 20
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 55
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 16
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 21
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 56
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 17
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 22
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 57
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 22
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 27
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 62
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 28
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 33
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 68
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 29
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 34
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 69
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 33
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 38
+    },
+    {
+      "action_id": 47,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 73
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 5
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 10
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 45
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 10
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 15
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 50
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 12
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 17
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 52
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 23
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 28
+    },
+    {
+      "action_id": 48,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 63
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 11
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 16
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 51
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 9
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 14
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 49
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 13
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 18
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 53
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 24
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 29
+    },
+    {
+      "action_id": 48,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 64
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 15
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 20
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 55
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 16
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 21
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 56
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 17
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 22
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 57
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 22
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 27
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 62
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 28
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 33
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 68
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 29
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 34
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 69
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 33
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 38
+    },
+    {
+      "action_id": 48,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 73
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 5
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 10
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 45
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 10
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 15
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 50
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 12
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 17
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 52
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 23
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 28
+    },
+    {
+      "action_id": 51,
+      "difference": 0,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 63
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 6
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 11
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 46
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 7
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 12
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 47
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 11
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 16
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 51
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 8
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 13
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 48
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 9
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 14
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 49
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 13
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 18
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 53
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 19
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 24
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 59
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 24
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 29
+    },
+    {
+      "action_id": 51,
+      "difference": 12,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 64
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 15
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 20
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 55
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 16
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 21
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 56
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 20
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 25
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 0,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 60
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 17
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 22
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 57
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 18
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 23
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 58
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 22
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 27
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 2,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 62
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 0,
+      "duration": 28
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 5,
+      "duration": 33
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 0,
+      "action_delay": 40,
+      "duration": 68
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 0,
+      "duration": 29
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 5,
+      "duration": 34
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 3,
+      "action_delay": 40,
+      "duration": 69
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 0,
+      "duration": 33
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 5,
+      "duration": 38
+    },
+    {
+      "action_id": 51,
+      "difference": 120,
+      "global_step": 10,
+      "global_delay": 10,
+      "action_delay": 40,
+      "duration": 73
+    }
+  ],
+  "scope": "Whole eight prepare methods,mode3 for conditional branches; actual464c50 where called,no doubles. Nonnegative geometry/global-delay fixtures; mode0 simulation,other globals,overflow/signed-negative inputs and field producers not covered."
+}

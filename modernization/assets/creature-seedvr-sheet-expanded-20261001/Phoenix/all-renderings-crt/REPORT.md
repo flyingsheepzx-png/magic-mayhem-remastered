@@ -1,0 +1,9 @@
+# Phoenix all saved treatments with CRT
+
+Ten saved Phoenix treatments of the same PBLD0001 frame are compared: original native, Lanczos2x, grey-input SeedVR strict2x, SeedVR native downsample, soft/raw alpha, outer fringe repair, unmatte, interior colour extension, actual transparent-input SR, and actual pre-inference colour-bleed SR. Each has unfiltered, full Lottes CPU-port CRT at actual2x and at diagnostic4x output, on green/white/black backgrounds. No new inference, gameplay or runtime edits.
+
+The complete kernel is extracted from the previous full_crt_lottes.py with unchanged Tri, Bloom, VGA mask and gamma formulas. Hashes and actual asset/shader dimensions are in manifest.json. This remains CPU execution, not GLSL GPU execution. Original native source has shader scale2 at 2x output. SR2x source has shader scale1 at exact2x output; scanline phase0 is sampled at centres and predominantly applies mask/beam contrast. A phase .25 arm makes the sampling shift explicit. At4x output SR has shader scale2, while original native has scale4. These are physical sampling differences, not hidden conversion to lower source resolution.
+
+4x is diagnostic and does not authorize changing battle1280x720 to2560x1440 policy. CRT does not remove preexisting alpha halo or correct anatomy. The artificial green backdrop is composited before filtering; no actual battle screenshot is represented.
+
+Use index.html for readable per-treatment rows, exact2x and4x side by side. Full-resolution long sheets are contact-green/white/black-2x/4x.png. Prior CRT beam-only prototype is retained at ../bleed-crt-trial/comparison-original-crt.png, prior original-only full CRT at ../full-crt-lottes/comparison-2x.png and comparison-4x.png. The multi-model study used Bat, not Phoenix: PixelPerfect/Qwen/VideoBit are not included as fabricated Phoenix outputs.

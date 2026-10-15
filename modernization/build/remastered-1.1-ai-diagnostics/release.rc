@@ -1,0 +1,4 @@
+1 ICON "remastered.ico"
+101 RCDATA "repath.dll"
+102 RCDATA "qol_bindings.dll"
+103 RCDATA "ai_diagnostics.dll"

@@ -1,0 +1,4 @@
+pefile==2024.8.26
+capstone==5.0.9
+# Only the archived analysis/image tools need these optional dependencies:
+# Pillow, numpy, unicorn. The portable build and native tests do not import them.

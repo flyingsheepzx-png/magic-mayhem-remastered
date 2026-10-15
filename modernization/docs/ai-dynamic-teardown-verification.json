@@ -1,0 +1,1193 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "result": "passed",
+  "cases": [
+    {
+      "action_id": 5,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 6,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 8,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 9,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 11,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 12,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 11,
+      "released_count": 9,
+      "remaining_allocations": {
+        "0x2200580": 20,
+        "0x22005a0": 20
+      },
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 13,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 14,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 15,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 16,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 17,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 18,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 19,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 20,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 21,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 52,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 22,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 23,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 24,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 25,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 26,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 27,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 28,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 29,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 30,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 31,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 32,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 33,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 34,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 35,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 36,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 37,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 38,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 39,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 40,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 41,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 42,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 43,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 44,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 45,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 46,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 53,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 54,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 47,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 48,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 51,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 57,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 49,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 50,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 55,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 56,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 58,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 59,
+      "populated_tactical_vectors": false,
+      "use_native_factory": false,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 6,
+      "populated_tactical_vectors": true,
+      "use_native_factory": false,
+      "allocation_count": 11,
+      "released_count": 9,
+      "remaining_allocations": {
+        "0x2200580": 16,
+        "0x2200590": 16
+      },
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 5,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 6,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 8,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 9,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 11,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 12,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 11,
+      "released_count": 9,
+      "remaining_allocations": {
+        "0x2200360": 20,
+        "0x2200380": 20
+      },
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 13,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 14,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 15,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 16,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 17,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 18,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 19,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 20,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 21,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 52,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 22,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 23,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 24,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 25,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 26,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 27,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 28,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 29,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 30,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 31,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 32,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 33,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 34,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 35,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 36,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 37,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 38,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 39,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 40,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 41,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 42,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 43,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 44,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 45,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 46,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 53,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 54,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 47,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 48,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 51,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 57,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 49,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 50,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 55,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 56,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 58,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    },
+    {
+      "action_id": 59,
+      "populated_tactical_vectors": false,
+      "use_native_factory": true,
+      "allocation_count": 9,
+      "released_count": 9,
+      "remaining_allocations": {},
+      "called": [
+        "base418050"
+      ]
+    }
+  ],
+  "scope": "Exact retirement428e00..428e14 native suffix,all53 constructors and all53 native fresh-instance factories,real base418050; CRT allocation/free sinks only. Retreat extra trees persist through factory-to-deletion path;synthetic AggressiveAttack vectors persist. Earlier retirement/map/group phases and full gameplay lifecycle not exercised;not quantified production leak frequency."
+}

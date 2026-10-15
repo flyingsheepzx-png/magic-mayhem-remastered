@@ -1,0 +1,223 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "actions": [
+    {
+      "action_id": 6,
+      "name": "AggressiveAttack",
+      "registered": true,
+      "unit_preference_offset": "0x936",
+      "wizard_profile_offset": "0x60",
+      "global_preference_va": "0x5e18c4",
+      "global_constructor_default": 100,
+      "installed_personality": 100,
+      "outcome_fraction_va": "0x6c4944",
+      "installed_outcome_fractions": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "name_va": "0x5e3400",
+      "name_references": [
+        "0x4e7f32",
+        "0x4e812a",
+        "0x590f38"
+      ],
+      "raw_model_score_formula": "min(0.999, OUTCOME_FRACTIONS[name][2]*P(label2) - OUTCOME_FRACTIONS[name][0]*P(label0))"
+    },
+    {
+      "action_id": 7,
+      "name": "CautiousAttack",
+      "registered": false,
+      "unit_preference_offset": "0x93a",
+      "wizard_profile_offset": "0x64",
+      "global_preference_va": "0x5e18c8",
+      "global_constructor_default": 100,
+      "installed_personality": 0,
+      "outcome_fraction_va": "0x6c4950",
+      "installed_outcome_fractions": [
+        0.4,
+        0.3,
+        0.3
+      ],
+      "name_va": "0x5e33e4",
+      "name_references": [
+        "0x4e7f7a",
+        "0x4e816f",
+        "0x590f6c"
+      ],
+      "raw_model_score_formula": "min(0.999, OUTCOME_FRACTIONS[name][2]*P(label2) - OUTCOME_FRACTIONS[name][0]*P(label0))"
+    },
+    {
+      "action_id": 8,
+      "name": "OccupyPowerPoint",
+      "registered": true,
+      "unit_preference_offset": "0x93e",
+      "wizard_profile_offset": "0x68",
+      "global_preference_va": "0x5e18cc",
+      "global_constructor_default": 100,
+      "installed_personality": 120,
+      "outcome_fraction_va": "0x6c495c",
+      "installed_outcome_fractions": [
+        0.2,
+        0.3,
+        0.5
+      ],
+      "name_va": "0x5e33d0",
+      "name_references": [
+        "0x4e7fb0",
+        "0x4e81b4",
+        "0x590fa0"
+      ],
+      "raw_model_score_formula": "min(0.999, OUTCOME_FRACTIONS[name][2]*P(label2) - OUTCOME_FRACTIONS[name][0]*P(label0))"
+    },
+    {
+      "action_id": 9,
+      "name": "CollectMana",
+      "registered": true,
+      "unit_preference_offset": "0x942",
+      "wizard_profile_offset": "0x6c",
+      "global_preference_va": "0x5e18d0",
+      "global_constructor_default": 100,
+      "installed_personality": 120,
+      "outcome_fraction_va": "0x6c4968",
+      "installed_outcome_fractions": [
+        0.1,
+        0.3,
+        0.6
+      ],
+      "name_va": "0x5e33c4",
+      "name_references": [
+        "0x4e7fe6",
+        "0x4e81f9",
+        "0x590fd4"
+      ],
+      "raw_model_score_formula": "min(0.999, OUTCOME_FRACTIONS[name][2]*P(label2) - OUTCOME_FRACTIONS[name][0]*P(label0))"
+    },
+    {
+      "action_id": 10,
+      "name": "EvadeDetection",
+      "registered": false,
+      "unit_preference_offset": "0x946",
+      "wizard_profile_offset": "0x70",
+      "global_preference_va": "0x5e18d4",
+      "global_constructor_default": 100,
+      "installed_personality": 0,
+      "outcome_fraction_va": "0x6c4974",
+      "installed_outcome_fractions": [
+        0.3,
+        0.4,
+        0.3
+      ],
+      "name_va": "0x5e33b4",
+      "name_references": [
+        "0x4e801c",
+        "0x4e823e",
+        "0x591008"
+      ],
+      "raw_model_score_formula": "min(0.999, OUTCOME_FRACTIONS[name][2]*P(label2) - OUTCOME_FRACTIONS[name][0]*P(label0))"
+    },
+    {
+      "action_id": 11,
+      "name": "Scout",
+      "registered": true,
+      "unit_preference_offset": "0x94a",
+      "wizard_profile_offset": "0x74",
+      "global_preference_va": "0x5e18d8",
+      "global_constructor_default": 100,
+      "installed_personality": 90,
+      "outcome_fraction_va": "0x6c4980",
+      "installed_outcome_fractions": [
+        0.6,
+        0.4,
+        0.0
+      ],
+      "name_va": "0x5e33ac",
+      "name_references": [
+        "0x4e8052",
+        "0x4e8283",
+        "0x59103c"
+      ],
+      "raw_model_score_formula": "min(0.999, OUTCOME_FRACTIONS[name][2]*P(label2) - OUTCOME_FRACTIONS[name][0]*P(label0))"
+    },
+    {
+      "action_id": 12,
+      "name": "Retreat",
+      "registered": true,
+      "unit_preference_offset": "0x94e",
+      "wizard_profile_offset": "0x78",
+      "global_preference_va": "0x5e18dc",
+      "global_constructor_default": 100,
+      "installed_personality": 100,
+      "outcome_fraction_va": "0x6c498c",
+      "installed_outcome_fractions": [
+        0.4,
+        0.6,
+        0.0
+      ],
+      "name_va": "0x5e33a4",
+      "name_references": [
+        "0x4e8088",
+        "0x4e82c8",
+        "0x591070"
+      ],
+      "raw_model_score_formula": "min(0.999, OUTCOME_FRACTIONS[name][2]*P(label2) - OUTCOME_FRACTIONS[name][0]*P(label0))"
+    },
+    {
+      "action_id": 13,
+      "name": "CollectFood",
+      "registered": true,
+      "unit_preference_offset": "0x952",
+      "wizard_profile_offset": "0x7c",
+      "global_preference_va": "0x5e18e0",
+      "global_constructor_default": 100,
+      "installed_personality": 90,
+      "outcome_fraction_va": "0x6c4998",
+      "installed_outcome_fractions": [
+        0.2,
+        0.6,
+        0.2
+      ],
+      "name_va": "0x5e3398",
+      "name_references": [
+        "0x4e80be",
+        "0x4e830d",
+        "0x5910a4"
+      ],
+      "raw_model_score_formula": "min(0.999, OUTCOME_FRACTIONS[name][2]*P(label2) - OUTCOME_FRACTIONS[name][0]*P(label0))"
+    },
+    {
+      "action_id": 14,
+      "name": "ProtectWizard",
+      "registered": true,
+      "unit_preference_offset": "0x956",
+      "wizard_profile_offset": "0x80",
+      "global_preference_va": "0x5e18e4",
+      "global_constructor_default": 100,
+      "installed_personality": 90,
+      "outcome_fraction_va": "0x6c49a4",
+      "installed_outcome_fractions": [
+        0.2,
+        0.6,
+        0.2
+      ],
+      "name_va": "0x5e3388",
+      "name_references": [
+        "0x4e80f4",
+        "0x4e8352",
+        "0x5910d8"
+      ],
+      "raw_model_score_formula": "min(0.999, OUTCOME_FRACTIONS[name][2]*P(label2) - OUTCOME_FRACTIONS[name][0]*P(label0))"
+    }
+  ],
+  "evidence": {
+    "global_config": "0x4e4270",
+    "wizard_profile_general_override": "0x590c10",
+    "default_profile_personality": "0x592170",
+    "unit_profile_copy": "0x592780",
+    "neutral_unit_constructor": "0x5065e0",
+    "unit_score_bias": "0x40edb0",
+    "eligibility": "0x40eed0",
+    "outcome_fraction_direct_score": "0x414ff0"
+  },
+  "note": "Names are native config strings, corroborated by profile+60..80 copied into unit+936..956. Constructor100 differs from actual global/profile personality. OUTCOME_FRACTIONS are directly the first/third class score weights, not inferred priors; middle weight is not used by414ff0."
+}

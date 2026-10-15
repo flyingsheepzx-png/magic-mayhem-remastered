@@ -1,0 +1,4795 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 0,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 0,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 0,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": -1,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 0,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 0,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 0,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 0,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0
+      ],
+      "created_slots": [
+        0
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0
+      ],
+      "created_slots": [
+        0
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0
+      ],
+      "created_slots": [
+        0
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 1,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 2,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 6,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 6,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 6,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 7,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 0,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 0,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 0,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 0,
+      "count": 8,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": -1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": -1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": -1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 6,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 6,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 6,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 7,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 7,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 7,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 8,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 8,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": -1,
+      "selected": 8,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": -1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": -1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": -1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 6,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 6,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 6,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 7,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 7,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 7,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 8,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 8,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 0,
+      "selected": 8,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": -1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": -1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": -1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 6,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 6,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 6,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 7,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 7,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 7,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 8,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 8,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 1,
+      "selected": 8,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": -1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": -1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": -1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 6,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 6,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 6,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 7,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 7,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 7,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 8,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 8,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 2,
+      "selected": 8,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": -1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": -1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": -1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 6,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 6,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 6,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 7,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 7,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 7,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 8,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 8,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 7,
+      "selected": 8,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": -1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": -1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": -1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 6,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 6,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 6,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 7,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 7,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 7,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 8,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 8,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 1,
+      "count": 8,
+      "selected": 8,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 0,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 0,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 0,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": -1,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 0,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 0,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 0,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 0,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0
+      ],
+      "created_slots": [
+        0
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0
+      ],
+      "created_slots": [
+        0
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0
+      ],
+      "created_slots": [
+        0
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 1,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 2,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 6,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 6,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 6,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 7,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 0,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 0,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 0,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 2,
+      "count": 8,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 0,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 0,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 0,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": -1,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 0,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 0,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 0,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 0,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0
+      ],
+      "created_slots": [
+        0
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0
+      ],
+      "created_slots": [
+        0
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0
+      ],
+      "created_slots": [
+        0
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 1,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1
+      ],
+      "created_slots": [
+        0,
+        1
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 2,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 0,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 0,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 0,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 1,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 1,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 1,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 6,
+      "fill": 0,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 6,
+      "fill": 165,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 6,
+      "fill": 255,
+      "result": 1,
+      "formatted_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "created_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 7,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": -1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": -1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": -1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 0,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 0,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 0,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 1,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 1,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 1,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 6,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 6,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 6,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 7,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 7,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 7,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 8,
+      "fill": 0,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 8,
+      "fill": 165,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    },
+    {
+      "mode": 4294967295,
+      "count": 8,
+      "selected": 8,
+      "fill": 255,
+      "result": 0,
+      "formatted_slots": [],
+      "created_slots": []
+    }
+  ],
+  "scope": "432 whole4661c0 cases. OnlyCRT sprintf doubled inmode!=1;mode1 nevercallsdouble,real465440/465500 used. Fullaa8 snapshots,return,stackcleanup/globalpointer. Mode1 ignorescount/selected,creates0/1 with4=0/8=1,index150=1/2,globalnames54/58 copied,aa0=-1. Othermodes requirecount1..7/selectedwithin,createcount slots4=0/8=0/index150=slot,actual4667c0 failsselection butinitializerreturnsAL1;aa0=-1. Invalidinputsresetall8andreturnAL0. Symmetric18 offdiagonalscleared forcreatedslots;diagonal1. Actualglobalsproducers,mode meaning,otherwriters/save/network andlocalization remainpending."
+}

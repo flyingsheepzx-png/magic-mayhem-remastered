@@ -1,0 +1,167 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "index": 0,
+      "text": "",
+      "value": 37
+    },
+    {
+      "index": 0,
+      "text": "0",
+      "value": 0
+    },
+    {
+      "index": 0,
+      "text": "60",
+      "value": 60
+    },
+    {
+      "index": 0,
+      "text": "15",
+      "value": 15
+    },
+    {
+      "index": 0,
+      "text": "-1",
+      "value": -1
+    },
+    {
+      "index": 0,
+      "text": "101",
+      "value": 101
+    },
+    {
+      "index": 0,
+      "text": "  +50rest",
+      "value": 50
+    },
+    {
+      "index": 0,
+      "text": "invalid",
+      "value": 0
+    },
+    {
+      "index": 1,
+      "text": "",
+      "value": 37
+    },
+    {
+      "index": 1,
+      "text": "0",
+      "value": 0
+    },
+    {
+      "index": 1,
+      "text": "60",
+      "value": 60
+    },
+    {
+      "index": 1,
+      "text": "15",
+      "value": 15
+    },
+    {
+      "index": 1,
+      "text": "-1",
+      "value": -1
+    },
+    {
+      "index": 1,
+      "text": "101",
+      "value": 101
+    },
+    {
+      "index": 1,
+      "text": "  +50rest",
+      "value": 50
+    },
+    {
+      "index": 1,
+      "text": "invalid",
+      "value": 0
+    },
+    {
+      "index": 2,
+      "text": "",
+      "value": 37
+    },
+    {
+      "index": 2,
+      "text": "0",
+      "value": 0
+    },
+    {
+      "index": 2,
+      "text": "60",
+      "value": 60
+    },
+    {
+      "index": 2,
+      "text": "15",
+      "value": 15
+    },
+    {
+      "index": 2,
+      "text": "-1",
+      "value": -1
+    },
+    {
+      "index": 2,
+      "text": "101",
+      "value": 101
+    },
+    {
+      "index": 2,
+      "text": "  +50rest",
+      "value": 50
+    },
+    {
+      "index": 2,
+      "text": "invalid",
+      "value": 0
+    },
+    {
+      "index": 3,
+      "text": "",
+      "value": 37
+    },
+    {
+      "index": 3,
+      "text": "0",
+      "value": 0
+    },
+    {
+      "index": 3,
+      "text": "60",
+      "value": 60
+    },
+    {
+      "index": 3,
+      "text": "15",
+      "value": 15
+    },
+    {
+      "index": 3,
+      "text": "-1",
+      "value": -1
+    },
+    {
+      "index": 3,
+      "text": "101",
+      "value": 101
+    },
+    {
+      "index": 3,
+      "text": "  +50rest",
+      "value": 50
+    },
+    {
+      "index": 3,
+      "text": "invalid",
+      "value": 0
+    }
+  ],
+  "scope": "Native four DIFFICULTY/AIRandomness0..3 assignment slices with real59c5a4 integer conversion. GetPrivateProfileStringA explicit double; disk config/whole initialization/Windows file semantics excluded. Missing value preserves prior37,invalid nonempty becomes0; no range clamp."
+}

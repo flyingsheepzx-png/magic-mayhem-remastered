@@ -1,0 +1,2204 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "config_sha256": "a0f832ea4c128d474a84f000735289715b9da3edd074d5af0b6a5e3956def2f8",
+  "cases": [
+    {
+      "animation_text": "5",
+      "file_ref": "EFFECTS3",
+      "file_count": 13,
+      "animation_value": 5,
+      "bank_index": 3,
+      "directory_index": 0
+    },
+    {
+      "animation_text": "7",
+      "file_ref": "EFFECTS3",
+      "file_count": 13,
+      "animation_value": 7,
+      "bank_index": 3,
+      "directory_index": 1
+    },
+    {
+      "animation_text": "57",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 57,
+      "bank_index": 2,
+      "directory_index": 2
+    },
+    {
+      "animation_text": "51",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 51,
+      "bank_index": 2,
+      "directory_index": 3
+    },
+    {
+      "animation_text": "137",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 137,
+      "bank_index": 2,
+      "directory_index": 4
+    },
+    {
+      "animation_text": "52",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 52,
+      "bank_index": 2,
+      "directory_index": 5
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS3",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 3,
+      "directory_index": 6
+    },
+    {
+      "animation_text": "8",
+      "file_ref": "EFFECTS0",
+      "file_count": 13,
+      "animation_value": 8,
+      "bank_index": 0,
+      "directory_index": 7
+    },
+    {
+      "animation_text": "18",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 18,
+      "bank_index": 1,
+      "directory_index": 8
+    },
+    {
+      "animation_text": "2",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 2,
+      "bank_index": 5,
+      "directory_index": 9
+    },
+    {
+      "animation_text": "3",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 3,
+      "bank_index": 5,
+      "directory_index": 10
+    },
+    {
+      "animation_text": "7",
+      "file_ref": "EFFECTS3",
+      "file_count": 13,
+      "animation_value": 7,
+      "bank_index": 3,
+      "directory_index": 11
+    },
+    {
+      "animation_text": "28",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 28,
+      "bank_index": 2,
+      "directory_index": 12
+    },
+    {
+      "animation_text": "6",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 6,
+      "bank_index": 1,
+      "directory_index": 13
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 1,
+      "directory_index": 14
+    },
+    {
+      "animation_text": "1",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 1,
+      "bank_index": 1,
+      "directory_index": 15
+    },
+    {
+      "animation_text": "2",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 2,
+      "bank_index": 1,
+      "directory_index": 16
+    },
+    {
+      "animation_text": "3",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 3,
+      "bank_index": 1,
+      "directory_index": 17
+    },
+    {
+      "animation_text": "4",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 4,
+      "bank_index": 1,
+      "directory_index": 18
+    },
+    {
+      "animation_text": "5",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 5,
+      "bank_index": 1,
+      "directory_index": 19
+    },
+    {
+      "animation_text": "7",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 7,
+      "bank_index": 1,
+      "directory_index": 20
+    },
+    {
+      "animation_text": "8",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 8,
+      "bank_index": 1,
+      "directory_index": 21
+    },
+    {
+      "animation_text": "17",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 17,
+      "bank_index": 2,
+      "directory_index": 22
+    },
+    {
+      "animation_text": "25",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 25,
+      "bank_index": 2,
+      "directory_index": 23
+    },
+    {
+      "animation_text": "178",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 178,
+      "bank_index": 6,
+      "directory_index": 24
+    },
+    {
+      "animation_text": "179",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 179,
+      "bank_index": 6,
+      "directory_index": 25
+    },
+    {
+      "animation_text": "180",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 180,
+      "bank_index": 6,
+      "directory_index": 26
+    },
+    {
+      "animation_text": "6",
+      "file_ref": "EFFECTS0",
+      "file_count": 13,
+      "animation_value": 6,
+      "bank_index": 0,
+      "directory_index": 27
+    },
+    {
+      "animation_text": "63",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 63,
+      "bank_index": 5,
+      "directory_index": 28
+    },
+    {
+      "animation_text": "48",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 48,
+      "bank_index": 2,
+      "directory_index": 29
+    },
+    {
+      "animation_text": "53",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 53,
+      "bank_index": 2,
+      "directory_index": 30
+    },
+    {
+      "animation_text": "5",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 5,
+      "bank_index": 5,
+      "directory_index": 31
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS10",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 10,
+      "directory_index": 32
+    },
+    {
+      "animation_text": "10",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 10,
+      "bank_index": 5,
+      "directory_index": 33
+    },
+    {
+      "animation_text": "9",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 9,
+      "bank_index": 5,
+      "directory_index": 34
+    },
+    {
+      "animation_text": "32",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 32,
+      "bank_index": 2,
+      "directory_index": 35
+    },
+    {
+      "animation_text": "40",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 40,
+      "bank_index": 2,
+      "directory_index": 36
+    },
+    {
+      "animation_text": "11",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 11,
+      "bank_index": 1,
+      "directory_index": 37
+    },
+    {
+      "animation_text": "50",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 50,
+      "bank_index": 2,
+      "directory_index": 38
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS9",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 9,
+      "directory_index": 39
+    },
+    {
+      "animation_text": "27",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 27,
+      "bank_index": 2,
+      "directory_index": 40
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS0",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 0,
+      "directory_index": 41
+    },
+    {
+      "animation_text": "1",
+      "file_ref": "EFFECTS0",
+      "file_count": 13,
+      "animation_value": 1,
+      "bank_index": 0,
+      "directory_index": 42
+    },
+    {
+      "animation_text": "2",
+      "file_ref": "EFFECTS0",
+      "file_count": 13,
+      "animation_value": 2,
+      "bank_index": 0,
+      "directory_index": 43
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 2,
+      "directory_index": 44
+    },
+    {
+      "animation_text": "8",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 8,
+      "bank_index": 2,
+      "directory_index": 45
+    },
+    {
+      "animation_text": "5",
+      "file_ref": "EFFECTS0",
+      "file_count": 13,
+      "animation_value": 5,
+      "bank_index": 0,
+      "directory_index": 46
+    },
+    {
+      "animation_text": "4",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 4,
+      "bank_index": 5,
+      "directory_index": 47
+    },
+    {
+      "animation_text": "13",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 13,
+      "bank_index": 1,
+      "directory_index": 48
+    },
+    {
+      "animation_text": "16",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 16,
+      "bank_index": 2,
+      "directory_index": 49
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS8",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 8,
+      "directory_index": 50
+    },
+    {
+      "animation_text": "8",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 8,
+      "bank_index": 5,
+      "directory_index": 51
+    },
+    {
+      "animation_text": "7",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 7,
+      "bank_index": 5,
+      "directory_index": 52
+    },
+    {
+      "animation_text": "20",
+      "file_ref": "EFFECTS4",
+      "file_count": 13,
+      "animation_value": 20,
+      "bank_index": 4,
+      "directory_index": 53
+    },
+    {
+      "animation_text": "21",
+      "file_ref": "EFFECTS4",
+      "file_count": 13,
+      "animation_value": 21,
+      "bank_index": 4,
+      "directory_index": 54
+    },
+    {
+      "animation_text": "4",
+      "file_ref": "EFFECTS3",
+      "file_count": 13,
+      "animation_value": 4,
+      "bank_index": 3,
+      "directory_index": 55
+    },
+    {
+      "animation_text": "7",
+      "file_ref": "EFFECTS3",
+      "file_count": 13,
+      "animation_value": 7,
+      "bank_index": 3,
+      "directory_index": 56
+    },
+    {
+      "animation_text": "6",
+      "file_ref": "EFFECTS3",
+      "file_count": 13,
+      "animation_value": 6,
+      "bank_index": 3,
+      "directory_index": 57
+    },
+    {
+      "animation_text": "1",
+      "file_ref": "EFFECTS10",
+      "file_count": 13,
+      "animation_value": 1,
+      "bank_index": 10,
+      "directory_index": 58
+    },
+    {
+      "animation_text": "13",
+      "file_ref": "EFFECTS3",
+      "file_count": 13,
+      "animation_value": 13,
+      "bank_index": 3,
+      "directory_index": 59
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS7",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 7,
+      "directory_index": 60
+    },
+    {
+      "animation_text": "171",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 171,
+      "bank_index": 6,
+      "directory_index": 61
+    },
+    {
+      "animation_text": "6",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 6,
+      "bank_index": 5,
+      "directory_index": 62
+    },
+    {
+      "animation_text": "26",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 26,
+      "bank_index": 2,
+      "directory_index": 63
+    },
+    {
+      "animation_text": "2",
+      "file_ref": "EFFECTS4",
+      "file_count": 13,
+      "animation_value": 2,
+      "bank_index": 4,
+      "directory_index": 64
+    },
+    {
+      "animation_text": "54",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 54,
+      "bank_index": 2,
+      "directory_index": 65
+    },
+    {
+      "animation_text": "2",
+      "file_ref": "EFFECTS7",
+      "file_count": 13,
+      "animation_value": 2,
+      "bank_index": 7,
+      "directory_index": 66
+    },
+    {
+      "animation_text": "12",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 12,
+      "bank_index": 1,
+      "directory_index": 67
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS8",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 8,
+      "directory_index": 68
+    },
+    {
+      "animation_text": "11",
+      "file_ref": "EFFECTS3",
+      "file_count": 13,
+      "animation_value": 11,
+      "bank_index": 3,
+      "directory_index": 69
+    },
+    {
+      "animation_text": "12",
+      "file_ref": "EFFECTS3",
+      "file_count": 13,
+      "animation_value": 12,
+      "bank_index": 3,
+      "directory_index": 70
+    },
+    {
+      "animation_text": "56",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 56,
+      "bank_index": 2,
+      "directory_index": 71
+    },
+    {
+      "animation_text": "1",
+      "file_ref": "EFFECTS9",
+      "file_count": 13,
+      "animation_value": 1,
+      "bank_index": 9,
+      "directory_index": 72
+    },
+    {
+      "animation_text": "1",
+      "file_ref": "EFFECTS11",
+      "file_count": 13,
+      "animation_value": 1,
+      "bank_index": 11,
+      "directory_index": 73
+    },
+    {
+      "animation_text": "14",
+      "file_ref": "EFFECTS3",
+      "file_count": 13,
+      "animation_value": 14,
+      "bank_index": 3,
+      "directory_index": 74
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS11",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 11,
+      "directory_index": 75
+    },
+    {
+      "animation_text": "27",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 27,
+      "bank_index": 2,
+      "directory_index": 76
+    },
+    {
+      "animation_text": "15",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 15,
+      "bank_index": 1,
+      "directory_index": 77
+    },
+    {
+      "animation_text": "31",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 31,
+      "bank_index": 2,
+      "directory_index": 78
+    },
+    {
+      "animation_text": "16",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 16,
+      "bank_index": 1,
+      "directory_index": 79
+    },
+    {
+      "animation_text": "3",
+      "file_ref": "EFFECTS7",
+      "file_count": 13,
+      "animation_value": 3,
+      "bank_index": 7,
+      "directory_index": 80
+    },
+    {
+      "animation_text": "4",
+      "file_ref": "EFFECTS7",
+      "file_count": 13,
+      "animation_value": 4,
+      "bank_index": 7,
+      "directory_index": 81
+    },
+    {
+      "animation_text": "12",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 12,
+      "bank_index": 5,
+      "directory_index": 82
+    },
+    {
+      "animation_text": "22",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 22,
+      "bank_index": 5,
+      "directory_index": 83
+    },
+    {
+      "animation_text": "32",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 32,
+      "bank_index": 5,
+      "directory_index": 84
+    },
+    {
+      "animation_text": "42",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 42,
+      "bank_index": 5,
+      "directory_index": 85
+    },
+    {
+      "animation_text": "52",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 52,
+      "bank_index": 5,
+      "directory_index": 86
+    },
+    {
+      "animation_text": "10",
+      "file_ref": "EFFECTS9",
+      "file_count": 13,
+      "animation_value": 10,
+      "bank_index": 9,
+      "directory_index": 87
+    },
+    {
+      "animation_text": "9",
+      "file_ref": "EFFECTS9",
+      "file_count": 13,
+      "animation_value": 9,
+      "bank_index": 9,
+      "directory_index": 88
+    },
+    {
+      "animation_text": "11",
+      "file_ref": "EFFECTS9",
+      "file_count": 13,
+      "animation_value": 11,
+      "bank_index": 9,
+      "directory_index": 89
+    },
+    {
+      "animation_text": "2",
+      "file_ref": "EFFECTS11",
+      "file_count": 13,
+      "animation_value": 2,
+      "bank_index": 11,
+      "directory_index": 90
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS12",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 12,
+      "directory_index": 91
+    },
+    {
+      "animation_text": "1",
+      "file_ref": "EFFECTS12",
+      "file_count": 13,
+      "animation_value": 1,
+      "bank_index": 12,
+      "directory_index": 92
+    },
+    {
+      "animation_text": "2",
+      "file_ref": "EFFECTS12",
+      "file_count": 13,
+      "animation_value": 2,
+      "bank_index": 12,
+      "directory_index": 93
+    },
+    {
+      "animation_text": "2",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 2,
+      "bank_index": 1,
+      "directory_index": 94
+    },
+    {
+      "animation_text": "2",
+      "file_ref": "EFFECTS10",
+      "file_count": 13,
+      "animation_value": 2,
+      "bank_index": 10,
+      "directory_index": 95
+    },
+    {
+      "animation_text": "62",
+      "file_ref": "EFFECTS5",
+      "file_count": 13,
+      "animation_value": 62,
+      "bank_index": 5,
+      "directory_index": 96
+    },
+    {
+      "animation_text": "29",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 29,
+      "bank_index": 2,
+      "directory_index": 97
+    },
+    {
+      "animation_text": "3",
+      "file_ref": "EFFECTS10",
+      "file_count": 13,
+      "animation_value": 3,
+      "bank_index": 10,
+      "directory_index": 98
+    },
+    {
+      "animation_text": "17",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 17,
+      "bank_index": 1,
+      "directory_index": 99
+    },
+    {
+      "animation_text": "5",
+      "file_ref": "EFFECTS8",
+      "file_count": 13,
+      "animation_value": 5,
+      "bank_index": 8,
+      "directory_index": 100
+    },
+    {
+      "animation_text": "30",
+      "file_ref": "EFFECTS2",
+      "file_count": 13,
+      "animation_value": 30,
+      "bank_index": 2,
+      "directory_index": 101
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 102
+    },
+    {
+      "animation_text": "1",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 1,
+      "bank_index": 6,
+      "directory_index": 103
+    },
+    {
+      "animation_text": "2",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 2,
+      "bank_index": 6,
+      "directory_index": 104
+    },
+    {
+      "animation_text": "3",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 3,
+      "bank_index": 6,
+      "directory_index": 105
+    },
+    {
+      "animation_text": "4",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 4,
+      "bank_index": 6,
+      "directory_index": 106
+    },
+    {
+      "animation_text": "5",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 5,
+      "bank_index": 6,
+      "directory_index": 107
+    },
+    {
+      "animation_text": "6",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 6,
+      "bank_index": 6,
+      "directory_index": 108
+    },
+    {
+      "animation_text": "7",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 7,
+      "bank_index": 6,
+      "directory_index": 109
+    },
+    {
+      "animation_text": "8",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 8,
+      "bank_index": 6,
+      "directory_index": 110
+    },
+    {
+      "animation_text": "9",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 9,
+      "bank_index": 6,
+      "directory_index": 111
+    },
+    {
+      "animation_text": "10",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 10,
+      "bank_index": 6,
+      "directory_index": 112
+    },
+    {
+      "animation_text": "11",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 11,
+      "bank_index": 6,
+      "directory_index": 113
+    },
+    {
+      "animation_text": "12",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 12,
+      "bank_index": 6,
+      "directory_index": 114
+    },
+    {
+      "animation_text": "13",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 13,
+      "bank_index": 6,
+      "directory_index": 115
+    },
+    {
+      "animation_text": "14",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 14,
+      "bank_index": 6,
+      "directory_index": 116
+    },
+    {
+      "animation_text": "15",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 15,
+      "bank_index": 6,
+      "directory_index": 117
+    },
+    {
+      "animation_text": "16",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 16,
+      "bank_index": 6,
+      "directory_index": 118
+    },
+    {
+      "animation_text": "17",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 17,
+      "bank_index": 6,
+      "directory_index": 119
+    },
+    {
+      "animation_text": "18",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 18,
+      "bank_index": 6,
+      "directory_index": 120
+    },
+    {
+      "animation_text": "10",
+      "file_ref": "EFFECTS1",
+      "file_count": 13,
+      "animation_value": 10,
+      "bank_index": 1,
+      "directory_index": 121
+    },
+    {
+      "animation_text": "20",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 20,
+      "bank_index": 6,
+      "directory_index": 122
+    },
+    {
+      "animation_text": "21",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 21,
+      "bank_index": 6,
+      "directory_index": 123
+    },
+    {
+      "animation_text": "22",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 22,
+      "bank_index": 6,
+      "directory_index": 124
+    },
+    {
+      "animation_text": "23",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 23,
+      "bank_index": 6,
+      "directory_index": 125
+    },
+    {
+      "animation_text": "24",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 24,
+      "bank_index": 6,
+      "directory_index": 126
+    },
+    {
+      "animation_text": "25",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 25,
+      "bank_index": 6,
+      "directory_index": 127
+    },
+    {
+      "animation_text": "26",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 26,
+      "bank_index": 6,
+      "directory_index": 128
+    },
+    {
+      "animation_text": "27",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 27,
+      "bank_index": 6,
+      "directory_index": 129
+    },
+    {
+      "animation_text": "28",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 28,
+      "bank_index": 6,
+      "directory_index": 130
+    },
+    {
+      "animation_text": "29",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 29,
+      "bank_index": 6,
+      "directory_index": 131
+    },
+    {
+      "animation_text": "30",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 30,
+      "bank_index": 6,
+      "directory_index": 132
+    },
+    {
+      "animation_text": "31",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 31,
+      "bank_index": 6,
+      "directory_index": 133
+    },
+    {
+      "animation_text": "32",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 32,
+      "bank_index": 6,
+      "directory_index": 134
+    },
+    {
+      "animation_text": "33",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 33,
+      "bank_index": 6,
+      "directory_index": 135
+    },
+    {
+      "animation_text": "34",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 34,
+      "bank_index": 6,
+      "directory_index": 136
+    },
+    {
+      "animation_text": "35",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 35,
+      "bank_index": 6,
+      "directory_index": 137
+    },
+    {
+      "animation_text": "36",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 36,
+      "bank_index": 6,
+      "directory_index": 138
+    },
+    {
+      "animation_text": "37",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 37,
+      "bank_index": 6,
+      "directory_index": 139
+    },
+    {
+      "animation_text": "38",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 38,
+      "bank_index": 6,
+      "directory_index": 140
+    },
+    {
+      "animation_text": "39",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 39,
+      "bank_index": 6,
+      "directory_index": 141
+    },
+    {
+      "animation_text": "40",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 40,
+      "bank_index": 6,
+      "directory_index": 142
+    },
+    {
+      "animation_text": "41",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 41,
+      "bank_index": 6,
+      "directory_index": 143
+    },
+    {
+      "animation_text": "42",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 42,
+      "bank_index": 6,
+      "directory_index": 144
+    },
+    {
+      "animation_text": "43",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 43,
+      "bank_index": 6,
+      "directory_index": 145
+    },
+    {
+      "animation_text": "44",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 44,
+      "bank_index": 6,
+      "directory_index": 146
+    },
+    {
+      "animation_text": "45",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 45,
+      "bank_index": 6,
+      "directory_index": 147
+    },
+    {
+      "animation_text": "46",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 46,
+      "bank_index": 6,
+      "directory_index": 148
+    },
+    {
+      "animation_text": "47",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 47,
+      "bank_index": 6,
+      "directory_index": 149
+    },
+    {
+      "animation_text": "48",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 48,
+      "bank_index": 6,
+      "directory_index": 150
+    },
+    {
+      "animation_text": "49",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 49,
+      "bank_index": 6,
+      "directory_index": 151
+    },
+    {
+      "animation_text": "50",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 50,
+      "bank_index": 6,
+      "directory_index": 152
+    },
+    {
+      "animation_text": "51",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 51,
+      "bank_index": 6,
+      "directory_index": 153
+    },
+    {
+      "animation_text": "52",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 52,
+      "bank_index": 6,
+      "directory_index": 154
+    },
+    {
+      "animation_text": "53",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 53,
+      "bank_index": 6,
+      "directory_index": 155
+    },
+    {
+      "animation_text": "54",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 54,
+      "bank_index": 6,
+      "directory_index": 156
+    },
+    {
+      "animation_text": "55",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 55,
+      "bank_index": 6,
+      "directory_index": 157
+    },
+    {
+      "animation_text": "56",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 56,
+      "bank_index": 6,
+      "directory_index": 158
+    },
+    {
+      "animation_text": "50",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 50,
+      "bank_index": 6,
+      "directory_index": 159
+    },
+    {
+      "animation_text": "62",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 62,
+      "bank_index": 6,
+      "directory_index": 160
+    },
+    {
+      "animation_text": "63",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 63,
+      "bank_index": 6,
+      "directory_index": 161
+    },
+    {
+      "animation_text": "64",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 64,
+      "bank_index": 6,
+      "directory_index": 162
+    },
+    {
+      "animation_text": "65",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 65,
+      "bank_index": 6,
+      "directory_index": 163
+    },
+    {
+      "animation_text": "66",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 66,
+      "bank_index": 6,
+      "directory_index": 164
+    },
+    {
+      "animation_text": "67",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 67,
+      "bank_index": 6,
+      "directory_index": 165
+    },
+    {
+      "animation_text": "68",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 68,
+      "bank_index": 6,
+      "directory_index": 166
+    },
+    {
+      "animation_text": "69",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 69,
+      "bank_index": 6,
+      "directory_index": 167
+    },
+    {
+      "animation_text": "70",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 70,
+      "bank_index": 6,
+      "directory_index": 168
+    },
+    {
+      "animation_text": "71",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 71,
+      "bank_index": 6,
+      "directory_index": 169
+    },
+    {
+      "animation_text": "72",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 72,
+      "bank_index": 6,
+      "directory_index": 170
+    },
+    {
+      "animation_text": "73",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 73,
+      "bank_index": 6,
+      "directory_index": 171
+    },
+    {
+      "animation_text": "74",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 74,
+      "bank_index": 6,
+      "directory_index": 172
+    },
+    {
+      "animation_text": "75",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 75,
+      "bank_index": 6,
+      "directory_index": 173
+    },
+    {
+      "animation_text": "76",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 76,
+      "bank_index": 6,
+      "directory_index": 174
+    },
+    {
+      "animation_text": "77",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 77,
+      "bank_index": 6,
+      "directory_index": 175
+    },
+    {
+      "animation_text": "78",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 78,
+      "bank_index": 6,
+      "directory_index": 176
+    },
+    {
+      "animation_text": "79",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 79,
+      "bank_index": 6,
+      "directory_index": 177
+    },
+    {
+      "animation_text": "80",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 80,
+      "bank_index": 6,
+      "directory_index": 178
+    },
+    {
+      "animation_text": "81",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 81,
+      "bank_index": 6,
+      "directory_index": 179
+    },
+    {
+      "animation_text": "82",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 82,
+      "bank_index": 6,
+      "directory_index": 180
+    },
+    {
+      "animation_text": "83",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 83,
+      "bank_index": 6,
+      "directory_index": 181
+    },
+    {
+      "animation_text": "84",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 84,
+      "bank_index": 6,
+      "directory_index": 182
+    },
+    {
+      "animation_text": "60",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 60,
+      "bank_index": 6,
+      "directory_index": 183
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 184
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 185
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 186
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 187
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 188
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 189
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 190
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 191
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 192
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 193
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 194
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 6,
+      "directory_index": 195
+    },
+    {
+      "animation_text": "181",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 181,
+      "bank_index": 6,
+      "directory_index": 196
+    },
+    {
+      "animation_text": "182",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 182,
+      "bank_index": 6,
+      "directory_index": 197
+    },
+    {
+      "animation_text": "183",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 183,
+      "bank_index": 6,
+      "directory_index": 198
+    },
+    {
+      "animation_text": "184",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 184,
+      "bank_index": 6,
+      "directory_index": 199
+    },
+    {
+      "animation_text": "185",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 185,
+      "bank_index": 6,
+      "directory_index": 200
+    },
+    {
+      "animation_text": "186",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 186,
+      "bank_index": 6,
+      "directory_index": 201
+    },
+    {
+      "animation_text": "187",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 187,
+      "bank_index": 6,
+      "directory_index": 202
+    },
+    {
+      "animation_text": "188",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 188,
+      "bank_index": 6,
+      "directory_index": 203
+    },
+    {
+      "animation_text": "189",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 189,
+      "bank_index": 6,
+      "directory_index": 204
+    },
+    {
+      "animation_text": "190",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 190,
+      "bank_index": 6,
+      "directory_index": 205
+    },
+    {
+      "animation_text": "191",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 191,
+      "bank_index": 6,
+      "directory_index": 206
+    },
+    {
+      "animation_text": "192",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 192,
+      "bank_index": 6,
+      "directory_index": 207
+    },
+    {
+      "animation_text": "193",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 193,
+      "bank_index": 6,
+      "directory_index": 208
+    },
+    {
+      "animation_text": "194",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 194,
+      "bank_index": 6,
+      "directory_index": 209
+    },
+    {
+      "animation_text": "195",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 195,
+      "bank_index": 6,
+      "directory_index": 210
+    },
+    {
+      "animation_text": "196",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 196,
+      "bank_index": 6,
+      "directory_index": 211
+    },
+    {
+      "animation_text": "197",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 197,
+      "bank_index": 6,
+      "directory_index": 212
+    },
+    {
+      "animation_text": "198",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 198,
+      "bank_index": 6,
+      "directory_index": 213
+    },
+    {
+      "animation_text": "199",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 199,
+      "bank_index": 6,
+      "directory_index": 214
+    },
+    {
+      "animation_text": "200",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 200,
+      "bank_index": 6,
+      "directory_index": 215
+    },
+    {
+      "animation_text": "201",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 201,
+      "bank_index": 6,
+      "directory_index": 216
+    },
+    {
+      "animation_text": "202",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 202,
+      "bank_index": 6,
+      "directory_index": 217
+    },
+    {
+      "animation_text": "203",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 203,
+      "bank_index": 6,
+      "directory_index": 218
+    },
+    {
+      "animation_text": "229",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 229,
+      "bank_index": 6,
+      "directory_index": 219
+    },
+    {
+      "animation_text": "227",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 227,
+      "bank_index": 6,
+      "directory_index": 220
+    },
+    {
+      "animation_text": "231",
+      "file_ref": "EFFECTS6",
+      "file_count": 13,
+      "animation_value": 231,
+      "bank_index": 6,
+      "directory_index": 221
+    },
+    {
+      "animation_text": "",
+      "file_ref": "effects0",
+      "file_count": 0,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "",
+      "file_ref": "effects0",
+      "file_count": 1,
+      "animation_value": 2779096485,
+      "bank_index": 0
+    },
+    {
+      "animation_text": "",
+      "file_ref": "effects0",
+      "file_count": 13,
+      "animation_value": 2779096485,
+      "bank_index": 0
+    },
+    {
+      "animation_text": "",
+      "file_ref": "EfFeCtS12",
+      "file_count": 0,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "",
+      "file_ref": "EfFeCtS12",
+      "file_count": 1,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "",
+      "file_ref": "EfFeCtS12",
+      "file_count": 13,
+      "animation_value": 2779096485,
+      "bank_index": 12
+    },
+    {
+      "animation_text": "",
+      "file_ref": "EFFECTS13",
+      "file_count": 0,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "",
+      "file_ref": "EFFECTS13",
+      "file_count": 1,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "",
+      "file_ref": "EFFECTS13",
+      "file_count": 13,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "",
+      "file_ref": "bad",
+      "file_count": 0,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "",
+      "file_ref": "bad",
+      "file_count": 1,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "",
+      "file_ref": "bad",
+      "file_count": 13,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "",
+      "file_ref": "",
+      "file_count": 0,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "",
+      "file_ref": "",
+      "file_count": 1,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "",
+      "file_ref": "",
+      "file_count": 13,
+      "animation_value": 2779096485,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "effects0",
+      "file_count": 0,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "effects0",
+      "file_count": 1,
+      "animation_value": 4294967295,
+      "bank_index": 0
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "effects0",
+      "file_count": 13,
+      "animation_value": 4294967295,
+      "bank_index": 0
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "EfFeCtS12",
+      "file_count": 0,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "EfFeCtS12",
+      "file_count": 1,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "EfFeCtS12",
+      "file_count": 13,
+      "animation_value": 4294967295,
+      "bank_index": 12
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "EFFECTS13",
+      "file_count": 0,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "EFFECTS13",
+      "file_count": 1,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "EFFECTS13",
+      "file_count": 13,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "bad",
+      "file_count": 0,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "bad",
+      "file_count": 1,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "bad",
+      "file_count": 13,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "",
+      "file_count": 0,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "",
+      "file_count": 1,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "-1",
+      "file_ref": "",
+      "file_count": 13,
+      "animation_value": 4294967295,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "effects0",
+      "file_count": 0,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "effects0",
+      "file_count": 1,
+      "animation_value": 0,
+      "bank_index": 0
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "effects0",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 0
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EfFeCtS12",
+      "file_count": 0,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EfFeCtS12",
+      "file_count": 1,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EfFeCtS12",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 12
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS13",
+      "file_count": 0,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS13",
+      "file_count": 1,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "EFFECTS13",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "bad",
+      "file_count": 0,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "bad",
+      "file_count": 1,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "bad",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "",
+      "file_count": 0,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "",
+      "file_count": 1,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "0",
+      "file_ref": "",
+      "file_count": 13,
+      "animation_value": 0,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "effects0",
+      "file_count": 0,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "effects0",
+      "file_count": 1,
+      "animation_value": 101,
+      "bank_index": 0
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "effects0",
+      "file_count": 13,
+      "animation_value": 101,
+      "bank_index": 0
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "EfFeCtS12",
+      "file_count": 0,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "EfFeCtS12",
+      "file_count": 1,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "EfFeCtS12",
+      "file_count": 13,
+      "animation_value": 101,
+      "bank_index": 12
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "EFFECTS13",
+      "file_count": 0,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "EFFECTS13",
+      "file_count": 1,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "EFFECTS13",
+      "file_count": 13,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "bad",
+      "file_count": 0,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "bad",
+      "file_count": 1,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "bad",
+      "file_count": 13,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "",
+      "file_count": 0,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "",
+      "file_count": 1,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    },
+    {
+      "animation_text": "101",
+      "file_ref": "",
+      "file_count": 13,
+      "animation_value": 101,
+      "bank_index": 2779096485
+    }
+  ],
+  "scope": "Native49c8c3..49c9aa numeric assignment/file index mapping. AnimationNo API return/text supplied directly; AnimationFileRef Win32 API explicit double. Real59c5a4/59de2f/59db40(C-locale),all222 installed entries plus60 edge combinations. Writes entry0 animation,entry4 bank,index loop0..file_count-1; missing/unmatched leaves prior. Whole config loader,printer/data fields/OS IO pending."
+}

@@ -1,0 +1,397 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "key": "difficulty",
+      "value": "0",
+      "difficulty": 0,
+      "accepted": true
+    },
+    {
+      "key": "difficulty",
+      "value": "1",
+      "difficulty": 1,
+      "accepted": true
+    },
+    {
+      "key": "difficulty",
+      "value": "2",
+      "difficulty": 2,
+      "accepted": true
+    },
+    {
+      "key": "difficulty",
+      "value": "3",
+      "difficulty": 3,
+      "accepted": true
+    },
+    {
+      "key": "difficulty",
+      "value": "-1",
+      "difficulty": -1,
+      "accepted": true
+    },
+    {
+      "key": "difficulty",
+      "value": "4",
+      "difficulty": 4,
+      "accepted": true
+    },
+    {
+      "key": "difficulty",
+      "value": "101",
+      "difficulty": 101,
+      "accepted": true
+    },
+    {
+      "key": "difficulty",
+      "value": "",
+      "difficulty": 0,
+      "accepted": true
+    },
+    {
+      "key": "difficulty",
+      "value": "invalid",
+      "difficulty": 0,
+      "accepted": true
+    },
+    {
+      "key": "difficulty",
+      "value": "  +2suffix",
+      "difficulty": 2,
+      "accepted": true
+    },
+    {
+      "key": "DIFFICULTY",
+      "value": "0",
+      "difficulty": 0,
+      "accepted": true
+    },
+    {
+      "key": "DIFFICULTY",
+      "value": "1",
+      "difficulty": 1,
+      "accepted": true
+    },
+    {
+      "key": "DIFFICULTY",
+      "value": "2",
+      "difficulty": 2,
+      "accepted": true
+    },
+    {
+      "key": "DIFFICULTY",
+      "value": "3",
+      "difficulty": 3,
+      "accepted": true
+    },
+    {
+      "key": "DIFFICULTY",
+      "value": "-1",
+      "difficulty": -1,
+      "accepted": true
+    },
+    {
+      "key": "DIFFICULTY",
+      "value": "4",
+      "difficulty": 4,
+      "accepted": true
+    },
+    {
+      "key": "DIFFICULTY",
+      "value": "101",
+      "difficulty": 101,
+      "accepted": true
+    },
+    {
+      "key": "DIFFICULTY",
+      "value": "",
+      "difficulty": 0,
+      "accepted": true
+    },
+    {
+      "key": "DIFFICULTY",
+      "value": "invalid",
+      "difficulty": 0,
+      "accepted": true
+    },
+    {
+      "key": "DIFFICULTY",
+      "value": "  +2suffix",
+      "difficulty": 2,
+      "accepted": true
+    },
+    {
+      "key": "Difficulty",
+      "value": "0",
+      "difficulty": 0,
+      "accepted": true
+    },
+    {
+      "key": "Difficulty",
+      "value": "1",
+      "difficulty": 1,
+      "accepted": true
+    },
+    {
+      "key": "Difficulty",
+      "value": "2",
+      "difficulty": 2,
+      "accepted": true
+    },
+    {
+      "key": "Difficulty",
+      "value": "3",
+      "difficulty": 3,
+      "accepted": true
+    },
+    {
+      "key": "Difficulty",
+      "value": "-1",
+      "difficulty": -1,
+      "accepted": true
+    },
+    {
+      "key": "Difficulty",
+      "value": "4",
+      "difficulty": 4,
+      "accepted": true
+    },
+    {
+      "key": "Difficulty",
+      "value": "101",
+      "difficulty": 101,
+      "accepted": true
+    },
+    {
+      "key": "Difficulty",
+      "value": "",
+      "difficulty": 0,
+      "accepted": true
+    },
+    {
+      "key": "Difficulty",
+      "value": "invalid",
+      "difficulty": 0,
+      "accepted": true
+    },
+    {
+      "key": "Difficulty",
+      "value": "  +2suffix",
+      "difficulty": 2,
+      "accepted": true
+    },
+    {
+      "key": "difficultyx",
+      "value": "0",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "difficultyx",
+      "value": "1",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "difficultyx",
+      "value": "2",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "difficultyx",
+      "value": "3",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "difficultyx",
+      "value": "-1",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "difficultyx",
+      "value": "4",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "difficultyx",
+      "value": "101",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "difficultyx",
+      "value": "",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "difficultyx",
+      "value": "invalid",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "difficultyx",
+      "value": "  +2suffix",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "other",
+      "value": "0",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "other",
+      "value": "1",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "other",
+      "value": "2",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "other",
+      "value": "3",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "other",
+      "value": "-1",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "other",
+      "value": "4",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "other",
+      "value": "101",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "other",
+      "value": "",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "other",
+      "value": "invalid",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "key": "other",
+      "value": "  +2suffix",
+      "difficulty": 37,
+      "accepted": false
+    },
+    {
+      "value": "random",
+      "previous": 0,
+      "policy": 2
+    },
+    {
+      "value": "random",
+      "previous": 1,
+      "policy": 2
+    },
+    {
+      "value": "random",
+      "previous": 2,
+      "policy": 2
+    },
+    {
+      "value": "RANDOM",
+      "previous": 0,
+      "policy": 2
+    },
+    {
+      "value": "RANDOM",
+      "previous": 1,
+      "policy": 2
+    },
+    {
+      "value": "RANDOM",
+      "previous": 2,
+      "policy": 2
+    },
+    {
+      "value": "Random",
+      "previous": 0,
+      "policy": 2
+    },
+    {
+      "value": "Random",
+      "previous": 1,
+      "policy": 2
+    },
+    {
+      "value": "Random",
+      "previous": 2,
+      "policy": 2
+    },
+    {
+      "value": "randomx",
+      "previous": 0,
+      "policy": 0
+    },
+    {
+      "value": "randomx",
+      "previous": 1,
+      "policy": 1
+    },
+    {
+      "value": "randomx",
+      "previous": 2,
+      "policy": 2
+    },
+    {
+      "value": "",
+      "previous": 0,
+      "policy": 0
+    },
+    {
+      "value": "",
+      "previous": 1,
+      "policy": 1
+    },
+    {
+      "value": "",
+      "previous": 2,
+      "policy": 2
+    },
+    {
+      "value": "other",
+      "previous": 0,
+      "policy": 0
+    },
+    {
+      "value": "other",
+      "previous": 1,
+      "policy": 1
+    },
+    {
+      "value": "other",
+      "previous": 2,
+      "policy": 2
+    }
+  ],
+  "scope": "Native4e8904 token difficulty dispatch to branch boundaries and4e873e random-token comparison/write; real59db40/59c5a4,no doubles. CRT C-locale path forced6fa2e8=0. Full tokenization/CLI and non-C locale excluded; parsed difficulty not clamped in this slice."
+}

@@ -1,0 +1,653 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "keys": [],
+      "query": -2147483648,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": -5,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": -1,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 0,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 1,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 2,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 3,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 9,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 10,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 11,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 12,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 16,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 17,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 18,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 99,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 100,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 101,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 2147483646,
+      "action_pointer": 0
+    },
+    {
+      "keys": [],
+      "query": 2147483647,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": -2147483648,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": -5,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": -1,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 0,
+      "action_pointer": 33751040
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 1,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 2,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 3,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 9,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 10,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 11,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 12,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 16,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 17,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 18,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 99,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 100,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 101,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 2147483646,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        0
+      ],
+      "query": 2147483647,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": -2147483648,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": -5,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": -1,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 0,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 1,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 2,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 3,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 9,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 10,
+      "action_pointer": 33751040
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 11,
+      "action_pointer": 33751296
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 12,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 16,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 17,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 18,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 99,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 100,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 101,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 2147483646,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        10,
+        11
+      ],
+      "query": 2147483647,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": -2147483648,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": -5,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": -1,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 0,
+      "action_pointer": 33751296
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 1,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 2,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 3,
+      "action_pointer": 33751552
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 9,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 10,
+      "action_pointer": 33751808
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 11,
+      "action_pointer": 33752064
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 12,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 16,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 17,
+      "action_pointer": 33752320
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 18,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 99,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 100,
+      "action_pointer": 33752576
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 101,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 2147483646,
+      "action_pointer": 0
+    },
+    {
+      "keys": [
+        -5,
+        0,
+        3,
+        10,
+        11,
+        17,
+        100,
+        2147483647
+      ],
+      "query": 2147483647,
+      "action_pointer": 33752832
+    }
+  ],
+  "scope": "Complete416c30 and42e610 native code, no stubs or game IO. Balanced synthetic search trees verify exact match, signed negative rejection, empty/missing/extreme IDs and no mutation. Native tree insertion/deletion/red-black balancing not tested."
+}

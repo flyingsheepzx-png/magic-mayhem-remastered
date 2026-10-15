@@ -1,0 +1,3212 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "feature_builder": "0x40b420",
+  "threshold_binding_base": "0x5f8260",
+  "actions": [
+    {
+      "action_id": 6,
+      "vtable": "0x5c596c",
+      "methods": {
+        "initialize": "0x431be0",
+        "clone": "0x426070",
+        "evaluate": "0x431ce0",
+        "commit_or_copy": "0x4261b0",
+        "prepare_execute": "0x4328d0",
+        "execute": "0x432900",
+        "retire": "0x432fb0"
+      },
+      "feature_calls": [
+        {
+          "call_va": "0x4325f3",
+          "base_dimension": 67,
+          "selectors": [
+            {
+              "index": 0,
+              "selector": 28,
+              "key": "OG_GENERAL_COMBAT"
+            },
+            {
+              "index": 1,
+              "selector": 29,
+              "key": "OG_ANTI_UNDEAD"
+            },
+            {
+              "index": 2,
+              "selector": 30,
+              "key": "OG_RANGED_COMBAT"
+            },
+            {
+              "index": 3,
+              "selector": 31,
+              "key": "OG_DEFENCE"
+            },
+            {
+              "index": 4,
+              "selector": 8,
+              "key": "OG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 5,
+              "selector": 13,
+              "key": "OG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 6,
+              "selector": 27,
+              "key": "OG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 7,
+              "selector": 3,
+              "key": "OG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 8,
+              "selector": 32,
+              "key": "OG_PERCENT_FLIERS"
+            },
+            {
+              "index": 9,
+              "selector": 33,
+              "key": "OG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 10,
+              "selector": 26,
+              "key": "OG_SPREAD"
+            },
+            {
+              "index": 11,
+              "selector": 34,
+              "key": "OG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 12,
+              "selector": 35,
+              "key": "OG_POTENTIAL_MANA"
+            },
+            {
+              "index": 13,
+              "selector": 36,
+              "key": "OG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 14,
+              "selector": 37,
+              "key": "OG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 15,
+              "selector": 38,
+              "key": "OG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 16,
+              "selector": 39,
+              "key": "OG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 17,
+              "selector": 40,
+              "key": "OG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 18,
+              "selector": 41,
+              "key": "OG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 19,
+              "selector": 42,
+              "key": "OG_SP_MISSILE"
+            },
+            {
+              "index": 20,
+              "selector": 43,
+              "key": "OG_SP_AREA"
+            },
+            {
+              "index": 21,
+              "selector": 44,
+              "key": "OG_SP_ANTI_MR"
+            },
+            {
+              "index": 22,
+              "selector": 45,
+              "key": "OG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 23,
+              "selector": 46,
+              "key": "OG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 24,
+              "selector": 47,
+              "key": "OG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 25,
+              "selector": 48,
+              "key": "OG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 26,
+              "selector": 49,
+              "key": "OG_SP_PESTILENCE"
+            },
+            {
+              "index": 27,
+              "selector": 50,
+              "key": "OG_SP_GUARDIAN"
+            },
+            {
+              "index": 28,
+              "selector": 51,
+              "key": "OG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 29,
+              "selector": 52,
+              "key": "OG_SP_DISENCHANT"
+            },
+            {
+              "index": 30,
+              "selector": 53,
+              "key": "OG_SP_RESTRICTOR"
+            },
+            {
+              "index": 31,
+              "selector": 54,
+              "key": "OG_SP_EVADER"
+            },
+            {
+              "index": 32,
+              "selector": 55,
+              "key": "OG_AVERAGE_DANGER"
+            },
+            {
+              "index": 33,
+              "selector": 57,
+              "key": "OG_PERCENT_ILLUSIONS"
+            },
+            {
+              "index": 34,
+              "selector": 58,
+              "key": "OG_PERCENT_WIZARD_HEALTH"
+            },
+            {
+              "index": 35,
+              "selector": 86,
+              "key": "EG_GENERAL_COMBAT"
+            },
+            {
+              "index": 36,
+              "selector": 87,
+              "key": "EG_ANTI_UNDEAD"
+            },
+            {
+              "index": 37,
+              "selector": 88,
+              "key": "EG_RANGED_COMBAT"
+            },
+            {
+              "index": 38,
+              "selector": 89,
+              "key": "EG_DEFENCE"
+            },
+            {
+              "index": 39,
+              "selector": 66,
+              "key": "EG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 40,
+              "selector": 71,
+              "key": "EG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 41,
+              "selector": 85,
+              "key": "EG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 42,
+              "selector": 61,
+              "key": "EG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 43,
+              "selector": 90,
+              "key": "EG_PERCENT_FLIERS"
+            },
+            {
+              "index": 44,
+              "selector": 91,
+              "key": "EG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 45,
+              "selector": 84,
+              "key": "EG_SPREAD"
+            },
+            {
+              "index": 46,
+              "selector": 92,
+              "key": "EG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 47,
+              "selector": 93,
+              "key": "EG_POTENTIAL_MANA"
+            },
+            {
+              "index": 48,
+              "selector": 94,
+              "key": "EG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 49,
+              "selector": 95,
+              "key": "EG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 50,
+              "selector": 96,
+              "key": "EG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 51,
+              "selector": 97,
+              "key": "EG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 52,
+              "selector": 98,
+              "key": "EG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 53,
+              "selector": 99,
+              "key": "EG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 54,
+              "selector": 100,
+              "key": "EG_SP_MISSILE"
+            },
+            {
+              "index": 55,
+              "selector": 101,
+              "key": "EG_SP_AREA"
+            },
+            {
+              "index": 56,
+              "selector": 102,
+              "key": "EG_SP_ANTI_MR"
+            },
+            {
+              "index": 57,
+              "selector": 103,
+              "key": "EG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 58,
+              "selector": 104,
+              "key": "EG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 59,
+              "selector": 105,
+              "key": "EG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 60,
+              "selector": 106,
+              "key": "EG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 61,
+              "selector": 107,
+              "key": "EG_SP_PESTILENCE"
+            },
+            {
+              "index": 62,
+              "selector": 108,
+              "key": "EG_SP_GUARDIAN"
+            },
+            {
+              "index": 63,
+              "selector": 109,
+              "key": "EG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 64,
+              "selector": 110,
+              "key": "EG_SP_DISENCHANT"
+            },
+            {
+              "index": 65,
+              "selector": 111,
+              "key": "EG_SP_RESTRICTOR"
+            },
+            {
+              "index": 66,
+              "selector": 112,
+              "key": "EG_SP_EVADER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "action_id": 7,
+      "vtable": "0x5c5988",
+      "methods": {
+        "initialize": "0x432fc0",
+        "clone": "0x426450",
+        "evaluate": "0x4330c0",
+        "commit_or_copy": "0x426590",
+        "prepare_execute": "0x433ca0",
+        "execute": "0x433cd0",
+        "retire": "0x434370"
+      },
+      "feature_calls": [
+        {
+          "call_va": "0x4339cc",
+          "base_dimension": 67,
+          "selectors": [
+            {
+              "index": 0,
+              "selector": 28,
+              "key": "OG_GENERAL_COMBAT"
+            },
+            {
+              "index": 1,
+              "selector": 29,
+              "key": "OG_ANTI_UNDEAD"
+            },
+            {
+              "index": 2,
+              "selector": 30,
+              "key": "OG_RANGED_COMBAT"
+            },
+            {
+              "index": 3,
+              "selector": 31,
+              "key": "OG_DEFENCE"
+            },
+            {
+              "index": 4,
+              "selector": 8,
+              "key": "OG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 5,
+              "selector": 13,
+              "key": "OG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 6,
+              "selector": 27,
+              "key": "OG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 7,
+              "selector": 3,
+              "key": "OG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 8,
+              "selector": 32,
+              "key": "OG_PERCENT_FLIERS"
+            },
+            {
+              "index": 9,
+              "selector": 33,
+              "key": "OG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 10,
+              "selector": 26,
+              "key": "OG_SPREAD"
+            },
+            {
+              "index": 11,
+              "selector": 34,
+              "key": "OG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 12,
+              "selector": 35,
+              "key": "OG_POTENTIAL_MANA"
+            },
+            {
+              "index": 13,
+              "selector": 36,
+              "key": "OG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 14,
+              "selector": 37,
+              "key": "OG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 15,
+              "selector": 38,
+              "key": "OG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 16,
+              "selector": 39,
+              "key": "OG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 17,
+              "selector": 40,
+              "key": "OG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 18,
+              "selector": 41,
+              "key": "OG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 19,
+              "selector": 42,
+              "key": "OG_SP_MISSILE"
+            },
+            {
+              "index": 20,
+              "selector": 43,
+              "key": "OG_SP_AREA"
+            },
+            {
+              "index": 21,
+              "selector": 44,
+              "key": "OG_SP_ANTI_MR"
+            },
+            {
+              "index": 22,
+              "selector": 45,
+              "key": "OG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 23,
+              "selector": 46,
+              "key": "OG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 24,
+              "selector": 47,
+              "key": "OG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 25,
+              "selector": 48,
+              "key": "OG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 26,
+              "selector": 49,
+              "key": "OG_SP_PESTILENCE"
+            },
+            {
+              "index": 27,
+              "selector": 50,
+              "key": "OG_SP_GUARDIAN"
+            },
+            {
+              "index": 28,
+              "selector": 51,
+              "key": "OG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 29,
+              "selector": 52,
+              "key": "OG_SP_DISENCHANT"
+            },
+            {
+              "index": 30,
+              "selector": 53,
+              "key": "OG_SP_RESTRICTOR"
+            },
+            {
+              "index": 31,
+              "selector": 54,
+              "key": "OG_SP_EVADER"
+            },
+            {
+              "index": 32,
+              "selector": 55,
+              "key": "OG_AVERAGE_DANGER"
+            },
+            {
+              "index": 33,
+              "selector": 57,
+              "key": "OG_PERCENT_ILLUSIONS"
+            },
+            {
+              "index": 34,
+              "selector": 58,
+              "key": "OG_PERCENT_WIZARD_HEALTH"
+            },
+            {
+              "index": 35,
+              "selector": 86,
+              "key": "EG_GENERAL_COMBAT"
+            },
+            {
+              "index": 36,
+              "selector": 87,
+              "key": "EG_ANTI_UNDEAD"
+            },
+            {
+              "index": 37,
+              "selector": 88,
+              "key": "EG_RANGED_COMBAT"
+            },
+            {
+              "index": 38,
+              "selector": 89,
+              "key": "EG_DEFENCE"
+            },
+            {
+              "index": 39,
+              "selector": 66,
+              "key": "EG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 40,
+              "selector": 71,
+              "key": "EG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 41,
+              "selector": 85,
+              "key": "EG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 42,
+              "selector": 61,
+              "key": "EG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 43,
+              "selector": 90,
+              "key": "EG_PERCENT_FLIERS"
+            },
+            {
+              "index": 44,
+              "selector": 91,
+              "key": "EG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 45,
+              "selector": 84,
+              "key": "EG_SPREAD"
+            },
+            {
+              "index": 46,
+              "selector": 92,
+              "key": "EG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 47,
+              "selector": 93,
+              "key": "EG_POTENTIAL_MANA"
+            },
+            {
+              "index": 48,
+              "selector": 94,
+              "key": "EG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 49,
+              "selector": 95,
+              "key": "EG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 50,
+              "selector": 96,
+              "key": "EG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 51,
+              "selector": 97,
+              "key": "EG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 52,
+              "selector": 98,
+              "key": "EG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 53,
+              "selector": 99,
+              "key": "EG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 54,
+              "selector": 100,
+              "key": "EG_SP_MISSILE"
+            },
+            {
+              "index": 55,
+              "selector": 101,
+              "key": "EG_SP_AREA"
+            },
+            {
+              "index": 56,
+              "selector": 102,
+              "key": "EG_SP_ANTI_MR"
+            },
+            {
+              "index": 57,
+              "selector": 103,
+              "key": "EG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 58,
+              "selector": 104,
+              "key": "EG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 59,
+              "selector": 105,
+              "key": "EG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 60,
+              "selector": 106,
+              "key": "EG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 61,
+              "selector": 107,
+              "key": "EG_SP_PESTILENCE"
+            },
+            {
+              "index": 62,
+              "selector": 108,
+              "key": "EG_SP_GUARDIAN"
+            },
+            {
+              "index": 63,
+              "selector": 109,
+              "key": "EG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 64,
+              "selector": 110,
+              "key": "EG_SP_DISENCHANT"
+            },
+            {
+              "index": 65,
+              "selector": 111,
+              "key": "EG_SP_RESTRICTOR"
+            },
+            {
+              "index": 66,
+              "selector": 112,
+              "key": "EG_SP_EVADER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "action_id": 8,
+      "vtable": "0x5c59a4",
+      "methods": {
+        "initialize": "0x4343b0",
+        "clone": "0x426850",
+        "evaluate": "0x434500",
+        "commit_or_copy": "0x4269b0",
+        "prepare_execute": "0x435a90",
+        "execute": "0x435ac0",
+        "retire": "0x4367d0"
+      },
+      "feature_calls": [
+        {
+          "call_va": "0x43529a",
+          "base_dimension": 67,
+          "selectors": [
+            {
+              "index": 0,
+              "selector": 28,
+              "key": "OG_GENERAL_COMBAT"
+            },
+            {
+              "index": 1,
+              "selector": 29,
+              "key": "OG_ANTI_UNDEAD"
+            },
+            {
+              "index": 2,
+              "selector": 30,
+              "key": "OG_RANGED_COMBAT"
+            },
+            {
+              "index": 3,
+              "selector": 31,
+              "key": "OG_DEFENCE"
+            },
+            {
+              "index": 4,
+              "selector": 8,
+              "key": "OG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 5,
+              "selector": 13,
+              "key": "OG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 6,
+              "selector": 27,
+              "key": "OG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 7,
+              "selector": 3,
+              "key": "OG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 8,
+              "selector": 32,
+              "key": "OG_PERCENT_FLIERS"
+            },
+            {
+              "index": 9,
+              "selector": 33,
+              "key": "OG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 10,
+              "selector": 26,
+              "key": "OG_SPREAD"
+            },
+            {
+              "index": 11,
+              "selector": 34,
+              "key": "OG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 12,
+              "selector": 35,
+              "key": "OG_POTENTIAL_MANA"
+            },
+            {
+              "index": 13,
+              "selector": 36,
+              "key": "OG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 14,
+              "selector": 37,
+              "key": "OG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 15,
+              "selector": 38,
+              "key": "OG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 16,
+              "selector": 39,
+              "key": "OG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 17,
+              "selector": 40,
+              "key": "OG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 18,
+              "selector": 41,
+              "key": "OG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 19,
+              "selector": 42,
+              "key": "OG_SP_MISSILE"
+            },
+            {
+              "index": 20,
+              "selector": 43,
+              "key": "OG_SP_AREA"
+            },
+            {
+              "index": 21,
+              "selector": 44,
+              "key": "OG_SP_ANTI_MR"
+            },
+            {
+              "index": 22,
+              "selector": 45,
+              "key": "OG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 23,
+              "selector": 46,
+              "key": "OG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 24,
+              "selector": 47,
+              "key": "OG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 25,
+              "selector": 48,
+              "key": "OG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 26,
+              "selector": 49,
+              "key": "OG_SP_PESTILENCE"
+            },
+            {
+              "index": 27,
+              "selector": 50,
+              "key": "OG_SP_GUARDIAN"
+            },
+            {
+              "index": 28,
+              "selector": 51,
+              "key": "OG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 29,
+              "selector": 52,
+              "key": "OG_SP_DISENCHANT"
+            },
+            {
+              "index": 30,
+              "selector": 53,
+              "key": "OG_SP_RESTRICTOR"
+            },
+            {
+              "index": 31,
+              "selector": 54,
+              "key": "OG_SP_EVADER"
+            },
+            {
+              "index": 32,
+              "selector": 55,
+              "key": "OG_AVERAGE_DANGER"
+            },
+            {
+              "index": 33,
+              "selector": 57,
+              "key": "OG_PERCENT_ILLUSIONS"
+            },
+            {
+              "index": 34,
+              "selector": 58,
+              "key": "OG_PERCENT_WIZARD_HEALTH"
+            },
+            {
+              "index": 35,
+              "selector": 86,
+              "key": "EG_GENERAL_COMBAT"
+            },
+            {
+              "index": 36,
+              "selector": 87,
+              "key": "EG_ANTI_UNDEAD"
+            },
+            {
+              "index": 37,
+              "selector": 88,
+              "key": "EG_RANGED_COMBAT"
+            },
+            {
+              "index": 38,
+              "selector": 89,
+              "key": "EG_DEFENCE"
+            },
+            {
+              "index": 39,
+              "selector": 66,
+              "key": "EG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 40,
+              "selector": 71,
+              "key": "EG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 41,
+              "selector": 85,
+              "key": "EG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 42,
+              "selector": 61,
+              "key": "EG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 43,
+              "selector": 90,
+              "key": "EG_PERCENT_FLIERS"
+            },
+            {
+              "index": 44,
+              "selector": 91,
+              "key": "EG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 45,
+              "selector": 84,
+              "key": "EG_SPREAD"
+            },
+            {
+              "index": 46,
+              "selector": 92,
+              "key": "EG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 47,
+              "selector": 93,
+              "key": "EG_POTENTIAL_MANA"
+            },
+            {
+              "index": 48,
+              "selector": 94,
+              "key": "EG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 49,
+              "selector": 95,
+              "key": "EG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 50,
+              "selector": 96,
+              "key": "EG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 51,
+              "selector": 97,
+              "key": "EG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 52,
+              "selector": 98,
+              "key": "EG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 53,
+              "selector": 99,
+              "key": "EG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 54,
+              "selector": 100,
+              "key": "EG_SP_MISSILE"
+            },
+            {
+              "index": 55,
+              "selector": 101,
+              "key": "EG_SP_AREA"
+            },
+            {
+              "index": 56,
+              "selector": 102,
+              "key": "EG_SP_ANTI_MR"
+            },
+            {
+              "index": 57,
+              "selector": 103,
+              "key": "EG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 58,
+              "selector": 104,
+              "key": "EG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 59,
+              "selector": 105,
+              "key": "EG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 60,
+              "selector": 106,
+              "key": "EG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 61,
+              "selector": 107,
+              "key": "EG_SP_PESTILENCE"
+            },
+            {
+              "index": 62,
+              "selector": 108,
+              "key": "EG_SP_GUARDIAN"
+            },
+            {
+              "index": 63,
+              "selector": 109,
+              "key": "EG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 64,
+              "selector": 110,
+              "key": "EG_SP_DISENCHANT"
+            },
+            {
+              "index": 65,
+              "selector": 111,
+              "key": "EG_SP_RESTRICTOR"
+            },
+            {
+              "index": 66,
+              "selector": 112,
+              "key": "EG_SP_EVADER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "action_id": 9,
+      "vtable": "0x5c59c0",
+      "methods": {
+        "initialize": "0x436900",
+        "clone": "0x426c80",
+        "evaluate": "0x4369d0",
+        "commit_or_copy": "0x426dc0",
+        "prepare_execute": "0x437650",
+        "execute": "0x437680",
+        "retire": "0x4378c0"
+      },
+      "feature_calls": [
+        {
+          "call_va": "0x43739a",
+          "base_dimension": 67,
+          "selectors": [
+            {
+              "index": 0,
+              "selector": 28,
+              "key": "OG_GENERAL_COMBAT"
+            },
+            {
+              "index": 1,
+              "selector": 29,
+              "key": "OG_ANTI_UNDEAD"
+            },
+            {
+              "index": 2,
+              "selector": 30,
+              "key": "OG_RANGED_COMBAT"
+            },
+            {
+              "index": 3,
+              "selector": 31,
+              "key": "OG_DEFENCE"
+            },
+            {
+              "index": 4,
+              "selector": 8,
+              "key": "OG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 5,
+              "selector": 13,
+              "key": "OG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 6,
+              "selector": 27,
+              "key": "OG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 7,
+              "selector": 3,
+              "key": "OG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 8,
+              "selector": 32,
+              "key": "OG_PERCENT_FLIERS"
+            },
+            {
+              "index": 9,
+              "selector": 33,
+              "key": "OG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 10,
+              "selector": 26,
+              "key": "OG_SPREAD"
+            },
+            {
+              "index": 11,
+              "selector": 34,
+              "key": "OG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 12,
+              "selector": 35,
+              "key": "OG_POTENTIAL_MANA"
+            },
+            {
+              "index": 13,
+              "selector": 36,
+              "key": "OG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 14,
+              "selector": 37,
+              "key": "OG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 15,
+              "selector": 38,
+              "key": "OG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 16,
+              "selector": 39,
+              "key": "OG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 17,
+              "selector": 40,
+              "key": "OG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 18,
+              "selector": 41,
+              "key": "OG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 19,
+              "selector": 42,
+              "key": "OG_SP_MISSILE"
+            },
+            {
+              "index": 20,
+              "selector": 43,
+              "key": "OG_SP_AREA"
+            },
+            {
+              "index": 21,
+              "selector": 44,
+              "key": "OG_SP_ANTI_MR"
+            },
+            {
+              "index": 22,
+              "selector": 45,
+              "key": "OG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 23,
+              "selector": 46,
+              "key": "OG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 24,
+              "selector": 47,
+              "key": "OG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 25,
+              "selector": 48,
+              "key": "OG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 26,
+              "selector": 49,
+              "key": "OG_SP_PESTILENCE"
+            },
+            {
+              "index": 27,
+              "selector": 50,
+              "key": "OG_SP_GUARDIAN"
+            },
+            {
+              "index": 28,
+              "selector": 51,
+              "key": "OG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 29,
+              "selector": 52,
+              "key": "OG_SP_DISENCHANT"
+            },
+            {
+              "index": 30,
+              "selector": 53,
+              "key": "OG_SP_RESTRICTOR"
+            },
+            {
+              "index": 31,
+              "selector": 54,
+              "key": "OG_SP_EVADER"
+            },
+            {
+              "index": 32,
+              "selector": 55,
+              "key": "OG_AVERAGE_DANGER"
+            },
+            {
+              "index": 33,
+              "selector": 57,
+              "key": "OG_PERCENT_ILLUSIONS"
+            },
+            {
+              "index": 34,
+              "selector": 58,
+              "key": "OG_PERCENT_WIZARD_HEALTH"
+            },
+            {
+              "index": 35,
+              "selector": 86,
+              "key": "EG_GENERAL_COMBAT"
+            },
+            {
+              "index": 36,
+              "selector": 87,
+              "key": "EG_ANTI_UNDEAD"
+            },
+            {
+              "index": 37,
+              "selector": 88,
+              "key": "EG_RANGED_COMBAT"
+            },
+            {
+              "index": 38,
+              "selector": 89,
+              "key": "EG_DEFENCE"
+            },
+            {
+              "index": 39,
+              "selector": 66,
+              "key": "EG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 40,
+              "selector": 71,
+              "key": "EG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 41,
+              "selector": 85,
+              "key": "EG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 42,
+              "selector": 61,
+              "key": "EG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 43,
+              "selector": 90,
+              "key": "EG_PERCENT_FLIERS"
+            },
+            {
+              "index": 44,
+              "selector": 91,
+              "key": "EG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 45,
+              "selector": 84,
+              "key": "EG_SPREAD"
+            },
+            {
+              "index": 46,
+              "selector": 92,
+              "key": "EG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 47,
+              "selector": 93,
+              "key": "EG_POTENTIAL_MANA"
+            },
+            {
+              "index": 48,
+              "selector": 94,
+              "key": "EG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 49,
+              "selector": 95,
+              "key": "EG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 50,
+              "selector": 96,
+              "key": "EG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 51,
+              "selector": 97,
+              "key": "EG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 52,
+              "selector": 98,
+              "key": "EG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 53,
+              "selector": 99,
+              "key": "EG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 54,
+              "selector": 100,
+              "key": "EG_SP_MISSILE"
+            },
+            {
+              "index": 55,
+              "selector": 101,
+              "key": "EG_SP_AREA"
+            },
+            {
+              "index": 56,
+              "selector": 102,
+              "key": "EG_SP_ANTI_MR"
+            },
+            {
+              "index": 57,
+              "selector": 103,
+              "key": "EG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 58,
+              "selector": 104,
+              "key": "EG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 59,
+              "selector": 105,
+              "key": "EG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 60,
+              "selector": 106,
+              "key": "EG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 61,
+              "selector": 107,
+              "key": "EG_SP_PESTILENCE"
+            },
+            {
+              "index": 62,
+              "selector": 108,
+              "key": "EG_SP_GUARDIAN"
+            },
+            {
+              "index": 63,
+              "selector": 109,
+              "key": "EG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 64,
+              "selector": 110,
+              "key": "EG_SP_DISENCHANT"
+            },
+            {
+              "index": 65,
+              "selector": 111,
+              "key": "EG_SP_RESTRICTOR"
+            },
+            {
+              "index": 66,
+              "selector": 112,
+              "key": "EG_SP_EVADER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "action_id": 10,
+      "vtable": "0x5c59dc",
+      "methods": {
+        "initialize": "0x4378d0",
+        "clone": "0x4270a0",
+        "evaluate": "0x4379d0",
+        "commit_or_copy": "0x427200",
+        "prepare_execute": "0x4389d0",
+        "execute": "0x438a00",
+        "retire": "0x438b80"
+      },
+      "feature_calls": [
+        {
+          "call_va": "0x4388e6",
+          "base_dimension": 67,
+          "selectors": [
+            {
+              "index": 0,
+              "selector": 28,
+              "key": "OG_GENERAL_COMBAT"
+            },
+            {
+              "index": 1,
+              "selector": 29,
+              "key": "OG_ANTI_UNDEAD"
+            },
+            {
+              "index": 2,
+              "selector": 30,
+              "key": "OG_RANGED_COMBAT"
+            },
+            {
+              "index": 3,
+              "selector": 31,
+              "key": "OG_DEFENCE"
+            },
+            {
+              "index": 4,
+              "selector": 8,
+              "key": "OG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 5,
+              "selector": 13,
+              "key": "OG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 6,
+              "selector": 27,
+              "key": "OG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 7,
+              "selector": 3,
+              "key": "OG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 8,
+              "selector": 32,
+              "key": "OG_PERCENT_FLIERS"
+            },
+            {
+              "index": 9,
+              "selector": 33,
+              "key": "OG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 10,
+              "selector": 26,
+              "key": "OG_SPREAD"
+            },
+            {
+              "index": 11,
+              "selector": 34,
+              "key": "OG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 12,
+              "selector": 35,
+              "key": "OG_POTENTIAL_MANA"
+            },
+            {
+              "index": 13,
+              "selector": 36,
+              "key": "OG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 14,
+              "selector": 37,
+              "key": "OG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 15,
+              "selector": 38,
+              "key": "OG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 16,
+              "selector": 39,
+              "key": "OG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 17,
+              "selector": 40,
+              "key": "OG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 18,
+              "selector": 41,
+              "key": "OG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 19,
+              "selector": 42,
+              "key": "OG_SP_MISSILE"
+            },
+            {
+              "index": 20,
+              "selector": 43,
+              "key": "OG_SP_AREA"
+            },
+            {
+              "index": 21,
+              "selector": 44,
+              "key": "OG_SP_ANTI_MR"
+            },
+            {
+              "index": 22,
+              "selector": 45,
+              "key": "OG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 23,
+              "selector": 46,
+              "key": "OG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 24,
+              "selector": 47,
+              "key": "OG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 25,
+              "selector": 48,
+              "key": "OG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 26,
+              "selector": 49,
+              "key": "OG_SP_PESTILENCE"
+            },
+            {
+              "index": 27,
+              "selector": 50,
+              "key": "OG_SP_GUARDIAN"
+            },
+            {
+              "index": 28,
+              "selector": 51,
+              "key": "OG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 29,
+              "selector": 52,
+              "key": "OG_SP_DISENCHANT"
+            },
+            {
+              "index": 30,
+              "selector": 53,
+              "key": "OG_SP_RESTRICTOR"
+            },
+            {
+              "index": 31,
+              "selector": 54,
+              "key": "OG_SP_EVADER"
+            },
+            {
+              "index": 32,
+              "selector": 55,
+              "key": "OG_AVERAGE_DANGER"
+            },
+            {
+              "index": 33,
+              "selector": 57,
+              "key": "OG_PERCENT_ILLUSIONS"
+            },
+            {
+              "index": 34,
+              "selector": 58,
+              "key": "OG_PERCENT_WIZARD_HEALTH"
+            },
+            {
+              "index": 35,
+              "selector": 86,
+              "key": "EG_GENERAL_COMBAT"
+            },
+            {
+              "index": 36,
+              "selector": 87,
+              "key": "EG_ANTI_UNDEAD"
+            },
+            {
+              "index": 37,
+              "selector": 88,
+              "key": "EG_RANGED_COMBAT"
+            },
+            {
+              "index": 38,
+              "selector": 89,
+              "key": "EG_DEFENCE"
+            },
+            {
+              "index": 39,
+              "selector": 66,
+              "key": "EG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 40,
+              "selector": 71,
+              "key": "EG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 41,
+              "selector": 85,
+              "key": "EG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 42,
+              "selector": 61,
+              "key": "EG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 43,
+              "selector": 90,
+              "key": "EG_PERCENT_FLIERS"
+            },
+            {
+              "index": 44,
+              "selector": 91,
+              "key": "EG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 45,
+              "selector": 84,
+              "key": "EG_SPREAD"
+            },
+            {
+              "index": 46,
+              "selector": 92,
+              "key": "EG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 47,
+              "selector": 93,
+              "key": "EG_POTENTIAL_MANA"
+            },
+            {
+              "index": 48,
+              "selector": 94,
+              "key": "EG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 49,
+              "selector": 95,
+              "key": "EG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 50,
+              "selector": 96,
+              "key": "EG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 51,
+              "selector": 97,
+              "key": "EG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 52,
+              "selector": 98,
+              "key": "EG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 53,
+              "selector": 99,
+              "key": "EG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 54,
+              "selector": 100,
+              "key": "EG_SP_MISSILE"
+            },
+            {
+              "index": 55,
+              "selector": 101,
+              "key": "EG_SP_AREA"
+            },
+            {
+              "index": 56,
+              "selector": 102,
+              "key": "EG_SP_ANTI_MR"
+            },
+            {
+              "index": 57,
+              "selector": 103,
+              "key": "EG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 58,
+              "selector": 104,
+              "key": "EG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 59,
+              "selector": 105,
+              "key": "EG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 60,
+              "selector": 106,
+              "key": "EG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 61,
+              "selector": 107,
+              "key": "EG_SP_PESTILENCE"
+            },
+            {
+              "index": 62,
+              "selector": 108,
+              "key": "EG_SP_GUARDIAN"
+            },
+            {
+              "index": 63,
+              "selector": 109,
+              "key": "EG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 64,
+              "selector": 110,
+              "key": "EG_SP_DISENCHANT"
+            },
+            {
+              "index": 65,
+              "selector": 111,
+              "key": "EG_SP_RESTRICTOR"
+            },
+            {
+              "index": 66,
+              "selector": 112,
+              "key": "EG_SP_EVADER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "action_id": 11,
+      "vtable": "0x5c59f8",
+      "methods": {
+        "initialize": "0x438b90",
+        "clone": "0x4274f0",
+        "evaluate": "0x438c70",
+        "commit_or_copy": "0x427650",
+        "prepare_execute": "0x439b40",
+        "execute": "0x439b70",
+        "retire": "0x439e70"
+      },
+      "feature_calls": [
+        {
+          "call_va": "0x439746",
+          "base_dimension": 67,
+          "selectors": [
+            {
+              "index": 0,
+              "selector": 28,
+              "key": "OG_GENERAL_COMBAT"
+            },
+            {
+              "index": 1,
+              "selector": 29,
+              "key": "OG_ANTI_UNDEAD"
+            },
+            {
+              "index": 2,
+              "selector": 30,
+              "key": "OG_RANGED_COMBAT"
+            },
+            {
+              "index": 3,
+              "selector": 31,
+              "key": "OG_DEFENCE"
+            },
+            {
+              "index": 4,
+              "selector": 8,
+              "key": "OG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 5,
+              "selector": 13,
+              "key": "OG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 6,
+              "selector": 27,
+              "key": "OG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 7,
+              "selector": 3,
+              "key": "OG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 8,
+              "selector": 32,
+              "key": "OG_PERCENT_FLIERS"
+            },
+            {
+              "index": 9,
+              "selector": 33,
+              "key": "OG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 10,
+              "selector": 26,
+              "key": "OG_SPREAD"
+            },
+            {
+              "index": 11,
+              "selector": 34,
+              "key": "OG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 12,
+              "selector": 35,
+              "key": "OG_POTENTIAL_MANA"
+            },
+            {
+              "index": 13,
+              "selector": 36,
+              "key": "OG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 14,
+              "selector": 37,
+              "key": "OG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 15,
+              "selector": 38,
+              "key": "OG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 16,
+              "selector": 39,
+              "key": "OG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 17,
+              "selector": 40,
+              "key": "OG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 18,
+              "selector": 41,
+              "key": "OG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 19,
+              "selector": 42,
+              "key": "OG_SP_MISSILE"
+            },
+            {
+              "index": 20,
+              "selector": 43,
+              "key": "OG_SP_AREA"
+            },
+            {
+              "index": 21,
+              "selector": 44,
+              "key": "OG_SP_ANTI_MR"
+            },
+            {
+              "index": 22,
+              "selector": 45,
+              "key": "OG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 23,
+              "selector": 46,
+              "key": "OG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 24,
+              "selector": 47,
+              "key": "OG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 25,
+              "selector": 48,
+              "key": "OG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 26,
+              "selector": 49,
+              "key": "OG_SP_PESTILENCE"
+            },
+            {
+              "index": 27,
+              "selector": 50,
+              "key": "OG_SP_GUARDIAN"
+            },
+            {
+              "index": 28,
+              "selector": 51,
+              "key": "OG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 29,
+              "selector": 52,
+              "key": "OG_SP_DISENCHANT"
+            },
+            {
+              "index": 30,
+              "selector": 53,
+              "key": "OG_SP_RESTRICTOR"
+            },
+            {
+              "index": 31,
+              "selector": 54,
+              "key": "OG_SP_EVADER"
+            },
+            {
+              "index": 32,
+              "selector": 55,
+              "key": "OG_AVERAGE_DANGER"
+            },
+            {
+              "index": 33,
+              "selector": 57,
+              "key": "OG_PERCENT_ILLUSIONS"
+            },
+            {
+              "index": 34,
+              "selector": 58,
+              "key": "OG_PERCENT_WIZARD_HEALTH"
+            },
+            {
+              "index": 35,
+              "selector": 86,
+              "key": "EG_GENERAL_COMBAT"
+            },
+            {
+              "index": 36,
+              "selector": 87,
+              "key": "EG_ANTI_UNDEAD"
+            },
+            {
+              "index": 37,
+              "selector": 88,
+              "key": "EG_RANGED_COMBAT"
+            },
+            {
+              "index": 38,
+              "selector": 89,
+              "key": "EG_DEFENCE"
+            },
+            {
+              "index": 39,
+              "selector": 66,
+              "key": "EG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 40,
+              "selector": 71,
+              "key": "EG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 41,
+              "selector": 85,
+              "key": "EG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 42,
+              "selector": 61,
+              "key": "EG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 43,
+              "selector": 90,
+              "key": "EG_PERCENT_FLIERS"
+            },
+            {
+              "index": 44,
+              "selector": 91,
+              "key": "EG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 45,
+              "selector": 84,
+              "key": "EG_SPREAD"
+            },
+            {
+              "index": 46,
+              "selector": 92,
+              "key": "EG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 47,
+              "selector": 93,
+              "key": "EG_POTENTIAL_MANA"
+            },
+            {
+              "index": 48,
+              "selector": 94,
+              "key": "EG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 49,
+              "selector": 95,
+              "key": "EG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 50,
+              "selector": 96,
+              "key": "EG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 51,
+              "selector": 97,
+              "key": "EG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 52,
+              "selector": 98,
+              "key": "EG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 53,
+              "selector": 99,
+              "key": "EG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 54,
+              "selector": 100,
+              "key": "EG_SP_MISSILE"
+            },
+            {
+              "index": 55,
+              "selector": 101,
+              "key": "EG_SP_AREA"
+            },
+            {
+              "index": 56,
+              "selector": 102,
+              "key": "EG_SP_ANTI_MR"
+            },
+            {
+              "index": 57,
+              "selector": 103,
+              "key": "EG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 58,
+              "selector": 104,
+              "key": "EG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 59,
+              "selector": 105,
+              "key": "EG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 60,
+              "selector": 106,
+              "key": "EG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 61,
+              "selector": 107,
+              "key": "EG_SP_PESTILENCE"
+            },
+            {
+              "index": 62,
+              "selector": 108,
+              "key": "EG_SP_GUARDIAN"
+            },
+            {
+              "index": 63,
+              "selector": 109,
+              "key": "EG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 64,
+              "selector": 110,
+              "key": "EG_SP_DISENCHANT"
+            },
+            {
+              "index": 65,
+              "selector": 111,
+              "key": "EG_SP_RESTRICTOR"
+            },
+            {
+              "index": 66,
+              "selector": 112,
+              "key": "EG_SP_EVADER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "action_id": 12,
+      "vtable": "0x5c5a14",
+      "methods": {
+        "initialize": "0x439e80",
+        "clone": "0x427990",
+        "evaluate": "0x43a000",
+        "commit_or_copy": "0x427b30",
+        "prepare_execute": "0x43b260",
+        "execute": "0x43b290",
+        "retire": "0x43b3e0"
+      },
+      "feature_calls": [
+        {
+          "call_va": "0x43afb4",
+          "base_dimension": 67,
+          "selectors": [
+            {
+              "index": 0,
+              "selector": 28,
+              "key": "OG_GENERAL_COMBAT"
+            },
+            {
+              "index": 1,
+              "selector": 29,
+              "key": "OG_ANTI_UNDEAD"
+            },
+            {
+              "index": 2,
+              "selector": 30,
+              "key": "OG_RANGED_COMBAT"
+            },
+            {
+              "index": 3,
+              "selector": 31,
+              "key": "OG_DEFENCE"
+            },
+            {
+              "index": 4,
+              "selector": 8,
+              "key": "OG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 5,
+              "selector": 13,
+              "key": "OG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 6,
+              "selector": 27,
+              "key": "OG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 7,
+              "selector": 3,
+              "key": "OG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 8,
+              "selector": 32,
+              "key": "OG_PERCENT_FLIERS"
+            },
+            {
+              "index": 9,
+              "selector": 33,
+              "key": "OG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 10,
+              "selector": 26,
+              "key": "OG_SPREAD"
+            },
+            {
+              "index": 11,
+              "selector": 34,
+              "key": "OG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 12,
+              "selector": 35,
+              "key": "OG_POTENTIAL_MANA"
+            },
+            {
+              "index": 13,
+              "selector": 36,
+              "key": "OG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 14,
+              "selector": 37,
+              "key": "OG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 15,
+              "selector": 38,
+              "key": "OG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 16,
+              "selector": 39,
+              "key": "OG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 17,
+              "selector": 40,
+              "key": "OG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 18,
+              "selector": 41,
+              "key": "OG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 19,
+              "selector": 42,
+              "key": "OG_SP_MISSILE"
+            },
+            {
+              "index": 20,
+              "selector": 43,
+              "key": "OG_SP_AREA"
+            },
+            {
+              "index": 21,
+              "selector": 44,
+              "key": "OG_SP_ANTI_MR"
+            },
+            {
+              "index": 22,
+              "selector": 45,
+              "key": "OG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 23,
+              "selector": 46,
+              "key": "OG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 24,
+              "selector": 47,
+              "key": "OG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 25,
+              "selector": 48,
+              "key": "OG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 26,
+              "selector": 49,
+              "key": "OG_SP_PESTILENCE"
+            },
+            {
+              "index": 27,
+              "selector": 50,
+              "key": "OG_SP_GUARDIAN"
+            },
+            {
+              "index": 28,
+              "selector": 51,
+              "key": "OG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 29,
+              "selector": 52,
+              "key": "OG_SP_DISENCHANT"
+            },
+            {
+              "index": 30,
+              "selector": 53,
+              "key": "OG_SP_RESTRICTOR"
+            },
+            {
+              "index": 31,
+              "selector": 54,
+              "key": "OG_SP_EVADER"
+            },
+            {
+              "index": 32,
+              "selector": 55,
+              "key": "OG_AVERAGE_DANGER"
+            },
+            {
+              "index": 33,
+              "selector": 57,
+              "key": "OG_PERCENT_ILLUSIONS"
+            },
+            {
+              "index": 34,
+              "selector": 58,
+              "key": "OG_PERCENT_WIZARD_HEALTH"
+            },
+            {
+              "index": 35,
+              "selector": 86,
+              "key": "EG_GENERAL_COMBAT"
+            },
+            {
+              "index": 36,
+              "selector": 87,
+              "key": "EG_ANTI_UNDEAD"
+            },
+            {
+              "index": 37,
+              "selector": 88,
+              "key": "EG_RANGED_COMBAT"
+            },
+            {
+              "index": 38,
+              "selector": 89,
+              "key": "EG_DEFENCE"
+            },
+            {
+              "index": 39,
+              "selector": 66,
+              "key": "EG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 40,
+              "selector": 71,
+              "key": "EG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 41,
+              "selector": 85,
+              "key": "EG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 42,
+              "selector": 61,
+              "key": "EG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 43,
+              "selector": 90,
+              "key": "EG_PERCENT_FLIERS"
+            },
+            {
+              "index": 44,
+              "selector": 91,
+              "key": "EG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 45,
+              "selector": 84,
+              "key": "EG_SPREAD"
+            },
+            {
+              "index": 46,
+              "selector": 92,
+              "key": "EG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 47,
+              "selector": 93,
+              "key": "EG_POTENTIAL_MANA"
+            },
+            {
+              "index": 48,
+              "selector": 94,
+              "key": "EG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 49,
+              "selector": 95,
+              "key": "EG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 50,
+              "selector": 96,
+              "key": "EG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 51,
+              "selector": 97,
+              "key": "EG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 52,
+              "selector": 98,
+              "key": "EG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 53,
+              "selector": 99,
+              "key": "EG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 54,
+              "selector": 100,
+              "key": "EG_SP_MISSILE"
+            },
+            {
+              "index": 55,
+              "selector": 101,
+              "key": "EG_SP_AREA"
+            },
+            {
+              "index": 56,
+              "selector": 102,
+              "key": "EG_SP_ANTI_MR"
+            },
+            {
+              "index": 57,
+              "selector": 103,
+              "key": "EG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 58,
+              "selector": 104,
+              "key": "EG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 59,
+              "selector": 105,
+              "key": "EG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 60,
+              "selector": 106,
+              "key": "EG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 61,
+              "selector": 107,
+              "key": "EG_SP_PESTILENCE"
+            },
+            {
+              "index": 62,
+              "selector": 108,
+              "key": "EG_SP_GUARDIAN"
+            },
+            {
+              "index": 63,
+              "selector": 109,
+              "key": "EG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 64,
+              "selector": 110,
+              "key": "EG_SP_DISENCHANT"
+            },
+            {
+              "index": 65,
+              "selector": 111,
+              "key": "EG_SP_RESTRICTOR"
+            },
+            {
+              "index": 66,
+              "selector": 112,
+              "key": "EG_SP_EVADER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "action_id": 13,
+      "vtable": "0x5c5a30",
+      "methods": {
+        "initialize": "0x43b3f0",
+        "clone": "0x427e00",
+        "evaluate": "0x43b4c0",
+        "commit_or_copy": "0x427f40",
+        "prepare_execute": "0x43c390",
+        "execute": "0x43c3c0",
+        "retire": "0x43c600"
+      },
+      "feature_calls": [
+        {
+          "call_va": "0x43bf3a",
+          "base_dimension": 67,
+          "selectors": [
+            {
+              "index": 0,
+              "selector": 28,
+              "key": "OG_GENERAL_COMBAT"
+            },
+            {
+              "index": 1,
+              "selector": 29,
+              "key": "OG_ANTI_UNDEAD"
+            },
+            {
+              "index": 2,
+              "selector": 30,
+              "key": "OG_RANGED_COMBAT"
+            },
+            {
+              "index": 3,
+              "selector": 31,
+              "key": "OG_DEFENCE"
+            },
+            {
+              "index": 4,
+              "selector": 8,
+              "key": "OG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 5,
+              "selector": 13,
+              "key": "OG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 6,
+              "selector": 27,
+              "key": "OG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 7,
+              "selector": 3,
+              "key": "OG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 8,
+              "selector": 32,
+              "key": "OG_PERCENT_FLIERS"
+            },
+            {
+              "index": 9,
+              "selector": 33,
+              "key": "OG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 10,
+              "selector": 26,
+              "key": "OG_SPREAD"
+            },
+            {
+              "index": 11,
+              "selector": 34,
+              "key": "OG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 12,
+              "selector": 35,
+              "key": "OG_POTENTIAL_MANA"
+            },
+            {
+              "index": 13,
+              "selector": 36,
+              "key": "OG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 14,
+              "selector": 37,
+              "key": "OG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 15,
+              "selector": 38,
+              "key": "OG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 16,
+              "selector": 39,
+              "key": "OG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 17,
+              "selector": 40,
+              "key": "OG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 18,
+              "selector": 41,
+              "key": "OG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 19,
+              "selector": 42,
+              "key": "OG_SP_MISSILE"
+            },
+            {
+              "index": 20,
+              "selector": 43,
+              "key": "OG_SP_AREA"
+            },
+            {
+              "index": 21,
+              "selector": 44,
+              "key": "OG_SP_ANTI_MR"
+            },
+            {
+              "index": 22,
+              "selector": 45,
+              "key": "OG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 23,
+              "selector": 46,
+              "key": "OG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 24,
+              "selector": 47,
+              "key": "OG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 25,
+              "selector": 48,
+              "key": "OG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 26,
+              "selector": 49,
+              "key": "OG_SP_PESTILENCE"
+            },
+            {
+              "index": 27,
+              "selector": 50,
+              "key": "OG_SP_GUARDIAN"
+            },
+            {
+              "index": 28,
+              "selector": 51,
+              "key": "OG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 29,
+              "selector": 52,
+              "key": "OG_SP_DISENCHANT"
+            },
+            {
+              "index": 30,
+              "selector": 53,
+              "key": "OG_SP_RESTRICTOR"
+            },
+            {
+              "index": 31,
+              "selector": 54,
+              "key": "OG_SP_EVADER"
+            },
+            {
+              "index": 32,
+              "selector": 55,
+              "key": "OG_AVERAGE_DANGER"
+            },
+            {
+              "index": 33,
+              "selector": 57,
+              "key": "OG_PERCENT_ILLUSIONS"
+            },
+            {
+              "index": 34,
+              "selector": 58,
+              "key": "OG_PERCENT_WIZARD_HEALTH"
+            },
+            {
+              "index": 35,
+              "selector": 86,
+              "key": "EG_GENERAL_COMBAT"
+            },
+            {
+              "index": 36,
+              "selector": 87,
+              "key": "EG_ANTI_UNDEAD"
+            },
+            {
+              "index": 37,
+              "selector": 88,
+              "key": "EG_RANGED_COMBAT"
+            },
+            {
+              "index": 38,
+              "selector": 89,
+              "key": "EG_DEFENCE"
+            },
+            {
+              "index": 39,
+              "selector": 66,
+              "key": "EG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 40,
+              "selector": 71,
+              "key": "EG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 41,
+              "selector": 85,
+              "key": "EG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 42,
+              "selector": 61,
+              "key": "EG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 43,
+              "selector": 90,
+              "key": "EG_PERCENT_FLIERS"
+            },
+            {
+              "index": 44,
+              "selector": 91,
+              "key": "EG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 45,
+              "selector": 84,
+              "key": "EG_SPREAD"
+            },
+            {
+              "index": 46,
+              "selector": 92,
+              "key": "EG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 47,
+              "selector": 93,
+              "key": "EG_POTENTIAL_MANA"
+            },
+            {
+              "index": 48,
+              "selector": 94,
+              "key": "EG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 49,
+              "selector": 95,
+              "key": "EG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 50,
+              "selector": 96,
+              "key": "EG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 51,
+              "selector": 97,
+              "key": "EG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 52,
+              "selector": 98,
+              "key": "EG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 53,
+              "selector": 99,
+              "key": "EG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 54,
+              "selector": 100,
+              "key": "EG_SP_MISSILE"
+            },
+            {
+              "index": 55,
+              "selector": 101,
+              "key": "EG_SP_AREA"
+            },
+            {
+              "index": 56,
+              "selector": 102,
+              "key": "EG_SP_ANTI_MR"
+            },
+            {
+              "index": 57,
+              "selector": 103,
+              "key": "EG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 58,
+              "selector": 104,
+              "key": "EG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 59,
+              "selector": 105,
+              "key": "EG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 60,
+              "selector": 106,
+              "key": "EG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 61,
+              "selector": 107,
+              "key": "EG_SP_PESTILENCE"
+            },
+            {
+              "index": 62,
+              "selector": 108,
+              "key": "EG_SP_GUARDIAN"
+            },
+            {
+              "index": 63,
+              "selector": 109,
+              "key": "EG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 64,
+              "selector": 110,
+              "key": "EG_SP_DISENCHANT"
+            },
+            {
+              "index": 65,
+              "selector": 111,
+              "key": "EG_SP_RESTRICTOR"
+            },
+            {
+              "index": 66,
+              "selector": 112,
+              "key": "EG_SP_EVADER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "action_id": 14,
+      "vtable": "0x5c5a4c",
+      "methods": {
+        "initialize": "0x43c610",
+        "clone": "0x428210",
+        "evaluate": "0x43c800",
+        "commit_or_copy": "0x428350",
+        "prepare_execute": "0x43d410",
+        "execute": "0x43d440",
+        "retire": "0x43ddf0"
+      },
+      "feature_calls": [
+        {
+          "call_va": "0x43d0e1",
+          "base_dimension": 67,
+          "selectors": [
+            {
+              "index": 0,
+              "selector": 28,
+              "key": "OG_GENERAL_COMBAT"
+            },
+            {
+              "index": 1,
+              "selector": 29,
+              "key": "OG_ANTI_UNDEAD"
+            },
+            {
+              "index": 2,
+              "selector": 30,
+              "key": "OG_RANGED_COMBAT"
+            },
+            {
+              "index": 3,
+              "selector": 31,
+              "key": "OG_DEFENCE"
+            },
+            {
+              "index": 4,
+              "selector": 8,
+              "key": "OG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 5,
+              "selector": 13,
+              "key": "OG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 6,
+              "selector": 27,
+              "key": "OG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 7,
+              "selector": 3,
+              "key": "OG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 8,
+              "selector": 32,
+              "key": "OG_PERCENT_FLIERS"
+            },
+            {
+              "index": 9,
+              "selector": 33,
+              "key": "OG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 10,
+              "selector": 26,
+              "key": "OG_SPREAD"
+            },
+            {
+              "index": 11,
+              "selector": 34,
+              "key": "OG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 12,
+              "selector": 35,
+              "key": "OG_POTENTIAL_MANA"
+            },
+            {
+              "index": 13,
+              "selector": 36,
+              "key": "OG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 14,
+              "selector": 37,
+              "key": "OG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 15,
+              "selector": 38,
+              "key": "OG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 16,
+              "selector": 39,
+              "key": "OG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 17,
+              "selector": 40,
+              "key": "OG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 18,
+              "selector": 41,
+              "key": "OG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 19,
+              "selector": 42,
+              "key": "OG_SP_MISSILE"
+            },
+            {
+              "index": 20,
+              "selector": 43,
+              "key": "OG_SP_AREA"
+            },
+            {
+              "index": 21,
+              "selector": 44,
+              "key": "OG_SP_ANTI_MR"
+            },
+            {
+              "index": 22,
+              "selector": 45,
+              "key": "OG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 23,
+              "selector": 46,
+              "key": "OG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 24,
+              "selector": 47,
+              "key": "OG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 25,
+              "selector": 48,
+              "key": "OG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 26,
+              "selector": 49,
+              "key": "OG_SP_PESTILENCE"
+            },
+            {
+              "index": 27,
+              "selector": 50,
+              "key": "OG_SP_GUARDIAN"
+            },
+            {
+              "index": 28,
+              "selector": 51,
+              "key": "OG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 29,
+              "selector": 52,
+              "key": "OG_SP_DISENCHANT"
+            },
+            {
+              "index": 30,
+              "selector": 53,
+              "key": "OG_SP_RESTRICTOR"
+            },
+            {
+              "index": 31,
+              "selector": 54,
+              "key": "OG_SP_EVADER"
+            },
+            {
+              "index": 32,
+              "selector": 55,
+              "key": "OG_AVERAGE_DANGER"
+            },
+            {
+              "index": 33,
+              "selector": 57,
+              "key": "OG_PERCENT_ILLUSIONS"
+            },
+            {
+              "index": 34,
+              "selector": 58,
+              "key": "OG_PERCENT_WIZARD_HEALTH"
+            },
+            {
+              "index": 35,
+              "selector": 86,
+              "key": "EG_GENERAL_COMBAT"
+            },
+            {
+              "index": 36,
+              "selector": 87,
+              "key": "EG_ANTI_UNDEAD"
+            },
+            {
+              "index": 37,
+              "selector": 88,
+              "key": "EG_RANGED_COMBAT"
+            },
+            {
+              "index": 38,
+              "selector": 89,
+              "key": "EG_DEFENCE"
+            },
+            {
+              "index": 39,
+              "selector": 66,
+              "key": "EG_AVERAGE_MAGIC_RESISTANCE"
+            },
+            {
+              "index": 40,
+              "selector": 71,
+              "key": "EG_AVERAGE_INTELLIGENCE"
+            },
+            {
+              "index": 41,
+              "selector": 85,
+              "key": "EG_AVERAGE_BRAVERY"
+            },
+            {
+              "index": 42,
+              "selector": 61,
+              "key": "EG_AVERAGE_MAXSPEED"
+            },
+            {
+              "index": 43,
+              "selector": 90,
+              "key": "EG_PERCENT_FLIERS"
+            },
+            {
+              "index": 44,
+              "selector": 91,
+              "key": "EG_PERCENT_UNDEAD"
+            },
+            {
+              "index": 45,
+              "selector": 84,
+              "key": "EG_SPREAD"
+            },
+            {
+              "index": 46,
+              "selector": 92,
+              "key": "EG_AVERAGE_FIRE_VULNERABILITY"
+            },
+            {
+              "index": 47,
+              "selector": 93,
+              "key": "EG_POTENTIAL_MANA"
+            },
+            {
+              "index": 48,
+              "selector": 94,
+              "key": "EG_WIZARD_IN_GROUP"
+            },
+            {
+              "index": 49,
+              "selector": 95,
+              "key": "EG_SP_FLYING_CREATURE"
+            },
+            {
+              "index": 50,
+              "selector": 96,
+              "key": "EG_SP_UNDEAD_CREATURE"
+            },
+            {
+              "index": 51,
+              "selector": 97,
+              "key": "EG_SP_OTHER_CREATURE"
+            },
+            {
+              "index": 52,
+              "selector": 98,
+              "key": "EG_SP_OFFENSIVE_POWER_UP"
+            },
+            {
+              "index": 53,
+              "selector": 99,
+              "key": "EG_SP_DEFENSIVE_POWER_UP"
+            },
+            {
+              "index": 54,
+              "selector": 100,
+              "key": "EG_SP_MISSILE"
+            },
+            {
+              "index": 55,
+              "selector": 101,
+              "key": "EG_SP_AREA"
+            },
+            {
+              "index": 56,
+              "selector": 102,
+              "key": "EG_SP_ANTI_MR"
+            },
+            {
+              "index": 57,
+              "selector": 103,
+              "key": "EG_SP_ANTI_INTELLIGENCE"
+            },
+            {
+              "index": 58,
+              "selector": 104,
+              "key": "EG_SP_ANTI_UNDEAD"
+            },
+            {
+              "index": 59,
+              "selector": 105,
+              "key": "EG_SP_ANTI_BRAVERY"
+            },
+            {
+              "index": 60,
+              "selector": 106,
+              "key": "EG_SP_ANTI_FLYING"
+            },
+            {
+              "index": 61,
+              "selector": 107,
+              "key": "EG_SP_PESTILENCE"
+            },
+            {
+              "index": 62,
+              "selector": 108,
+              "key": "EG_SP_GUARDIAN"
+            },
+            {
+              "index": 63,
+              "selector": 109,
+              "key": "EG_SP_TOTEM_OF_LIFE"
+            },
+            {
+              "index": 64,
+              "selector": 110,
+              "key": "EG_SP_DISENCHANT"
+            },
+            {
+              "index": 65,
+              "selector": 111,
+              "key": "EG_SP_RESTRICTOR"
+            },
+            {
+              "index": 66,
+              "selector": 112,
+              "key": "EG_SP_EVADER"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "note": "selector names recover from native abs(selector)*4 parameter addressing at0x40ea00; model vectors also append action-specific values not included in base_dimension"
+}

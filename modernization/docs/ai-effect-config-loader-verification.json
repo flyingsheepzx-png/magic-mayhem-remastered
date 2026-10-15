@@ -1,0 +1,180 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "config_sha256": "a0f832ea4c128d474a84f000735289715b9da3edd074d5af0b6a5e3956def2f8",
+  "asset_sha256": {
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS0.ANI": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS1.ANI": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS2.ANI": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS3.ANI": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS4.ANI": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS5.ANI": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS6.ANI": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS7.ANI": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS8.ANI": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS9.ANI": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS10.ANI": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS11.ANI": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+    "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\EFFECTS12.ANI": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66"
+  },
+  "cases": [
+    {
+      "result": 1,
+      "entries": 222,
+      "banks": 13,
+      "loaded_banks": 13,
+      "fail_sprite": null,
+      "fail_ani": null,
+      "profile_calls": 890,
+      "allocations": 42,
+      "sprite_binding_field": "0x110",
+      "integrated_prepares": [
+        {
+          "action_id": 21,
+          "delay": 0,
+          "steps": 31,
+          "duration": 36
+        },
+        {
+          "action_id": 21,
+          "delay": 7,
+          "steps": 31,
+          "duration": 43
+        },
+        {
+          "action_id": 21,
+          "delay": 40,
+          "steps": 31,
+          "duration": 76
+        },
+        {
+          "action_id": 52,
+          "delay": 0,
+          "steps": 30,
+          "duration": 35
+        },
+        {
+          "action_id": 52,
+          "delay": 7,
+          "steps": 30,
+          "duration": 42
+        },
+        {
+          "action_id": 52,
+          "delay": 40,
+          "steps": 30,
+          "duration": 75
+        },
+        {
+          "action_id": 39,
+          "delay": 0,
+          "steps": 17,
+          "duration": 25
+        },
+        {
+          "action_id": 39,
+          "delay": 7,
+          "steps": 17,
+          "duration": 32
+        },
+        {
+          "action_id": 39,
+          "delay": 40,
+          "steps": 17,
+          "duration": 65
+        },
+        {
+          "action_id": 44,
+          "delay": 0,
+          "steps": 18,
+          "duration": 23
+        },
+        {
+          "action_id": 44,
+          "delay": 7,
+          "steps": 18,
+          "duration": 30
+        },
+        {
+          "action_id": 44,
+          "delay": 40,
+          "steps": 18,
+          "duration": 63
+        }
+      ]
+    },
+    {
+      "result": 0,
+      "entries": 222,
+      "banks": 13,
+      "loaded_banks": 0,
+      "fail_sprite": 0,
+      "fail_ani": null,
+      "profile_calls": 890,
+      "allocations": 3,
+      "sprite_binding_field": "0x110",
+      "integrated_prepares": []
+    },
+    {
+      "result": 0,
+      "entries": 222,
+      "banks": 13,
+      "loaded_banks": 6,
+      "fail_sprite": 6,
+      "fail_ani": null,
+      "profile_calls": 890,
+      "allocations": 21,
+      "sprite_binding_field": "0x110",
+      "integrated_prepares": []
+    },
+    {
+      "result": 0,
+      "entries": 222,
+      "banks": 13,
+      "loaded_banks": 12,
+      "fail_sprite": 12,
+      "fail_ani": null,
+      "profile_calls": 890,
+      "allocations": 39,
+      "sprite_binding_field": "0x110",
+      "integrated_prepares": []
+    },
+    {
+      "result": 0,
+      "entries": 222,
+      "banks": 13,
+      "loaded_banks": 0,
+      "fail_sprite": null,
+      "fail_ani": 0,
+      "profile_calls": 890,
+      "allocations": 3,
+      "sprite_binding_field": "0x110",
+      "integrated_prepares": []
+    },
+    {
+      "result": 0,
+      "entries": 222,
+      "banks": 13,
+      "loaded_banks": 6,
+      "fail_sprite": null,
+      "fail_ani": 6,
+      "profile_calls": 890,
+      "allocations": 21,
+      "sprite_binding_field": "0x110",
+      "integrated_prepares": []
+    },
+    {
+      "result": 0,
+      "entries": 222,
+      "banks": 13,
+      "loaded_banks": 12,
+      "fail_sprite": null,
+      "fail_ani": 12,
+      "profile_calls": 890,
+      "allocations": 39,
+      "sprite_binding_field": "0x110",
+      "integrated_prepares": []
+    }
+  ],
+  "scope": "Whole49c5b0, native59c441/49cc40/49cc70/464460 array constructors, all222 directory entries and native464b90 association plus whole4644d0 version5 loading for13 real ANI banks; resulting native directory/banks feed12 whole mode0 prepares for21/39/44/52, retaining actual bank indices. Win32 cwd/profile, CRT allocation/file IO and sprite57d310/57d690 explicit doubles; prepares have no additional doubles. Initial empty ownership only; sprite/ANI open failure at0/6/12 returns0 with allocated arrays retained. Bank+c remains0; sprite binding is+110. OS IO, sprite loading, reload/allocator/production failure cleanup and other actions/modes pending."
+}

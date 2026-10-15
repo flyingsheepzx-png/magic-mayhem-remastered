@@ -1,0 +1,7783 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.000999000999000999
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.00024975024975024975
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.9890110889011e-08
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.003996003996003996
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.000999000999000999
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 3.99560443556044e-07
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 9.991008991008991
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2.497752247752248
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.000999000999000999
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.09090909090909091
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.022727272727272728
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.0900000909e-06
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.36363636363636365
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.09090909090909091
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 3.63600003636e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 909.1818181818182
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 227.29545454545456
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.09090909090909091
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.5
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.125
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 4.999500049995001e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 2.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.5
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.00019998000199980003
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 5000.5
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1250.125
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.5
+    },
+    {
+      "baseline": 0.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 9.99990000099999e-06
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2.4999750002499977e-06
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.998900110988892e-10
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 3.999960000399996e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 9.99990000099999e-06
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 3.999560044395557e-09
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.1000089999100009
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.025002249977500224
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.99990000099999e-06
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.000999000999000999
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.00024975024975024975
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.9890110889011e-08
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.003996003996003996
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.000999000999000999
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 3.99560443556044e-07
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 9.991008991008991
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2.497752247752248
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.000999000999000999
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.009900990099009901
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.0024752475247524753
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.900000099000002e-07
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.039603960396039604
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.009900990099009901
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 3.960000039600001e-06
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 99.01980198019803
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 24.754950495049506
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.009900990099009901
+    },
+    {
+      "baseline": 0.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 9.99999000001e-07
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2.4999975000025e-07
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.998990100999901e-11
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 3.999996000004e-06
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 9.99999000001e-07
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 3.9995960403999603e-10
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.010000989999010002
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.0025002474997525004
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.99999000001e-07
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2.4997500249975004e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.998000299960006e-09
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 3.999200119984002e-08
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.000999000999000999
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.00024975024975024975
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.9890110889011e-08
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.003996003996003996
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.000999000999000999
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 3.99560443556044e-07
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 9.991008991008991
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2.497752247752248
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.000999000999000999
+    },
+    {
+      "baseline": 0.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.050949051693364694
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.012737262923341174
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 5.0943957297634934e-06
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.20379620677345878
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.050949051693364694
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 2.0377582919053974e-05
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 509.5414659853403
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 127.38536649633508
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.050949051693364694
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 4.636363704096187
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1.1590909260240467
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.0004635900114084779
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 18.545454816384748
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 4.636363704096187
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.0018543600456339116
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 46368.27340466597
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 11592.068351166492
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 4.636363704096187
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 25.50000037252903
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 6.3750000931322575
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.002549745062746628
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 102.00000149011612
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 25.50000037252903
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.010198980250986513
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 255025.50372566283
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 63756.37593141571
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 25.50000037252903
+    },
+    {
+      "baseline": 0.05,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.0005099949075015056
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.0001274987268753764
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 5.0994391311019456e-08
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.0020399796300060225
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.0005099949075015056
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 2.0397756524407782e-07
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 5.100459069922557
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1.2751147674806393
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.0005099949075015056
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.050949051693364694
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.012737262923341174
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 5.0943957297634934e-06
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.20379620677345878
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.050949051693364694
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 2.0377582919053974e-05
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 509.5414659853403
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 127.38536649633508
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.050949051693364694
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.5049505024263174
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.12623762560657936
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 5.049000124250749e-05
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 2.01980200970527
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.5049505024263174
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.00020196000497002997
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 5050.0099747656
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1262.5024936914
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.5049505024263174
+    },
+    {
+      "baseline": 0.05,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 5.0999949745108314e-05
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1.2749987436277079e-05
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 5.099485026008231e-09
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.00020399979898043326
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 5.0999949745108314e-05
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 2.0397940104032923e-08
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.5100504974008283
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.12751262435020708
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 5.0999949745108314e-05
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.001274872531373314
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 5.09898022747051e-07
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 2.039592090988204e-06
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.050949051693364694
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.012737262923341174
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 12.750000186264515
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 5.0943957297634934e-06
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.005099490125493256
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.20379620677345878
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 204.00000298023224
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.050949051693364694
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 2.0377582919053974e-05
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.020397960501973025
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 509.5414659853403
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 510051.00745132565
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 127.38536649633508
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 127512.75186283141
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.050949051693364694
+    },
+    {
+      "baseline": 0.05,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 51.00000074505806
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.1008991023877284
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.0252247755969321
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0088901348637975e-05
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.4035964095509136
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.1008991023877284
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 4.03556053945519e-05
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1009.0919229796716
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 252.2729807449179
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.1008991023877284
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 9.181818317283284
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2.295454579320821
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.0009180900227260557
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 36.727273269133136
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 9.181818317283284
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.003672360090904223
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 91827.36499115011
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 22956.841247787528
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.181818317283284
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 50.50000074505806
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 12.625000186264515
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.005049495124993307
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 202.00000298023224
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 50.50000074505806
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.020197980499973227
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 505050.50745132565
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 126262.62686283141
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 50.50000074505806
+    },
+    {
+      "baseline": 0.1,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.0010099899150020112
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.0002524974787505028
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0098889261094002e-07
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.004039959660008045
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.0010099899150020112
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 4.039555704437601e-07
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10.100909139935114
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2.5252272849837785
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.0010099899150020112
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.1008991023877284
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.0252247755969321
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0088901348637975e-05
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.4035964095509136
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.1008991023877284
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 4.03556053945519e-05
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1009.0919229796716
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 252.2729807449179
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.1008991023877284
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1.000000014753625
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.25000000368840625
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.999000247511499e-05
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 4.0000000590145
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1.000000014753625
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.00039996000990045994
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10001.000147551003
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2500.250036887751
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.000000014753625
+    },
+    {
+      "baseline": 0.1,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.00010099990049021562
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2.5249975122553906e-05
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0098980151006462e-08
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.0004039996019608625
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.00010099990049021562
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 4.0395920604025846e-08
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1.0101000048026465
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.2525250012006616
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.00010099990049021562
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.0025247475624966534
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.009798045194142e-06
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 4.039192180776568e-06
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.1008991023877284
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.0252247755969321
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 25.25000037252903
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0088901348637975e-05
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.010098990249986613
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.4035964095509136
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 404.0000059604645
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.1008991023877284
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 4.03556053945519e-05
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.040395960999946454
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1009.0919229796716
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1010101.0149026513
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 252.2729807449179
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 252525.25372566283
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.1008991023877284
+    },
+    {
+      "baseline": 0.1,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 101.00000149011612
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 0,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 91.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 22.75
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.009099090090990901
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 364.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 91.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.036396360363963605
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 910091.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 227522.75
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 91.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 500.5
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 125.125
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.050044995500449954
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 2002.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 500.5
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.20017998200179982
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 5005500.5
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1251375.125
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 500.5
+    },
+    {
+      "baseline": 1.0,
+      "current": 1,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.01000989990100099
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.0025024749752502475
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.000889901109988e-06
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.04003959960400396
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.01000989990100099
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 4.003559604439952e-06
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 100.1090089099109
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 25.027252227477724
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.01000989990100099
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 9.910891089108912
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2.477722772277228
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.0009909900099099001
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 39.64356435643565
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 9.910891089108912
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.0039639600396396005
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 99118.82178217822
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 24779.705445544554
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.910891089108912
+    },
+    {
+      "baseline": 1.0,
+      "current": 100,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.001000998999001001
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.00025024974975025024
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.00089890911009e-07
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.004003995996004004
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.001000998999001001
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 4.00359563644036e-07
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10.010990989009011
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2.502747747252253
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.001000998999001001
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 0,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.025022497750224977
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0007998300259965e-05
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 4.003199320103986e-05
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 99,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 0,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": false,
+      "ratio": 0.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 3,
+      "missing": true,
+      "ratio": 250.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 9.999000099990002e-05
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 0,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.10008999100089991
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": false,
+      "ratio": 4.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 0,
+      "missing": true,
+      "ratio": 4004.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 3,
+      "missing": true,
+      "ratio": 1001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 0.00039996000399960006
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 3,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 0.40035996400359963
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": false,
+      "ratio": 10001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 0,
+      "missing": true,
+      "ratio": 10011001.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": false,
+      "ratio": 2500.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 3,
+      "missing": true,
+      "ratio": 2502750.25
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": false,
+      "ratio": 1.0
+    },
+    {
+      "baseline": 1.0,
+      "current": 1000,
+      "safety": 999,
+      "gains": 10000,
+      "losses": 10000,
+      "missing": true,
+      "ratio": 1001.0
+    }
+  ],
+  "scope": "Whole40a3b0 with real466870, no function doubles; f32 baseline and exact x87 extended intermediates, stored double return. Nonnegative counters; signed overflow, singular denominator and producer semantics remain pending."
+}

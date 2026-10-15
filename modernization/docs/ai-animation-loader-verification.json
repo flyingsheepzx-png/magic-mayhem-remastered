@@ -1,0 +1,2906 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        40,
+        5368
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        40,
+        5368,
+        44,
+        40,
+        5368
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        80,
+        12100
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        80,
+        12100,
+        44,
+        80,
+        12100
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        20,
+        5016
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        20,
+        5016,
+        44,
+        20,
+        5016
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        32,
+        8580
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        32,
+        8580,
+        44,
+        32,
+        8580
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        16,
+        1848
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        16,
+        1848,
+        44,
+        16,
+        1848
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        872,
+        62216
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        872,
+        62216,
+        44,
+        872,
+        62216
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        268,
+        16280
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        268,
+        16280,
+        44,
+        268,
+        16280
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        96,
+        9504
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        96,
+        9504,
+        44,
+        96,
+        9504
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        260,
+        57640
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        260,
+        57640,
+        44,
+        260,
+        57640
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        940,
+        187572
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        940,
+        187572,
+        44,
+        940,
+        187572
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        24,
+        1936
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        24,
+        1936,
+        44,
+        24,
+        1936
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        28,
+        14168
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        28,
+        14168,
+        44,
+        28,
+        14168
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 1,
+      "fault": null,
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        60,
+        9196
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 2,
+      "fault": null,
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        60,
+        9196,
+        44,
+        60,
+        9196
+      ],
+      "residual_bank_allocations_before_cleanup": null,
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": true
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        39
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 40
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        40,
+        5367
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 40,
+        "0x2200060": 5368
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        40,
+        5368
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 40,
+        "0x2200060": 5368
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        40,
+        5368
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        40,
+        5368,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2201560": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        40,
+        5368,
+        44,
+        39
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2201560": 44,
+        "0x2201590": 40
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        40,
+        5368,
+        44,
+        40,
+        5367
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2201560": 44,
+        "0x2201590": 40,
+        "0x22015c0": 5368
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects0.ani",
+      "sha256": "5477232fafe1fc23f2a4f853a6503dc0caf6eea2687c5a9b801715c9b0b7c996",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        40,
+        5368,
+        44,
+        40,
+        5368
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2201560": 44,
+        "0x2201590": 40,
+        "0x22015c0": 5368
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        79
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 80
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        80,
+        12099
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 80,
+        "0x2200080": 12100
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        80,
+        12100
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 80,
+        "0x2200080": 12100
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        80,
+        12100
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        80,
+        12100,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2202fd0": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        80,
+        12100,
+        44,
+        79
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2202fd0": 44,
+        "0x2203000": 80
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        80,
+        12100,
+        44,
+        80,
+        12099
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2202fd0": 44,
+        "0x2203000": 80,
+        "0x2203050": 12100
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects1.ani",
+      "sha256": "6f0f1bb7fb69b4c092cb66867c3b793dc27e39d7e71d2fd02d07e548321963ec",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        80,
+        12100,
+        44,
+        80,
+        12100
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2202fd0": 44,
+        "0x2203000": 80,
+        "0x2203050": 12100
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        19
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 20
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        20,
+        5015
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 20,
+        "0x2200050": 5016
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        20,
+        5016
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 20,
+        "0x2200050": 5016
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        20,
+        5016
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        20,
+        5016,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22013f0": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        20,
+        5016,
+        44,
+        19
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22013f0": 44,
+        "0x2201420": 20
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        20,
+        5016,
+        44,
+        20,
+        5015
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22013f0": 44,
+        "0x2201420": 20,
+        "0x2201440": 5016
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects10.ani",
+      "sha256": "5cf881e55c144074243b1e8ccbd0a2f5aecb7bfe5183ce556a88479186fd862a",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        20,
+        5016,
+        44,
+        20,
+        5016
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22013f0": 44,
+        "0x2201420": 20,
+        "0x2201440": 5016
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        31
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 32
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        32,
+        8579
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 32,
+        "0x2200050": 8580
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        32,
+        8580
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 32,
+        "0x2200050": 8580
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        32,
+        8580
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        32,
+        8580,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22021e0": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        32,
+        8580,
+        44,
+        31
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22021e0": 44,
+        "0x2202210": 32
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        32,
+        8580,
+        44,
+        32,
+        8579
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22021e0": 44,
+        "0x2202210": 32,
+        "0x2202230": 8580
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects11.ani",
+      "sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        32,
+        8580,
+        44,
+        32,
+        8580
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22021e0": 44,
+        "0x2202210": 32,
+        "0x2202230": 8580
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        15
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 16
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        16,
+        1847
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 16,
+        "0x2200040": 1848
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        16,
+        1848
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 16,
+        "0x2200040": 1848
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        16,
+        1848
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        16,
+        1848,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200780": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        16,
+        1848,
+        44,
+        15
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200780": 44,
+        "0x22007b0": 16
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        16,
+        1848,
+        44,
+        16,
+        1847
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200780": 44,
+        "0x22007b0": 16,
+        "0x22007c0": 1848
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects12.ani",
+      "sha256": "2568b021c52bc844b15974d15a08034fc38496bab415fde15f2da639fae39c66",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        16,
+        1848,
+        44,
+        16,
+        1848
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200780": 44,
+        "0x22007b0": 16,
+        "0x22007c0": 1848
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        871
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 872
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        872,
+        62215
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 872,
+        "0x22003a0": 62216
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        872,
+        62216
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 872,
+        "0x22003a0": 62216
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        872,
+        62216
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        872,
+        62216,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x220f6b0": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        872,
+        62216,
+        44,
+        871
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x220f6b0": 44,
+        "0x220f6e0": 872
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        872,
+        62216,
+        44,
+        872,
+        62215
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x220f6b0": 44,
+        "0x220fa50": 62216,
+        "0x220f6e0": 872
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects2.ani",
+      "sha256": "42bb1450f9ad8f8fdc149ee9f6e1570a9acb0b1fb1125e3d15db656971a4a4af",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        872,
+        62216,
+        44,
+        872,
+        62216
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x220f6b0": 44,
+        "0x220fa50": 62216,
+        "0x220f6e0": 872
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        267
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 268
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        268,
+        16279
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 268,
+        "0x2200140": 16280
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        268,
+        16280
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 268,
+        "0x2200140": 16280
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        268,
+        16280
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        268,
+        16280,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22040e0": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        268,
+        16280,
+        44,
+        267
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22040e0": 44,
+        "0x2204110": 268
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        268,
+        16280,
+        44,
+        268,
+        16279
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22040e0": 44,
+        "0x2204110": 268,
+        "0x2204220": 16280
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects3.ani",
+      "sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        268,
+        16280,
+        44,
+        268,
+        16280
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22040e0": 44,
+        "0x2204110": 268,
+        "0x2204220": 16280
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        95
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 96
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        96,
+        9503
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 96,
+        "0x2200090": 9504
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        96,
+        9504
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 96,
+        "0x2200090": 9504
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        96,
+        9504
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        96,
+        9504,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22025b0": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        96,
+        9504,
+        44,
+        95
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22025b0": 44,
+        "0x22025e0": 96
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        96,
+        9504,
+        44,
+        96,
+        9503
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22025b0": 44,
+        "0x22025e0": 96,
+        "0x2202640": 9504
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects4.ani",
+      "sha256": "ff7cd8a055a42ff5053be3e5e9d7b7398b5afc76f0519fe62a831edaa1e1e8aa",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        96,
+        9504,
+        44,
+        96,
+        9504
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22025b0": 44,
+        "0x22025e0": 96,
+        "0x2202640": 9504
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        259
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 260
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        260,
+        57639
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 260,
+        "0x2200140": 57640
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        260,
+        57640
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 260,
+        "0x2200140": 57640
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        260,
+        57640
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        260,
+        57640,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x220e270": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        260,
+        57640,
+        44,
+        259
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x220e270": 44,
+        "0x220e2a0": 260
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        260,
+        57640,
+        44,
+        260,
+        57639
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x220e270": 44,
+        "0x220e2a0": 260,
+        "0x220e3b0": 57640
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects5.ani",
+      "sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        260,
+        57640,
+        44,
+        260,
+        57640
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x220e270": 44,
+        "0x220e2a0": 260,
+        "0x220e3b0": 57640
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        939
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 940
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        940,
+        187571
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x22003e0": 187572,
+        "0x2200030": 940
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        940,
+        187572
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x22003e0": 187572,
+        "0x2200030": 940
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        940,
+        187572
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        940,
+        187572,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x222e0a0": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        940,
+        187572,
+        44,
+        939
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x222e0a0": 44,
+        "0x222e0d0": 940
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        940,
+        187572,
+        44,
+        940,
+        187571
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x222e0a0": 44,
+        "0x222e480": 187572,
+        "0x222e0d0": 940
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects6.ani",
+      "sha256": "bf875ab96e5673185b2df24dab0df91ddb17f35d409627c9d25dbc8109a47f72",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        940,
+        187572,
+        44,
+        940,
+        187572
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x222e0a0": 44,
+        "0x222e480": 187572,
+        "0x222e0d0": 940
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        23
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 24
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        24,
+        1935
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 24,
+        "0x2200050": 1936
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        24,
+        1936
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 24,
+        "0x2200050": 1936
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        24,
+        1936
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        24,
+        1936,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22007e0": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        24,
+        1936,
+        44,
+        23
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22007e0": 44,
+        "0x2200810": 24
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        24,
+        1936,
+        44,
+        24,
+        1935
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22007e0": 44,
+        "0x2200810": 24,
+        "0x2200830": 1936
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\effects7.ani",
+      "sha256": "e817a77a2c9fef244c54b57079cd60829e95602498590dccf7031335964fef8c",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        24,
+        1936,
+        44,
+        24,
+        1936
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22007e0": 44,
+        "0x2200810": 24,
+        "0x2200830": 1936
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        27
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 28
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        28,
+        14167
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 28,
+        "0x2200050": 14168
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        28,
+        14168
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 28,
+        "0x2200050": 14168
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        28,
+        14168
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        28,
+        14168,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22037b0": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        28,
+        14168,
+        44,
+        27
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22037b0": 44,
+        "0x22037e0": 28
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        28,
+        14168,
+        44,
+        28,
+        14167
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22037b0": 44,
+        "0x2203800": 14168,
+        "0x22037e0": 28
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects8.ani",
+      "sha256": "ba972d719227e6fe2ddcbd98a69be1f46337cee4b658fa752c49c74fba323afe",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        28,
+        14168,
+        44,
+        28,
+        14168
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x22037b0": 44,
+        "0x2203800": 14168,
+        "0x22037e0": 28
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 0,
+      "fault": "open",
+      "allocations": 0,
+      "freed": 0,
+      "read_lengths": [],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 0,
+      "fault": "header",
+      "allocations": 1,
+      "freed": 1,
+      "read_lengths": [
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 0,
+      "fault": "index",
+      "allocations": 2,
+      "freed": 2,
+      "read_lengths": [
+        44,
+        59
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 60
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 0,
+      "fault": "records",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        60,
+        9195
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 60,
+        "0x2200070": 9196
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 0,
+      "fault": "size",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        60,
+        9196
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2200000": 44,
+        "0x2200030": 60,
+        "0x2200070": 9196
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 1,
+      "fault": "open",
+      "allocations": 3,
+      "freed": 3,
+      "read_lengths": [
+        44,
+        60,
+        9196
+      ],
+      "residual_bank_allocations_before_cleanup": {},
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 1,
+      "fault": "header",
+      "allocations": 4,
+      "freed": 4,
+      "read_lengths": [
+        44,
+        60,
+        9196,
+        43
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2202460": 44
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 1,
+      "fault": "index",
+      "allocations": 5,
+      "freed": 5,
+      "read_lengths": [
+        44,
+        60,
+        9196,
+        44,
+        59
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2202460": 44,
+        "0x2202490": 60
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 1,
+      "fault": "records",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        60,
+        9196,
+        44,
+        60,
+        9195
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2202460": 44,
+        "0x2202490": 60,
+        "0x22024d0": 9196
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\Sprites\\Effects9.ani",
+      "sha256": "4b22f7f9a9c985956c6bd591c0d7d080f079f401edc9d6f7ea73c297291598ec",
+      "reloads": 1,
+      "fault": "size",
+      "allocations": 6,
+      "freed": 6,
+      "read_lengths": [
+        44,
+        60,
+        9196,
+        44,
+        60,
+        9196
+      ],
+      "residual_bank_allocations_before_cleanup": {
+        "0x2202460": 44,
+        "0x2202490": 60,
+        "0x22024d0": 9196
+      },
+      "native_cleanup_twice": true,
+      "record_bytes_unchanged": false
+    }
+  ],
+  "scope": "Whole4644d0 native version5 loader:26 success/reload and130 open/short-header/index/records/size failure fixtures on13 installed ANI files,first load or after good load. IO/CRT explicit doubles; native processing unchanged. Failure returns0,old buffers freed,partial new buffers remain bank-owned,opened handles closed. Actual464480 cleanup twice after each fixture frees all exactly once and nulls pointers. Bank+0c=0 excludes sprite load. Allocator failure,versions1..4,sprite association/OS IO and production caller failure cleanup dispatch pending; source files unchanged."
+}

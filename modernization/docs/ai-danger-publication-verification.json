@@ -1,0 +1,4976 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "owner": 0,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 31,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 31,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 31,
+      "initial_cursor": 15,
+      "rounds": [
+        {
+          "start": 15,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 31,
+      "initial_cursor": 31,
+      "rounds": [
+        {
+          "start": 31,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 64,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 64,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 64,
+      "initial_cursor": 64,
+      "rounds": [
+        {
+          "start": 64,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 0,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 31,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 31,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 31,
+      "initial_cursor": 15,
+      "rounds": [
+        {
+          "start": 15,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 31,
+      "initial_cursor": 31,
+      "rounds": [
+        {
+          "start": 31,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 64,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 64,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 64,
+      "initial_cursor": 64,
+      "rounds": [
+        {
+          "start": 64,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 1,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 31,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 31,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 31,
+      "initial_cursor": 15,
+      "rounds": [
+        {
+          "start": 15,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 31,
+      "initial_cursor": 31,
+      "rounds": [
+        {
+          "start": 31,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 64,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 64,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 64,
+      "initial_cursor": 64,
+      "rounds": [
+        {
+          "start": 64,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 2,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 31,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 31,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 31,
+      "initial_cursor": 15,
+      "rounds": [
+        {
+          "start": 15,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 31,
+      "initial_cursor": 31,
+      "rounds": [
+        {
+          "start": 31,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 64,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 64,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 64,
+      "initial_cursor": 64,
+      "rounds": [
+        {
+          "start": 64,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 3,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 31,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 31,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 31,
+      "initial_cursor": 15,
+      "rounds": [
+        {
+          "start": 15,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 31,
+      "initial_cursor": 31,
+      "rounds": [
+        {
+          "start": 31,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 64,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 64,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 64,
+      "initial_cursor": 64,
+      "rounds": [
+        {
+          "start": 64,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 4,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 31,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 31,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 31,
+      "initial_cursor": 15,
+      "rounds": [
+        {
+          "start": 15,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 31,
+      "initial_cursor": 31,
+      "rounds": [
+        {
+          "start": 31,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 64,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 64,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 64,
+      "initial_cursor": 64,
+      "rounds": [
+        {
+          "start": 64,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 5,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 31,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 31,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 31,
+      "initial_cursor": 15,
+      "rounds": [
+        {
+          "start": 15,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 31,
+      "initial_cursor": 31,
+      "rounds": [
+        {
+          "start": 31,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 64,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 64,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 64,
+      "initial_cursor": 64,
+      "rounds": [
+        {
+          "start": 64,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 6,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 31,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 31,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 31,
+      "initial_cursor": 15,
+      "rounds": [
+        {
+          "start": 15,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 31,
+      "initial_cursor": 31,
+      "rounds": [
+        {
+          "start": 31,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 64,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 64,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 64,
+      "initial_cursor": 64,
+      "rounds": [
+        {
+          "start": 64,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    },
+    {
+      "owner": 7,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": false
+    }
+  ],
+  "rotations": [
+    {
+      "owner": -1,
+      "eligible_mask": 0,
+      "spent": 0,
+      "visited": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "selected": null
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 0,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": null
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 0,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 1,
+      "spent": 0,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 1,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 1,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 128,
+      "spent": 0,
+      "visited": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 128,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": null
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 128,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 255,
+      "spent": 0,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 255,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 255,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 85,
+      "spent": 0,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 85,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 85,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 170,
+      "spent": 0,
+      "visited": [
+        0,
+        1
+      ],
+      "selected": 1
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 170,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": null
+    },
+    {
+      "owner": -1,
+      "eligible_mask": 170,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 0,
+      "spent": 0,
+      "visited": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        0
+      ],
+      "selected": null
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 0,
+      "spent": 7,
+      "visited": [
+        1
+      ],
+      "selected": null
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 0,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 1,
+      "spent": 0,
+      "visited": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 1,
+      "spent": 7,
+      "visited": [
+        1
+      ],
+      "selected": null
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 1,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 128,
+      "spent": 0,
+      "visited": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 128,
+      "spent": 7,
+      "visited": [
+        1
+      ],
+      "selected": null
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 128,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 255,
+      "spent": 0,
+      "visited": [
+        1
+      ],
+      "selected": 1
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 255,
+      "spent": 7,
+      "visited": [
+        1
+      ],
+      "selected": 1
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 255,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 85,
+      "spent": 0,
+      "visited": [
+        1,
+        2
+      ],
+      "selected": 2
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 85,
+      "spent": 7,
+      "visited": [
+        1
+      ],
+      "selected": null
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 85,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 170,
+      "spent": 0,
+      "visited": [
+        1
+      ],
+      "selected": 1
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 170,
+      "spent": 7,
+      "visited": [
+        1
+      ],
+      "selected": 1
+    },
+    {
+      "owner": 0,
+      "eligible_mask": 170,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 0,
+      "spent": 0,
+      "visited": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        0,
+        1
+      ],
+      "selected": null
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 0,
+      "spent": 7,
+      "visited": [
+        2
+      ],
+      "selected": null
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 0,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 1,
+      "spent": 0,
+      "visited": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 1,
+      "spent": 7,
+      "visited": [
+        2
+      ],
+      "selected": null
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 1,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 128,
+      "spent": 0,
+      "visited": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 128,
+      "spent": 7,
+      "visited": [
+        2
+      ],
+      "selected": null
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 128,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 255,
+      "spent": 0,
+      "visited": [
+        2
+      ],
+      "selected": 2
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 255,
+      "spent": 7,
+      "visited": [
+        2
+      ],
+      "selected": 2
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 255,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 85,
+      "spent": 0,
+      "visited": [
+        2
+      ],
+      "selected": 2
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 85,
+      "spent": 7,
+      "visited": [
+        2
+      ],
+      "selected": 2
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 85,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 170,
+      "spent": 0,
+      "visited": [
+        2,
+        3
+      ],
+      "selected": 3
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 170,
+      "spent": 7,
+      "visited": [
+        2
+      ],
+      "selected": null
+    },
+    {
+      "owner": 1,
+      "eligible_mask": 170,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 0,
+      "spent": 0,
+      "visited": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        0,
+        1,
+        2
+      ],
+      "selected": null
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 0,
+      "spent": 7,
+      "visited": [
+        3
+      ],
+      "selected": null
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 0,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 1,
+      "spent": 0,
+      "visited": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 1,
+      "spent": 7,
+      "visited": [
+        3
+      ],
+      "selected": null
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 1,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 128,
+      "spent": 0,
+      "visited": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 128,
+      "spent": 7,
+      "visited": [
+        3
+      ],
+      "selected": null
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 128,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 255,
+      "spent": 0,
+      "visited": [
+        3
+      ],
+      "selected": 3
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 255,
+      "spent": 7,
+      "visited": [
+        3
+      ],
+      "selected": 3
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 255,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 85,
+      "spent": 0,
+      "visited": [
+        3,
+        4
+      ],
+      "selected": 4
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 85,
+      "spent": 7,
+      "visited": [
+        3
+      ],
+      "selected": null
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 85,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 170,
+      "spent": 0,
+      "visited": [
+        3
+      ],
+      "selected": 3
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 170,
+      "spent": 7,
+      "visited": [
+        3
+      ],
+      "selected": 3
+    },
+    {
+      "owner": 2,
+      "eligible_mask": 170,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 0,
+      "spent": 0,
+      "visited": [
+        4,
+        5,
+        6,
+        7,
+        0,
+        1,
+        2,
+        3
+      ],
+      "selected": null
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 0,
+      "spent": 7,
+      "visited": [
+        4
+      ],
+      "selected": null
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 0,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 1,
+      "spent": 0,
+      "visited": [
+        4,
+        5,
+        6,
+        7,
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 1,
+      "spent": 7,
+      "visited": [
+        4
+      ],
+      "selected": null
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 1,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 128,
+      "spent": 0,
+      "visited": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 128,
+      "spent": 7,
+      "visited": [
+        4
+      ],
+      "selected": null
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 128,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 255,
+      "spent": 0,
+      "visited": [
+        4
+      ],
+      "selected": 4
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 255,
+      "spent": 7,
+      "visited": [
+        4
+      ],
+      "selected": 4
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 255,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 85,
+      "spent": 0,
+      "visited": [
+        4
+      ],
+      "selected": 4
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 85,
+      "spent": 7,
+      "visited": [
+        4
+      ],
+      "selected": 4
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 85,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 170,
+      "spent": 0,
+      "visited": [
+        4,
+        5
+      ],
+      "selected": 5
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 170,
+      "spent": 7,
+      "visited": [
+        4
+      ],
+      "selected": null
+    },
+    {
+      "owner": 3,
+      "eligible_mask": 170,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 0,
+      "spent": 0,
+      "visited": [
+        5,
+        6,
+        7,
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "selected": null
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 0,
+      "spent": 7,
+      "visited": [
+        5
+      ],
+      "selected": null
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 0,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 1,
+      "spent": 0,
+      "visited": [
+        5,
+        6,
+        7,
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 1,
+      "spent": 7,
+      "visited": [
+        5
+      ],
+      "selected": null
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 1,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 128,
+      "spent": 0,
+      "visited": [
+        5,
+        6,
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 128,
+      "spent": 7,
+      "visited": [
+        5
+      ],
+      "selected": null
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 128,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 255,
+      "spent": 0,
+      "visited": [
+        5
+      ],
+      "selected": 5
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 255,
+      "spent": 7,
+      "visited": [
+        5
+      ],
+      "selected": 5
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 255,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 85,
+      "spent": 0,
+      "visited": [
+        5,
+        6
+      ],
+      "selected": 6
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 85,
+      "spent": 7,
+      "visited": [
+        5
+      ],
+      "selected": null
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 85,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 170,
+      "spent": 0,
+      "visited": [
+        5
+      ],
+      "selected": 5
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 170,
+      "spent": 7,
+      "visited": [
+        5
+      ],
+      "selected": 5
+    },
+    {
+      "owner": 4,
+      "eligible_mask": 170,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 0,
+      "spent": 0,
+      "visited": [
+        6,
+        7,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "selected": null
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 0,
+      "spent": 7,
+      "visited": [
+        6
+      ],
+      "selected": null
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 0,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 1,
+      "spent": 0,
+      "visited": [
+        6,
+        7,
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 1,
+      "spent": 7,
+      "visited": [
+        6
+      ],
+      "selected": null
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 1,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 128,
+      "spent": 0,
+      "visited": [
+        6,
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 128,
+      "spent": 7,
+      "visited": [
+        6
+      ],
+      "selected": null
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 128,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 255,
+      "spent": 0,
+      "visited": [
+        6
+      ],
+      "selected": 6
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 255,
+      "spent": 7,
+      "visited": [
+        6
+      ],
+      "selected": 6
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 255,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 85,
+      "spent": 0,
+      "visited": [
+        6
+      ],
+      "selected": 6
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 85,
+      "spent": 7,
+      "visited": [
+        6
+      ],
+      "selected": 6
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 85,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 170,
+      "spent": 0,
+      "visited": [
+        6,
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 170,
+      "spent": 7,
+      "visited": [
+        6
+      ],
+      "selected": null
+    },
+    {
+      "owner": 5,
+      "eligible_mask": 170,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 0,
+      "spent": 0,
+      "visited": [
+        7,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "selected": null
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 0,
+      "spent": 7,
+      "visited": [
+        7
+      ],
+      "selected": null
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 0,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 1,
+      "spent": 0,
+      "visited": [
+        7,
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 1,
+      "spent": 7,
+      "visited": [
+        7
+      ],
+      "selected": null
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 1,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 128,
+      "spent": 0,
+      "visited": [
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 128,
+      "spent": 7,
+      "visited": [
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 128,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 255,
+      "spent": 0,
+      "visited": [
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 255,
+      "spent": 7,
+      "visited": [
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 255,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 85,
+      "spent": 0,
+      "visited": [
+        7,
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 85,
+      "spent": 7,
+      "visited": [
+        7
+      ],
+      "selected": null
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 85,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 170,
+      "spent": 0,
+      "visited": [
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 170,
+      "spent": 7,
+      "visited": [
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 6,
+      "eligible_mask": 170,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 0,
+      "spent": 0,
+      "visited": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "selected": null
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 0,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": null
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 0,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 1,
+      "spent": 0,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 1,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 1,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 128,
+      "spent": 0,
+      "visited": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "selected": 7
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 128,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": null
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 128,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 255,
+      "spent": 0,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 255,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 255,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 85,
+      "spent": 0,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 85,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": 0
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 85,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 170,
+      "spent": 0,
+      "visited": [
+        0,
+        1
+      ],
+      "selected": 1
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 170,
+      "spent": 7,
+      "visited": [
+        0
+      ],
+      "selected": null
+    },
+    {
+      "owner": 7,
+      "eligible_mask": 170,
+      "spent": 8,
+      "visited": [],
+      "selected": null
+    }
+  ],
+  "integrated": [
+    {
+      "owner": 0,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 0,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 0,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 0,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 0,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 0,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 0,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 0,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 0,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 0,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 0,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 0,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 1,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 2,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 3,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 4,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 5,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 6,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 0,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 1,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 1,
+      "initial_cursor": 1,
+      "rounds": [
+        {
+          "start": 1,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 32,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 32,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 16,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 32,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 33,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 33,
+      "initial_cursor": 16,
+      "rounds": [
+        {
+          "start": 16,
+          "processed": 17,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 33,
+      "initial_cursor": 33,
+      "rounds": [
+        {
+          "start": 33,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 65,
+      "initial_cursor": 0,
+      "rounds": [
+        {
+          "start": 0,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 65,
+      "initial_cursor": 32,
+      "rounds": [
+        {
+          "start": 32,
+          "processed": 32,
+          "published": false
+        },
+        {
+          "start": 64,
+          "processed": 1,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    },
+    {
+      "owner": 7,
+      "cells": 65,
+      "initial_cursor": 65,
+      "rounds": [
+        {
+          "start": 65,
+          "processed": 0,
+          "published": true
+        }
+      ],
+      "native_finalizer": true
+    }
+  ],
+  "scope": "144 native41d3a2..41d476 publication/resume fixtures with4202e0 doubled,real542be0/542ba0/466870;distinct per-cell bytes verify32 budget/deferred publication. 162 no-double41d476 rotation fixtures verify8-attempt budget/wrap/selection. Additional96 no-double publication fixtures use real4202e0 with synthetic type69/70/91 effect list through cell processing/publish/clear at all8 owners,count0/1/32/33/65,cursor0/middle/end. Full unit contribution loop,map field meanings,other profile exclusion/restart and scheduler caller timing pending."
+}

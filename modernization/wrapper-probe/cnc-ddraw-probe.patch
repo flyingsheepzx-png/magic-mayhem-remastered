@@ -1,0 +1,76 @@
+diff --git a/src/render_d3d9.c b/src/render_d3d9.c
+index dde4b2c..b88c20f 100644
+--- a/src/render_d3d9.c
++++ b/src/render_d3d9.c
+@@ -10,6 +10,7 @@
+ #include "wndproc.h"
+ #include "blt.h"
+ #include "debug.h"
++#include "mm_probe.h"
+ #include "d3d9types.h"
+ #include "hook.h"
+ #include "config.h"
+@@ -624,6 +625,7 @@ DWORD WINAPI d3d9_render_main(void)
+ 
+             if (InterlockedExchange(&g_ddraw.render.surface_updated, FALSE) || g_config.minfps == -2)
+             {
++                mm_probe_event('U');
+                 if (++tex_index >= D3D9_TEXTURE_COUNT)
+                     tex_index = 0;
+ 
+@@ -708,6 +710,7 @@ DWORD WINAPI d3d9_render_main(void)
+             IDirect3DDevice9_Clear(g_d3d9.device, 0, NULL, D3DCLEAR_TARGET, D3DCOLOR_XRGB(0, 0, 0), 1.0f, 0);
+         }
+ 
++        mm_probe_event('P');
+         if (FAILED(IDirect3DDevice9_Present(g_d3d9.device, NULL, NULL, NULL, NULL)))
+         {
+             DWORD_PTR result;
+diff --git a/src/render_gdi.c b/src/render_gdi.c
+index c7292ed..42a99ce 100644
+--- a/src/render_gdi.c
++++ b/src/render_gdi.c
+@@ -8,6 +8,7 @@
+ #include "wndproc.h"
+ #include "hook.h"
+ #include "debug.h"
++#include "mm_probe.h"
+ #include "config.h"
+ 
+ 
+@@ -179,6 +180,7 @@ DWORD WINAPI gdi_render_main(void)
+         dbg_draw_frame_info_end();
+ #endif
+ 
++        mm_probe_event('P');
+         fpsl_frame_end();
+     }
+ 
+diff --git a/src/render_ogl.c b/src/render_ogl.c
+index aae1d34..e83c989 100644
+--- a/src/render_ogl.c
++++ b/src/render_ogl.c
+@@ -10,6 +10,7 @@
+ #include "render_ogl.h"
+ #include "utils.h"
+ #include "debug.h"
++#include "mm_probe.h"
+ 
+ 
+ static HGLRC ogl_create_core_context(HDC hdc);
+@@ -1065,6 +1066,7 @@ static void ogl_render()
+ 
+             if (InterlockedExchange(&g_ddraw.render.surface_updated, FALSE) || g_config.minfps == -2)
+             {
++                mm_probe_event('U');
+                 if (++tex_index >= TEXTURE_COUNT)
+                     tex_index = 0;
+ 
+@@ -1378,6 +1380,7 @@ static void ogl_render()
+             glClear(GL_COLOR_BUFFER_BIT);
+ 
+         SwapBuffers(g_ogl.hdc);
++        mm_probe_event('P');
+ 
+         /* Force redraw for GDI games (ClueFinders) */
+         if (!g_ddraw.primary)

@@ -1,0 +1,6122 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "synthetic_cases": [
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e",
+        "Army_1": "Name1,1,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e",
+        "Army_1": "Name1,1,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e",
+        "Army_1": "Name1,1,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e",
+        "Army_1": "Name1,1,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e",
+        "Army_1": "Name1,1,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e",
+        "Army_1": "Name1,1,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e",
+        "Army_1": "Name1,1,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e",
+        "Army_1": "Name1,1,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e",
+        "Army_1": "Name1,1,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X",
+        "Army_1": "Name1,1,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X",
+        "Army_1": "Name1,1,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X",
+        "Army_1": "Name1,1,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X",
+        "Army_1": "Name1,1,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X",
+        "Army_1": "Name1,1,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X",
+        "Army_1": "Name1,1,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X",
+        "Army_1": "Name1,1,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X",
+        "Army_1": "Name1,1,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X",
+        "Army_1": "Name1,1,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F",
+        "Army_1": "Name1,1,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F",
+        "Army_1": "Name1,1,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F",
+        "Army_1": "Name1,1,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F",
+        "Army_1": "Name1,1,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F",
+        "Army_1": "Name1,1,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F",
+        "Army_1": "Name1,1,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F",
+        "Army_1": "Name1,1,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F",
+        "Army_1": "Name1,1,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F",
+        "Army_1": "Name1,1,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X",
+        "Army_1": "Name1,1,e,X,F",
+        "Army_2": "Name2,2,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X",
+        "Army_1": "Name1,1,e,X,F",
+        "Army_2": "Name2,2,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X",
+        "Army_1": "Name1,1,e,X,F",
+        "Army_2": "Name2,2,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X",
+        "Army_1": "Name1,1,e,X,F",
+        "Army_2": "Name2,2,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X",
+        "Army_1": "Name1,1,e,X,F",
+        "Army_2": "Name2,2,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X",
+        "Army_1": "Name1,1,e,X,F",
+        "Army_2": "Name2,2,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X",
+        "Army_1": "Name1,1,e,X,F",
+        "Army_2": "Name2,2,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X",
+        "Army_1": "Name1,1,e,X,F",
+        "Army_2": "Name2,2,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X",
+        "Army_1": "Name1,1,e,X,F",
+        "Army_2": "Name2,2,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F",
+        "Army_1": "Name1,1,X,F,e",
+        "Army_2": "Name2,2,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F",
+        "Army_1": "Name1,1,X,F,e",
+        "Army_2": "Name2,2,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F",
+        "Army_1": "Name1,1,X,F,e",
+        "Army_2": "Name2,2,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F",
+        "Army_1": "Name1,1,X,F,e",
+        "Army_2": "Name2,2,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F",
+        "Army_1": "Name1,1,X,F,e",
+        "Army_2": "Name2,2,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F",
+        "Army_1": "Name1,1,X,F,e",
+        "Army_2": "Name2,2,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F",
+        "Army_1": "Name1,1,X,F,e",
+        "Army_2": "Name2,2,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F",
+        "Army_1": "Name1,1,X,F,e",
+        "Army_2": "Name2,2,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F",
+        "Army_1": "Name1,1,X,F,e",
+        "Army_2": "Name2,2,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e",
+        "Army_1": "Name1,1,F,e,X",
+        "Army_2": "Name2,2,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e",
+        "Army_1": "Name1,1,F,e,X",
+        "Army_2": "Name2,2,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e",
+        "Army_1": "Name1,1,F,e,X",
+        "Army_2": "Name2,2,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e",
+        "Army_1": "Name1,1,F,e,X",
+        "Army_2": "Name2,2,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e",
+        "Army_1": "Name1,1,F,e,X",
+        "Army_2": "Name2,2,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e",
+        "Army_1": "Name1,1,F,e,X",
+        "Army_2": "Name2,2,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e",
+        "Army_1": "Name1,1,F,e,X",
+        "Army_2": "Name2,2,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e",
+        "Army_1": "Name1,1,F,e,X",
+        "Army_2": "Name2,2,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e",
+        "Army_1": "Name1,1,F,e,X",
+        "Army_2": "Name2,2,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X",
+        "Army_1": "Name1,1,e,X,F,e,X,F",
+        "Army_2": "Name2,2,X,F,e,X,F,e",
+        "Army_3": "Name3,3,F,e,X,F,e,X",
+        "Army_4": "Name4,4,e,X,F,e,X,F",
+        "Army_5": "Name5,5,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X",
+        "Army_1": "Name1,1,e,X,F,e,X,F",
+        "Army_2": "Name2,2,X,F,e,X,F,e",
+        "Army_3": "Name3,3,F,e,X,F,e,X",
+        "Army_4": "Name4,4,e,X,F,e,X,F",
+        "Army_5": "Name5,5,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X",
+        "Army_1": "Name1,1,e,X,F,e,X,F",
+        "Army_2": "Name2,2,X,F,e,X,F,e",
+        "Army_3": "Name3,3,F,e,X,F,e,X",
+        "Army_4": "Name4,4,e,X,F,e,X,F",
+        "Army_5": "Name5,5,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X",
+        "Army_1": "Name1,1,e,X,F,e,X,F",
+        "Army_2": "Name2,2,X,F,e,X,F,e",
+        "Army_3": "Name3,3,F,e,X,F,e,X",
+        "Army_4": "Name4,4,e,X,F,e,X,F",
+        "Army_5": "Name5,5,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X",
+        "Army_1": "Name1,1,e,X,F,e,X,F",
+        "Army_2": "Name2,2,X,F,e,X,F,e",
+        "Army_3": "Name3,3,F,e,X,F,e,X",
+        "Army_4": "Name4,4,e,X,F,e,X,F",
+        "Army_5": "Name5,5,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X",
+        "Army_1": "Name1,1,e,X,F,e,X,F",
+        "Army_2": "Name2,2,X,F,e,X,F,e",
+        "Army_3": "Name3,3,F,e,X,F,e,X",
+        "Army_4": "Name4,4,e,X,F,e,X,F",
+        "Army_5": "Name5,5,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X",
+        "Army_1": "Name1,1,e,X,F,e,X,F",
+        "Army_2": "Name2,2,X,F,e,X,F,e",
+        "Army_3": "Name3,3,F,e,X,F,e,X",
+        "Army_4": "Name4,4,e,X,F,e,X,F",
+        "Army_5": "Name5,5,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X",
+        "Army_1": "Name1,1,e,X,F,e,X,F",
+        "Army_2": "Name2,2,X,F,e,X,F,e",
+        "Army_3": "Name3,3,F,e,X,F,e,X",
+        "Army_4": "Name4,4,e,X,F,e,X,F",
+        "Army_5": "Name5,5,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X",
+        "Army_1": "Name1,1,e,X,F,e,X,F",
+        "Army_2": "Name2,2,X,F,e,X,F,e",
+        "Army_3": "Name3,3,F,e,X,F,e,X",
+        "Army_4": "Name4,4,e,X,F,e,X,F",
+        "Army_5": "Name5,5,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F",
+        "Army_1": "Name1,1,X,F,e,X,F,e",
+        "Army_2": "Name2,2,F,e,X,F,e,X",
+        "Army_3": "Name3,3,e,X,F,e,X,F",
+        "Army_4": "Name4,4,X,F,e,X,F,e",
+        "Army_5": "Name5,5,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F",
+        "Army_1": "Name1,1,X,F,e,X,F,e",
+        "Army_2": "Name2,2,F,e,X,F,e,X",
+        "Army_3": "Name3,3,e,X,F,e,X,F",
+        "Army_4": "Name4,4,X,F,e,X,F,e",
+        "Army_5": "Name5,5,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F",
+        "Army_1": "Name1,1,X,F,e,X,F,e",
+        "Army_2": "Name2,2,F,e,X,F,e,X",
+        "Army_3": "Name3,3,e,X,F,e,X,F",
+        "Army_4": "Name4,4,X,F,e,X,F,e",
+        "Army_5": "Name5,5,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F",
+        "Army_1": "Name1,1,X,F,e,X,F,e",
+        "Army_2": "Name2,2,F,e,X,F,e,X",
+        "Army_3": "Name3,3,e,X,F,e,X,F",
+        "Army_4": "Name4,4,X,F,e,X,F,e",
+        "Army_5": "Name5,5,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F",
+        "Army_1": "Name1,1,X,F,e,X,F,e",
+        "Army_2": "Name2,2,F,e,X,F,e,X",
+        "Army_3": "Name3,3,e,X,F,e,X,F",
+        "Army_4": "Name4,4,X,F,e,X,F,e",
+        "Army_5": "Name5,5,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F",
+        "Army_1": "Name1,1,X,F,e,X,F,e",
+        "Army_2": "Name2,2,F,e,X,F,e,X",
+        "Army_3": "Name3,3,e,X,F,e,X,F",
+        "Army_4": "Name4,4,X,F,e,X,F,e",
+        "Army_5": "Name5,5,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F",
+        "Army_1": "Name1,1,X,F,e,X,F,e",
+        "Army_2": "Name2,2,F,e,X,F,e,X",
+        "Army_3": "Name3,3,e,X,F,e,X,F",
+        "Army_4": "Name4,4,X,F,e,X,F,e",
+        "Army_5": "Name5,5,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F",
+        "Army_1": "Name1,1,X,F,e,X,F,e",
+        "Army_2": "Name2,2,F,e,X,F,e,X",
+        "Army_3": "Name3,3,e,X,F,e,X,F",
+        "Army_4": "Name4,4,X,F,e,X,F,e",
+        "Army_5": "Name5,5,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F",
+        "Army_1": "Name1,1,X,F,e,X,F,e",
+        "Army_2": "Name2,2,F,e,X,F,e,X",
+        "Army_3": "Name3,3,e,X,F,e,X,F",
+        "Army_4": "Name4,4,X,F,e,X,F,e",
+        "Army_5": "Name5,5,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e",
+        "Army_1": "Name1,1,F,e,X,F,e,X",
+        "Army_2": "Name2,2,e,X,F,e,X,F",
+        "Army_3": "Name3,3,X,F,e,X,F,e",
+        "Army_4": "Name4,4,F,e,X,F,e,X",
+        "Army_5": "Name5,5,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e",
+        "Army_1": "Name1,1,F,e,X,F,e,X",
+        "Army_2": "Name2,2,e,X,F,e,X,F",
+        "Army_3": "Name3,3,X,F,e,X,F,e",
+        "Army_4": "Name4,4,F,e,X,F,e,X",
+        "Army_5": "Name5,5,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e",
+        "Army_1": "Name1,1,F,e,X,F,e,X",
+        "Army_2": "Name2,2,e,X,F,e,X,F",
+        "Army_3": "Name3,3,X,F,e,X,F,e",
+        "Army_4": "Name4,4,F,e,X,F,e,X",
+        "Army_5": "Name5,5,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e",
+        "Army_1": "Name1,1,F,e,X,F,e,X",
+        "Army_2": "Name2,2,e,X,F,e,X,F",
+        "Army_3": "Name3,3,X,F,e,X,F,e",
+        "Army_4": "Name4,4,F,e,X,F,e,X",
+        "Army_5": "Name5,5,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e",
+        "Army_1": "Name1,1,F,e,X,F,e,X",
+        "Army_2": "Name2,2,e,X,F,e,X,F",
+        "Army_3": "Name3,3,X,F,e,X,F,e",
+        "Army_4": "Name4,4,F,e,X,F,e,X",
+        "Army_5": "Name5,5,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e",
+        "Army_1": "Name1,1,F,e,X,F,e,X",
+        "Army_2": "Name2,2,e,X,F,e,X,F",
+        "Army_3": "Name3,3,X,F,e,X,F,e",
+        "Army_4": "Name4,4,F,e,X,F,e,X",
+        "Army_5": "Name5,5,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e",
+        "Army_1": "Name1,1,F,e,X,F,e,X",
+        "Army_2": "Name2,2,e,X,F,e,X,F",
+        "Army_3": "Name3,3,X,F,e,X,F,e",
+        "Army_4": "Name4,4,F,e,X,F,e,X",
+        "Army_5": "Name5,5,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e",
+        "Army_1": "Name1,1,F,e,X,F,e,X",
+        "Army_2": "Name2,2,e,X,F,e,X,F",
+        "Army_3": "Name3,3,X,F,e,X,F,e",
+        "Army_4": "Name4,4,F,e,X,F,e,X",
+        "Army_5": "Name5,5,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e",
+        "Army_1": "Name1,1,F,e,X,F,e,X",
+        "Army_2": "Name2,2,e,X,F,e,X,F",
+        "Army_3": "Name3,3,X,F,e,X,F,e",
+        "Army_4": "Name4,4,F,e,X,F,e,X",
+        "Army_5": "Name5,5,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F,e",
+        "Army_7": "Name7,7,e,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F,e",
+        "Army_7": "Name7,7,e,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F,e",
+        "Army_7": "Name7,7,e,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F,e",
+        "Army_7": "Name7,7,e,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F,e",
+        "Army_7": "Name7,7,e,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F,e",
+        "Army_7": "Name7,7,e,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F,e",
+        "Army_7": "Name7,7,e,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F,e",
+        "Army_7": "Name7,7,e,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,F,e,X,F,e,X,F,e",
+        "Army_1": "Name1,1,e,X,F,e,X,F,e,X",
+        "Army_2": "Name2,2,X,F,e,X,F,e,X,F",
+        "Army_3": "Name3,3,F,e,X,F,e,X,F,e",
+        "Army_4": "Name4,4,e,X,F,e,X,F,e,X",
+        "Army_5": "Name5,5,X,F,e,X,F,e,X,F",
+        "Army_6": "Name6,6,F,e,X,F,e,X,F,e",
+        "Army_7": "Name7,7,e,X,F,e,X,F,e,X"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e,X",
+        "Army_7": "Name7,7,X,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e,X",
+        "Army_7": "Name7,7,X,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e,X",
+        "Army_7": "Name7,7,X,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e,X",
+        "Army_7": "Name7,7,X,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e,X",
+        "Army_7": "Name7,7,X,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e,X",
+        "Army_7": "Name7,7,X,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e,X",
+        "Army_7": "Name7,7,X,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e,X",
+        "Army_7": "Name7,7,X,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,e,X,F,e,X,F,e,X",
+        "Army_1": "Name1,1,X,F,e,X,F,e,X,F",
+        "Army_2": "Name2,2,F,e,X,F,e,X,F,e",
+        "Army_3": "Name3,3,e,X,F,e,X,F,e,X",
+        "Army_4": "Name4,4,X,F,e,X,F,e,X,F",
+        "Army_5": "Name5,5,F,e,X,F,e,X,F,e",
+        "Army_6": "Name6,6,e,X,F,e,X,F,e,X",
+        "Army_7": "Name7,7,X,F,e,X,F,e,X,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X,F",
+        "Army_7": "Name7,7,F,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X,F",
+        "Army_7": "Name7,7,F,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X,F",
+        "Army_7": "Name7,7,F,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X,F",
+        "Army_7": "Name7,7,F,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X,F",
+        "Army_7": "Name7,7,F,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X,F",
+        "Army_7": "Name7,7,F,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X,F",
+        "Army_7": "Name7,7,F,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated\\",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X,F",
+        "Army_7": "Name7,7,F,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:/isolated/",
+      "entries": {
+        "Army_0": "Name0,0,X,F,e,X,F,e,X,F",
+        "Army_1": "Name1,1,F,e,X,F,e,X,F,e",
+        "Army_2": "Name2,2,e,X,F,e,X,F,e,X",
+        "Army_3": "Name3,3,X,F,e,X,F,e,X,F",
+        "Army_4": "Name4,4,F,e,X,F,e,X,F,e",
+        "Army_5": "Name5,5,e,X,F,e,X,F,e,X",
+        "Army_6": "Name6,6,X,F,e,X,F,e,X,F",
+        "Army_7": "Name7,7,F,e,X,F,e,X,F,e"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2",
+        "Army_3",
+        "Army_4",
+        "Army_5",
+        "Army_6",
+        "Army_7"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {},
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9784"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {},
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9784"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {},
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9784"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": " , , "
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d97c8"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": " , , "
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d97c8"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": " , , "
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d97c8"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,0,?"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9800"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,0,?"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9800"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,0,?"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9800"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,0"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": [
+        "0x5d970c"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,0"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": [
+        "0x5d970c"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,0"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": [
+        "0x5d970c"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": [
+        "0x5d9860"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": [
+        "0x5d9860"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": [
+        "0x5d9860"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,9,F"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9860",
+        "0x5d9800"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,9,F"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9860",
+        "0x5d9800"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,9,F"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9860",
+        "0x5d9800"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,7suffix,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,7suffix,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,7suffix,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name=ignored,3,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name=ignored,3,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name=ignored,3,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,0,F",
+        "Army_2": "Skipped,1,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,0,F",
+        "Army_2": "Skipped,1,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,0,F",
+        "Army_2": "Skipped,1,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "A,0,F,F",
+        "Army_1": "B,1,E"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": [
+        "0x5d970c"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "A,0,F,F",
+        "Army_1": "B,1,E"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": [
+        "0x5d970c"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "A,0,F,F",
+        "Army_1": "B,1,E"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0",
+        "Army_1",
+        "Army_2"
+      ],
+      "error_messages": [
+        "0x5d970c"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,-1,F"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9860",
+        "0x5d9800"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,-1,F"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9860",
+        "0x5d9800"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,-1,F"
+      },
+      "result": 0,
+      "queries": [
+        "Army_0"
+      ],
+      "error_messages": [
+        "0x5d9860",
+        "0x5d9800"
+      ]
+    },
+    {
+      "region": 0,
+      "fill": 0,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,4294967296,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 165,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,4294967296,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    },
+    {
+      "region": 0,
+      "fill": 255,
+      "cwd": "X:\\isolated",
+      "entries": {
+        "Army_0": "Name,4294967296,F"
+      },
+      "result": 1,
+      "queries": [
+        "Army_0",
+        "Army_1"
+      ],
+      "error_messages": []
+    }
+  ],
+  "production_cases": [
+    {
+      "realm": "Celtic",
+      "section": "REGION0",
+      "case": {
+        "region": 0,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "WANDERING,3,F,E",
+          "Army_1": "Cornelius,6,E,F"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Celtic",
+      "section": "REGION1",
+      "case": {
+        "region": 1,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius ,0,X,E,E",
+          "Army_1": "Camulos   ,1,E,X,F",
+          "Army_2": "Wandering ,3,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Celtic",
+      "section": "REGION2",
+      "case": {
+        "region": 2,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius,0,X,E,E,F",
+          "Army_1": "Camulos  ,1,E,X,F,F",
+          "Army_2": "Wandering,3,E,F,X,F",
+          "Army_3": "Unicorn  ,6,F,F,F,X,"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Celtic",
+      "section": "REGION3",
+      "case": {
+        "region": 3,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "NULL       ,0,X,E,E,E,E",
+          "Army_1": "Cornelius  ,0,E,X,E,F,E",
+          "Army_2": "Lutheron   ,1,F,E,X,E,F",
+          "Army_3": "Twigkindle ,6,E,E,E,X,E",
+          "Army_4": "Wandering  ,3,E,E,F,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Celtic",
+      "section": "REGION4",
+      "case": {
+        "region": 4,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius ,0,X,F,F,F,E",
+          "Army_1": "Yeorick   ,1,F,X,F,F,F",
+          "Army_2": "Null1     ,0,F,F,X,F,F",
+          "Army_3": "Null2     ,0,F,F,F,X,F",
+          "Army_4": "Wandering ,3,E,F,F,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Celtic",
+      "section": "REGION5",
+      "case": {
+        "region": 5,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "WANDERING ,3,X,E,F,E,F",
+          "Army_1": "Cornelius ,0,E,X,E,F,F",
+          "Army_2": "Lutheron  ,1,F,E,X,E,E",
+          "Army_3": "Percival  ,5,E,F,E,X,F",
+          "Army_4": "Brownies  ,6,F,F,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Celtic",
+      "section": "REGION6",
+      "case": {
+        "region": 6,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius  ,0,X,E,F,F,E",
+          "Army_1": "Dagda      ,1,E,X,E,E,F",
+          "Army_2": "Percival   ,5,F,E,X,F,E",
+          "Army_3": "Twigkindle ,6,F,E,F,X,E",
+          "Army_4": "Wandering  ,3,E,F,E,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Celtic",
+      "section": "REGION7",
+      "case": {
+        "region": 7,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius ,0,X,E,E,E,F",
+          "Army_1": "Elidor    ,4,E,X,F,E,E",
+          "Army_2": "Blaise    ,1,E,F,X,E,E",
+          "Army_3": "NULL      ,2,E,E,E,X,E",
+          "Army_4": "Percival  ,5,F,E,E,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Celtic",
+      "section": "REGION8",
+      "case": {
+        "region": 8,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "WANDERING ,3,X,E,E,E,F,F",
+          "Army_1": "Cornelius ,0,E,X,F,F,E,E",
+          "Army_2": "Lucan     ,2,E,F,X,F,E,E",
+          "Army_3": "Percival  ,5,E,F,F,X,E,E",
+          "Army_4": "Bertilak  ,1,F,E,E,E,X,F",
+          "Army_5": "Overlord  ,4,F,E,E,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Celtic",
+      "section": "REGION9",
+      "case": {
+        "region": 9,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius      ,0,X,E",
+          "Army_1": "Tutus_Magus    ,1,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION0",
+      "case": {
+        "region": 0,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "WANDERING,3,X,E",
+          "Army_1": "Cornelius,6,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION1",
+      "case": {
+        "region": 1,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius,0,X,E,E,F,E",
+          "Army_1": "Odysseus ,1,E,X,E,E,F",
+          "Army_2": "NULL     ,1,E,E,X,E,E",
+          "Army_3": "Lucan    ,2,F,E,E,X,E",
+          "Army_4": "Wandering,3,E,F,E,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION2",
+      "case": {
+        "region": 2,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Aeolus     ,1,X,E,E,E,F",
+          "Army_1": "Cornelius  ,0,E,X,F,F,E",
+          "Army_2": "Lucan      ,2,E,F,X,F,E",
+          "Army_3": "Twigkindle ,6,E,F,F,X,E",
+          "Army_4": "Wandering  ,3,F,E,E,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION3",
+      "case": {
+        "region": 3,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius ,0,X,E,E,E,E",
+          "Army_1": "Dionysus  ,1,E,X,F,F,F",
+          "Army_2": "Ariadne   ,5,E,F,X,F,F",
+          "Army_3": "NULL      ,2,F,F,F,X,F",
+          "Army_4": "Wandering ,3,E,F,F,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION4",
+      "case": {
+        "region": 4,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius    ,0,X,F,F,E,E,F,F",
+          "Army_1": "Lucan        ,2,F,X,F,E,E,F,F",
+          "Army_2": "Oracle       ,5,F,F,X,F,F,F,F",
+          "Army_3": "Gaea         ,1,E,E,E,X,F,E,E",
+          "Army_4": "Wandering    ,3,E,E,F,F,X,E,E",
+          "Army_5": "Redcap_King  ,4,F,F,F,F,F,X,E",
+          "Army_6": "Centaur_King ,6,F,F,F,F,F,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6",
+          "Army_7"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION5",
+      "case": {
+        "region": 5,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Mobus       ,4,X,E,F,F,F",
+          "Army_1": "Cornelius   ,0,E,X,E,E,E",
+          "Army_2": "Philoctetes ,1,F,E,X,F,F",
+          "Army_3": "Fauns       ,6,F,E,F,X,F",
+          "Army_4": "Eyes        ,7,F,E,F,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION6",
+      "case": {
+        "region": 6,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering        ,3,X,E,E,F,F",
+          "Army_1": "Cornelius        ,0,E,X,F,E,E",
+          "Army_2": "Lucan            ,2,E,F,X,E,E",
+          "Army_3": "Charon           ,1,F,E,E,X,F",
+          "Army_4": "Pancrea          ,4,F,E,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION7",
+      "case": {
+        "region": 7,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering        ,3,X,E,F,F,E,F",
+          "Army_1": "Cornelius        ,0,E,X,E,E,F,E",
+          "Army_2": "Cadmus           ,1,F,E,X,F,E,F",
+          "Army_3": "Percival         ,5,F,F,F,X,F,F",
+          "Army_4": "Lucan            ,2,E,F,E,F,X,E",
+          "Army_5": "Overlord         ,1,F,E,F,F,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION8",
+      "case": {
+        "region": 8,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "WANDERING        ,3,X,E,E,F,F",
+          "Army_1": "Cornelius        ,0,E,X,F,E,E",
+          "Army_2": "Lucan            ,2,E,F,X,F,F",
+          "Army_3": "Aeetes           ,1,F,F,F,X,F",
+          "Army_4": "Medea            ,4,F,F,F,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION9",
+      "case": {
+        "region": 9,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering        ,3,X,E,F",
+          "Army_1": "Cornelius        ,0,E,X,F",
+          "Army_2": "Theseus          ,6,F,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION10",
+      "case": {
+        "region": 10,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering        ,3,X,E,E,F,F,F,F",
+          "Army_1": "Cornelius        ,0,E,X,F,E,E,E,E",
+          "Army_2": "Lucan            ,2,E,F,X,E,E,E,E",
+          "Army_3": "Ariadne          ,5,F,F,F,X,F,F,F",
+          "Army_4": "Heracles         ,1,F,E,E,F,X,F,F",
+          "Army_5": "Ixion            ,4,F,E,E,F,F,X,F",
+          "Army_6": "Sisyphus         ,7,F,E,E,F,F,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6",
+          "Army_7"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION11",
+      "case": {
+        "region": 11,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius        ,0,X,F,F,E,E",
+          "Army_1": "Lucan            ,2,F,X,F,E,E",
+          "Army_2": "Ariadne          ,5,F,F,X,E,E",
+          "Army_3": "Medea            ,1,E,E,E,X,F",
+          "Army_4": "Wandering        ,3,E,E,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Greek",
+      "section": "REGION12",
+      "case": {
+        "region": 12,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "WANDERING        ,3,X,E,F,E,E",
+          "Army_1": "Cornelius        ,0,E,X,E,F,F",
+          "Army_2": "Medea            ,1,F,E,X,E,E",
+          "Army_3": "Lucan            ,2,E,F,E,X,F",
+          "Army_4": "Ariadne          ,5,E,F,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION0",
+      "case": {
+        "region": 0,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "WANDERING    ,3,X,E,F,F",
+          "Army_1": "Cornelius    ,6,E,X,E,E",
+          "Army_2": "King_Belinus ,0,F,E,X,F",
+          "Army_3": "Bob          ,4,F,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION1",
+      "case": {
+        "region": 1,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering   ,3,X,E,F,E,E",
+          "Army_1": "Cornelius   ,0,E,X,E,F,F",
+          "Army_2": "Gurgurant   ,1,F,E,X,E,E",
+          "Army_3": "Lucan       ,2,E,F,E,X,F",
+          "Army_4": "Ariadne     ,5,E,F,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION2",
+      "case": {
+        "region": 2,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering   ,3,X,E,E,E,E,F",
+          "Army_1": "Cornelius   ,0,E,X,E,F,F,E",
+          "Army_2": "Lucan       ,2,E,F,X,F,F,E",
+          "Army_3": "Ariadne     ,5,E,F,F,X,F,E",
+          "Army_4": "Lancelot    ,6,E,F,F,F,X,E",
+          "Army_5": "Ackerhan    ,1,F,E,E,E,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION3",
+      "case": {
+        "region": 3,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering   ,3,X,E,E,F,E",
+          "Army_1": "Cornelius   ,0,E,X,F,E,F",
+          "Army_2": "Ariadne     ,5,E,F,X,E,F",
+          "Army_3": "Eliavres    ,1,F,E,E,X,E",
+          "Army_4": "GateKeeper  ,6,E,F,F,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION4",
+      "case": {
+        "region": 4,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering    ,3,X,E,E,F,F,F,E",
+          "Army_1": "Cornelius    ,0,E,X,F,E,E,F,F",
+          "Army_2": "Ariadne      ,5,E,F,X,E,E,F,F",
+          "Army_3": "Mordred      ,1,F,E,E,X,F,E,F",
+          "Army_4": "Gwion        ,4,F,E,E,F,X,E,F",
+          "Army_5": "Ambrosius    ,2,F,F,F,E,F,X,F",
+          "Army_6": "KreepinSocks ,6,E,F,F,F,F,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6",
+          "Army_7"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION5",
+      "case": {
+        "region": 5,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering   ,3,X,E,F,E,E",
+          "Army_1": "Cornelius   ,0,E,X,E,F,E",
+          "Army_2": "Evrain      ,1,F,E,X,E,F",
+          "Army_3": "Ariadne     ,5,E,F,E,X,E",
+          "Army_4": "Gargantua   ,6,F,E,F,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION6",
+      "case": {
+        "region": 6,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering   ,3,X,E,F,E,F",
+          "Army_1": "Cornelius   ,0,E,X,F,F,F",
+          "Army_2": "Esclados    ,1,F,F,X,F,F",
+          "Army_3": "Ariadne     ,5,E,F,F,X,F",
+          "Army_4": "Mange       ,4,F,F,F,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION7",
+      "case": {
+        "region": 7,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering   ,3,X,E,F,F,E,E",
+          "Army_1": "Cornelius   ,0,E,X,E,E,F,F",
+          "Army_2": "Felerina    ,1,F,E,X,F,E,E",
+          "Army_3": "Spinoza     ,4,F,E,F,X,E,E",
+          "Army_4": "Ariadne     ,5,E,F,E,E,X,F",
+          "Army_5": "Knights     ,6,E,F,E,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION8",
+      "case": {
+        "region": 8,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering   ,3,X,E,E,E,E,F,F",
+          "Army_1": "Cornelius   ,0,E,X,F,F,F,E,E",
+          "Army_2": "Ariadne     ,5,E,F,X,F,F,E,E",
+          "Army_3": "Lucan       ,2,E,F,F,X,F,E,E",
+          "Army_4": "Lancelot    ,6,E,F,F,F,X,E,E",
+          "Army_5": "Overlord    ,1,F,E,E,E,E,X,F",
+          "Army_6": "Gwilliam    ,4,F,E,E,F,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6",
+          "Army_7"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION9",
+      "case": {
+        "region": 9,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering     ,3,X,E,F,E,F,E,E,F",
+          "Army_1": "Cornelius     ,0,E,X,E,F,E,F,F,F",
+          "Army_2": "Mordred       ,1,F,E,X,E,F,E,E,F",
+          "Army_3": "Ariadne       ,5,E,F,E,X,E,F,F,F",
+          "Army_4": "Apprentice    ,4,F,E,F,E,X,E,E,F",
+          "Army_5": "Tristan       ,6,E,F,E,F,E,X,E,F",
+          "Army_6": "Palomides     ,7,E,F,E,F,E,E,X,F",
+          "Army_7": "StonedKnights ,0,F,F,F,F,F,F,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6",
+          "Army_7"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION10",
+      "case": {
+        "region": 10,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering   ,3,X,E,E,F,F",
+          "Army_1": "Cornelius   ,0,E,X,F,E,E",
+          "Army_2": "Ariadne     ,5,E,F,X,E,E",
+          "Army_3": "Bagrif      ,4,F,E,E,X,F",
+          "Army_4": "Malduc      ,1,F,E,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION11",
+      "case": {
+        "region": 11,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering   ,3,X,E,E,F,F",
+          "Army_1": "Cornelius   ,0,E,X,E,E,E",
+          "Army_2": "Galahad     ,2,E,E,X,E,E",
+          "Army_3": "Dragulya    ,4,F,E,E,X,F",
+          "Army_4": "Brasitas    ,1,F,E,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION12",
+      "case": {
+        "region": 12,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius   ,0,X,F,F,E,E,E,E",
+          "Army_1": "Pellinore   ,2,F,X,F,F,F,F,E",
+          "Army_2": "Talos       ,5,F,F,X,F,F,F,F",
+          "Army_3": "Law         ,4,E,F,E,X,E,F,F",
+          "Army_4": "Chaos       ,7,E,F,E,E,X,F,F",
+          "Army_5": "Morgause    ,1,E,F,E,F,F,X,F",
+          "Army_6": "Unicorn     ,6,E,E,F,F,F,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6",
+          "Army_7"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION13",
+      "case": {
+        "region": 13,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering   ,3,X,E,E,F",
+          "Army_1": "Cornelius   ,0,E,X,F,E",
+          "Army_2": "Kay         ,2,F,F,X,F",
+          "Army_3": "Valerin     ,1,F,E,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION14",
+      "case": {
+        "region": 14,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Hostile      ,3,X,E,E,E,F,E",
+          "Army_1": "Cornelius    ,0,E,X,F,F,E,F",
+          "Army_2": "Ariadne      ,5,E,F,X,F,E,F",
+          "Army_3": "Lancelot     ,6,E,F,F,X,E,F",
+          "Army_4": "Mordred      ,1,F,E,E,E,X,E",
+          "Army_5": "Friendly     ,4,E,F,F,F,E,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION15",
+      "case": {
+        "region": 15,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Wandering    ,1,X,E,E",
+          "Army_1": "Cornelius    ,0,E,X,F",
+          "Army_2": "Ariadne      ,5,E,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3"
+        ],
+        "error_messages": []
+      }
+    },
+    {
+      "realm": "Medieval",
+      "section": "REGION16",
+      "case": {
+        "region": 16,
+        "fill": 165,
+        "cwd": "X:\\isolated",
+        "entries": {
+          "Army_0": "Cornelius         ,0,X,F,F,F,E,E,E,F",
+          "Army_1": "Ariadne           ,5,F,X,F,F,E,E,E,F",
+          "Army_2": "Percival          ,6,F,F,X,F,E,E,E,F",
+          "Army_3": "UndeadLucan       ,2,F,F,F,X,E,E,E,F",
+          "Army_4": "ChaosOverlord     ,1,E,E,E,E,X,F,F,F",
+          "Army_5": "NeutralOverlord   ,1,E,E,E,E,F,X,F,F",
+          "Army_6": "LawOverlord       ,1,E,E,E,E,F,F,X,F",
+          "Army_7": "Wandering         ,3,E,E,E,E,F,F,F,X"
+        },
+        "result": 1,
+        "queries": [
+          "Army_0",
+          "Army_1",
+          "Army_2",
+          "Army_3",
+          "Army_4",
+          "Army_5",
+          "Army_6",
+          "Army_7"
+        ],
+        "error_messages": []
+      }
+    }
+  ],
+  "sources": [
+    {
+      "path": "D:\\Games\\Magic&Mayham\\modernization\\playtests\\remastered-1.1-p1\\runtime\\Realms\\Celtic\\Celtic.cfg",
+      "sha256": "da0b0d18f5ad349d67d298e18e0982b22286c1ff2311b058d274c8730a367a0e"
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham\\modernization\\playtests\\remastered-1.1-p1\\runtime\\Realms\\Greek\\Greek.cfg",
+      "sha256": "417a8bd9aef2c2b4b282548a50be61739f0fab579cda69e85f19cd220f2bf492"
+    },
+    {
+      "path": "D:\\Games\\Magic&Mayham\\modernization\\playtests\\remastered-1.1-p1\\runtime\\Realms\\Medieval\\Medieval.cfg",
+      "sha256": "40a1f877fe32c520499541790f21adcb6989e8cbf28ba36698e061879050541e"
+    }
+  ],
+  "scope": "Whole465c60. OnlyWin32 cwd/profile,CRT sprintf,anderror display doubled. Actualstrtok59c99c,strchr59c8e0,isdigit59c6e7,atoi59c5a4/59c519,stricmp59db40 execute with diskC-locale tables. Fullaa8 snapshots/AL/stack/globalpointer/errors independentlychecked. Synthetic8slot/mixedrelation/cwd/failure domains andallREGION sections ofthree shipped realmconfigs. No gameIO/playerchanges. API/localization/INI semantics outside fixtures,subsequentrole/wizard/20-28tablewriters/save/network pending."
+}

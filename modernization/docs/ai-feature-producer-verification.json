@@ -1,0 +1,2947 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "selector": 1,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 2
+    },
+    {
+      "selector": 2,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 150
+    },
+    {
+      "selector": 4,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 42
+    },
+    {
+      "selector": 5,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 53
+    },
+    {
+      "selector": 8,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 16
+    },
+    {
+      "selector": 10,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 320
+    },
+    {
+      "selector": 13,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 34
+    },
+    {
+      "selector": 14,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 20
+    },
+    {
+      "selector": 15,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 26
+    },
+    {
+      "selector": 16,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 17,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 22
+    },
+    {
+      "selector": 18,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 19,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 21,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 0
+    },
+    {
+      "selector": 27,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 35
+    },
+    {
+      "selector": 28,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 106
+    },
+    {
+      "selector": 29,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 45
+    },
+    {
+      "selector": 30,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 106
+    },
+    {
+      "selector": 31,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 40
+    },
+    {
+      "selector": 32,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 50
+    },
+    {
+      "selector": 33,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 50
+    },
+    {
+      "selector": 34,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 97
+    },
+    {
+      "selector": 56,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 0
+    },
+    {
+      "selector": 57,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 0
+    },
+    {
+      "selector": 1,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 1
+    },
+    {
+      "selector": 2,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 201
+    },
+    {
+      "selector": 4,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 53
+    },
+    {
+      "selector": 5,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 65
+    },
+    {
+      "selector": 8,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 20
+    },
+    {
+      "selector": 10,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 200
+    },
+    {
+      "selector": 13,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 40
+    },
+    {
+      "selector": 14,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 25
+    },
+    {
+      "selector": 15,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 31
+    },
+    {
+      "selector": 16,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 1
+    },
+    {
+      "selector": 17,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 24
+    },
+    {
+      "selector": 18,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 19,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 21,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 27,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 40
+    },
+    {
+      "selector": 28,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 65
+    },
+    {
+      "selector": 29,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 24
+    },
+    {
+      "selector": 30,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 65
+    },
+    {
+      "selector": 31,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 23
+    },
+    {
+      "selector": 32,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 33,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 100
+    },
+    {
+      "selector": 34,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 117
+    },
+    {
+      "selector": 56,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 57,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 1,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 2,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 4,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 5,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 8,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 10,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 13,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 14,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 15,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 16,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 17,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 18,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 19,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 21,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 27,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 28,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 29,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 30,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 31,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 32,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 33,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 34,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 56,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 57,
+      "side": "own",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 1,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 2
+    },
+    {
+      "selector": 2,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 150
+    },
+    {
+      "selector": 4,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 28
+    },
+    {
+      "selector": 5,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 36
+    },
+    {
+      "selector": 8,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 16
+    },
+    {
+      "selector": 10,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 320
+    },
+    {
+      "selector": 13,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 34
+    },
+    {
+      "selector": 14,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 20
+    },
+    {
+      "selector": 15,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 26
+    },
+    {
+      "selector": 16,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 17,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 16
+    },
+    {
+      "selector": 18,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 19,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 21,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 0
+    },
+    {
+      "selector": 27,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 35
+    },
+    {
+      "selector": 28,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 73
+    },
+    {
+      "selector": 29,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 33
+    },
+    {
+      "selector": 30,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 73
+    },
+    {
+      "selector": 31,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 40
+    },
+    {
+      "selector": 32,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 50
+    },
+    {
+      "selector": 33,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 50
+    },
+    {
+      "selector": 34,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 97
+    },
+    {
+      "selector": 56,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 57,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 50
+    },
+    {
+      "selector": 1,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 1
+    },
+    {
+      "selector": 2,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 201
+    },
+    {
+      "selector": 4,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 26
+    },
+    {
+      "selector": 5,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 32
+    },
+    {
+      "selector": 8,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 20
+    },
+    {
+      "selector": 10,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 200
+    },
+    {
+      "selector": 13,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 40
+    },
+    {
+      "selector": 14,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 25
+    },
+    {
+      "selector": 15,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 31
+    },
+    {
+      "selector": 16,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 1
+    },
+    {
+      "selector": 17,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 12
+    },
+    {
+      "selector": 18,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 19,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 21,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 27,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 40
+    },
+    {
+      "selector": 28,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 32
+    },
+    {
+      "selector": 29,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 12
+    },
+    {
+      "selector": 30,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 32
+    },
+    {
+      "selector": 31,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 23
+    },
+    {
+      "selector": 32,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 33,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 100
+    },
+    {
+      "selector": 34,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 117
+    },
+    {
+      "selector": 56,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 1
+    },
+    {
+      "selector": 57,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 100
+    },
+    {
+      "selector": 1,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 2,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 4,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 5,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 8,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 10,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 13,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 14,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 15,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 16,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 17,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 18,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 19,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 21,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 27,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 28,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 29,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 30,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 31,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 32,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 33,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 34,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 56,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 57,
+      "side": "own",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 59,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 2
+    },
+    {
+      "selector": 60,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 150
+    },
+    {
+      "selector": 62,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 42
+    },
+    {
+      "selector": 63,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 53
+    },
+    {
+      "selector": 66,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 16
+    },
+    {
+      "selector": 68,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 320
+    },
+    {
+      "selector": 71,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 34
+    },
+    {
+      "selector": 72,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 20
+    },
+    {
+      "selector": 73,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 26
+    },
+    {
+      "selector": 74,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 75,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 22
+    },
+    {
+      "selector": 76,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 77,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 79,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 0
+    },
+    {
+      "selector": 85,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 35
+    },
+    {
+      "selector": 86,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 106
+    },
+    {
+      "selector": 87,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 45
+    },
+    {
+      "selector": 88,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 106
+    },
+    {
+      "selector": 89,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 40
+    },
+    {
+      "selector": 90,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 50
+    },
+    {
+      "selector": 91,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 50
+    },
+    {
+      "selector": 92,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 0,
+      "value": 97
+    },
+    {
+      "selector": 59,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 1
+    },
+    {
+      "selector": 60,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 201
+    },
+    {
+      "selector": 62,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 53
+    },
+    {
+      "selector": 63,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 65
+    },
+    {
+      "selector": 66,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 20
+    },
+    {
+      "selector": 68,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 200
+    },
+    {
+      "selector": 71,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 40
+    },
+    {
+      "selector": 72,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 25
+    },
+    {
+      "selector": 73,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 31
+    },
+    {
+      "selector": 74,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 1
+    },
+    {
+      "selector": 75,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 24
+    },
+    {
+      "selector": 76,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 77,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 79,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 85,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 40
+    },
+    {
+      "selector": 86,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 65
+    },
+    {
+      "selector": 87,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 24
+    },
+    {
+      "selector": 88,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 65
+    },
+    {
+      "selector": 89,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 23
+    },
+    {
+      "selector": 90,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 91,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 100
+    },
+    {
+      "selector": 92,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 1,
+      "value": 117
+    },
+    {
+      "selector": 59,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 60,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 62,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 63,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 66,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 68,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 71,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 72,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 73,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 74,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 75,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 76,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 77,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 79,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 85,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 86,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 87,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 88,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 89,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 90,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 91,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 92,
+      "side": "enemy",
+      "illusion": false,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 59,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 2
+    },
+    {
+      "selector": 60,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 150
+    },
+    {
+      "selector": 62,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 42
+    },
+    {
+      "selector": 63,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 53
+    },
+    {
+      "selector": 66,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 16
+    },
+    {
+      "selector": 68,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 320
+    },
+    {
+      "selector": 71,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 34
+    },
+    {
+      "selector": 72,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 20
+    },
+    {
+      "selector": 73,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 26
+    },
+    {
+      "selector": 74,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 75,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 22
+    },
+    {
+      "selector": 76,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 77,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 1
+    },
+    {
+      "selector": 79,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 0
+    },
+    {
+      "selector": 85,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 35
+    },
+    {
+      "selector": 86,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 106
+    },
+    {
+      "selector": 87,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 45
+    },
+    {
+      "selector": 88,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 106
+    },
+    {
+      "selector": 89,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 40
+    },
+    {
+      "selector": 90,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 50
+    },
+    {
+      "selector": 91,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 50
+    },
+    {
+      "selector": 92,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 0,
+      "value": 97
+    },
+    {
+      "selector": 59,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 1
+    },
+    {
+      "selector": 60,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 201
+    },
+    {
+      "selector": 62,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 53
+    },
+    {
+      "selector": 63,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 65
+    },
+    {
+      "selector": 66,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 20
+    },
+    {
+      "selector": 68,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 200
+    },
+    {
+      "selector": 71,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 40
+    },
+    {
+      "selector": 72,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 25
+    },
+    {
+      "selector": 73,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 31
+    },
+    {
+      "selector": 74,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 1
+    },
+    {
+      "selector": 75,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 24
+    },
+    {
+      "selector": 76,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 77,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 79,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 85,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 40
+    },
+    {
+      "selector": 86,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 65
+    },
+    {
+      "selector": 87,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 24
+    },
+    {
+      "selector": 88,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 65
+    },
+    {
+      "selector": 89,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 23
+    },
+    {
+      "selector": 90,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 0
+    },
+    {
+      "selector": 91,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 100
+    },
+    {
+      "selector": 92,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 1,
+      "value": 117
+    },
+    {
+      "selector": 59,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 60,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 62,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 63,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 66,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 68,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 71,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 72,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 73,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 74,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 75,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 76,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 77,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 79,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 85,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 86,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 87,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 88,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 89,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 90,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 91,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 92,
+      "side": "enemy",
+      "illusion": true,
+      "cutoff": 2,
+      "value": 0
+    },
+    {
+      "selector": 37,
+      "side": "own",
+      "budget": 0,
+      "value": 1,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 38,
+      "side": "own",
+      "budget": 0,
+      "value": 2,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 39,
+      "side": "own",
+      "budget": 0,
+      "value": 3,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 40,
+      "side": "own",
+      "budget": 0,
+      "value": 4,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 41,
+      "side": "own",
+      "budget": 0,
+      "value": 5,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 42,
+      "side": "own",
+      "budget": 0,
+      "value": 6,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 43,
+      "side": "own",
+      "budget": 0,
+      "value": 7,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 44,
+      "side": "own",
+      "budget": 0,
+      "value": 8,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 45,
+      "side": "own",
+      "budget": 0,
+      "value": 9,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 46,
+      "side": "own",
+      "budget": 0,
+      "value": 10,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 47,
+      "side": "own",
+      "budget": 0,
+      "value": 11,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 48,
+      "side": "own",
+      "budget": 0,
+      "value": 12,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 49,
+      "side": "own",
+      "budget": 0,
+      "value": 13,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 50,
+      "side": "own",
+      "budget": 0,
+      "value": 14,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 51,
+      "side": "own",
+      "budget": 0,
+      "value": 15,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 52,
+      "side": "own",
+      "budget": 0,
+      "value": 16,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 53,
+      "side": "own",
+      "budget": 0,
+      "value": 17,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 54,
+      "side": "own",
+      "budget": 0,
+      "value": 18,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 37,
+      "side": "own",
+      "budget": 9,
+      "value": 1,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 38,
+      "side": "own",
+      "budget": 9,
+      "value": 2,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 39,
+      "side": "own",
+      "budget": 9,
+      "value": 3,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 40,
+      "side": "own",
+      "budget": 9,
+      "value": 4,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 41,
+      "side": "own",
+      "budget": 9,
+      "value": 5,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 42,
+      "side": "own",
+      "budget": 9,
+      "value": 6,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 43,
+      "side": "own",
+      "budget": 9,
+      "value": 7,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 44,
+      "side": "own",
+      "budget": 9,
+      "value": 8,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 45,
+      "side": "own",
+      "budget": 9,
+      "value": 9,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 46,
+      "side": "own",
+      "budget": 9,
+      "value": 10,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 47,
+      "side": "own",
+      "budget": 9,
+      "value": 11,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 48,
+      "side": "own",
+      "budget": 9,
+      "value": 12,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 49,
+      "side": "own",
+      "budget": 9,
+      "value": 13,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 50,
+      "side": "own",
+      "budget": 9,
+      "value": 14,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 51,
+      "side": "own",
+      "budget": 9,
+      "value": 15,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 52,
+      "side": "own",
+      "budget": 9,
+      "value": 16,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 53,
+      "side": "own",
+      "budget": 9,
+      "value": 17,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 54,
+      "side": "own",
+      "budget": 9,
+      "value": 18,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 37,
+      "side": "own",
+      "budget": 10,
+      "value": 3,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 38,
+      "side": "own",
+      "budget": 10,
+      "value": 6,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 39,
+      "side": "own",
+      "budget": 10,
+      "value": 9,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 40,
+      "side": "own",
+      "budget": 10,
+      "value": 12,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 41,
+      "side": "own",
+      "budget": 10,
+      "value": 15,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 42,
+      "side": "own",
+      "budget": 10,
+      "value": 18,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 43,
+      "side": "own",
+      "budget": 10,
+      "value": 21,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 44,
+      "side": "own",
+      "budget": 10,
+      "value": 24,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 45,
+      "side": "own",
+      "budget": 10,
+      "value": 27,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 46,
+      "side": "own",
+      "budget": 10,
+      "value": 30,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 47,
+      "side": "own",
+      "budget": 10,
+      "value": 33,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 48,
+      "side": "own",
+      "budget": 10,
+      "value": 36,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 49,
+      "side": "own",
+      "budget": 10,
+      "value": 39,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 50,
+      "side": "own",
+      "budget": 10,
+      "value": 42,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 51,
+      "side": "own",
+      "budget": 10,
+      "value": 45,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 52,
+      "side": "own",
+      "budget": 10,
+      "value": 48,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 53,
+      "side": "own",
+      "budget": 10,
+      "value": 51,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 54,
+      "side": "own",
+      "budget": 10,
+      "value": 54,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 37,
+      "side": "own",
+      "budget": 11,
+      "value": 6,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 38,
+      "side": "own",
+      "budget": 11,
+      "value": 12,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 39,
+      "side": "own",
+      "budget": 11,
+      "value": 18,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 40,
+      "side": "own",
+      "budget": 11,
+      "value": 24,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 41,
+      "side": "own",
+      "budget": 11,
+      "value": 30,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 42,
+      "side": "own",
+      "budget": 11,
+      "value": 36,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 43,
+      "side": "own",
+      "budget": 11,
+      "value": 42,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 44,
+      "side": "own",
+      "budget": 11,
+      "value": 48,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 45,
+      "side": "own",
+      "budget": 11,
+      "value": 54,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 46,
+      "side": "own",
+      "budget": 11,
+      "value": 60,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 47,
+      "side": "own",
+      "budget": 11,
+      "value": 66,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 48,
+      "side": "own",
+      "budget": 11,
+      "value": 72,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 49,
+      "side": "own",
+      "budget": 11,
+      "value": 78,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 50,
+      "side": "own",
+      "budget": 11,
+      "value": 84,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 51,
+      "side": "own",
+      "budget": 11,
+      "value": 90,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 52,
+      "side": "own",
+      "budget": 11,
+      "value": 96,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 53,
+      "side": "own",
+      "budget": 11,
+      "value": 102,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 54,
+      "side": "own",
+      "budget": 11,
+      "value": 108,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 95,
+      "side": "enemy",
+      "budget": 0,
+      "value": 1,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 96,
+      "side": "enemy",
+      "budget": 0,
+      "value": 2,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 97,
+      "side": "enemy",
+      "budget": 0,
+      "value": 3,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 98,
+      "side": "enemy",
+      "budget": 0,
+      "value": 4,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 99,
+      "side": "enemy",
+      "budget": 0,
+      "value": 5,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 100,
+      "side": "enemy",
+      "budget": 0,
+      "value": 6,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 101,
+      "side": "enemy",
+      "budget": 0,
+      "value": 7,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 102,
+      "side": "enemy",
+      "budget": 0,
+      "value": 8,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 103,
+      "side": "enemy",
+      "budget": 0,
+      "value": 9,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 104,
+      "side": "enemy",
+      "budget": 0,
+      "value": 10,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 105,
+      "side": "enemy",
+      "budget": 0,
+      "value": 11,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 106,
+      "side": "enemy",
+      "budget": 0,
+      "value": 12,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 107,
+      "side": "enemy",
+      "budget": 0,
+      "value": 13,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 108,
+      "side": "enemy",
+      "budget": 0,
+      "value": 14,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 109,
+      "side": "enemy",
+      "budget": 0,
+      "value": 15,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 110,
+      "side": "enemy",
+      "budget": 0,
+      "value": 16,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 111,
+      "side": "enemy",
+      "budget": 0,
+      "value": 17,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 112,
+      "side": "enemy",
+      "budget": 0,
+      "value": 18,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 95,
+      "side": "enemy",
+      "budget": 9,
+      "value": 1,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 96,
+      "side": "enemy",
+      "budget": 9,
+      "value": 2,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 97,
+      "side": "enemy",
+      "budget": 9,
+      "value": 3,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 98,
+      "side": "enemy",
+      "budget": 9,
+      "value": 4,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 99,
+      "side": "enemy",
+      "budget": 9,
+      "value": 5,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 100,
+      "side": "enemy",
+      "budget": 9,
+      "value": 6,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 101,
+      "side": "enemy",
+      "budget": 9,
+      "value": 7,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 102,
+      "side": "enemy",
+      "budget": 9,
+      "value": 8,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 103,
+      "side": "enemy",
+      "budget": 9,
+      "value": 9,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 104,
+      "side": "enemy",
+      "budget": 9,
+      "value": 10,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 105,
+      "side": "enemy",
+      "budget": 9,
+      "value": 11,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 106,
+      "side": "enemy",
+      "budget": 9,
+      "value": 12,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 107,
+      "side": "enemy",
+      "budget": 9,
+      "value": 13,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 108,
+      "side": "enemy",
+      "budget": 9,
+      "value": 14,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 109,
+      "side": "enemy",
+      "budget": 9,
+      "value": 15,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 110,
+      "side": "enemy",
+      "budget": 9,
+      "value": 16,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 111,
+      "side": "enemy",
+      "budget": 9,
+      "value": 17,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 112,
+      "side": "enemy",
+      "budget": 9,
+      "value": 18,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 95,
+      "side": "enemy",
+      "budget": 10,
+      "value": 3,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 96,
+      "side": "enemy",
+      "budget": 10,
+      "value": 6,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 97,
+      "side": "enemy",
+      "budget": 10,
+      "value": 9,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 98,
+      "side": "enemy",
+      "budget": 10,
+      "value": 12,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 99,
+      "side": "enemy",
+      "budget": 10,
+      "value": 15,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 100,
+      "side": "enemy",
+      "budget": 10,
+      "value": 18,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 101,
+      "side": "enemy",
+      "budget": 10,
+      "value": 21,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 102,
+      "side": "enemy",
+      "budget": 10,
+      "value": 24,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 103,
+      "side": "enemy",
+      "budget": 10,
+      "value": 27,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 104,
+      "side": "enemy",
+      "budget": 10,
+      "value": 30,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 105,
+      "side": "enemy",
+      "budget": 10,
+      "value": 33,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 106,
+      "side": "enemy",
+      "budget": 10,
+      "value": 36,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 107,
+      "side": "enemy",
+      "budget": 10,
+      "value": 39,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 108,
+      "side": "enemy",
+      "budget": 10,
+      "value": 42,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 109,
+      "side": "enemy",
+      "budget": 10,
+      "value": 45,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 110,
+      "side": "enemy",
+      "budget": 10,
+      "value": 48,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 111,
+      "side": "enemy",
+      "budget": 10,
+      "value": 51,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 112,
+      "side": "enemy",
+      "budget": 10,
+      "value": 54,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 95,
+      "side": "enemy",
+      "budget": 11,
+      "value": 6,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 96,
+      "side": "enemy",
+      "budget": 11,
+      "value": 12,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 97,
+      "side": "enemy",
+      "budget": 11,
+      "value": 18,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 98,
+      "side": "enemy",
+      "budget": 11,
+      "value": 24,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 99,
+      "side": "enemy",
+      "budget": 11,
+      "value": 30,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 100,
+      "side": "enemy",
+      "budget": 11,
+      "value": 36,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 101,
+      "side": "enemy",
+      "budget": 11,
+      "value": 42,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 102,
+      "side": "enemy",
+      "budget": 11,
+      "value": 48,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 103,
+      "side": "enemy",
+      "budget": 11,
+      "value": 54,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 104,
+      "side": "enemy",
+      "budget": 11,
+      "value": 60,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 105,
+      "side": "enemy",
+      "budget": 11,
+      "value": 66,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 106,
+      "side": "enemy",
+      "budget": 11,
+      "value": 72,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 107,
+      "side": "enemy",
+      "budget": 11,
+      "value": 78,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 108,
+      "side": "enemy",
+      "budget": 11,
+      "value": 84,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 109,
+      "side": "enemy",
+      "budget": 11,
+      "value": 90,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 110,
+      "side": "enemy",
+      "budget": 11,
+      "value": 96,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 111,
+      "side": "enemy",
+      "budget": 11,
+      "value": 102,
+      "dependency": "spell availability/delay explicitly stubbed"
+    },
+    {
+      "selector": 112,
+      "side": "enemy",
+      "budget": 11,
+      "value": 108,
+      "dependency": "spell availability/delay explicitly stubbed"
+    }
+  ],
+  "scope": "Real40b420,varargs/vector insertion,recursive groups.276 direct-field cases without stubs;144 capability cases with only40a950 availability/delay stubbed. Enemy has54 group selectors; own55..58 lack mirrors. Other producers pending."
+}

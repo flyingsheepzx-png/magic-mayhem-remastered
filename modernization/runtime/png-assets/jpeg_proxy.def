@@ -1,0 +1,3 @@
+LIBRARY jpeg
+EXPORTS
+ ?jpeg_read@@YI_NPADPAXHHHH@Z=jpeg_native.?jpeg_read@@YI_NPADPAXHHHH@Z @1

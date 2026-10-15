@@ -1,0 +1,8967 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 0,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 1,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 2,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 3,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 4,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 5,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 6,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 0,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 1,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 2,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 4,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 8,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 16,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 32,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 64,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 128,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 0,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 0,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 1,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 2,
+      "relation": 255,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 0,
+      "result": 1
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 1,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 2,
+      "result": 0
+    },
+    {
+      "owner": 7,
+      "active_mask": 255,
+      "role": 4294967295,
+      "relation": 255,
+      "result": 0
+    }
+  ],
+  "scope": "Whole466980 no doubles. Exists slot0..7 with profile+0 nonzero,+4 nonzero and byte+18+owner equal0. Meaning of+4/profile producer and relationship matrix initialization still pending; no self exclusion beyond table contents."
+}

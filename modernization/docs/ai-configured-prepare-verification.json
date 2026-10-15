@@ -1,0 +1,141 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "config_path": "D:\\Games\\Magic&Mayham_Remastered_1.1\\runtime\\CFG\\effectani.cfg",
+  "config_sha256": "a0f832ea4c128d474a84f000735289715b9da3edd074d5af0b6a5e3956def2f8",
+  "cases": [
+    {
+      "action_id": 21,
+      "effect_directory_index": 74,
+      "animation": 14,
+      "asset": "effects3.ani",
+      "asset_sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "first_event": 1,
+      "steps": 31,
+      "action_delay": 0,
+      "duration": 36
+    },
+    {
+      "action_id": 21,
+      "effect_directory_index": 74,
+      "animation": 14,
+      "asset": "effects3.ani",
+      "asset_sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "first_event": 1,
+      "steps": 31,
+      "action_delay": 7,
+      "duration": 43
+    },
+    {
+      "action_id": 21,
+      "effect_directory_index": 74,
+      "animation": 14,
+      "asset": "effects3.ani",
+      "asset_sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "first_event": 1,
+      "steps": 31,
+      "action_delay": 40,
+      "duration": 76
+    },
+    {
+      "action_id": 52,
+      "effect_directory_index": 73,
+      "animation": 1,
+      "asset": "effects11.ani",
+      "asset_sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "first_event": 1,
+      "steps": 30,
+      "action_delay": 0,
+      "duration": 35
+    },
+    {
+      "action_id": 52,
+      "effect_directory_index": 73,
+      "animation": 1,
+      "asset": "effects11.ani",
+      "asset_sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "first_event": 1,
+      "steps": 30,
+      "action_delay": 7,
+      "duration": 42
+    },
+    {
+      "action_id": 52,
+      "effect_directory_index": 73,
+      "animation": 1,
+      "asset": "effects11.ani",
+      "asset_sha256": "916ec24b4660ff7905beea1c3a2aeadd8826f22933c41bec19c67937d7082f6b",
+      "first_event": 1,
+      "steps": 30,
+      "action_delay": 40,
+      "duration": 75
+    },
+    {
+      "action_id": 39,
+      "effect_directory_index": 34,
+      "animation": 9,
+      "asset": "effects5.ani",
+      "asset_sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "first_event": 1,
+      "steps": 17,
+      "action_delay": 0,
+      "duration": 25
+    },
+    {
+      "action_id": 39,
+      "effect_directory_index": 34,
+      "animation": 9,
+      "asset": "effects5.ani",
+      "asset_sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "first_event": 1,
+      "steps": 17,
+      "action_delay": 7,
+      "duration": 32
+    },
+    {
+      "action_id": 39,
+      "effect_directory_index": 34,
+      "animation": 9,
+      "asset": "effects5.ani",
+      "asset_sha256": "c2c7d023d7b12965070a0d07086f31a998fd5f7662b89877855946764a480859",
+      "first_event": 1,
+      "steps": 17,
+      "action_delay": 40,
+      "duration": 65
+    },
+    {
+      "action_id": 44,
+      "effect_directory_index": 70,
+      "animation": 12,
+      "asset": "effects3.ani",
+      "asset_sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "first_event": 1,
+      "steps": 18,
+      "action_delay": 0,
+      "duration": 23
+    },
+    {
+      "action_id": 44,
+      "effect_directory_index": 70,
+      "animation": 12,
+      "asset": "effects3.ani",
+      "asset_sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "first_event": 1,
+      "steps": 18,
+      "action_delay": 7,
+      "duration": 30
+    },
+    {
+      "action_id": 44,
+      "effect_directory_index": 70,
+      "animation": 12,
+      "asset": "effects3.ani",
+      "asset_sha256": "88efe1ae9e4d136987e9414695e5c9e1cad1ec74332b8aeeaef0b02d16efb793",
+      "first_event": 1,
+      "steps": 18,
+      "action_delay": 40,
+      "duration": 63
+    }
+  ],
+  "scope": "Whole four mode0 native prepares on raw installed ANI instructions selected by effectani.cfg ANI_offset/16. Directory/bank manually staged,bank index normalized0; config/native file loader transformation unverified. No doubles,no player mutations. Validates configured first-event time conditionally on mapping/byte preservation."
+}

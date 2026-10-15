@@ -1,0 +1,1489 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "delay": 0,
+      "loops": 0,
+      "event": 0,
+      "negative_jump": false,
+      "total_steps": 4,
+      "replay_trace": [
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 0,
+      "loops": 0,
+      "event": 2,
+      "negative_jump": false,
+      "total_steps": 3,
+      "replay_trace": [
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 2
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        }
+      ]
+    },
+    {
+      "delay": 0,
+      "loops": 0,
+      "event": 9,
+      "negative_jump": false,
+      "total_steps": 4,
+      "replay_trace": [
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 0,
+      "loops": 1,
+      "event": 0,
+      "negative_jump": false,
+      "total_steps": 5,
+      "replay_trace": [
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 0,
+      "loops": 1,
+      "event": 2,
+      "negative_jump": false,
+      "total_steps": 4,
+      "replay_trace": [
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 2
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        }
+      ]
+    },
+    {
+      "delay": 0,
+      "loops": 1,
+      "event": 9,
+      "negative_jump": false,
+      "total_steps": 5,
+      "replay_trace": [
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 0,
+      "loops": 3,
+      "event": 0,
+      "negative_jump": false,
+      "total_steps": 7,
+      "replay_trace": [
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 0,
+      "loops": 3,
+      "event": 2,
+      "negative_jump": false,
+      "total_steps": 6,
+      "replay_trace": [
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 2
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        }
+      ]
+    },
+    {
+      "delay": 0,
+      "loops": 3,
+      "event": 9,
+      "negative_jump": false,
+      "total_steps": 7,
+      "replay_trace": [
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 1,
+      "loops": 0,
+      "event": 0,
+      "negative_jump": false,
+      "total_steps": 6,
+      "replay_trace": [
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 1,
+      "loops": 0,
+      "event": 2,
+      "negative_jump": false,
+      "total_steps": 4,
+      "replay_trace": [
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 2
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        }
+      ]
+    },
+    {
+      "delay": 1,
+      "loops": 0,
+      "event": 9,
+      "negative_jump": false,
+      "total_steps": 6,
+      "replay_trace": [
+        {
+          "counter": 4,
+          "result": 9
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 1,
+      "loops": 1,
+      "event": 0,
+      "negative_jump": false,
+      "total_steps": 8,
+      "replay_trace": [
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 1,
+      "loops": 1,
+      "event": 2,
+      "negative_jump": false,
+      "total_steps": 6,
+      "replay_trace": [
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 2
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        }
+      ]
+    },
+    {
+      "delay": 1,
+      "loops": 1,
+      "event": 9,
+      "negative_jump": false,
+      "total_steps": 8,
+      "replay_trace": [
+        {
+          "counter": 6,
+          "result": 9
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 1,
+      "loops": 3,
+      "event": 0,
+      "negative_jump": false,
+      "total_steps": 12,
+      "replay_trace": [
+        {
+          "counter": 10,
+          "result": 0
+        },
+        {
+          "counter": 9,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 12,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 1,
+      "loops": 3,
+      "event": 2,
+      "negative_jump": false,
+      "total_steps": 10,
+      "replay_trace": [
+        {
+          "counter": 8,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 10,
+          "result": 2
+        },
+        {
+          "counter": 9,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 0
+        }
+      ]
+    },
+    {
+      "delay": 1,
+      "loops": 3,
+      "event": 9,
+      "negative_jump": false,
+      "total_steps": 12,
+      "replay_trace": [
+        {
+          "counter": 10,
+          "result": 9
+        },
+        {
+          "counter": 9,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 12,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 4,
+      "loops": 0,
+      "event": 0,
+      "negative_jump": false,
+      "total_steps": 12,
+      "replay_trace": [
+        {
+          "counter": 10,
+          "result": 0
+        },
+        {
+          "counter": 9,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 12,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 4,
+      "loops": 0,
+      "event": 2,
+      "negative_jump": false,
+      "total_steps": 7,
+      "replay_trace": [
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 2
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        }
+      ]
+    },
+    {
+      "delay": 4,
+      "loops": 0,
+      "event": 9,
+      "negative_jump": false,
+      "total_steps": 12,
+      "replay_trace": [
+        {
+          "counter": 10,
+          "result": 0
+        },
+        {
+          "counter": 9,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 9
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 12,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 4,
+      "loops": 1,
+      "event": 0,
+      "negative_jump": false,
+      "total_steps": 17,
+      "replay_trace": [
+        {
+          "counter": 15,
+          "result": 0
+        },
+        {
+          "counter": 14,
+          "result": 0
+        },
+        {
+          "counter": 13,
+          "result": 0
+        },
+        {
+          "counter": 12,
+          "result": 0
+        },
+        {
+          "counter": 11,
+          "result": 0
+        },
+        {
+          "counter": 10,
+          "result": 0
+        },
+        {
+          "counter": 9,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 17,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 4,
+      "loops": 1,
+      "event": 2,
+      "negative_jump": false,
+      "total_steps": 12,
+      "replay_trace": [
+        {
+          "counter": 10,
+          "result": 0
+        },
+        {
+          "counter": 9,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 12,
+          "result": 2
+        },
+        {
+          "counter": 11,
+          "result": 0
+        },
+        {
+          "counter": 10,
+          "result": 0
+        }
+      ]
+    },
+    {
+      "delay": 4,
+      "loops": 1,
+      "event": 9,
+      "negative_jump": false,
+      "total_steps": 17,
+      "replay_trace": [
+        {
+          "counter": 15,
+          "result": 0
+        },
+        {
+          "counter": 14,
+          "result": 0
+        },
+        {
+          "counter": 13,
+          "result": 0
+        },
+        {
+          "counter": 12,
+          "result": 9
+        },
+        {
+          "counter": 11,
+          "result": 0
+        },
+        {
+          "counter": 10,
+          "result": 0
+        },
+        {
+          "counter": 9,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 17,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 4,
+      "loops": 3,
+      "event": 0,
+      "negative_jump": false,
+      "total_steps": 27,
+      "replay_trace": [
+        {
+          "counter": 25,
+          "result": 0
+        },
+        {
+          "counter": 24,
+          "result": 0
+        },
+        {
+          "counter": 23,
+          "result": 0
+        },
+        {
+          "counter": 22,
+          "result": 0
+        },
+        {
+          "counter": 21,
+          "result": 0
+        },
+        {
+          "counter": 20,
+          "result": 0
+        },
+        {
+          "counter": 19,
+          "result": 0
+        },
+        {
+          "counter": 18,
+          "result": 0
+        },
+        {
+          "counter": 17,
+          "result": 0
+        },
+        {
+          "counter": 16,
+          "result": 0
+        },
+        {
+          "counter": 15,
+          "result": 0
+        },
+        {
+          "counter": 14,
+          "result": 0
+        },
+        {
+          "counter": 13,
+          "result": 0
+        },
+        {
+          "counter": 12,
+          "result": 0
+        },
+        {
+          "counter": 11,
+          "result": 0
+        },
+        {
+          "counter": 10,
+          "result": 0
+        },
+        {
+          "counter": 9,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 27,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 4,
+      "loops": 3,
+      "event": 2,
+      "negative_jump": false,
+      "total_steps": 22,
+      "replay_trace": [
+        {
+          "counter": 20,
+          "result": 0
+        },
+        {
+          "counter": 19,
+          "result": 0
+        },
+        {
+          "counter": 18,
+          "result": 0
+        },
+        {
+          "counter": 17,
+          "result": 0
+        },
+        {
+          "counter": 16,
+          "result": 0
+        },
+        {
+          "counter": 15,
+          "result": 0
+        },
+        {
+          "counter": 14,
+          "result": 0
+        },
+        {
+          "counter": 13,
+          "result": 0
+        },
+        {
+          "counter": 12,
+          "result": 0
+        },
+        {
+          "counter": 11,
+          "result": 0
+        },
+        {
+          "counter": 10,
+          "result": 0
+        },
+        {
+          "counter": 9,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 22,
+          "result": 2
+        },
+        {
+          "counter": 21,
+          "result": 0
+        },
+        {
+          "counter": 20,
+          "result": 0
+        }
+      ]
+    },
+    {
+      "delay": 4,
+      "loops": 3,
+      "event": 9,
+      "negative_jump": false,
+      "total_steps": 27,
+      "replay_trace": [
+        {
+          "counter": 25,
+          "result": 0
+        },
+        {
+          "counter": 24,
+          "result": 0
+        },
+        {
+          "counter": 23,
+          "result": 0
+        },
+        {
+          "counter": 22,
+          "result": 9
+        },
+        {
+          "counter": 21,
+          "result": 0
+        },
+        {
+          "counter": 20,
+          "result": 0
+        },
+        {
+          "counter": 19,
+          "result": 0
+        },
+        {
+          "counter": 18,
+          "result": 0
+        },
+        {
+          "counter": 17,
+          "result": 0
+        },
+        {
+          "counter": 16,
+          "result": 0
+        },
+        {
+          "counter": 15,
+          "result": 0
+        },
+        {
+          "counter": 14,
+          "result": 0
+        },
+        {
+          "counter": 13,
+          "result": 0
+        },
+        {
+          "counter": 12,
+          "result": 0
+        },
+        {
+          "counter": 11,
+          "result": 0
+        },
+        {
+          "counter": 10,
+          "result": 0
+        },
+        {
+          "counter": 9,
+          "result": 0
+        },
+        {
+          "counter": 8,
+          "result": 0
+        },
+        {
+          "counter": 7,
+          "result": 0
+        },
+        {
+          "counter": 6,
+          "result": 0
+        },
+        {
+          "counter": 5,
+          "result": 0
+        },
+        {
+          "counter": 4,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 27,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "delay": 0,
+      "loops": 0,
+      "event": 0,
+      "negative_jump": true,
+      "total_steps": 3,
+      "replay_trace": [
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        }
+      ]
+    },
+    {
+      "delay": 1,
+      "loops": 0,
+      "event": 0,
+      "negative_jump": true,
+      "total_steps": 3,
+      "replay_trace": [
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        }
+      ]
+    },
+    {
+      "delay": 4,
+      "loops": 0,
+      "event": 0,
+      "negative_jump": true,
+      "total_steps": 3,
+      "replay_trace": [
+        {
+          "counter": 1,
+          "result": 0
+        },
+        {
+          "counter": 0,
+          "result": 0
+        },
+        {
+          "counter": 3,
+          "result": 0
+        },
+        {
+          "counter": 2,
+          "result": 0
+        },
+        {
+          "counter": 1,
+          "result": 0
+        }
+      ]
+    }
+  ],
+  "scope": "Whole464cb0 fast initialization and464ec0 fast branch through real464d70 reset/recursive replay; no doubles. Compared to explicit repeated native ordinary stepping for bounded synthetic delay/loop/event/end programs and negative opcode4 scan boundary. Differential test shares normal VM,independently verified in animation-control report. Actual assets/unbounded malformed programs excluded."
+}

@@ -1,0 +1,856 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "registry_va": "0x5d8474",
+  "prototype_count": 53,
+  "actions": [
+    {
+      "action_id": 5,
+      "prototype": "0x5f6730",
+      "startup": "0x4016c0",
+      "constructor": "0x422ec0",
+      "vtable": "0x5c58fc",
+      "methods": {
+        "initialize": "0x4408e0",
+        "clone": "0x422fc0",
+        "evaluate": "0x440960",
+        "commit_or_copy": "0x4415e0",
+        "prepare_execute": "0x441600",
+        "execute": "0x441770",
+        "retire": "0x442040"
+      }
+    },
+    {
+      "action_id": 6,
+      "prototype": "0x5f8638",
+      "startup": "0x401870",
+      "constructor": "0x425f60",
+      "vtable": "0x5c596c",
+      "methods": {
+        "initialize": "0x431be0",
+        "clone": "0x426070",
+        "evaluate": "0x431ce0",
+        "commit_or_copy": "0x4261b0",
+        "prepare_execute": "0x4328d0",
+        "execute": "0x432900",
+        "retire": "0x432fb0"
+      }
+    },
+    {
+      "action_id": 8,
+      "prototype": "0x5f70c8",
+      "startup": "0x401bf0",
+      "constructor": "0x426720",
+      "vtable": "0x5c59a4",
+      "methods": {
+        "initialize": "0x4343b0",
+        "clone": "0x426850",
+        "evaluate": "0x434500",
+        "commit_or_copy": "0x4269b0",
+        "prepare_execute": "0x435a90",
+        "execute": "0x435ac0",
+        "retire": "0x4367d0"
+      }
+    },
+    {
+      "action_id": 9,
+      "prototype": "0x5f7f40",
+      "startup": "0x401db0",
+      "constructor": "0x426b70",
+      "vtable": "0x5c59c0",
+      "methods": {
+        "initialize": "0x436900",
+        "clone": "0x426c80",
+        "evaluate": "0x4369d0",
+        "commit_or_copy": "0x426dc0",
+        "prepare_execute": "0x437650",
+        "execute": "0x437680",
+        "retire": "0x4378c0"
+      }
+    },
+    {
+      "action_id": 11,
+      "prototype": "0x5f6bd8",
+      "startup": "0x402130",
+      "constructor": "0x4273c0",
+      "vtable": "0x5c59f8",
+      "methods": {
+        "initialize": "0x438b90",
+        "clone": "0x4274f0",
+        "evaluate": "0x438c70",
+        "commit_or_copy": "0x427650",
+        "prepare_execute": "0x439b40",
+        "execute": "0x439b70",
+        "retire": "0x439e70"
+      }
+    },
+    {
+      "action_id": 12,
+      "prototype": "0x5f9930",
+      "startup": "0x4022f0",
+      "constructor": "0x427810",
+      "vtable": "0x5c5a14",
+      "methods": {
+        "initialize": "0x439e80",
+        "clone": "0x427990",
+        "evaluate": "0x43a000",
+        "commit_or_copy": "0x427b30",
+        "prepare_execute": "0x43b260",
+        "execute": "0x43b290",
+        "retire": "0x43b3e0"
+      }
+    },
+    {
+      "action_id": 13,
+      "prototype": "0x5f5cd8",
+      "startup": "0x4024f0",
+      "constructor": "0x427cf0",
+      "vtable": "0x5c5a30",
+      "methods": {
+        "initialize": "0x43b3f0",
+        "clone": "0x427e00",
+        "evaluate": "0x43b4c0",
+        "commit_or_copy": "0x427f40",
+        "prepare_execute": "0x43c390",
+        "execute": "0x43c3c0",
+        "retire": "0x43c600"
+      }
+    },
+    {
+      "action_id": 14,
+      "prototype": "0x5f4860",
+      "startup": "0x4026b0",
+      "constructor": "0x4280f0",
+      "vtable": "0x5c5a4c",
+      "methods": {
+        "initialize": "0x43c610",
+        "clone": "0x428210",
+        "evaluate": "0x43c800",
+        "commit_or_copy": "0x428350",
+        "prepare_execute": "0x43d410",
+        "execute": "0x43d440",
+        "retire": "0x43ddf0"
+      }
+    },
+    {
+      "action_id": 15,
+      "prototype": "0x5f5620",
+      "startup": "0x402870",
+      "constructor": "0x41af10",
+      "vtable": "0x5c53f4",
+      "methods": {
+        "initialize": "0x4420d0",
+        "clone": "0x41b100",
+        "evaluate": "0x4422a0",
+        "commit_or_copy": "0x442660",
+        "prepare_execute": "0x442680",
+        "execute": "0x4426d0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 16,
+      "prototype": "0x5f9b10",
+      "startup": "0x402a20",
+      "constructor": "0x41f120",
+      "vtable": "0x5c56cc",
+      "methods": {
+        "initialize": "0x4534a0",
+        "clone": "0x41f230",
+        "evaluate": "0x453750",
+        "commit_or_copy": "0x453f00",
+        "prepare_execute": "0x453f20",
+        "execute": "0x454010",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 17,
+      "prototype": "0x5f5e80",
+      "startup": "0x402bd0",
+      "constructor": "0x41b4d0",
+      "vtable": "0x5c542c",
+      "methods": {
+        "initialize": "0x443800",
+        "clone": "0x41b5c0",
+        "evaluate": "0x443900",
+        "commit_or_copy": "0x4445a0",
+        "prepare_execute": "0x4445c0",
+        "execute": "0x4446b0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 18,
+      "prototype": "0x5f7db0",
+      "startup": "0x402d80",
+      "constructor": "0x41c120",
+      "vtable": "0x5c54d4",
+      "methods": {
+        "initialize": "0x4480b0",
+        "clone": "0x41c1f0",
+        "evaluate": "0x448230",
+        "commit_or_copy": "0x448ce0",
+        "prepare_execute": "0x448d00",
+        "execute": "0x448d20",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 19,
+      "prototype": "0x5fa818",
+      "startup": "0x402f50",
+      "constructor": "0x41dd20",
+      "vtable": "0x5c55d0",
+      "methods": {
+        "initialize": "0x44e4d0",
+        "clone": "0x41de10",
+        "evaluate": "0x44e5e0",
+        "commit_or_copy": "0x44f030",
+        "prepare_execute": "0x44f050",
+        "execute": "0x44f140",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 20,
+      "prototype": "0x5f8d70",
+      "startup": "0x403100",
+      "constructor": "0x41faa0",
+      "vtable": "0x5c5720",
+      "methods": {
+        "initialize": "0x455790",
+        "clone": "0x41fb90",
+        "evaluate": "0x4558b0",
+        "commit_or_copy": "0x456400",
+        "prepare_execute": "0x456420",
+        "execute": "0x456510",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 21,
+      "prototype": "0x5fa380",
+      "startup": "0x4032b0",
+      "constructor": "0x41bad0",
+      "vtable": "0x5c5480",
+      "methods": {
+        "initialize": "0x446150",
+        "clone": "0x41bbf0",
+        "evaluate": "0x446210",
+        "commit_or_copy": "0x4465f0",
+        "prepare_execute": "0x446600",
+        "execute": "0x4466f0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 52,
+      "prototype": "0x5f4c10",
+      "startup": "0x403460",
+      "constructor": "0x421110",
+      "vtable": "0x5c5800",
+      "methods": {
+        "initialize": "0x45ca80",
+        "clone": "0x421230",
+        "evaluate": "0x45cb40",
+        "commit_or_copy": "0x45d1b0",
+        "prepare_execute": "0x45d1c0",
+        "execute": "0x45d2b0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 22,
+      "prototype": "0x5f8ba8",
+      "startup": "0x403610",
+      "constructor": "0x41fec0",
+      "vtable": "0x5c5758",
+      "methods": {
+        "initialize": "0x4570a0",
+        "clone": "0x41ffb0",
+        "evaluate": "0x4571c0",
+        "commit_or_copy": "0x458050",
+        "prepare_execute": "0x458070",
+        "execute": "0x458160",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 23,
+      "prototype": "0x5f78a0",
+      "startup": "0x4037c0",
+      "constructor": "0x41d1a0",
+      "vtable": "0x5c55b4",
+      "methods": {
+        "initialize": "0x44d000",
+        "clone": "0x41dc20",
+        "evaluate": "0x44d120",
+        "commit_or_copy": "0x44d590",
+        "prepare_execute": "0x44d5b0",
+        "execute": "0x44d760",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 24,
+      "prototype": "0x5f7c10",
+      "startup": "0x403970",
+      "constructor": "0x41b900",
+      "vtable": "0x5c5464",
+      "methods": {
+        "initialize": "0x4455f0",
+        "clone": "0x41b9d0",
+        "evaluate": "0x445700",
+        "commit_or_copy": "0x445cb0",
+        "prepare_execute": "0x445cd0",
+        "execute": "0x445f20",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 25,
+      "prototype": "0x5f8a08",
+      "startup": "0x403b20",
+      "constructor": "0x41ef50",
+      "vtable": "0x5c56b0",
+      "methods": {
+        "initialize": "0x452aa0",
+        "clone": "0x41f020",
+        "evaluate": "0x452ba0",
+        "commit_or_copy": "0x453140",
+        "prepare_execute": "0x453160",
+        "execute": "0x453290",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 26,
+      "prototype": "0x5f92a0",
+      "startup": "0x403cd0",
+      "constructor": "0x41c2f0",
+      "vtable": "0x5c54f0",
+      "methods": {
+        "initialize": "0x449020",
+        "clone": "0x41c400",
+        "evaluate": "0x449310",
+        "commit_or_copy": "0x449c10",
+        "prepare_execute": "0x449c30",
+        "execute": "0x449d20",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 27,
+      "prototype": "0x5f6580",
+      "startup": "0x403ea0",
+      "constructor": "0x41c980",
+      "vtable": "0x5c5544",
+      "methods": {
+        "initialize": "0x44b080",
+        "clone": "0x41ca50",
+        "evaluate": "0x44b260",
+        "commit_or_copy": "0x44b8c0",
+        "prepare_execute": "0x44b8e0",
+        "execute": "0x44ba90",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 28,
+      "prototype": "0x5f9d28",
+      "startup": "0x404050",
+      "constructor": "0x41e8f0",
+      "vtable": "0x5c565c",
+      "methods": {
+        "initialize": "0x451010",
+        "clone": "0x41e9f0",
+        "evaluate": "0x4511a0",
+        "commit_or_copy": "0x4181c0",
+        "prepare_execute": "0x451730",
+        "execute": "0x451750",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 29,
+      "prototype": "0x5f4ee0",
+      "startup": "0x404200",
+      "constructor": "0x4200d0",
+      "vtable": "0x5c5774",
+      "methods": {
+        "initialize": "0x4583b0",
+        "clone": "0x4201c0",
+        "evaluate": "0x458610",
+        "commit_or_copy": "0x4592a0",
+        "prepare_execute": "0x4592c0",
+        "execute": "0x4593b0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 30,
+      "prototype": "0x5f80e8",
+      "startup": "0x4043b0",
+      "constructor": "0x41ece0",
+      "vtable": "0x5c5694",
+      "methods": {
+        "initialize": "0x4524d0",
+        "clone": "0x41ee00",
+        "evaluate": "0x4526d0",
+        "commit_or_copy": "0x4529b0",
+        "prepare_execute": "0x4529c0",
+        "execute": "0x452a10",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 31,
+      "prototype": "0x5fa1a8",
+      "startup": "0x404560",
+      "constructor": "0x420540",
+      "vtable": "0x5c5790",
+      "methods": {
+        "initialize": "0x4595f0",
+        "clone": "0x420650",
+        "evaluate": "0x4597e0",
+        "commit_or_copy": "0x45a670",
+        "prepare_execute": "0x45a690",
+        "execute": "0x45a780",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 32,
+      "prototype": "0x5f5290",
+      "startup": "0x404730",
+      "constructor": "0x41cf90",
+      "vtable": "0x5c5598",
+      "methods": {
+        "initialize": "0x44d9f0",
+        "clone": "0x41d080",
+        "evaluate": "0x44db10",
+        "commit_or_copy": "0x44e180",
+        "prepare_execute": "0x44e1a0",
+        "execute": "0x44e290",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 33,
+      "prototype": "0x5f5458",
+      "startup": "0x4048e0",
+      "constructor": "0x420790",
+      "vtable": "0x5c57ac",
+      "methods": {
+        "initialize": "0x45a9c0",
+        "clone": "0x420880",
+        "evaluate": "0x45ab30",
+        "commit_or_copy": "0x45b280",
+        "prepare_execute": "0x45b2a0",
+        "execute": "0x45b390",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 34,
+      "prototype": "0x5f6da8",
+      "startup": "0x404a90",
+      "constructor": "0x421a60",
+      "vtable": "0x5c5870",
+      "methods": {
+        "initialize": "0x45f160",
+        "clone": "0x421b50",
+        "evaluate": "0x45f230",
+        "commit_or_copy": "0x45fac0",
+        "prepare_execute": "0x45fae0",
+        "execute": "0x45fbd0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 35,
+      "prototype": "0x5fa9d8",
+      "startup": "0x404c40",
+      "constructor": "0x421850",
+      "vtable": "0x5c5854",
+      "methods": {
+        "initialize": "0x45e5e0",
+        "clone": "0x421940",
+        "evaluate": "0x45e700",
+        "commit_or_copy": "0x45ee10",
+        "prepare_execute": "0x45ee30",
+        "execute": "0x45ef20",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 36,
+      "prototype": "0x5fa000",
+      "startup": "0x404df0",
+      "constructor": "0x41b220",
+      "vtable": "0x5c5410",
+      "methods": {
+        "initialize": "0x442e90",
+        "clone": "0x41b3d0",
+        "evaluate": "0x442fb0",
+        "commit_or_copy": "0x443420",
+        "prepare_execute": "0x443440",
+        "execute": "0x4435f0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 37,
+      "prototype": "0x5f4380",
+      "startup": "0x404fa0",
+      "constructor": "0x41b6e0",
+      "vtable": "0x5c5448",
+      "methods": {
+        "initialize": "0x444990",
+        "clone": "0x41b7e0",
+        "evaluate": "0x444b70",
+        "commit_or_copy": "0x445350",
+        "prepare_execute": "0x445370",
+        "execute": "0x445390",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 38,
+      "prototype": "0x5f90f8",
+      "startup": "0x405170",
+      "constructor": "0x41c7b0",
+      "vtable": "0x5c5528",
+      "methods": {
+        "initialize": "0x44a3e0",
+        "clone": "0x41c880",
+        "evaluate": "0x44a500",
+        "commit_or_copy": "0x44aca0",
+        "prepare_execute": "0x44acc0",
+        "execute": "0x44ae70",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 39,
+      "prototype": "0x5f62b0",
+      "startup": "0x405320",
+      "constructor": "0x41df30",
+      "vtable": "0x5c55ec",
+      "methods": {
+        "initialize": "0x44f3a0",
+        "clone": "0x41e050",
+        "evaluate": "0x44f460",
+        "commit_or_copy": "0x44f8d0",
+        "prepare_execute": "0x44f8e0",
+        "execute": "0x44f9d0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 40,
+      "prototype": "0x5f8470",
+      "startup": "0x4054d0",
+      "constructor": "0x420c10",
+      "vtable": "0x5c57e4",
+      "methods": {
+        "initialize": "0x45bc90",
+        "clone": "0x420d00",
+        "evaluate": "0x45be00",
+        "commit_or_copy": "0x45c730",
+        "prepare_execute": "0x45c750",
+        "execute": "0x45c840",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 41,
+      "prototype": "0x5f50d0",
+      "startup": "0x405680",
+      "constructor": "0x41f570",
+      "vtable": "0x5c5704",
+      "methods": {
+        "initialize": "0x454cc0",
+        "clone": "0x41f980",
+        "evaluate": "0x454e10",
+        "commit_or_copy": "0x455440",
+        "prepare_execute": "0x455460",
+        "execute": "0x455550",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 42,
+      "prototype": "0x5f8f38",
+      "startup": "0x405830",
+      "constructor": "0x41f360",
+      "vtable": "0x5c56e8",
+      "methods": {
+        "initialize": "0x454250",
+        "clone": "0x41f450",
+        "evaluate": "0x454350",
+        "commit_or_copy": "0x454970",
+        "prepare_execute": "0x454990",
+        "execute": "0x454a80",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 43,
+      "prototype": "0x5f4d78",
+      "startup": "0x4059e0",
+      "constructor": "0x41e410",
+      "vtable": "0x5c5624",
+      "methods": {
+        "initialize": "0x4501f0",
+        "clone": "0x41e530",
+        "evaluate": "0x4502b0",
+        "commit_or_copy": "0x450720",
+        "prepare_execute": "0x450730",
+        "execute": "0x450780",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 44,
+      "prototype": "0x5f6418",
+      "startup": "0x405b90",
+      "constructor": "0x41cb50",
+      "vtable": "0x5c5560",
+      "methods": {
+        "initialize": "0x44bca0",
+        "clone": "0x41cc70",
+        "evaluate": "0x44bd40",
+        "commit_or_copy": "0x44c460",
+        "prepare_execute": "0x44c470",
+        "execute": "0x44c560",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 45,
+      "prototype": "0x5f7700",
+      "startup": "0x405d40",
+      "constructor": "0x41cdc0",
+      "vtable": "0x5c557c",
+      "methods": {
+        "initialize": "0x44c6a0",
+        "clone": "0x41ce90",
+        "evaluate": "0x44c7a0",
+        "commit_or_copy": "0x44cd10",
+        "prepare_execute": "0x44cd30",
+        "execute": "0x44ce50",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 46,
+      "prototype": "0x5fad50",
+      "startup": "0x405ef0",
+      "constructor": "0x41fcb0",
+      "vtable": "0x5c573c",
+      "methods": {
+        "initialize": "0x456750",
+        "clone": "0x41fda0",
+        "evaluate": "0x456870",
+        "commit_or_copy": "0x456df0",
+        "prepare_execute": "0x456e10",
+        "execute": "0x456f00",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 53,
+      "prototype": "0x5f9478",
+      "startup": "0x4060a0",
+      "constructor": "0x421380",
+      "vtable": "0x5c581c",
+      "methods": {
+        "initialize": "0x45d3e0",
+        "clone": "0x421480",
+        "evaluate": "0x45d4d0",
+        "commit_or_copy": "0x4181c0",
+        "prepare_execute": "0x45d790",
+        "execute": "0x45d880",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 54,
+      "prototype": "0x5f6a38",
+      "startup": "0x406250",
+      "constructor": "0x4215a0",
+      "vtable": "0x5c5838",
+      "methods": {
+        "initialize": "0x45d980",
+        "clone": "0x4216e0",
+        "evaluate": "0x45db60",
+        "commit_or_copy": "0x45df20",
+        "prepare_execute": "0x45e1e0",
+        "execute": "0x45e2c0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 47,
+      "prototype": "0x5f58a0",
+      "startup": "0x4064b0",
+      "constructor": "0x41e1a0",
+      "vtable": "0x5c5608",
+      "methods": {
+        "initialize": "0x44faf0",
+        "clone": "0x41e2c0",
+        "evaluate": "0x44fbb0",
+        "commit_or_copy": "0x450040",
+        "prepare_execute": "0x450050",
+        "execute": "0x4500c0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 48,
+      "prototype": "0x5f72d8",
+      "startup": "0x406660",
+      "constructor": "0x41e680",
+      "vtable": "0x5c5640",
+      "methods": {
+        "initialize": "0x4508b0",
+        "clone": "0x41e7a0",
+        "evaluate": "0x450970",
+        "commit_or_copy": "0x450e80",
+        "prepare_execute": "0x450e90",
+        "execute": "0x450ee0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 51,
+      "prototype": "0x5f68d0",
+      "startup": "0x406810",
+      "constructor": "0x4209a0",
+      "vtable": "0x5c57c8",
+      "methods": {
+        "initialize": "0x45b5d0",
+        "clone": "0x420ac0",
+        "evaluate": "0x45b690",
+        "commit_or_copy": "0x45bb00",
+        "prepare_execute": "0x45bb10",
+        "execute": "0x45bb60",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 57,
+      "prototype": "0x5f7548",
+      "startup": "0x4069c0",
+      "constructor": "0x422a60",
+      "vtable": "0x5c58c4",
+      "methods": {
+        "initialize": "0x4618f0",
+        "clone": "0x422b30",
+        "evaluate": "0x461c10",
+        "commit_or_copy": "0x462090",
+        "prepare_execute": "0x4620b0",
+        "execute": "0x4621a0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 49,
+      "prototype": "0x5faba8",
+      "startup": "0x406b70",
+      "constructor": "0x41eb10",
+      "vtable": "0x5c5678",
+      "methods": {
+        "initialize": "0x4518f0",
+        "clone": "0x41ebe0",
+        "evaluate": "0x451a10",
+        "commit_or_copy": "0x452190",
+        "prepare_execute": "0x4521b0",
+        "execute": "0x4522b0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 50,
+      "prototype": "0x5f95e0",
+      "startup": "0x406d20",
+      "constructor": "0x41bf50",
+      "vtable": "0x5c54b8",
+      "methods": {
+        "initialize": "0x447350",
+        "clone": "0x41c020",
+        "evaluate": "0x4474d0",
+        "commit_or_copy": "0x447f30",
+        "prepare_execute": "0x447f50",
+        "execute": "0x447f70",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 55,
+      "prototype": "0x5f5a08",
+      "startup": "0x406ef0",
+      "constructor": "0x421c70",
+      "vtable": "0x5c588c",
+      "methods": {
+        "initialize": "0x45fe10",
+        "clone": "0x421d60",
+        "evaluate": "0x45ff50",
+        "commit_or_copy": "0x4605d0",
+        "prepare_execute": "0x4605f0",
+        "execute": "0x4606e0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 56,
+      "prototype": "0x5f7a48",
+      "startup": "0x4070a0",
+      "constructor": "0x421e80",
+      "vtable": "0x5c58a8",
+      "methods": {
+        "initialize": "0x460920",
+        "clone": "0x422940",
+        "evaluate": "0x460ad0",
+        "commit_or_copy": "0x4615a0",
+        "prepare_execute": "0x4615c0",
+        "execute": "0x4616b0",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 58,
+      "prototype": "0x5f4a18",
+      "startup": "0x407250",
+      "constructor": "0x41bd40",
+      "vtable": "0x5c549c",
+      "methods": {
+        "initialize": "0x446820",
+        "clone": "0x41be30",
+        "evaluate": "0x4468a0",
+        "commit_or_copy": "0x446f60",
+        "prepare_execute": "0x446f80",
+        "execute": "0x447070",
+        "retire": "0x419910"
+      }
+    },
+    {
+      "action_id": 59,
+      "prototype": "0x5f6f68",
+      "startup": "0x407400",
+      "constructor": "0x41c540",
+      "vtable": "0x5c550c",
+      "methods": {
+        "initialize": "0x44a0a0",
+        "clone": "0x41c660",
+        "evaluate": "0x44a160",
+        "commit_or_copy": "0x44a3b0",
+        "prepare_execute": "0x44a3c0",
+        "execute": "0x44a3d0",
+        "retire": "0x419910"
+      }
+    }
+  ],
+  "note": "Names are inferred interface roles from native indirect call sites, not recovered original C++ names"
+}

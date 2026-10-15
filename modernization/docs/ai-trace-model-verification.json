@@ -1,0 +1,833 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "brain_sha256": "3c90a932f918131ffa39d2ef17f01c84faad4d7fbdc16aab1e01cf3db94784b5",
+  "trace_sha256": "21ad6b4dd7b7009f2e34d6fcd82539a475acc9fffa9c6ab07d6334dff45c829a",
+  "cases": 137,
+  "max_probability_error": 0.0,
+  "per_case": [
+    {
+      "seq": 10,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 15,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 20,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 25,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 33,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 150,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 155,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 160,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 339,
+      "action_id": 12,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 400,
+      "action_id": 12,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 463,
+      "action_id": 12,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 524,
+      "action_id": 12,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 641,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 646,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 651,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 656,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 774,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 779,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 784,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 789,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 797,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 1789,
+      "action_id": 12,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 2726,
+      "action_id": 12,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 3033,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 3163,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 3293,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 3548,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 4358,
+      "action_id": 12,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 4605,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 4860,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 4990,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 4995,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 5250,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 5258,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 5924,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 6303,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 6433,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 6563,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 7120,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 7623,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 8004,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 8124,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 8254,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 8509,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 8889,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 8897,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 9954,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 10210,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 12804,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 13061,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 13306,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 13436,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 13691,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 14199,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 14673,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 15553,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 16113,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 16367,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 16371,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 17002,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 17247,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 17502,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 17507,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 17512,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 17642,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 17650,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 18703,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 18956,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 19213,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 19756,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 20511,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 21196,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 21827,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 22950,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 23924,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 24054,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 24184,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 25052,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 25182,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 25312,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 25320,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 25621,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 25682,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 25923,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 26681,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 26988,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 27112,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 27495,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 27500,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 27630,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 27885,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 28143,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 28198,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 28448,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 28509,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 28750,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 29383,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 29388,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 29643,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 29648,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 29829,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 29961,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 30089,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 30717,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 31220,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 31279,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 31465,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 31967,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 31972,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 32355,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 32988,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 33043,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 33171,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 35303,
+      "action_id": 12,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 37355,
+      "action_id": 12,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 39037,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 39042,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 39674,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 39679,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 39809,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 41118,
+      "action_id": 12,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 42111,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 42241,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 42374,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 42504,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 42634,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 43139,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 43147,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 43202,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 43331,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 43463,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 44091,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 44469,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 44473,
+      "action_id": 11,
+      "dimension": 71,
+      "error": 0.0
+    },
+    {
+      "seq": 44480,
+      "action_id": 14,
+      "dimension": 73,
+      "error": 0.0
+    },
+    {
+      "seq": 45350,
+      "action_id": 6,
+      "dimension": 72,
+      "error": 0.0
+    },
+    {
+      "seq": 46359,
+      "action_id": 12,
+      "dimension": 71,
+      "error": 0.0
+    }
+  ],
+  "scope": "Recorded live model inputs/outputs versus recovered formula using pre-start session Brain; does not validate all target/learning behavior"
+}

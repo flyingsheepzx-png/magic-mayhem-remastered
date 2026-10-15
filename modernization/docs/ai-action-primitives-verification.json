@@ -1,0 +1,192 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "kind": "default_action",
+      "group_block": 0,
+      "score": -1,
+      "execute_returns": 1,
+      "prepare_delay": 8
+    },
+    {
+      "kind": "default_action",
+      "group_block": 1,
+      "score": -1,
+      "execute_returns": 1,
+      "prepare_delay": 8
+    },
+    {
+      "kind": "default_action",
+      "group_block": 4294967295,
+      "score": -1,
+      "execute_returns": 1,
+      "prepare_delay": 8
+    },
+    {
+      "kind": "utility",
+      "id": 6,
+      "p": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "score": -0.30000001192092896
+    },
+    {
+      "kind": "utility",
+      "id": 6,
+      "p": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "score": 0.0
+    },
+    {
+      "kind": "utility",
+      "id": 6,
+      "p": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "score": 0.30000001192092896
+    },
+    {
+      "kind": "utility",
+      "id": 6,
+      "p": [
+        0.2,
+        0.3,
+        0.5
+      ],
+      "score": 0.09000000268220898
+    },
+    {
+      "kind": "utility",
+      "id": 11,
+      "p": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "score": -0.6000000238418579
+    },
+    {
+      "kind": "utility",
+      "id": 11,
+      "p": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "score": 0.0
+    },
+    {
+      "kind": "utility",
+      "id": 11,
+      "p": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "score": 0.0
+    },
+    {
+      "kind": "utility",
+      "id": 11,
+      "p": [
+        0.2,
+        0.3,
+        0.5
+      ],
+      "score": -0.120000006556511
+    },
+    {
+      "kind": "utility",
+      "id": 12,
+      "p": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "score": -0.4000000059604645
+    },
+    {
+      "kind": "utility",
+      "id": 12,
+      "p": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "score": 0.0
+    },
+    {
+      "kind": "utility",
+      "id": 12,
+      "p": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "score": 0.0
+    },
+    {
+      "kind": "utility",
+      "id": 12,
+      "p": [
+        0.2,
+        0.3,
+        0.5
+      ],
+      "score": -0.08000000238418581
+    },
+    {
+      "kind": "utility",
+      "id": 8,
+      "p": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "score": -0.20000000298023224
+    },
+    {
+      "kind": "utility",
+      "id": 8,
+      "p": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "score": 0.0
+    },
+    {
+      "kind": "utility",
+      "id": 8,
+      "p": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "score": 0.5
+    },
+    {
+      "kind": "utility",
+      "id": 8,
+      "p": [
+        0.2,
+        0.3,
+        0.5
+      ],
+      "score": 0.2099999988079071
+    },
+    {
+      "kind": "utility_upper_cap",
+      "score": 0.999
+    }
+  ],
+  "scope": "Real native default ID0 initialize/evaluate/delay/execute and tactical414ff0 utility; no imports or game launched"
+}

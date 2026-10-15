@@ -1,0 +1,199 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "unit_type": 0,
+      "parent_depth": 0,
+      "shared_victim_action": false,
+      "source_command_present": false,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 0,
+      "parent_depth": 0,
+      "shared_victim_action": false,
+      "source_command_present": true,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 0,
+      "parent_depth": 0,
+      "shared_victim_action": true,
+      "source_command_present": false,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 0,
+      "parent_depth": 0,
+      "shared_victim_action": true,
+      "source_command_present": true,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 0,
+      "parent_depth": 2,
+      "shared_victim_action": false,
+      "source_command_present": false,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 0,
+      "parent_depth": 2,
+      "shared_victim_action": false,
+      "source_command_present": true,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 0,
+      "parent_depth": 2,
+      "shared_victim_action": true,
+      "source_command_present": false,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 0,
+      "parent_depth": 2,
+      "shared_victim_action": true,
+      "source_command_present": true,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 1,
+      "parent_depth": 0,
+      "shared_victim_action": false,
+      "source_command_present": false,
+      "value": 224,
+      "health_after": 90
+    },
+    {
+      "unit_type": 1,
+      "parent_depth": 0,
+      "shared_victim_action": false,
+      "source_command_present": true,
+      "value": 224,
+      "health_after": 90
+    },
+    {
+      "unit_type": 1,
+      "parent_depth": 0,
+      "shared_victim_action": true,
+      "source_command_present": false,
+      "value": 224,
+      "health_after": 90
+    },
+    {
+      "unit_type": 1,
+      "parent_depth": 0,
+      "shared_victim_action": true,
+      "source_command_present": true,
+      "value": 224,
+      "health_after": 90
+    },
+    {
+      "unit_type": 1,
+      "parent_depth": 2,
+      "shared_victim_action": false,
+      "source_command_present": false,
+      "value": 224,
+      "health_after": 90
+    },
+    {
+      "unit_type": 1,
+      "parent_depth": 2,
+      "shared_victim_action": false,
+      "source_command_present": true,
+      "value": 224,
+      "health_after": 90
+    },
+    {
+      "unit_type": 1,
+      "parent_depth": 2,
+      "shared_victim_action": true,
+      "source_command_present": false,
+      "value": 224,
+      "health_after": 90
+    },
+    {
+      "unit_type": 1,
+      "parent_depth": 2,
+      "shared_victim_action": true,
+      "source_command_present": true,
+      "value": 224,
+      "health_after": 90
+    },
+    {
+      "unit_type": 24,
+      "parent_depth": 0,
+      "shared_victim_action": false,
+      "source_command_present": false,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 24,
+      "parent_depth": 0,
+      "shared_victim_action": false,
+      "source_command_present": true,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 24,
+      "parent_depth": 0,
+      "shared_victim_action": true,
+      "source_command_present": false,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 24,
+      "parent_depth": 0,
+      "shared_victim_action": true,
+      "source_command_present": true,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 24,
+      "parent_depth": 2,
+      "shared_victim_action": false,
+      "source_command_present": false,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 24,
+      "parent_depth": 2,
+      "shared_victim_action": false,
+      "source_command_present": true,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 24,
+      "parent_depth": 2,
+      "shared_victim_action": true,
+      "source_command_present": false,
+      "value": 12,
+      "health_after": 90
+    },
+    {
+      "unit_type": 24,
+      "parent_depth": 2,
+      "shared_victim_action": true,
+      "source_command_present": true,
+      "value": 12,
+      "health_after": 90
+    }
+  ],
+  "scope": "Full nonfatal514990 with real416d80/505c50/505bf0/416c30/42e610, no stubs. Synthetic manager trees and membership hierarchies; local UI warning excluded by unit660. Real ancestor propagation and both victim slots; fatal death path untested."
+}

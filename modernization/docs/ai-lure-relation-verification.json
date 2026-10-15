@@ -1,0 +1,10375 @@
+{
+  "result": "passed",
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "cases": [
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          0
+        ]
+      ]
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 0,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          1
+        ]
+      ]
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 1,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          2
+        ]
+      ]
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 2,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          3
+        ]
+      ]
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 3,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          4
+        ]
+      ]
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 4,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          5
+        ]
+      ]
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 5,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          6
+        ]
+      ]
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 6,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568576,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 0,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6568916,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 1,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569256,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 2,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569596,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 3,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6569936,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 4,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570276,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 5,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570616,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 6,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": -1,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": -1,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 0,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 0,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 7,
+      "caster_index": -1,
+      "health": 10,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 0,
+      "health": 10,
+      "counter_calls": [
+        [
+          6570956,
+          100,
+          7
+        ]
+      ]
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 0,
+      "counter_calls": []
+    },
+    {
+      "caster": 7,
+      "victim": 7,
+      "named": 7,
+      "caster_index": 2,
+      "health": 10,
+      "counter_calls": []
+    }
+  ],
+  "scope": "1152 no-double48b0f0 entryprefix calls,actualspell50 jumptable/CRTitoa/4656c0;stops48d03a deadtarget or48d122 beforegraphics. All8x8owners,uniqueCorneliusnone/0/7,casterindexmissing/valid/outofrange,targethealth0/10. Victimprofile receivesdelta100 againstcasterowner;direction differs fromhealthdamagecounter. Target198 resolution/780duration/788-1 andfullprofiles checked. Syntheticduration1234;actualconfiglabelLure andID mapping static. Full effect/world/UI,otherindices/statuses/types/expiry/save/network pending."
+}

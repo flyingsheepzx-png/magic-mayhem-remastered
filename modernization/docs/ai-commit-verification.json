@@ -1,0 +1,3874 @@
+{
+  "engine_sha256": "42f2aac7ee8f61c000f85b92ee6d6afa42f2dcfcdd95188d55f041bac8a517da",
+  "result": "passed",
+  "cases": [
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 5,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 15,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 16,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 17,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 18,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 19,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 20,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 21,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 22,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 23,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 24,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 25,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 26,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 27,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 28,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 29,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 30,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 31,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 32,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 33,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 34,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 35,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 36,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 37,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 38,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 39,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 40,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 41,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 42,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 43,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 44,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 45,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 46,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 47,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 48,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 49,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 50,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 51,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 52,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 53,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 55,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 56,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 57,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 58,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 0
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 1
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 2
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 3
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 4
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 5
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 6
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 7
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 8
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 9
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 10
+    },
+    {
+      "action_id": 59,
+      "kind": "whole_object_copy",
+      "fixture": 11
+    },
+    {
+      "action_id": 6,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": true,
+      "null_destination": true,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 6,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": true,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 6,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 6,
+      "kind": "vector_assignment",
+      "source_size": 1,
+      "old_size": 1,
+      "capacity": 1,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 6,
+      "kind": "vector_assignment",
+      "source_size": 2,
+      "old_size": 5,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 6,
+      "kind": "vector_assignment",
+      "source_size": 5,
+      "old_size": 2,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 6,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 0,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 6,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 2,
+      "capacity": 4,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": [
+        32
+      ]
+    },
+    {
+      "action_id": 6,
+      "kind": "vector_assignment",
+      "source_size": 4,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": false,
+      "null_destination": true,
+      "allocation_bytes": [
+        16
+      ]
+    },
+    {
+      "action_id": 8,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": true,
+      "null_destination": true,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 8,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": true,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 8,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 8,
+      "kind": "vector_assignment",
+      "source_size": 1,
+      "old_size": 1,
+      "capacity": 1,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 8,
+      "kind": "vector_assignment",
+      "source_size": 2,
+      "old_size": 5,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 8,
+      "kind": "vector_assignment",
+      "source_size": 5,
+      "old_size": 2,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 8,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 0,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 8,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 2,
+      "capacity": 4,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": [
+        32
+      ]
+    },
+    {
+      "action_id": 8,
+      "kind": "vector_assignment",
+      "source_size": 4,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": false,
+      "null_destination": true,
+      "allocation_bytes": [
+        16
+      ]
+    },
+    {
+      "action_id": 9,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": true,
+      "null_destination": true,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 9,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": true,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 9,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 9,
+      "kind": "vector_assignment",
+      "source_size": 1,
+      "old_size": 1,
+      "capacity": 1,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 9,
+      "kind": "vector_assignment",
+      "source_size": 2,
+      "old_size": 5,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 9,
+      "kind": "vector_assignment",
+      "source_size": 5,
+      "old_size": 2,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 9,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 0,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 9,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 2,
+      "capacity": 4,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": [
+        32
+      ]
+    },
+    {
+      "action_id": 9,
+      "kind": "vector_assignment",
+      "source_size": 4,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": false,
+      "null_destination": true,
+      "allocation_bytes": [
+        16
+      ]
+    },
+    {
+      "action_id": 11,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": true,
+      "null_destination": true,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 11,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": true,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 11,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 11,
+      "kind": "vector_assignment",
+      "source_size": 1,
+      "old_size": 1,
+      "capacity": 1,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 11,
+      "kind": "vector_assignment",
+      "source_size": 2,
+      "old_size": 5,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 11,
+      "kind": "vector_assignment",
+      "source_size": 5,
+      "old_size": 2,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 11,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 0,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 11,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 2,
+      "capacity": 4,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": [
+        32
+      ]
+    },
+    {
+      "action_id": 11,
+      "kind": "vector_assignment",
+      "source_size": 4,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": false,
+      "null_destination": true,
+      "allocation_bytes": [
+        16
+      ]
+    },
+    {
+      "action_id": 12,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": true,
+      "null_destination": true,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 12,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": true,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 12,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 12,
+      "kind": "vector_assignment",
+      "source_size": 1,
+      "old_size": 1,
+      "capacity": 1,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 12,
+      "kind": "vector_assignment",
+      "source_size": 2,
+      "old_size": 5,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 12,
+      "kind": "vector_assignment",
+      "source_size": 5,
+      "old_size": 2,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 12,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 0,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 12,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 2,
+      "capacity": 4,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": [
+        32
+      ]
+    },
+    {
+      "action_id": 12,
+      "kind": "vector_assignment",
+      "source_size": 4,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": false,
+      "null_destination": true,
+      "allocation_bytes": [
+        16
+      ]
+    },
+    {
+      "action_id": 13,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": true,
+      "null_destination": true,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 13,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": true,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 13,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 13,
+      "kind": "vector_assignment",
+      "source_size": 1,
+      "old_size": 1,
+      "capacity": 1,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 13,
+      "kind": "vector_assignment",
+      "source_size": 2,
+      "old_size": 5,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 13,
+      "kind": "vector_assignment",
+      "source_size": 5,
+      "old_size": 2,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 13,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 0,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 13,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 2,
+      "capacity": 4,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": [
+        32
+      ]
+    },
+    {
+      "action_id": 13,
+      "kind": "vector_assignment",
+      "source_size": 4,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": false,
+      "null_destination": true,
+      "allocation_bytes": [
+        16
+      ]
+    },
+    {
+      "action_id": 14,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": true,
+      "null_destination": true,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 14,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": true,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 14,
+      "kind": "vector_assignment",
+      "source_size": 0,
+      "old_size": 3,
+      "capacity": 5,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 14,
+      "kind": "vector_assignment",
+      "source_size": 1,
+      "old_size": 1,
+      "capacity": 1,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 14,
+      "kind": "vector_assignment",
+      "source_size": 2,
+      "old_size": 5,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 14,
+      "kind": "vector_assignment",
+      "source_size": 5,
+      "old_size": 2,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 14,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 0,
+      "capacity": 8,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": []
+    },
+    {
+      "action_id": 14,
+      "kind": "vector_assignment",
+      "source_size": 8,
+      "old_size": 2,
+      "capacity": 4,
+      "null_source": false,
+      "null_destination": false,
+      "allocation_bytes": [
+        32
+      ]
+    },
+    {
+      "action_id": 14,
+      "kind": "vector_assignment",
+      "source_size": 4,
+      "old_size": 0,
+      "capacity": 0,
+      "null_source": false,
+      "null_destination": true,
+      "allocation_bytes": [
+        16
+      ]
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 0,
+      "repeat_clear_and_rebuild": false,
+      "eligible_count": 0,
+      "allocation_sizes": [],
+      "free_calls": 0
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 0,
+      "repeat_clear_and_rebuild": true,
+      "eligible_count": 0,
+      "allocation_sizes": [],
+      "free_calls": 0
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 1,
+      "repeat_clear_and_rebuild": false,
+      "eligible_count": 0,
+      "allocation_sizes": [],
+      "free_calls": 0
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 1,
+      "repeat_clear_and_rebuild": true,
+      "eligible_count": 0,
+      "allocation_sizes": [],
+      "free_calls": 0
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 2,
+      "repeat_clear_and_rebuild": false,
+      "eligible_count": 1,
+      "allocation_sizes": [
+        4096,
+        8
+      ],
+      "free_calls": 0
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 2,
+      "repeat_clear_and_rebuild": true,
+      "eligible_count": 1,
+      "allocation_sizes": [
+        4096,
+        8,
+        4096,
+        8
+      ],
+      "free_calls": 2
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 12,
+      "repeat_clear_and_rebuild": false,
+      "eligible_count": 4,
+      "allocation_sizes": [
+        4096,
+        8
+      ],
+      "free_calls": 0
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 12,
+      "repeat_clear_and_rebuild": true,
+      "eligible_count": 4,
+      "allocation_sizes": [
+        4096,
+        8,
+        4096,
+        8
+      ],
+      "free_calls": 2
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 80,
+      "repeat_clear_and_rebuild": false,
+      "eligible_count": 34,
+      "allocation_sizes": [
+        4096,
+        8
+      ],
+      "free_calls": 0
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 80,
+      "repeat_clear_and_rebuild": true,
+      "eligible_count": 34,
+      "allocation_sizes": [
+        4096,
+        8,
+        4096,
+        8
+      ],
+      "free_calls": 2
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 3000,
+      "repeat_clear_and_rebuild": false,
+      "eligible_count": 1246,
+      "allocation_sizes": [
+        4096,
+        8,
+        4096,
+        8
+      ],
+      "free_calls": 1
+    },
+    {
+      "action_id": 54,
+      "kind": "haste_rebuild",
+      "unit_count": 3000,
+      "repeat_clear_and_rebuild": true,
+      "eligible_count": 1246,
+      "allocation_sizes": [
+        4096,
+        8,
+        4096,
+        8,
+        4096,
+        8,
+        4096,
+        8
+      ],
+      "free_calls": 5
+    }
+  ],
+  "verified_action_ids": [
+    5,
+    6,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "pending_action_ids": [],
+  "block_mappings": {
+    "5": [
+      338,
+      366,
+      7
+    ],
+    "16": [
+      434,
+      462,
+      7
+    ],
+    "17": [
+      354,
+      382,
+      7
+    ],
+    "19": [
+      354,
+      382,
+      7
+    ],
+    "20": [
+      358,
+      386,
+      7
+    ],
+    "22": [
+      358,
+      386,
+      7
+    ],
+    "23": [
+      350,
+      370,
+      5
+    ],
+    "24": [
+      350,
+      370,
+      5
+    ],
+    "25": [
+      346,
+      366,
+      5
+    ],
+    "26": [
+      358,
+      390,
+      8
+    ],
+    "27": [
+      366,
+      386,
+      5
+    ],
+    "29": [
+      358,
+      386,
+      7
+    ],
+    "31": [
+      358,
+      386,
+      7
+    ],
+    "32": [
+      362,
+      390,
+      7
+    ],
+    "33": [
+      358,
+      386,
+      7
+    ],
+    "34": [
+      354,
+      382,
+      7
+    ],
+    "35": [
+      362,
+      390,
+      7
+    ],
+    "36": [
+      354,
+      374,
+      5
+    ],
+    "38": [
+      354,
+      374,
+      5
+    ],
+    "40": [
+      358,
+      386,
+      7
+    ],
+    "41": [
+      354,
+      382,
+      7
+    ],
+    "42": [
+      350,
+      378,
+      7
+    ],
+    "45": [
+      346,
+      366,
+      5
+    ],
+    "46": [
+      358,
+      390,
+      8
+    ],
+    "49": [
+      354,
+      374,
+      5
+    ],
+    "55": [
+      362,
+      390,
+      7
+    ],
+    "56": [
+      358,
+      386,
+      7
+    ],
+    "57": [
+      363,
+      383,
+      5
+    ],
+    "58": [
+      342,
+      378,
+      9
+    ]
+  },
+  "scalar_mappings": {
+    "15": [
+      [
+        597,
+        605
+      ],
+      [
+        601,
+        609
+      ]
+    ],
+    "18": [
+      [
+        354,
+        366
+      ],
+      [
+        358,
+        370
+      ],
+      [
+        362,
+        374
+      ]
+    ],
+    "30": [
+      [
+        329,
+        333
+      ]
+    ],
+    "37": [
+      [
+        354,
+        362
+      ],
+      [
+        358,
+        366
+      ]
+    ],
+    "50": [
+      [
+        354,
+        366
+      ],
+      [
+        358,
+        370
+      ],
+      [
+        362,
+        374
+      ]
+    ],
+    "21": [
+      [
+        346,
+        350
+      ]
+    ],
+    "39": [
+      [
+        346,
+        350
+      ]
+    ],
+    "43": [
+      [
+        346,
+        350
+      ]
+    ],
+    "44": [
+      [
+        346,
+        350
+      ]
+    ],
+    "47": [
+      [
+        346,
+        350
+      ]
+    ],
+    "48": [
+      [
+        346,
+        350
+      ]
+    ],
+    "51": [
+      [
+        346,
+        350
+      ]
+    ],
+    "52": [
+      [
+        346,
+        350
+      ]
+    ]
+  },
+  "no_op_ids": [
+    28,
+    53,
+    59
+  ],
+  "tactical_mappings": {
+    "6": [
+      339,
+      367,
+      3,
+      351,
+      379
+    ],
+    "8": [
+      403,
+      443,
+      6,
+      427,
+      467
+    ],
+    "9": [
+      338,
+      370,
+      4,
+      354,
+      386
+    ],
+    "11": [
+      339,
+      379,
+      6,
+      363,
+      403
+    ],
+    "12": [
+      339,
+      375,
+      5,
+      359,
+      395
+    ],
+    "13": [
+      339,
+      371,
+      4,
+      355,
+      387
+    ],
+    "14": [
+      344,
+      368,
+      2,
+      352,
+      376
+    ]
+  },
+  "scope": "Full native commit methods for53 registered actions. Whole-object and backing-buffer assertions for copies; Haste54 real recursive iteration, eligibility gates, deque allocation and clear/rebuild. CRT allocation/free stubbed for allocation branches only. Target scoring, meaning of all copied fields and execution are not implied."
+}
