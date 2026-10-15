@@ -14,7 +14,11 @@
 4. 先核对版本，只修改一个具体问题，在独立副本中验证，通过 Issue / Pull Request 共创。
 
 ```powershell
-# 在克隆后的仓库根目录执行。需要 Windows、Python 3.10+。
+# 需要 Git、Windows、Python 3.10+；也可下载 ZIP 后进入解压目录。
+git clone https://github.com/flyingsheepzx-png/magic-mayhem-remastered.git
+Set-Location magic-mayhem-remastered
+
+# 在仓库根目录执行。
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements-dev.txt
 .\.venv\Scripts\python.exe dev.py audit

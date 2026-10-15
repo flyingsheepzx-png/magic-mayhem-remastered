@@ -70,8 +70,8 @@
     {
       "path": "README.md",
       "role": "public-development-entry",
-      "bytes": 3726,
-      "sha256": "4251c90a033c43d17b2e6f08d19290a7b3ea96e2e440484f17e8e39e7522630d"
+      "bytes": 3877,
+      "sha256": "cd80ba9a78d717269a98d1d8b8ac278307f568502fb7b736956e4b41155503fd"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -1931,8 +1931,8 @@
     {
       "path": "modernization/docs/agent-development-manual-1.1.md",
       "role": "reference-document",
-      "bytes": 25275,
-      "sha256": "7ea45a787c98f838f6a5a4ceea793a1d8980c57aaf0074356a2da9f2cc977707",
+      "bytes": 25719,
+      "sha256": "5e8e5e5483fbc9ac68f0f3a6915109fe422968d9140bc912f4c3bfa43a61533c",
       "original_sha256": "1636085775250d8a1fc6d97ca4b0a2e80d364cef9fd1027cf478cb62380422bf"
     },
     {

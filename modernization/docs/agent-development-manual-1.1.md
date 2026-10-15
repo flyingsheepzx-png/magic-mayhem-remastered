@@ -1,5 +1,7 @@
 # Magic & Mayhem Remastered 1.1：Agent 开发手册
 
+> 2026-10-15 补充：配套扩展源码现已公开于 [GitHub 社区仓库](https://github.com/flyingsheepzx-png/magic-mayhem-remastered)。克隆后的根目录就是本文的 `DEV_ROOT`，包含实际的 `modernization/`。首次构建请先读仓库根目录 README 和 `docs/BUILDING.md`，使用新的 `dev.py`；下文原始路径、构建快照和限制作为正式 1.1 的来源记录保留。原游戏与素材仍需自行准备。
+
 面向接手本版本的编程 agent。整理日期：2026-10-02（香港时间）。本文以该日实际的 `Magic&Mayham_Remastered_1.1` 玩家目录为基线，而不是早期 HD60、v38 或最初冻结的 1.1 构建。先读同目录的 `source-index.json`，它逐项列出开发所需的源码文件及哈希。
 
 ## 1. 首次接手：先确认你拥有什么
